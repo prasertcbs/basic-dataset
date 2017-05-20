@@ -1,0 +1,10 @@
+"student","gender","age","score1","score2","score3"
+"Ben","M",21,10,25,6
+"Jena",,18,20,NA,4
+,,,,,
+"Jay","F",,NA,10,-99
+"Kate",NULL,-99,40,20,5
+"Bruce","M",15,50,17,7
+"Peter","M",16,60,12,-99
+"Donald","M",20,,34,
+"Linda","F",nan,-99,12,-99
