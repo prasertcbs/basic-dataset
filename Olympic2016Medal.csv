@@ -1,0 +1,88 @@
+ID,Country,Gold,Silver,Bronze,Total
+USA,United States,46,37,38,121
+GBR,Great Britain,27,23,17,67
+CHN,China,26,18,26,70
+RUS,Russia,19,17,19,55
+GER,Germany,17,10,15,42
+JPN,Japan,12,8,21,41
+FRA,France,10,18,14,42
+KOR,South Korea,9,3,9,21
+ITA,Italy,8,12,8,28
+AUS,Australia,8,11,10,29
+NED,Netherlands,8,7,4,19
+HUN,Hungary,8,3,4,15
+BRA,Brazil,7,6,6,19
+ESP,Spain,7,4,6,17
+KEN,Kenya,6,6,1,13
+JAM,Jamaica,6,3,2,11
+CRO,Croatia,5,3,2,10
+CUB,Cuba,5,2,4,11
+NZL,New Zealand,4,9,5,18
+CAN,Canada,4,3,15,22
+UZB,Uzbekistan,4,2,7,13
+KAZ,Kazakhstan,3,5,9,17
+COL,Colombia,3,2,3,8
+SUI,Switzerland,3,2,2,7
+IRI,Iran,3,1,4,8
+GRE,Greece,3,1,2,6
+ARG,Argentina,3,1,0,4
+DEN,Denmark,2,6,7,15
+SWE,Sweden,2,6,3,11
+RSA,South Africa,2,6,2,10
+UKR,Ukraine,2,5,4,11
+SRB,Serbia,2,4,2,8
+POL,Poland,2,3,6,11
+PRK,North Korea,2,3,2,7
+BEL,Belgium,2,2,2,6
+THA,Thailand,2,2,2,6
+SVK,Slovakia,2,2,0,4
+GEO,Georgia,2,1,4,7
+AZE,Azerbaijan,1,7,10,18
+BLR,Belarus,1,4,4,9
+TUR,Turkey,1,3,4,8
+ARM,Armenia,1,3,0,4
+CZE,Czech Republic,1,2,7,10
+ETH,Ethiopia,1,2,5,8
+SLO,Slovenia,1,2,1,4
+INA,Indonesia,1,2,0,3
+ROU,Romania,1,1,2,4
+BRN,Bahrain,1,1,0,2
+VIE,Vietnam,1,1,0,2
+TPE,Chinese Taipei,1,0,2,3
+BAH,Bahamas,1,0,1,2
+CIV,Côte d'Ivoire,1,0,1,2
+IOA,Independent Olympic Athletes,1,0,1,2
+FIJ,Fiji,1,0,0,1
+JOR,Jordan,1,0,0,1
+KOS,Kosovo,1,0,0,1
+PUR,Puerto Rico,1,0,0,1
+SIN,Singapore,1,0,0,1
+TJK,Tajikistan,1,0,0,1
+MAS,Malaysia,0,4,1,5
+MEX,Mexico,0,3,2,5
+ALG,Algeria,0,2,0,2
+IRL,Ireland,0,2,0,2
+LTU,Lithuania,0,1,3,4
+BUL,Bulgaria,0,1,2,3
+VEN,Venezuela,0,1,2,3
+IND,India,0,1,1,2
+MGL,Mongolia,0,1,1,2
+BDI,Burundi,0,1,0,1
+GRN,Grenada,0,1,0,1
+NIG,Niger,0,1,0,1
+PHI,Philippines,0,1,0,1
+QAT,Qatar,0,1,0,1
+NOR,Norway,0,0,4,4
+EGY,Egypt,0,0,3,3
+TUN,Tunisia,0,0,3,3
+ISR,Israel,0,0,2,2
+AUT,Austria,0,0,1,1
+DOM,Dominican Republic,0,0,1,1
+EST,Estonia,0,0,1,1
+FIN,Finland,0,0,1,1
+MAR,Morocco,0,0,1,1
+MDA,Moldova,0,0,1,1
+NGR,Nigeria,0,0,1,1
+POR,Portugal,0,0,1,1
+TTO,Trinidad and Tobago,0,0,1,1
+UAE,United Arab Emirates,0,0,1,1
