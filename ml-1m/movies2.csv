@@ -1,4 +1,4 @@
-movieid,title,genres,movie_title,release,genres2
+MovieID,Title,Genres,Movie_title,Release,Genres2
 1,Toy Story (1995),Animation|Children's|Comedy,Toy Story,1995,"['Animation', ""Children's"", 'Comedy']"
 2,Jumanji (1995),Adventure|Children's|Fantasy,Jumanji,1995,"['Adventure', ""Children's"", 'Fantasy']"
 3,Grumpier Old Men (1995),Comedy|Romance,Grumpier Old Men,1995,"['Comedy', 'Romance']"
