@@ -1,0 +1,1037 @@
+unid,wbid,country,year,ses,class,gdppc,yrseduc,region5,regionUN
+100,BGR,Bulgaria,1880,73.3108139,High(core),985.5,1.919999957,SE Europe,East Europe
+100,BGR,Bulgaria,1890,72.97297668,High(core),1131,2.220000029,SE Europe,East Europe
+100,BGR,Bulgaria,1900,72.97297668,High(core),1223,2.720000029,SE Europe,East Europe
+100,BGR,Bulgaria,1910,76.6891861,High(core),1456,3.039999962,SE Europe,East Europe
+100,BGR,Bulgaria,1920,64.52702332,Middle(semi-per),1136.272705,3.559999943,SE Europe,East Europe
+100,BGR,Bulgaria,1930,64.86486816,Middle(semi-per),1284,4.159999847,SE Europe,East Europe
+100,BGR,Bulgaria,1940,67.2297287,High(core),1548,4.869999886,SE Europe,East Europe
+100,BGR,Bulgaria,1950,66.55405426,Middle(semi-per),1651,5.570000172,SE Europe,East Europe
+100,BGR,Bulgaria,1960,72.29729462,High(core),2912,6.354800224,SE Europe,East Europe
+100,BGR,Bulgaria,1970,74.32432556,High(core),4773,7.411300182,SE Europe,East Europe
+100,BGR,Bulgaria,1980,76.01351166,High(core),6044,7.808400154,SE Europe,East Europe
+100,BGR,Bulgaria,1990,70.2702713,High(core),9296.889648,8.790100098,SE Europe,East Europe
+100,BGR,Bulgaria,2000,64.52702332,Middle(semi-per),8958.050781,9.376199722,SE Europe,East Europe
+100,BGR,Bulgaria,2010,63.85135269,Middle(semi-per),15283.17969,9.850999832,SE Europe,East Europe
+104,MMR,Myanmar,1880,18.24324417,Low(periphery),566.9031982,0.090000004,Asia,Southeast Asia
+104,MMR,Myanmar,1890,23.64864922,Low(periphery),629.8064575,0.219999999,Asia,Southeast Asia
+104,MMR,Myanmar,1900,30.74324417,Low(periphery),692.7096558,0.400000006,Asia,Southeast Asia
+104,MMR,Myanmar,1910,13.85135174,Low(periphery),598.7999878,0.589999974,Asia,Southeast Asia
+104,MMR,Myanmar,1920,30.74324417,Low(periphery),733.4000244,0.75,Asia,Southeast Asia
+104,MMR,Myanmar,1930,32.09459305,Low(periphery),884.4000244,0.910000026,Asia,Southeast Asia
+104,MMR,Myanmar,1940,19.25675583,Low(periphery),682.666687,1.070000052,Asia,Southeast Asia
+104,MMR,Myanmar,1950,16.21621704,Low(periphery),396,1.169999957,Asia,Southeast Asia
+104,MMR,Myanmar,1960,13.85135174,Low(periphery),564,1.076300025,Asia,Southeast Asia
+104,MMR,Myanmar,1970,11.48648643,Low(periphery),642,1.386700034,Asia,Southeast Asia
+104,MMR,Myanmar,1980,12.16216183,Low(periphery),828,1.600999951,Asia,Southeast Asia
+104,MMR,Myanmar,1990,7.094594479,Low(periphery),742.9708862,2.700000048,Asia,Southeast Asia
+104,MMR,Myanmar,2000,12.16216183,Low(periphery),1306.443237,3.52579999,Asia,Southeast Asia
+104,MMR,Myanmar,2010,19.93243217,Low(periphery),3721.211426,4.639900208,Asia,Southeast Asia
+120,CMR,Cameroon,1880,24.66216278,Low(periphery),533.666687,0.600000024,Africa,Middle Africa
+120,CMR,Cameroon,1890,26.68918991,Low(periphery),567.333313,0.600000024,Africa,Middle Africa
+120,CMR,Cameroon,1900,27.36486435,Low(periphery),601,0.600000024,Africa,Middle Africa
+120,CMR,Cameroon,1910,20.27026939,Low(periphery),628.6923218,0.600000024,Africa,Middle Africa
+120,CMR,Cameroon,1920,23.31081009,Low(periphery),682.6296387,0.600000024,Africa,Middle Africa
+120,CMR,Cameroon,1930,25.67567635,Low(periphery),747.8148193,0.649999976,Africa,Middle Africa
+120,CMR,Cameroon,1940,18.24324417,Low(periphery),813,0.850000024,Africa,Middle Africa
+120,CMR,Cameroon,1950,23.64864922,Low(periphery),671,1.159999967,Africa,Middle Africa
+120,CMR,Cameroon,1960,20.94594574,Low(periphery),832,1.083999991,Africa,Middle Africa
+120,CMR,Cameroon,1970,22.29729652,Low(periphery),982,1.81190002,Africa,Middle Africa
+120,CMR,Cameroon,1980,24.66216278,Low(periphery),1192,2.40989995,Africa,Middle Africa
+120,CMR,Cameroon,1990,26.01351357,Low(periphery),2852.24292,4.336500168,Africa,Middle Africa
+120,CMR,Cameroon,2000,26.68918991,Low(periphery),2506.708496,5.427100182,Africa,Middle Africa
+120,CMR,Cameroon,2010,24.32432365,Low(periphery),2654.934082,6.067800045,Africa,Middle Africa
+12,DZA,Algeria,1880,40.87837982,Middle(semi-per),819.1860352,0.25,Africa,North Africa
+12,DZA,Algeria,1890,43.58108139,Middle(semi-per),923.3720703,0.370000005,Africa,North Africa
+12,DZA,Algeria,1900,44.25675583,Middle(semi-per),1027.558105,0.479999989,Africa,North Africa
+12,DZA,Algeria,1910,44.93243408,Middle(semi-per),1131.744141,0.589999974,Africa,North Africa
+12,DZA,Algeria,1920,39.86486435,Middle(semi-per),1201.216187,0.689999998,Africa,North Africa
+12,DZA,Algeria,1930,38.17567444,Middle(semi-per),1255.810791,0.769999981,Africa,North Africa
+12,DZA,Algeria,1940,36.82432556,Middle(semi-per),1310.405396,0.839999974,Africa,North Africa
+12,DZA,Algeria,1950,33.10810852,Low(periphery),1365,1.019999981,Africa,North Africa
+12,DZA,Algeria,1960,32.43243408,Low(periphery),2088,0.870500028,Africa,North Africa
+12,DZA,Algeria,1970,33.44594574,Middle(semi-per),2249,1.551399946,Africa,North Africa
+12,DZA,Algeria,1980,34.79729843,Middle(semi-per),3152,2.224299908,Africa,North Africa
+12,DZA,Algeria,1990,51.01351166,Middle(semi-per),10236.5332,5.262599945,Africa,North Africa
+12,DZA,Algeria,2000,51.68918991,Middle(semi-per),10210.69531,7.032899857,Africa,North Africa
+12,DZA,Algeria,2010,51.01351166,Middle(semi-per),12870.21582,8.296199799,Africa,North Africa
+124,CAN,Canada,1880,94.93243408,High(core),1816,6.210000038,NW Europe,Offshoots
+124,CAN,Canada,1890,96.28378296,High(core),2378,6.690000057,NW Europe,Offshoots
+124,CAN,Canada,1900,96.62162018,High(core),2911,7.099999905,NW Europe,Offshoots
+124,CAN,Canada,1910,98.3108139,High(core),4066,7.619999886,NW Europe,Offshoots
+124,CAN,Canada,1920,96.62162018,High(core),3861,8.039999962,NW Europe,Offshoots
+124,CAN,Canada,1930,95.94594574,High(core),4811,8.159999847,NW Europe,Offshoots
+124,CAN,Canada,1940,95.94594574,High(core),5368,8.210000038,NW Europe,Offshoots
+124,CAN,Canada,1950,96.28378296,High(core),7291,8.270000458,NW Europe,Offshoots
+124,CAN,Canada,1960,95.2702713,High(core),8753,8.361700058,NW Europe,Offshoots
+124,CAN,Canada,1970,95.94594574,High(core),12050,8.883199692,NW Europe,Offshoots
+124,CAN,Canada,1980,95.94594574,High(core),16176,9.312199593,NW Europe,Offshoots
+124,CAN,Canada,1990,92.90540314,High(core),31299.6543,10.39990044,NW Europe,Offshoots
+124,CAN,Canada,2000,90.5405426,High(core),37431.91797,11.02960014,NW Europe,Offshoots
+124,CAN,Canada,2010,91.55405426,High(core),40699.35547,12.08269978,NW Europe,Offshoots
+152,CHL,Chile,1880,71.9594574,High(core),1740,1.080000043,L America,South America
+152,CHL,Chile,1890,72.29729462,High(core),1966,1.24000001,L America,South America
+152,CHL,Chile,1900,73.3108139,High(core),2194,1.49000001,L America,South America
+152,CHL,Chile,1910,77.36486816,High(core),3000,1.789999962,L America,South America
+152,CHL,Chile,1920,79.05405426,High(core),2768,2.640000105,L America,South America
+152,CHL,Chile,1930,78.71621704,High(core),2859,3.630000114,L America,South America
+152,CHL,Chile,1940,80.74324036,High(core),3236,4.46999979,L America,South America
+152,CHL,Chile,1950,80.06756592,High(core),3670,4.920000076,L America,South America
+152,CHL,Chile,1960,78.37837982,High(core),4270,5.222700119,L America,South America
+152,CHL,Chile,1970,69.59459686,High(core),5231,6.080800056,L America,South America
+152,CHL,Chile,1980,65.20270538,Middle(semi-per),5680,6.563099861,L America,South America
+152,CHL,Chile,1990,66.89189148,High(core),8991.84668,8.397500038,L America,South America
+152,CHL,Chile,2000,67.56756592,High(core),14315.42578,9.069399834,L America,South America
+152,CHL,Chile,2010,72.29729462,High(core),19442.05078,10.18340015,L America,South America
+188,CRI,Costa Rica,1880,47.29729843,Middle(semi-per),583.333313,1.210000038,L America,Central America
+188,CRI,Costa Rica,1890,54.7297287,Middle(semi-per),680.666687,1.519999981,L America,Central America
+188,CRI,Costa Rica,1900,54.7297287,Middle(semi-per),778,1.690000057,L America,Central America
+188,CRI,Costa Rica,1910,59.12162018,Middle(semi-per),978,2.00999999,L America,Central America
+188,CRI,Costa Rica,1920,69.93243408,High(core),1624,2.130000114,L America,Central America
+188,CRI,Costa Rica,1930,65.20270538,Middle(semi-per),1626,2.380000114,L America,Central America
+188,CRI,Costa Rica,1940,59.45946121,Middle(semi-per),1763,2.809999943,L America,Central America
+188,CRI,Costa Rica,1950,57.09459305,Middle(semi-per),1963,3,L America,Central America
+188,CRI,Costa Rica,1960,57.43243408,Middle(semi-per),2715,3.933199883,L America,Central America
+188,CRI,Costa Rica,1970,51.35135269,Middle(semi-per),3754,3.9381001,L America,Central America
+188,CRI,Costa Rica,1980,56.75675583,Middle(semi-per),4911,5.154200077,L America,Central America
+188,CRI,Costa Rica,1990,58.44594574,Middle(semi-per),7787.161621,7.237500191,L America,Central America
+188,CRI,Costa Rica,2000,55.06756592,Middle(semi-per),9878.289063,8.080699921,L America,Central America
+188,CRI,Costa Rica,2010,54.39189148,Middle(semi-per),12999.99219,8.679100037,L America,Central America
+192,CUB,Cuba,1880,36.14864731,Middle(semi-per),583.333313,0.649999976,L America,Caribbean
+192,CUB,Cuba,1890,45.94594574,Middle(semi-per),680.666687,0.839999974,L America,Caribbean
+192,CUB,Cuba,1900,44.59459305,Middle(semi-per),778,1.029999971,L America,Caribbean
+192,CUB,Cuba,1910,48.98648834,Middle(semi-per),978,1.309999943,L America,Caribbean
+192,CUB,Cuba,1920,56.41891861,Middle(semi-per),1300.9375,1.649999976,L America,Caribbean
+192,CUB,Cuba,1930,62.83783722,Middle(semi-per),1505,2.450000048,L America,Caribbean
+192,CUB,Cuba,1940,52.36486435,Middle(semi-per),1208,2.99000001,L America,Caribbean
+192,CUB,Cuba,1950,59.12162018,Middle(semi-per),2046,3.339999914,L America,Caribbean
+192,CUB,Cuba,1960,54.7297287,Middle(semi-per),2052,4.207099915,L America,Caribbean
+192,CUB,Cuba,1970,52.02702713,Middle(semi-per),1917,5.636099815,L America,Caribbean
+192,CUB,Cuba,1980,57.7702713,Middle(semi-per),2644,6.638100147,L America,Caribbean
+192,CUB,Cuba,1990,56.08108139,Middle(semi-per),2957,9.274600029,L America,Caribbean
+192,CUB,Cuba,2000,52.70270157,Middle(semi-per),2422,9.75510025,L America,Caribbean
+192,CUB,Cuba,2010,51.68918991,Middle(semi-per),2576.82666,10.59360027,L America,Caribbean
+204,BEN,Benin,1880,17.90540504,Low(periphery),533.666687,0.119999997,Africa,West Africa
+204,BEN,Benin,1890,14.8648653,Low(periphery),567.333313,0.150000006,Africa,West Africa
+204,BEN,Benin,1900,16.55405426,Low(periphery),601,0.180000007,Africa,West Africa
+204,BEN,Benin,1910,14.18918896,Low(periphery),628.6923218,0.209999993,Africa,West Africa
+204,BEN,Benin,1920,9.797297478,Low(periphery),682.6296387,0.239999995,Africa,West Africa
+204,BEN,Benin,1930,8.44594574,Low(periphery),747.8148193,0.270000011,Africa,West Africa
+204,BEN,Benin,1940,14.8648653,Low(periphery),813,0.300000012,Africa,West Africa
+204,BEN,Benin,1950,20.94594574,Low(periphery),1084,0.340000004,Africa,West Africa
+204,BEN,Benin,1960,17.56756783,Low(periphery),978,0.70569998,Africa,West Africa
+204,BEN,Benin,1970,13.51351357,Low(periphery),1027,0.844099998,Africa,West Africa
+204,BEN,Benin,1980,13.51351357,Low(periphery),1128,0.940900028,Africa,West Africa
+204,BEN,Benin,1990,10.47297287,Low(periphery),1462.677368,2.130899906,Africa,West Africa
+204,BEN,Benin,2000,12.16216183,Low(periphery),1666.467407,3.111299992,Africa,West Africa
+204,BEN,Benin,2010,12.16216183,Low(periphery),1818.778442,4.216800213,Africa,West Africa
+208,DNK,Denmark,1880,95.2702713,High(core),2181,4.940000057,NW Europe,North Europe
+208,DNK,Denmark,1890,94.59459686,High(core),2523,5.25,NW Europe,North Europe
+208,DNK,Denmark,1900,94.25675964,High(core),3017,5.610000134,NW Europe,North Europe
+208,DNK,Denmark,1910,92.90540314,High(core),3705,5.960000038,NW Europe,North Europe
+208,DNK,Denmark,1920,93.58107758,High(core),3992,6.329999924,NW Europe,North Europe
+208,DNK,Denmark,1930,93.91892242,High(core),5341,6.630000114,NW Europe,North Europe
+208,DNK,Denmark,1940,92.2297287,High(core),5116,7.03000021,NW Europe,North Europe
+208,DNK,Denmark,1950,92.90540314,High(core),6943,7.429999828,NW Europe,North Europe
+208,DNK,Denmark,1960,94.93243408,High(core),8812,7.82310009,NW Europe,North Europe
+208,DNK,Denmark,1970,95.2702713,High(core),12686,8.59829998,NW Europe,North Europe
+208,DNK,Denmark,1980,94.93243408,High(core),15227,8.903800011,NW Europe,North Europe
+208,DNK,Denmark,1990,90.5405426,High(core),33785.64844,9.416700363,NW Europe,North Europe
+208,DNK,Denmark,2000,86.82432556,High(core),42337.71484,9.712400436,NW Europe,North Europe
+208,DNK,Denmark,2010,82.43243408,High(core),43998.4375,10.05659962,NW Europe,North Europe
+214,DOM,Dominican Republic,1880,36.14864731,Middle(semi-per),583.333313,0.550000012,L America,Caribbean
+214,DOM,Dominican Republic,1890,39.18918991,Middle(semi-per),680.666687,0.709999979,L America,Caribbean
+214,DOM,Dominican Republic,1900,45.2702713,Middle(semi-per),778,0.860000014,L America,Caribbean
+214,DOM,Dominican Republic,1910,44.59459305,Middle(semi-per),978,1.019999981,L America,Caribbean
+214,DOM,Dominican Republic,1920,43.58108139,Middle(semi-per),1035.918945,1.169999957,L America,Caribbean
+214,DOM,Dominican Republic,1930,39.86486435,Middle(semi-per),1032.945923,1.330000043,L America,Caribbean
+214,DOM,Dominican Republic,1940,38.17567444,Middle(semi-per),1029.973022,1.50999999,L America,Caribbean
+214,DOM,Dominican Republic,1950,35.13513565,Middle(semi-per),1027,1.899999976,L America,Caribbean
+214,DOM,Dominican Republic,1960,37.83783722,Middle(semi-per),1302,2.759399891,L America,Caribbean
+214,DOM,Dominican Republic,1970,41.21621704,Middle(semi-per),1561,4.050600052,L America,Caribbean
+214,DOM,Dominican Republic,1980,41.89189148,Middle(semi-per),2372,4.503499985,L America,Caribbean
+214,DOM,Dominican Republic,1990,44.93243408,Middle(semi-per),5267.102051,5.958099842,L America,Caribbean
+214,DOM,Dominican Republic,2000,46.62162018,Middle(semi-per),7963.705566,6.653699875,L America,Caribbean
+214,DOM,Dominican Republic,2010,44.59459305,Middle(semi-per),11123.53125,7.402999878,L America,Caribbean
+222,SLV,El Salvador,1880,44.25675583,Middle(semi-per),583.333313,0.970000029,L America,Central America
+222,SLV,El Salvador,1890,47.29729843,Middle(semi-per),680.666687,1.159999967,L America,Central America
+222,SLV,El Salvador,1900,52.36486435,Middle(semi-per),778,1.340000033,L America,Central America
+222,SLV,El Salvador,1910,53.37837982,Middle(semi-per),978,1.440000057,L America,Central America
+222,SLV,El Salvador,1920,45.60810852,Middle(semi-per),932,1.440000057,L America,Central America
+222,SLV,El Salvador,1930,44.93243408,Middle(semi-per),1045,1.529999971,L America,Central America
+222,SLV,El Salvador,1940,39.52702713,Middle(semi-per),1111,1.50999999,L America,Central America
+222,SLV,El Salvador,1950,41.89189148,Middle(semi-per),1489,1.690000057,L America,Central America
+222,SLV,El Salvador,1960,40.87837982,Middle(semi-per),1764,1.968999982,L America,Central America
+222,SLV,El Salvador,1970,39.86486435,Middle(semi-per),2187,2.798399925,L America,Central America
+222,SLV,El Salvador,1980,35.13513565,Middle(semi-per),2354,3.228699923,L America,Central America
+222,SLV,El Salvador,1990,34.79729843,Middle(semi-per),4529.786621,4.675899982,L America,Central America
+222,SLV,El Salvador,2000,41.89189148,Middle(semi-per),6363.802734,6.565599918,L America,Central America
+222,SLV,El Salvador,2010,41.55405426,Middle(semi-per),7299.871094,7.966899872,L America,Central America
+231,ETH,Ethiopia,1880,8.108108521,Low(periphery),533.666687,0.090000004,Africa,East Africa
+231,ETH,Ethiopia,1890,14.52702713,Low(periphery),567.333313,0.100000001,Africa,East Africa
+231,ETH,Ethiopia,1900,4.391891956,Low(periphery),601,0.100000001,Africa,East Africa
+231,ETH,Ethiopia,1910,14.8648653,Low(periphery),628.6923218,0.109999999,Africa,East Africa
+231,ETH,Ethiopia,1920,6.418919086,Low(periphery),682.6296387,0.109999999,Africa,East Africa
+231,ETH,Ethiopia,1930,14.52702713,Low(periphery),747.8148193,0.119999997,Africa,East Africa
+231,ETH,Ethiopia,1940,13.85135174,Low(periphery),813,0.119999997,Africa,East Africa
+231,ETH,Ethiopia,1950,3.378378391,Low(periphery),390,0.129999995,Africa,East Africa
+231,ETH,Ethiopia,1960,1.689189196,Low(periphery),440,0.129999995,Africa,East Africa
+231,ETH,Ethiopia,1970,2.02702713,Low(periphery),595,0.230000004,Africa,East Africa
+231,ETH,Ethiopia,1980,3.040540457,Low(periphery),648,0.50999999,Africa,East Africa
+231,ETH,Ethiopia,1990,2.364864826,Low(periphery),651.953064,1.210000038,Africa,East Africa
+231,ETH,Ethiopia,2000,2.364864826,Low(periphery),618.2422485,1.840000033,Africa,East Africa
+231,ETH,Ethiopia,2010,3.716216326,Low(periphery),1073.826294,2.480000019,Africa,East Africa
+24,AGO,Angola,1880,8.783783913,Low(periphery),533.666687,0.07,Africa,Middle Africa
+24,AGO,Angola,1890,5.067567348,Low(periphery),567.333313,0.07,Africa,Middle Africa
+24,AGO,Angola,1900,11.48648643,Low(periphery),601,0.07,Africa,Middle Africa
+24,AGO,Angola,1910,6.418919086,Low(periphery),628.6923218,0.07,Africa,Middle Africa
+24,AGO,Angola,1920,5.743243217,Low(periphery),682.6296387,0.079999998,Africa,Middle Africa
+24,AGO,Angola,1930,14.8648653,Low(periphery),747.8148193,0.079999998,Africa,Middle Africa
+24,AGO,Angola,1940,11.14864826,Low(periphery),813,0.079999998,Africa,Middle Africa
+24,AGO,Angola,1950,17.22973061,Low(periphery),1052,0.090000004,Africa,Middle Africa
+24,AGO,Angola,1960,15.5405407,Low(periphery),1253,0.109999999,Africa,Middle Africa
+24,AGO,Angola,1970,18.58108139,Low(periphery),1768,0.289999992,Africa,Middle Africa
+24,AGO,Angola,1980,9.459459305,Low(periphery),961,0.920000017,Africa,Middle Africa
+24,AGO,Angola,1990,21.9594593,Low(periphery),4394.330078,1.840000033,Africa,Middle Africa
+24,AGO,Angola,2000,17.90540504,Low(periphery),3508.905029,2.279999971,Africa,Middle Africa
+24,AGO,Angola,2010,19.25675583,Low(periphery),5895.114258,2.789999962,Africa,Middle Africa
+246,FIN,Finland,1880,58.44594574,Middle(semi-per),1155,0.560000002,NW Europe,North Europe
+246,FIN,Finland,1890,58.10810852,Middle(semi-per),1381,0.629999995,NW Europe,North Europe
+246,FIN,Finland,1900,58.78378296,Middle(semi-per),1668,0.769999981,NW Europe,North Europe
+246,FIN,Finland,1910,63.51351166,Middle(semi-per),1906,1.070000052,NW Europe,North Europe
+246,FIN,Finland,1920,63.51351166,Middle(semi-per),1846,1.360000014,NW Europe,North Europe
+246,FIN,Finland,1930,67.56756592,High(core),2666,1.870000005,NW Europe,North Europe
+246,FIN,Finland,1940,73.98648834,High(core),3220,3.119999886,NW Europe,North Europe
+246,FIN,Finland,1950,78.71621704,High(core),4253,4.369999886,NW Europe,North Europe
+246,FIN,Finland,1960,84.12162018,High(core),6230,5.668300152,NW Europe,North Europe
+246,FIN,Finland,1970,83.78378296,High(core),9577,6.867499828,NW Europe,North Europe
+246,FIN,Finland,1980,86.14865112,High(core),12949,7.648700237,NW Europe,North Europe
+246,FIN,Finland,1990,78.0405426,High(core),28905.57031,8.194499969,NW Europe,North Europe
+246,FIN,Finland,2000,70.60810852,High(core),34887.17969,8.193400383,NW Europe,North Europe
+246,FIN,Finland,2010,79.39189148,High(core),39848.13281,9.974200249,NW Europe,North Europe
+250,FRA,France,1880,94.25675964,High(core),2120,4.630000114,NW Europe,West Europe
+250,FRA,France,1890,93.91892242,High(core),2376,5.429999828,NW Europe,West Europe
+250,FRA,France,1900,95.2702713,High(core),2876,6.309999943,NW Europe,West Europe
+250,FRA,France,1910,93.58107758,High(core),2965,6.989999771,NW Europe,West Europe
+250,FRA,France,1920,93.91892242,High(core),3227,7.539999962,NW Europe,West Europe
+250,FRA,France,1930,94.25675964,High(core),4532,7.730000019,NW Europe,West Europe
+250,FRA,France,1940,92.90540314,High(core),4042,8,NW Europe,West Europe
+250,FRA,France,1950,93.58107758,High(core),5186,8.220000267,NW Europe,West Europe
+250,FRA,France,1960,76.01351166,High(core),7398,4.196400166,NW Europe,West Europe
+250,FRA,France,1970,76.01351166,High(core),11410,4.755700111,NW Europe,West Europe
+250,FRA,France,1980,78.0405426,High(core),14766,5.761300087,NW Europe,West Europe
+250,FRA,France,1990,74.32432556,High(core),29527.97461,7.474599838,NW Europe,West Europe
+250,FRA,France,2000,82.09459686,High(core),34896.38672,9.554900169,NW Europe,West Europe
+250,FRA,France,2010,83.10810852,High(core),36872.22656,10.53289986,NW Europe,West Europe
+276,DEU,Germany,1880,94.25675964,High(core),1991,5.349999905,NW Europe,West Europe
+276,DEU,Germany,1890,95.94594574,High(core),2428,5.739999771,NW Europe,West Europe
+276,DEU,Germany,1900,95.2702713,High(core),2985,6.110000134,NW Europe,West Europe
+276,DEU,Germany,1910,94.59459686,High(core),3348,6.619999886,NW Europe,West Europe
+276,DEU,Germany,1920,92.90540314,High(core),2796,7.090000153,NW Europe,West Europe
+276,DEU,Germany,1930,92.56756592,High(core),3973,7.380000114,NW Europe,West Europe
+276,DEU,Germany,1940,95.2702713,High(core),5403,7.900000095,NW Europe,West Europe
+276,DEU,Germany,1950,91.89189148,High(core),3881,8.170000076,NW Europe,West Europe
+276,DEU,Germany,1960,83.44594574,High(core),7705,5.11950016,NW Europe,West Europe
+276,DEU,Germany,1970,76.35134888,High(core),10839,5.015799999,NW Europe,West Europe
+276,DEU,Germany,1980,75,High(core),14114,5.246399879,NW Europe,West Europe
+276,DEU,Germany,1990,79.7297287,High(core),31287.07031,8.041999817,NW Europe,West Europe
+276,DEU,Germany,2000,86.48648834,High(core),36764.5625,9.952500343,NW Europe,West Europe
+276,DEU,Germany,2010,90.5405426,High(core),40428.72266,11.82310009,NW Europe,West Europe
+288,GHA,Ghana,1880,25.33783722,Low(periphery),518.5349121,0.810000002,Africa,West Africa
+288,GHA,Ghana,1890,37.5,Middle(semi-per),598.0697632,0.829999983,Africa,West Africa
+288,GHA,Ghana,1900,35.47297287,Middle(semi-per),677.6046753,0.839999974,Africa,West Africa
+288,GHA,Ghana,1910,37.5,Middle(semi-per),757.1395264,0.879999995,Africa,West Africa
+288,GHA,Ghana,1920,34.45946121,Middle(semi-per),845.5134888,0.939999998,Africa,West Africa
+288,GHA,Ghana,1930,35.47297287,Middle(semi-per),937.6756592,1.059999943,Africa,West Africa
+288,GHA,Ghana,1940,34.79729843,Middle(semi-per),1029.837891,1.190000057,Africa,West Africa
+288,GHA,Ghana,1950,33.10810852,Low(periphery),1122,1.309999943,Africa,West Africa
+288,GHA,Ghana,1960,28.0405407,Low(periphery),1378,1.076099992,Africa,West Africa
+288,GHA,Ghana,1970,35.47297287,Middle(semi-per),1424,3.57859993,Africa,West Africa
+288,GHA,Ghana,1980,33.78378296,Middle(semi-per),1157,4.346000195,Africa,West Africa
+288,GHA,Ghana,1990,33.44594574,Middle(semi-per),1919.59668,5.932400227,Africa,West Africa
+288,GHA,Ghana,2000,30.40540504,Low(periphery),2259.057373,6.569300175,Africa,West Africa
+288,GHA,Ghana,2010,28.71621704,Low(periphery),3059.413818,7.137800217,Africa,West Africa
+300,GRC,Greece,1880,72.29729462,High(core),1029,1.75,SE Europe,South Europe
+300,GRC,Greece,1890,75.33783722,High(core),1178,2.069999933,SE Europe,South Europe
+300,GRC,Greece,1900,73.98648834,High(core),1351,2.369999886,SE Europe,South Europe
+300,GRC,Greece,1910,74.32432556,High(core),1536.384644,2.700000048,SE Europe,South Europe
+300,GRC,Greece,1920,71.9594574,High(core),1433,3.059999943,SE Europe,South Europe
+300,GRC,Greece,1930,77.70270538,High(core),2258,3.890000105,SE Europe,South Europe
+300,GRC,Greece,1940,75,High(core),2223,4.25,SE Europe,South Europe
+300,GRC,Greece,1950,62.83783722,Middle(semi-per),1915,4.599999905,SE Europe,South Europe
+300,GRC,Greece,1960,77.36486816,High(core),3146,7.419099808,SE Europe,South Europe
+300,GRC,Greece,1970,78.37837982,High(core),6211,6.516499996,SE Europe,South Europe
+300,GRC,Greece,1980,76.01351166,High(core),8971,6.802499771,SE Europe,South Europe
+300,GRC,Greece,1990,78.0405426,High(core),20686.13672,8.580599785,SE Europe,South Europe
+300,GRC,Greece,2000,71.9594574,High(core),24839.07617,8.888899803,SE Europe,South Europe
+300,GRC,Greece,2010,80.74324036,High(core),28726.08008,10.67669964,SE Europe,South Europe
+320,GTM,Guatemala,1880,32.43243408,Low(periphery),583.333313,0.50999999,L America,Central America
+320,GTM,Guatemala,1890,39.18918991,Middle(semi-per),680.666687,0.670000017,L America,Central America
+320,GTM,Guatemala,1900,41.55405426,Middle(semi-per),778,0.810000002,L America,Central America
+320,GTM,Guatemala,1910,46.28378296,Middle(semi-per),978,0.920000017,L America,Central America
+320,GTM,Guatemala,1920,47.29729843,Middle(semi-per),1272,0.970000029,L America,Central America
+320,GTM,Guatemala,1930,52.36486435,Middle(semi-per),1776,1.029999971,L America,Central America
+320,GTM,Guatemala,1940,57.7702713,Middle(semi-per),2742,1.25,L America,Central America
+320,GTM,Guatemala,1950,45.60810852,Middle(semi-per),2085,1.519999981,L America,Central America
+320,GTM,Guatemala,1960,39.52702713,Middle(semi-per),2193,1.453799963,L America,Central America
+320,GTM,Guatemala,1970,37.16216278,Middle(semi-per),2919,1.761999965,L America,Central America
+320,GTM,Guatemala,1980,36.14864731,Middle(semi-per),4005,2.055799961,L America,Central America
+320,GTM,Guatemala,1990,31.41891861,Low(periphery),5100.779297,3.566099882,L America,Central America
+320,GTM,Guatemala,2000,30.40540504,Low(periphery),6070.720215,4.129300117,L America,Central America
+320,GTM,Guatemala,2010,26.68918991,Low(periphery),6714.063477,4.803299904,L America,Central America
+32,ARG,Argentina,1880,77.36486816,High(core),1731.5,1.419999957,L America,South America
+32,ARG,Argentina,1890,77.70270538,High(core),2152,1.480000019,L America,South America
+32,ARG,Argentina,1900,80.06756592,High(core),2756,1.799999952,L America,South America
+32,ARG,Argentina,1910,82.09459686,High(core),3822,2.25999999,L America,South America
+32,ARG,Argentina,1920,81.75675964,High(core),3473,2.920000076,L America,South America
+32,ARG,Argentina,1930,82.7702713,High(core),4080,3.680000067,L America,South America
+32,ARG,Argentina,1940,84.12162018,High(core),4161,4.380000114,L America,South America
+32,ARG,Argentina,1950,85.13513184,High(core),4987,5.21999979,L America,South America
+32,ARG,Argentina,1960,83.10810852,High(core),5559,5.665400028,L America,South America
+32,ARG,Argentina,1970,77.70270538,High(core),7302,6.296299934,L America,South America
+32,ARG,Argentina,1980,75,High(core),8206,6.84649992,L America,South America
+32,ARG,Argentina,1990,69.93243408,High(core),10815.71484,8.339699745,L America,South America
+32,ARG,Argentina,2000,64.86486816,Middle(semi-per),14899.87012,8.726200104,L America,South America
+32,ARG,Argentina,2010,63.85135269,Middle(semi-per),18712.0625,9.3458004,L America,South America
+328,GUY,Guyana,1880,62.83783722,Middle(semi-per),647.666687,1.879999995,L America,South America
+328,GUY,Guyana,1890,65.20270538,Middle(semi-per),746.333313,2.430000067,L America,South America
+328,GUY,Guyana,1900,66.89189148,High(core),845,2.75,L America,South America
+328,GUY,Guyana,1910,69.59459686,High(core),1098.076904,3.119999886,L America,South America
+328,GUY,Guyana,1920,70.2702713,High(core),1431.108154,3.430000067,L America,South America
+328,GUY,Guyana,1930,73.64865112,High(core),1798.405396,3.690000057,L America,South America
+328,GUY,Guyana,1940,73.3108139,High(core),2165.702637,4.059999943,L America,South America
+328,GUY,Guyana,1950,70.2702713,High(core),2533,4.440000057,L America,South America
+328,GUY,Guyana,1960,68.24324036,High(core),3478,4.83010006,L America,South America
+328,GUY,Guyana,1970,65.87837982,Middle(semi-per),4948,5.650899887,L America,South America
+328,GUY,Guyana,1980,63.85135269,Middle(semi-per),5935,6.03760004,L America,South America
+328,GUY,Guyana,1990,40.87837982,Middle(semi-per),2837.362061,7.069300175,L America,South America
+328,GUY,Guyana,2000,46.62162018,Middle(semi-per),4512.708008,8.094200134,L America,South America
+328,GUY,Guyana,2010,44.59459305,Middle(semi-per),5835.810059,8.962599754,L America,South America
+340,HND,Honduras,1880,44.93243408,Middle(semi-per),583.333313,1.070000052,L America,Central America
+340,HND,Honduras,1890,51.68918991,Middle(semi-per),680.666687,1.269999981,L America,Central America
+340,HND,Honduras,1900,54.7297287,Middle(semi-per),778,1.470000029,L America,Central America
+340,HND,Honduras,1910,54.05405426,Middle(semi-per),978,1.679999948,L America,Central America
+340,HND,Honduras,1920,58.44594574,Middle(semi-per),1274,1.730000019,L America,Central America
+340,HND,Honduras,1930,56.75675583,Middle(semi-per),1563,1.799999952,L America,Central America
+340,HND,Honduras,1940,43.24324417,Middle(semi-per),1160,1.789999962,L America,Central America
+340,HND,Honduras,1950,38.51351166,Middle(semi-per),1313,1.700000048,L America,Central America
+340,HND,Honduras,1960,35.81081009,Middle(semi-per),1398,1.959499955,L America,Central America
+340,HND,Honduras,1970,31.08108139,Low(periphery),1556,2.368999958,L America,Central America
+340,HND,Honduras,1980,30.74324417,Low(periphery),2062,2.681900024,L America,Central America
+340,HND,Honduras,1990,32.43243408,Low(periphery),3171.671387,5.010000229,L America,Central America
+340,HND,Honduras,2000,33.10810852,Low(periphery),3328.510498,6.195499897,L America,Central America
+340,HND,Honduras,2010,32.43243408,Low(periphery),3971.183105,7.48789978,L America,Central America
+348,HUN,Hungary,1880,81.41892242,High(core),1282.5,2.140000105,SE Europe,East Europe
+348,HUN,Hungary,1890,82.09459686,High(core),1473,2.700000048,SE Europe,East Europe
+348,HUN,Hungary,1900,82.43243408,High(core),1682,3.309999943,SE Europe,East Europe
+348,HUN,Hungary,1910,83.10810852,High(core),2000,3.819999933,SE Europe,East Europe
+348,HUN,Hungary,1920,78.71621704,High(core),1709,4.179999828,SE Europe,East Europe
+348,HUN,Hungary,1930,79.39189148,High(core),2404,4.059999943,SE Europe,East Europe
+348,HUN,Hungary,1940,79.39189148,High(core),2626,4.789999962,SE Europe,East Europe
+348,HUN,Hungary,1950,75.33783722,High(core),2480,5.519999981,SE Europe,East Europe
+348,HUN,Hungary,1960,80.06756592,High(core),3649,7.439499855,SE Europe,East Europe
+348,HUN,Hungary,1970,77.70270538,High(core),5028,8.102100372,SE Europe,East Europe
+348,HUN,Hungary,1980,78.0405426,High(core),6306,8.586999893,SE Europe,East Europe
+348,HUN,Hungary,1990,65.20270538,Middle(semi-per),6459,8.76210022,SE Europe,East Europe
+348,HUN,Hungary,2000,84.12162018,High(core),17855.04297,11.20059967,SE Europe,East Europe
+348,HUN,Hungary,2010,82.09459686,High(core),22277.37305,11.65079975,SE Europe,East Europe
+356,IND,India,1880,14.18918896,Low(periphery),545.8571167,0.039999999,Asia,South Asia
+356,IND,India,1890,15.20270252,Low(periphery),584,0.07,Asia,South Asia
+356,IND,India,1900,6.081080914,Low(periphery),599,0.170000002,Asia,South Asia
+356,IND,India,1910,21.28378296,Low(periphery),697,0.280000001,Asia,South Asia
+356,IND,India,1920,9.797297478,Low(periphery),635,0.379999995,Asia,South Asia
+356,IND,India,1930,13.51351357,Low(periphery),726,0.529999971,Asia,South Asia
+356,IND,India,1940,14.18918896,Low(periphery),686,0.689999998,Asia,South Asia
+356,IND,India,1950,17.90540504,Low(periphery),619,0.860000014,Asia,South Asia
+356,IND,India,1960,20.27026939,Low(periphery),753,1.110599995,Asia,South Asia
+356,IND,India,1970,18.58108139,Low(periphery),868,1.573500037,Asia,South Asia
+356,IND,India,1980,17.22973061,Low(periphery),938,1.97239995,Asia,South Asia
+356,IND,India,1990,19.59459496,Low(periphery),1754.8573,3.444200039,Asia,South Asia
+356,IND,India,2000,21.62162209,Low(periphery),2495.046631,4.201399803,Asia,South Asia
+356,IND,India,2010,23.64864922,Low(periphery),4404.696777,5.129700184,Asia,South Asia
+360,IDN,Indonesia,1880,45.2702713,Middle(semi-per),601,0.74000001,Asia,Southeast Asia
+360,IDN,Indonesia,1890,35.13513565,Middle(semi-per),612,0.74000001,Asia,Southeast Asia
+360,IDN,Indonesia,1900,37.5,Middle(semi-per),704,0.75,Asia,Southeast Asia
+360,IDN,Indonesia,1910,36.48648834,Middle(semi-per),803,0.769999981,Asia,Southeast Asia
+360,IDN,Indonesia,1920,36.14864731,Middle(semi-per),923,0.810000002,Asia,Southeast Asia
+360,IDN,Indonesia,1930,37.83783722,Middle(semi-per),1141,0.899999976,Asia,Southeast Asia
+360,IDN,Indonesia,1940,35.47297287,Middle(semi-per),1165,1.049999952,Asia,Southeast Asia
+360,IDN,Indonesia,1950,26.35135078,Low(periphery),803,1.210000038,Asia,Southeast Asia
+360,IDN,Indonesia,1960,29.05405426,Low(periphery),1012,1.567800045,Asia,Southeast Asia
+360,IDN,Indonesia,1970,29.72973061,Low(periphery),1181,2.84829998,Asia,Southeast Asia
+360,IDN,Indonesia,1980,31.75675583,Low(periphery),1870,3.205699921,Asia,Southeast Asia
+360,IDN,Indonesia,1990,32.43243408,Low(periphery),4625.377441,4.248400211,Asia,Southeast Asia
+360,IDN,Indonesia,2000,34.12162018,Middle(semi-per),5805.808594,5.232200146,Asia,Southeast Asia
+360,IDN,Indonesia,2010,36.14864731,Middle(semi-per),8433.49707,6.242000103,Asia,Southeast Asia
+36,AUS,Australia,1880,94.59459686,High(core),4285,3.349999905,NW Europe,Offshoots
+36,AUS,Australia,1890,97.29729462,High(core),4458,5.28000021,NW Europe,Offshoots
+36,AUS,Australia,1900,97.29729462,High(core),4013,6.25,NW Europe,Offshoots
+36,AUS,Australia,1910,98.3108139,High(core),5210,7.059999943,NW Europe,Offshoots
+36,AUS,Australia,1920,97.97297668,High(core),4766,7.710000038,NW Europe,Offshoots
+36,AUS,Australia,1930,96.28378296,High(core),4708,8.390000343,NW Europe,Offshoots
+36,AUS,Australia,1940,96.9594574,High(core),6166,8.569999695,NW Europe,Offshoots
+36,AUS,Australia,1950,96.9594574,High(core),7412,8.75,NW Europe,Offshoots
+36,AUS,Australia,1960,96.62162018,High(core),8791,9.295800209,NW Europe,Offshoots
+36,AUS,Australia,1970,96.62162018,High(core),12024,10.15610027,NW Europe,Offshoots
+36,AUS,Australia,1980,95.60810852,High(core),14412,10.85700035,NW Europe,Offshoots
+36,AUS,Australia,1990,91.89189148,High(core),28582.70703,11.60210037,NW Europe,Offshoots
+36,AUS,Australia,2000,91.89189148,High(core),35281.39453,11.77110004,NW Europe,Offshoots
+36,AUS,Australia,2010,92.90540314,High(core),41384.92188,12.11859989,NW Europe,Offshoots
+364,IRN,Iran,1880,38.17567444,Middle(semi-per),784.3488159,0.25999999,Asia,South Asia
+364,IRN,Iran,1890,38.17567444,Middle(semi-per),849.6976929,0.270000011,Asia,South Asia
+364,IRN,Iran,1900,37.83783722,Middle(semi-per),915.0465088,0.289999992,Asia,South Asia
+364,IRN,Iran,1910,35.81081009,Middle(semi-per),980.3953247,0.300000012,Asia,South Asia
+364,IRN,Iran,1920,31.75675583,Low(periphery),1136.216187,0.310000002,Asia,South Asia
+364,IRN,Iran,1930,31.08108139,Low(periphery),1330.810791,0.310000002,Asia,South Asia
+364,IRN,Iran,1940,31.41891861,Low(periphery),1525.405396,0.330000013,Asia,South Asia
+364,IRN,Iran,1950,31.41891861,Low(periphery),1720,0.449999988,Asia,South Asia
+364,IRN,Iran,1960,33.44594574,Middle(semi-per),2156,0.9199,Asia,South Asia
+364,IRN,Iran,1970,43.24324417,Middle(semi-per),4189,2.040299892,Asia,South Asia
+364,IRN,Iran,1980,39.86486435,Middle(semi-per),3974,2.655100107,Asia,South Asia
+364,IRN,Iran,1990,48.31081009,Middle(semi-per),10163.36523,4.84829998,Asia,South Asia
+364,IRN,Iran,2000,55.06756592,Middle(semi-per),11853.94531,7.143899918,Asia,South Asia
+364,IRN,Iran,2010,58.10810852,Middle(semi-per),17443.63477,8.585900307,Asia,South Asia
+368,IRQ,Iraq,1880,29.39189148,Low(periphery),784.3488159,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1890,29.39189148,Low(periphery),849.6976929,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1900,29.39189148,Low(periphery),915.0465088,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1910,27.70270348,Low(periphery),980.3953247,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1920,23.31081009,Low(periphery),1068.864868,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1930,23.31081009,Low(periphery),1167.243286,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1940,24.32432365,Low(periphery),1265.621582,0.039999999,Asia,West Asia
+368,IRQ,Iraq,1950,21.28378296,Low(periphery),1364,0.090000004,Asia,West Asia
+368,IRQ,Iraq,1960,32.43243408,Low(periphery),2735,0.524399996,Asia,West Asia
+368,IRQ,Iraq,1970,35.13513565,Middle(semi-per),3473,1.377599955,Asia,West Asia
+368,IRQ,Iraq,1980,43.58108139,Middle(semi-per),6377,1.863700032,Asia,West Asia
+368,IRQ,Iraq,1990,49.32432556,Middle(semi-per),11521.73047,4.368400097,Asia,West Asia
+368,IRQ,Iraq,2000,44.25675583,Middle(semi-per),12176.81445,5.184100151,Asia,West Asia
+368,IRQ,Iraq,2010,39.18918991,Middle(semi-per),12717.59766,5.846399784,Asia,West Asia
+372,IRL,Ireland,1880,89.52702332,High(core),1998.488403,2.619999886,NW Europe,North Europe
+372,IRL,Ireland,1890,89.1891861,High(core),2221.976807,3.329999924,NW Europe,North Europe
+372,IRL,Ireland,1900,89.52702332,High(core),2445.465088,4.21999979,NW Europe,North Europe
+372,IRL,Ireland,1910,87.16216278,High(core),2668.953369,5.070000172,NW Europe,North Europe
+372,IRL,Ireland,1920,87.83783722,High(core),2558.375,5.880000114,NW Europe,North Europe
+372,IRL,Ireland,1930,86.82432556,High(core),2897,6.139999866,NW Europe,North Europe
+372,IRL,Ireland,1940,85.13513184,High(core),3052,6.269999981,NW Europe,North Europe
+372,IRL,Ireland,1950,83.78378296,High(core),3453,6.400000095,NW Europe,North Europe
+372,IRL,Ireland,1960,87.83783722,High(core),4282,7.995800018,NW Europe,North Europe
+372,IRL,Ireland,1970,86.14865112,High(core),6199,8.757200241,NW Europe,North Europe
+372,IRL,Ireland,1980,85.8108139,High(core),8541,9.347499847,NW Europe,North Europe
+372,IRL,Ireland,1990,88.51351166,High(core),22116.97852,10.58170033,NW Europe,North Europe
+372,IRL,Ireland,2000,90.20270538,High(core),40815.02344,10.87320042,NW Europe,North Europe
+372,IRL,Ireland,2010,92.56756592,High(core),45661.46875,11.64000034,NW Europe,North Europe
+380,ITA,Italy,1880,75.33783722,High(core),1581,1.330000043,SE Europe,South Europe
+380,ITA,Italy,1890,77.36486816,High(core),1667,1.870000005,SE Europe,South Europe
+380,ITA,Italy,1900,77.70270538,High(core),1785,2.380000114,SE Europe,South Europe
+380,ITA,Italy,1910,79.7297287,High(core),2332,2.839999914,SE Europe,South Europe
+380,ITA,Italy,1920,81.41892242,High(core),2587,3.359999895,SE Europe,South Europe
+380,ITA,Italy,1930,81.08107758,High(core),2918,3.940000057,SE Europe,South Europe
+380,ITA,Italy,1940,79.39189148,High(core),3505,4.239999771,SE Europe,South Europe
+380,ITA,Italy,1950,77.02702332,High(core),3502,4.550000191,SE Europe,South Europe
+380,ITA,Italy,1960,78.37837982,High(core),5916,4.8604002,SE Europe,South Europe
+380,ITA,Italy,1970,77.02702332,High(core),9719,5.636000156,SE Europe,South Europe
+380,ITA,Italy,1980,77.02702332,High(core),13149,6.125800133,SE Europe,South Europe
+380,ITA,Italy,1990,77.36486816,High(core),31141.90234,7.71780014,SE Europe,South Europe
+380,ITA,Italy,2000,74.66216278,High(core),36535.82031,8.786399841,SE Europe,South Europe
+380,ITA,Italy,2010,73.3108139,High(core),36201.16016,9.509599686,SE Europe,South Europe
+384,CIV,C?te d'Ivoire,1880,16.21621704,Low(periphery),533.666687,0.129999995,Africa,West Africa
+384,CIV,C?te d'Ivoire,1890,7.094594479,Low(periphery),567.333313,0.129999995,Africa,West Africa
+384,CIV,C?te d'Ivoire,1900,7.094594479,Low(periphery),601,0.129999995,Africa,West Africa
+384,CIV,C?te d'Ivoire,1910,10.81081104,Low(periphery),628.6923218,0.129999995,Africa,West Africa
+384,CIV,C?te d'Ivoire,1920,8.783783913,Low(periphery),682.6296387,0.129999995,Africa,West Africa
+384,CIV,C?te d'Ivoire,1930,6.418919086,Low(periphery),747.8148193,0.150000006,Africa,West Africa
+384,CIV,C?te d'Ivoire,1940,13.17567539,Low(periphery),813,0.180000007,Africa,West Africa
+384,CIV,C?te d'Ivoire,1950,17.56756783,Low(periphery),1041,0.209999993,Africa,West Africa
+384,CIV,C?te d'Ivoire,1960,24.66216278,Low(periphery),1256,0.921199977,Africa,West Africa
+384,CIV,C?te d'Ivoire,1970,24.66216278,Low(periphery),1808,1.259600043,Africa,West Africa
+384,CIV,C?te d'Ivoire,1980,22.63513565,Low(periphery),2041,1.671900034,Africa,West Africa
+384,CIV,C?te d'Ivoire,1990,21.28378296,Low(periphery),3193.758545,2.688999891,Africa,West Africa
+384,CIV,C?te d'Ivoire,2000,22.63513565,Low(periphery),2947.606689,3.862299919,Africa,West Africa
+384,CIV,C?te d'Ivoire,2010,17.22973061,Low(periphery),2690.258057,4.501200199,Africa,West Africa
+388,JAM,Jamaica,1880,43.91891861,Middle(semi-per),551.9767456,1.190000057,L America,Caribbean
+388,JAM,Jamaica,1890,48.64864731,Middle(semi-per),568.9534912,1.889999986,L America,Caribbean
+388,JAM,Jamaica,1900,38.17567444,Middle(semi-per),585.9302368,2.549999952,L America,Caribbean
+388,JAM,Jamaica,1910,40.87837982,Middle(semi-per),602.9069824,3.369999886,L America,Caribbean
+388,JAM,Jamaica,1920,54.05405426,Middle(semi-per),709.9199829,3.75,L America,Caribbean
+388,JAM,Jamaica,1930,54.39189148,Middle(semi-per),855.5200195,3.819999933,L America,Caribbean
+388,JAM,Jamaica,1940,55.74324417,Middle(semi-per),971,4.309999943,L America,Caribbean
+388,JAM,Jamaica,1950,56.41891861,Middle(semi-per),1327,4.619999886,L America,Caribbean
+388,JAM,Jamaica,1960,56.75675583,Middle(semi-per),2654,3.857300043,L America,Caribbean
+388,JAM,Jamaica,1970,58.10810852,Middle(semi-per),3849,4.841599941,L America,Caribbean
+388,JAM,Jamaica,1980,51.68918991,Middle(semi-per),3121,5.364799976,L America,Caribbean
+388,JAM,Jamaica,1990,55.06756592,Middle(semi-per),7286.1875,7.111400127,L America,Caribbean
+388,JAM,Jamaica,2000,60.47297287,Middle(semi-per),7931.738281,9.070699692,L America,Caribbean
+388,JAM,Jamaica,2010,56.75675583,Middle(semi-per),7996.512695,9.87349987,L America,Caribbean
+392,JPN,Japan,1880,72.29729462,High(core),863,1.940000057,Asia,East Asia
+392,JPN,Japan,1890,72.29729462,High(core),1012,2.349999905,Asia,East Asia
+392,JPN,Japan,1900,73.3108139,High(core),1180,2.980000019,Asia,East Asia
+392,JPN,Japan,1910,74.66216278,High(core),1304,3.660000086,Asia,East Asia
+392,JPN,Japan,1920,79.39189148,High(core),1696,4.630000114,Asia,East Asia
+392,JPN,Japan,1930,80.40540314,High(core),1850,5.699999809,Asia,East Asia
+392,JPN,Japan,1940,85.13513184,High(core),2874,6.579999924,Asia,East Asia
+392,JPN,Japan,1950,73.64865112,High(core),1921,7.510000229,Asia,East Asia
+392,JPN,Japan,1960,86.82432556,High(core),3986,8.007100105,Asia,East Asia
+392,JPN,Japan,1970,89.1891861,High(core),9714,8.198800087,Asia,East Asia
+392,JPN,Japan,1980,90.87837982,High(core),13428,8.742899895,Asia,East Asia
+392,JPN,Japan,1990,89.52702332,High(core),30447.25781,9.964599609,Asia,East Asia
+392,JPN,Japan,2000,86.82432556,High(core),33871.84375,10.9229002,Asia,East Asia
+392,JPN,Japan,2010,86.82432556,High(core),35749.76953,11.58199978,Asia,East Asia
+40,AUT,Austria,1880,91.55405426,High(core),2079,3.630000114,NW Europe,West Europe
+40,AUT,Austria,1890,91.89189148,High(core),2443,4.099999905,NW Europe,West Europe
+40,AUT,Austria,1900,91.21621704,High(core),2882,4.730000019,NW Europe,West Europe
+40,AUT,Austria,1910,91.55405426,High(core),3290,5.360000134,NW Europe,West Europe
+40,AUT,Austria,1920,86.48648834,High(core),2412,5.929999828,NW Europe,West Europe
+40,AUT,Austria,1930,88.17567444,High(core),3586,5.849999905,NW Europe,West Europe
+40,AUT,Austria,1940,88.51351166,High(core),3959,6.289999962,NW Europe,West Europe
+40,AUT,Austria,1950,86.82432556,High(core),3706,6.940000057,NW Europe,West Europe
+40,AUT,Austria,1960,73.98648834,High(core),6519,4.053100109,NW Europe,West Europe
+40,AUT,Austria,1970,80.06756592,High(core),9747,6.067200184,NW Europe,West Europe
+40,AUT,Austria,1980,82.09459686,High(core),13759,6.649799824,NW Europe,West Europe
+40,AUT,Austria,1990,78.37837982,High(core),31265.28711,7.899400234,NW Europe,West Europe
+40,AUT,Austria,2000,79.05405426,High(core),38812.05078,8.947299957,NW Europe,West Europe
+40,AUT,Austria,2010,77.36486816,High(core),43174.97656,9.535300255,NW Europe,West Europe
+404,KEN,Kenya,1880,30.40540504,Low(periphery),533.666687,0.899999976,Africa,East Africa
+404,KEN,Kenya,1890,27.36486435,Low(periphery),567.333313,0.980000019,Africa,East Africa
+404,KEN,Kenya,1900,33.44594574,Middle(semi-per),601,1.059999943,Africa,East Africa
+404,KEN,Kenya,1910,33.44594574,Middle(semi-per),628.6923218,1.139999986,Africa,East Africa
+404,KEN,Kenya,1920,26.01351357,Low(periphery),682.6296387,1.220000029,Africa,East Africa
+404,KEN,Kenya,1930,28.0405407,Low(periphery),747.8148193,1.289999962,Africa,East Africa
+404,KEN,Kenya,1940,34.45946121,Middle(semi-per),813,1.379999995,Africa,East Africa
+404,KEN,Kenya,1950,25,Low(periphery),651,1.5,Africa,East Africa
+404,KEN,Kenya,1960,22.97297287,Low(periphery),726,1.523100019,Africa,East Africa
+404,KEN,Kenya,1970,23.31081009,Low(periphery),915,2.174000025,Africa,East Africa
+404,KEN,Kenya,1980,24.66216278,Low(periphery),1051,2.869699955,Africa,East Africa
+404,KEN,Kenya,1990,31.41891861,Low(periphery),2380.409668,5.595900059,Africa,East Africa
+404,KEN,Kenya,2000,30.74324417,Low(periphery),2132.085205,6.623799801,Africa,East Africa
+404,KEN,Kenya,2010,27.02702713,Low(periphery),2475.843506,7.304500103,Africa,East Africa
+450,MDG,Madagascar,1880,23.98648643,Low(periphery),533.666687,0.50999999,Africa,East Africa
+450,MDG,Madagascar,1890,23.64864922,Low(periphery),567.333313,0.560000002,Africa,East Africa
+450,MDG,Madagascar,1900,22.29729652,Low(periphery),601,0.610000014,Africa,East Africa
+450,MDG,Madagascar,1910,17.56756783,Low(periphery),628.6923218,0.670000017,Africa,East Africa
+450,MDG,Madagascar,1920,22.29729652,Low(periphery),682.6296387,0.730000019,Africa,East Africa
+450,MDG,Madagascar,1930,30.06756783,Low(periphery),747.8148193,0.870000005,Africa,East Africa
+450,MDG,Madagascar,1940,28.0405407,Low(periphery),813,1.059999943,Africa,East Africa
+450,MDG,Madagascar,1950,29.39189148,Low(periphery),951,1.269999981,Africa,East Africa
+450,MDG,Madagascar,1960,28.37837791,Low(periphery),1125,1.440000057,Africa,East Africa
+450,MDG,Madagascar,1970,22.29729652,Low(periphery),1226,1.549999952,Africa,East Africa
+450,MDG,Madagascar,1980,20.27026939,Low(periphery),1054,2.069999933,Africa,East Africa
+450,MDG,Madagascar,1990,17.56756783,Low(periphery),1653.158936,2.940000057,Africa,East Africa
+450,MDG,Madagascar,2000,13.17567539,Low(periphery),1444.029419,3.609999895,Africa,East Africa
+450,MDG,Madagascar,2010,8.44594574,Low(periphery),1385.685059,3.960000038,Africa,East Africa
+454,MWI,Malawi,1880,23.31081009,Low(periphery),533.666687,0.400000006,Africa,East Africa
+454,MWI,Malawi,1890,21.28378296,Low(periphery),567.333313,0.540000021,Africa,East Africa
+454,MWI,Malawi,1900,21.28378296,Low(periphery),601,0.689999998,Africa,East Africa
+454,MWI,Malawi,1910,23.31081009,Low(periphery),628.6923218,0.829999983,Africa,East Africa
+454,MWI,Malawi,1920,23.64864922,Low(periphery),682.6296387,1.139999986,Africa,East Africa
+454,MWI,Malawi,1930,31.08108139,Low(periphery),747.8148193,1.49000001,Africa,East Africa
+454,MWI,Malawi,1940,37.16216278,Middle(semi-per),813,1.74000001,Africa,East Africa
+454,MWI,Malawi,1950,21.28378296,Low(periphery),324,1.940000057,Africa,East Africa
+454,MWI,Malawi,1960,11.82432461,Low(periphery),394,1.085000038,Africa,East Africa
+454,MWI,Malawi,1970,10.81081104,Low(periphery),447,1.565799952,Africa,East Africa
+454,MWI,Malawi,1980,11.48648643,Low(periphery),630,1.863899946,Africa,East Africa
+454,MWI,Malawi,1990,8.108108521,Low(periphery),744.1970825,2.892199993,Africa,East Africa
+454,MWI,Malawi,2000,9.459459305,Low(periphery),865.9575195,3.477400064,Africa,East Africa
+454,MWI,Malawi,2010,9.797297478,Low(periphery),1032.962891,4.700300217,Africa,East Africa
+458,MYS,Malaysia,1880,51.35135269,Middle(semi-per),696.6585083,0.790000021,Asia,Southeast Asia
+458,MYS,Malaysia,1890,46.62162018,Middle(semi-per),730.3170776,0.800000012,Asia,Southeast Asia
+458,MYS,Malaysia,1900,41.55405426,Middle(semi-per),763.9755859,0.850000024,Asia,Southeast Asia
+458,MYS,Malaysia,1910,38.85135269,Middle(semi-per),797.6341553,0.879999995,Asia,Southeast Asia
+458,MYS,Malaysia,1920,42.90540695,Middle(semi-per),1110,0.970000029,Asia,Southeast Asia
+458,MYS,Malaysia,1930,52.70270157,Middle(semi-per),1636,1.100000024,Asia,Southeast Asia
+458,MYS,Malaysia,1940,43.91891861,Middle(semi-per),1278,1.399999976,Asia,Southeast Asia
+458,MYS,Malaysia,1950,44.93243408,Middle(semi-per),1559,1.980000019,Asia,Southeast Asia
+458,MYS,Malaysia,1960,41.89189148,Middle(semi-per),1530,2.838200092,Asia,Southeast Asia
+458,MYS,Malaysia,1970,46.62162018,Middle(semi-per),2079,4.166500092,Asia,Southeast Asia
+458,MYS,Malaysia,1980,50,Middle(semi-per),3657,4.78429985,Asia,Southeast Asia
+458,MYS,Malaysia,1990,61.48648834,Middle(semi-per),10551.59082,6.965799809,Asia,Southeast Asia
+458,MYS,Malaysia,2000,71.28378296,High(core),16309.9873,9.085700035,Asia,Southeast Asia
+458,MYS,Malaysia,2010,72.97297668,High(core),21107.29297,10.14309978,Asia,Southeast Asia
+466,MLI,Mali,1880,9.121622086,Low(periphery),533.666687,0.119999997,Africa,West Africa
+466,MLI,Mali,1890,14.52702713,Low(periphery),567.333313,0.129999995,Africa,West Africa
+466,MLI,Mali,1900,6.081080914,Low(periphery),601,0.140000001,Africa,West Africa
+466,MLI,Mali,1910,14.8648653,Low(periphery),628.6923218,0.159999996,Africa,West Africa
+466,MLI,Mali,1920,7.094594479,Low(periphery),682.6296387,0.170000002,Africa,West Africa
+466,MLI,Mali,1930,7.770270348,Low(periphery),747.8148193,0.180000007,Africa,West Africa
+466,MLI,Mali,1940,16.89189148,Low(periphery),813,0.189999998,Africa,West Africa
+466,MLI,Mali,1950,5.405405521,Low(periphery),457,0.200000003,Africa,West Africa
+466,MLI,Mali,1960,3.716216326,Low(periphery),534,0.190899998,Africa,West Africa
+466,MLI,Mali,1970,2.02702713,Low(periphery),586,0.289299995,Africa,West Africa
+466,MLI,Mali,1980,4.05405426,Low(periphery),733,0.446799994,Africa,West Africa
+466,MLI,Mali,1990,5.743243217,Low(periphery),1271.794067,0.901000023,Africa,West Africa
+466,MLI,Mali,2000,6.756756783,Low(periphery),1462.9198,1.207000017,Africa,West Africa
+466,MLI,Mali,2010,7.432432652,Low(periphery),1871.984741,2.032999992,Africa,West Africa
+484,MEX,Mexico,1880,65.20270538,Middle(semi-per),842.5,1.320000052,L America,Central America
+484,MEX,Mexico,1890,65.20270538,Middle(semi-per),1011,1.470000029,L America,Central America
+484,MEX,Mexico,1900,70.2702713,High(core),1366,1.620000005,L America,Central America
+484,MEX,Mexico,1910,71.62162018,High(core),1694,1.75999999,L America,Central America
+484,MEX,Mexico,1920,69.93243408,High(core),1823,1.850000024,L America,Central America
+484,MEX,Mexico,1930,61.82432556,Middle(semi-per),1618,1.99000001,L America,Central America
+484,MEX,Mexico,1940,57.43243408,Middle(semi-per),1852,2.329999924,L America,Central America
+484,MEX,Mexico,1950,61.48648834,Middle(semi-per),2365,2.950000048,L America,Central America
+484,MEX,Mexico,1960,55.06756592,Middle(semi-per),3155,2.76699996,L America,Central America
+484,MEX,Mexico,1970,52.02702713,Middle(semi-per),4320,3.555599928,L America,Central America
+484,MEX,Mexico,1980,55.74324417,Middle(semi-per),6320,4.147399902,L America,Central America
+484,MEX,Mexico,1990,61.48648834,Middle(semi-per),12584.46777,6.401000023,L America,Central America
+484,MEX,Mexico,2000,59.79729843,Middle(semi-per),15015.15234,7.616600037,L America,Central America
+484,MEX,Mexico,2010,59.12162018,Middle(semi-per),15534.94531,9.112999916,L America,Central America
+504,MAR,Morocco,1880,33.10810852,Low(periphery),597.1860352,0.25999999,Africa,North Africa
+504,MAR,Morocco,1890,25,Low(periphery),631.3720703,0.25999999,Africa,North Africa
+504,MAR,Morocco,1900,22.29729652,Low(periphery),665.5581665,0.25999999,Africa,North Africa
+504,MAR,Morocco,1910,21.28378296,Low(periphery),699.7442017,0.270000011,Africa,North Africa
+504,MAR,Morocco,1920,21.62162209,Low(periphery),850.9459229,0.270000011,Africa,North Africa
+504,MAR,Morocco,1930,27.02702713,Low(periphery),1052.297241,0.300000012,Africa,North Africa
+504,MAR,Morocco,1940,29.39189148,Low(periphery),1253.648682,0.360000014,Africa,North Africa
+504,MAR,Morocco,1950,28.71621704,Low(periphery),1455,0.469999999,Africa,North Africa
+504,MAR,Morocco,1960,19.59459496,Low(periphery),1329,0.471799999,Africa,North Africa
+504,MAR,Morocco,1970,20.27026939,Low(periphery),1616,0.984499991,Africa,North Africa
+504,MAR,Morocco,1980,21.28378296,Low(periphery),2272,1.366700053,Africa,North Africa
+504,MAR,Morocco,1990,25.67567635,Low(periphery),3912.005615,2.907799959,Africa,North Africa
+504,MAR,Morocco,2000,27.02702713,Low(periphery),4483.808594,3.894500017,Africa,North Africa
+504,MAR,Morocco,2010,26.35135078,Low(periphery),6443.253418,5.003600121,Africa,North Africa
+508,MOZ,Mozambique,1880,6.081080914,Low(periphery),533.666687,0.119999997,Africa,East Africa
+508,MOZ,Mozambique,1890,6.081080914,Low(periphery),567.333313,0.140000001,Africa,East Africa
+508,MOZ,Mozambique,1900,12.16216183,Low(periphery),601,0.150000006,Africa,East Africa
+508,MOZ,Mozambique,1910,15.5405407,Low(periphery),628.6923218,0.170000002,Africa,East Africa
+508,MOZ,Mozambique,1920,16.89189148,Low(periphery),682.6296387,0.189999998,Africa,East Africa
+508,MOZ,Mozambique,1930,15.87837791,Low(periphery),747.8148193,0.209999993,Africa,East Africa
+508,MOZ,Mozambique,1940,8.108108521,Low(periphery),813,0.230000004,Africa,East Africa
+508,MOZ,Mozambique,1950,20.94594574,Low(periphery),1133,0.280000001,Africa,East Africa
+508,MOZ,Mozambique,1960,24.32432365,Low(periphery),1327,0.835399985,Africa,East Africa
+508,MOZ,Mozambique,1970,21.62162209,Low(periphery),1743,1.002599955,Africa,East Africa
+508,MOZ,Mozambique,1980,15.87837791,Low(periphery),1220,0.94660002,Africa,East Africa
+508,MOZ,Mozambique,1990,0.67567569,Low(periphery),378.5342712,0.998399973,Africa,East Africa
+508,MOZ,Mozambique,2000,0.67567569,Low(periphery),561.6127319,1.049999952,Africa,East Africa
+508,MOZ,Mozambique,2010,2.02702713,Low(periphery),917.763855,1.754799962,Africa,East Africa
+528,NLD,Netherlands,1880,96.9594574,High(core),3046,5.449999809,NW Europe,West Europe
+528,NLD,Netherlands,1890,96.62162018,High(core),3323,5.619999886,NW Europe,West Europe
+528,NLD,Netherlands,1900,95.2702713,High(core),3424,5.809999943,NW Europe,West Europe
+528,NLD,Netherlands,1910,93.91892242,High(core),3789,6.010000229,NW Europe,West Europe
+528,NLD,Netherlands,1920,93.58107758,High(core),4220,6.289999962,NW Europe,West Europe
+528,NLD,Netherlands,1930,94.25675964,High(core),5603,6.579999924,NW Europe,West Europe
+528,NLD,Netherlands,1940,91.55405426,High(core),4831,6.96999979,NW Europe,West Europe
+528,NLD,Netherlands,1950,91.21621704,High(core),5996,7.300000191,NW Europe,West Europe
+528,NLD,Netherlands,1960,87.83783722,High(core),8287,6.250699997,NW Europe,West Europe
+528,NLD,Netherlands,1970,92.2297287,High(core),11967,8.194999695,NW Europe,West Europe
+528,NLD,Netherlands,1980,93.91892242,High(core),14705,8.933899879,NW Europe,West Europe
+528,NLD,Netherlands,1990,92.2297287,High(core),32090.21094,10.13119984,NW Europe,West Europe
+528,NLD,Netherlands,2000,90.20270538,High(core),41721.69531,10.72850037,NW Europe,West Europe
+528,NLD,Netherlands,2010,89.52702332,High(core),45524.66406,11.02260017,NW Europe,West Europe
+554,NZL,New Zealand,1880,94.93243408,High(core),3747,3.859999895,NW Europe,Offshoots
+554,NZL,New Zealand,1890,95.94594574,High(core),3755,5.230000019,NW Europe,Offshoots
+554,NZL,New Zealand,1900,98.3108139,High(core),4298,6.260000229,NW Europe,Offshoots
+554,NZL,New Zealand,1910,98.98648834,High(core),5316,7.170000076,NW Europe,Offshoots
+554,NZL,New Zealand,1920,98.98648834,High(core),5641,7.860000134,NW Europe,Offshoots
+554,NZL,New Zealand,1930,95.94594574,High(core),4960,7.989999771,NW Europe,Offshoots
+554,NZL,New Zealand,1940,96.62162018,High(core),6300,8.050000191,NW Europe,Offshoots
+554,NZL,New Zealand,1950,96.28378296,High(core),8456,8.109999657,NW Europe,Offshoots
+554,NZL,New Zealand,1960,97.97297668,High(core),9465,10.02009964,NW Europe,Offshoots
+554,NZL,New Zealand,1970,96.28378296,High(core),11189,11.20979977,NW Europe,Offshoots
+554,NZL,New Zealand,1980,92.90540314,High(core),12347,11.92389965,NW Europe,Offshoots
+554,NZL,New Zealand,1990,91.21621704,High(core),24160.77539,11.75660038,NW Europe,Offshoots
+554,NZL,New Zealand,2000,89.52702332,High(core),28264.56445,12.16409969,NW Europe,Offshoots
+554,NZL,New Zealand,2010,89.52702332,High(core),32252.91797,12.68959999,NW Europe,Offshoots
+558,NIC,Nicaragua,1880,41.89189148,Middle(semi-per),583.333313,0.779999971,L America,Central America
+558,NIC,Nicaragua,1890,48.64864731,Middle(semi-per),680.666687,0.949999988,L America,Central America
+558,NIC,Nicaragua,1900,45.94594574,Middle(semi-per),778,1.039999962,L America,Central America
+558,NIC,Nicaragua,1910,47.29729843,Middle(semi-per),978,1.129999995,L America,Central America
+558,NIC,Nicaragua,1920,49.66216278,Middle(semi-per),1264,1.169999957,L America,Central America
+558,NIC,Nicaragua,1930,48.64864731,Middle(semi-per),1415,1.370000005,L America,Central America
+558,NIC,Nicaragua,1940,45.94594574,Middle(semi-per),1372,1.519999981,L America,Central America
+558,NIC,Nicaragua,1950,44.25675583,Middle(semi-per),1616,1.860000014,L America,Central America
+558,NIC,Nicaragua,1960,42.56756592,Middle(semi-per),1983,2.208899975,L America,Central America
+558,NIC,Nicaragua,1970,42.56756592,Middle(semi-per),2812,3.036200047,L America,Central America
+558,NIC,Nicaragua,1980,34.12162018,Middle(semi-per),2154,3.316400051,L America,Central America
+558,NIC,Nicaragua,1990,27.02702713,Low(periphery),3003.519043,4.361800194,L America,Central America
+558,NIC,Nicaragua,2000,29.39189148,Low(periphery),3456.081787,5.419099808,L America,Central America
+558,NIC,Nicaragua,2010,29.72973061,Low(periphery),4028.712158,6.742300034,L America,Central America
+56,BEL,Belgium,1880,95.94594574,High(core),3065,4.78000021,NW Europe,West Europe
+56,BEL,Belgium,1890,95.2702713,High(core),3428,5.179999828,NW Europe,West Europe
+56,BEL,Belgium,1900,93.58107758,High(core),3731,5.170000076,NW Europe,West Europe
+56,BEL,Belgium,1910,92.56756592,High(core),4064,5.329999924,NW Europe,West Europe
+56,BEL,Belgium,1920,91.21621704,High(core),3962,5.559999943,NW Europe,West Europe
+56,BEL,Belgium,1930,91.89189148,High(core),4979,5.900000095,NW Europe,West Europe
+56,BEL,Belgium,1940,89.52702332,High(core),4562,6.079999924,NW Europe,West Europe
+56,BEL,Belgium,1950,88.17567444,High(core),5462,6.260000229,NW Europe,West Europe
+56,BEL,Belgium,1960,88.51351166,High(core),6952,6.947700024,NW Europe,West Europe
+56,BEL,Belgium,1970,88.17567444,High(core),10611,7.51760006,NW Europe,West Europe
+56,BEL,Belgium,1980,90.87837982,High(core),14467,8.089799881,NW Europe,West Europe
+56,BEL,Belgium,1990,88.85134888,High(core),30701.20313,9.613599777,NW Europe,West Europe
+56,BEL,Belgium,2000,87.5,High(core),37253.46875,10.16040039,NW Europe,West Europe
+56,BEL,Belgium,2010,85.47297668,High(core),41086.5625,10.54529953,NW Europe,West Europe
+562,NER,Niger,1880,5.067567348,Low(periphery),533.666687,0.07,Africa,West Africa
+562,NER,Niger,1890,6.756756783,Low(periphery),567.333313,0.07,Africa,West Africa
+562,NER,Niger,1900,5.405405521,Low(periphery),601,0.07,Africa,West Africa
+562,NER,Niger,1910,5.743243217,Low(periphery),628.6923218,0.07,Africa,West Africa
+562,NER,Niger,1920,14.18918896,Low(periphery),682.6296387,0.07,Africa,West Africa
+562,NER,Niger,1930,11.14864826,Low(periphery),747.8148193,0.07,Africa,West Africa
+562,NER,Niger,1940,10.1351347,Low(periphery),813,0.079999998,Africa,West Africa
+562,NER,Niger,1950,7.432432652,Low(periphery),617,0.079999998,Africa,West Africa
+562,NER,Niger,1960,10.81081104,Low(periphery),761,0.379299998,Africa,West Africa
+562,NER,Niger,1970,8.108108521,Low(periphery),839,0.445100009,Africa,West Africa
+562,NER,Niger,1980,5.743243217,Low(periphery),810,0.520299971,Africa,West Africa
+562,NER,Niger,1990,4.391891956,Low(periphery),894.2512207,1.028300047,Africa,West Africa
+562,NER,Niger,2000,2.364864826,Low(periphery),753.1856689,1.370399952,Africa,West Africa
+562,NER,Niger,2010,1.689189196,Low(periphery),813.977417,1.837000012,Africa,West Africa
+566,NGA,Nigeria,1880,24.66216278,Low(periphery),533.666687,0.699999988,Africa,West Africa
+566,NGA,Nigeria,1890,20.27026939,Low(periphery),567.333313,0.699999988,Africa,West Africa
+566,NGA,Nigeria,1900,23.98648643,Low(periphery),601,0.699999988,Africa,West Africa
+566,NGA,Nigeria,1910,22.97297287,Low(periphery),628.6923218,0.699999988,Africa,West Africa
+566,NGA,Nigeria,1920,23.98648643,Low(periphery),682.6296387,0.709999979,Africa,West Africa
+566,NGA,Nigeria,1930,19.59459496,Low(periphery),747.8148193,0.74000001,Africa,West Africa
+566,NGA,Nigeria,1940,25.33783722,Low(periphery),813,0.810000002,Africa,West Africa
+566,NGA,Nigeria,1950,22.29729652,Low(periphery),753,0.889999986,Africa,West Africa
+566,NGA,Nigeria,1960,19.59459496,Low(periphery),820,1.059999943,Africa,West Africa
+566,NGA,Nigeria,1970,18.58108139,Low(periphery),1094,1.289999962,Africa,West Africa
+566,NGA,Nigeria,1980,19.25675583,Low(periphery),1305,1.440000057,Africa,West Africa
+566,NGA,Nigeria,1990,19.25675583,Low(periphery),3041.509277,2.630000114,Africa,West Africa
+566,NGA,Nigeria,2000,21.62162209,Low(periphery),2848.150635,3.839999914,Africa,West Africa
+566,NGA,Nigeria,2010,22.29729652,Low(periphery),5150.158691,4.25,Africa,West Africa
+578,NOR,Norway,1880,90.5405426,High(core),1517,5.659999847,NW Europe,North Europe
+578,NOR,Norway,1890,90.87837982,High(core),1709,5.710000038,NW Europe,North Europe
+578,NOR,Norway,1900,89.1891861,High(core),1877,5.769999981,NW Europe,North Europe
+578,NOR,Norway,1910,88.17567444,High(core),2186,5.980000019,NW Europe,North Europe
+578,NOR,Norway,1920,89.52702332,High(core),2739,6.260000229,NW Europe,North Europe
+578,NOR,Norway,1930,89.86486816,High(core),3627,6.46999979,NW Europe,North Europe
+578,NOR,Norway,1940,90.5405426,High(core),4038,7.059999943,NW Europe,North Europe
+578,NOR,Norway,1950,90.87837982,High(core),5430,7.340000153,NW Europe,North Europe
+578,NOR,Norway,1960,91.55405426,High(core),7204,7.591400146,NW Europe,North Europe
+578,NOR,Norway,1970,91.55405426,High(core),10027,8.496199608,NW Europe,North Europe
+578,NOR,Norway,1980,93.24324036,High(core),15076,8.734000206,NW Europe,North Europe
+578,NOR,Norway,1990,96.28378296,High(core),42829.63672,10.57240009,NW Europe,North Europe
+578,NOR,Norway,2000,96.28378296,High(core),58066.58594,11.29049969,NW Europe,North Europe
+578,NOR,Norway,2010,97.29729462,High(core),62268.01172,12.29650021,NW Europe,North Europe
+591,PAN,Panama,1880,53.71621704,Middle(semi-per),583.333313,1.539999962,L America,Central America
+591,PAN,Panama,1890,57.7702713,Middle(semi-per),680.666687,1.779999971,L America,Central America
+591,PAN,Panama,1900,56.08108139,Middle(semi-per),778,2.029999971,L America,Central America
+591,PAN,Panama,1910,61.14864731,Middle(semi-per),978,2.289999962,L America,Central America
+591,PAN,Panama,1920,63.17567444,Middle(semi-per),1273.15625,2.549999952,L America,Central America
+591,PAN,Panama,1930,66.55405426,Middle(semi-per),1609.09375,2.869999886,L America,Central America
+591,PAN,Panama,1940,64.86486816,Middle(semi-per),1945.03125,3.410000086,L America,Central America
+591,PAN,Panama,1950,60.13513565,Middle(semi-per),1916,3.920000076,L America,Central America
+591,PAN,Panama,1960,60.13513565,Middle(semi-per),2391,4.592299938,L America,Central America
+591,PAN,Panama,1970,59.45946121,Middle(semi-per),3814,5.199699879,L America,Central America
+591,PAN,Panama,1980,60.47297287,Middle(semi-per),5082,5.883900166,L America,Central America
+591,PAN,Panama,1990,60.81081009,Middle(semi-per),7815.682617,7.650000095,L America,Central America
+591,PAN,Panama,2000,60.47297287,Middle(semi-per),10571.57031,8.735600471,L America,Central America
+591,PAN,Panama,2010,63.17567444,Middle(semi-per),15419.3418,9.580300331,L America,Central America
+600,PRY,Paraguay,1880,41.21621704,Middle(semi-per),583.333313,0.779999971,L America,South America
+600,PRY,Paraguay,1890,46.28378296,Middle(semi-per),680.666687,0.930000007,L America,South America
+600,PRY,Paraguay,1900,49.32432556,Middle(semi-per),778,1.100000024,L America,South America
+600,PRY,Paraguay,1910,50.33783722,Middle(semi-per),978,1.370000005,L America,South America
+600,PRY,Paraguay,1920,58.78378296,Middle(semi-per),1268.461548,1.809999943,L America,South America
+600,PRY,Paraguay,1930,64.86486816,Middle(semi-per),1597.692261,2.559999943,L America,South America
+600,PRY,Paraguay,1940,61.14864731,Middle(semi-per),1752,3.150000095,L America,South America
+600,PRY,Paraguay,1950,55.40540695,Middle(semi-per),1584,3.450000048,L America,South America
+600,PRY,Paraguay,1960,46.28378296,Middle(semi-per),1555,3.426700115,L America,South America
+600,PRY,Paraguay,1970,44.93243408,Middle(semi-per),1872,4.143099785,L America,South America
+600,PRY,Paraguay,1980,48.31081009,Middle(semi-per),3301,4.68380022,L America,South America
+600,PRY,Paraguay,1990,48.64864731,Middle(semi-per),6036.472656,6.127399921,L America,South America
+600,PRY,Paraguay,2000,40.20270157,Middle(semi-per),6084.791016,6.248099804,L America,South America
+600,PRY,Paraguay,2010,44.25675583,Middle(semi-per),7289.513672,8.528100014,L America,South America
+604,PER,Peru,1880,55.40540695,Middle(semi-per),670.8461304,1.149999976,L America,South America
+604,PER,Peru,1890,42.90540695,Middle(semi-per),599.6923218,1.210000038,L America,South America
+604,PER,Peru,1900,42.90540695,Middle(semi-per),686,1.289999962,L America,South America
+604,PER,Peru,1910,54.7297287,Middle(semi-per),981,1.429999948,L America,South America
+604,PER,Peru,1920,53.04053879,Middle(semi-per),1226,1.669999957,L America,South America
+604,PER,Peru,1930,60.47297287,Middle(semi-per),1663,1.870000005,L America,South America
+604,PER,Peru,1940,57.7702713,Middle(semi-per),1911,2.210000038,L America,South America
+604,PER,Peru,1950,59.45946121,Middle(semi-per),2308,2.779999971,L America,South America
+604,PER,Peru,1960,57.09459305,Middle(semi-per),2969,3.487400055,L America,South America
+604,PER,Peru,1970,56.41891861,Middle(semi-per),3854,4.597799778,L America,South America
+604,PER,Peru,1980,56.75675583,Middle(semi-per),4263,5.488699913,L America,South America
+604,PER,Peru,1990,51.35135269,Middle(semi-per),5312.68457,7.222199917,L America,South America
+604,PER,Peru,2000,52.36486435,Middle(semi-per),6563.268066,8.324799538,L America,South America
+604,PER,Peru,2010,53.04053879,Middle(semi-per),9956.556641,9.021900177,L America,South America
+608,PHL,Philippines,1880,31.08108139,Low(periphery),639.3125,0.170000002,Asia,Southeast Asia
+608,PHL,Philippines,1890,26.68918991,Low(periphery),654.625,0.200000003,Asia,Southeast Asia
+608,PHL,Philippines,1900,21.28378296,Low(periphery),669.9375,0.230000004,Asia,Southeast Asia
+608,PHL,Philippines,1910,29.39189148,Low(periphery),874,0.289999992,Asia,Southeast Asia
+608,PHL,Philippines,1920,46.28378296,Middle(semi-per),1289,0.850000024,Asia,Southeast Asia
+608,PHL,Philippines,1930,47.63513565,Middle(semi-per),1382,1.360000014,Asia,Southeast Asia
+608,PHL,Philippines,1940,50.67567444,Middle(semi-per),1507,2.019999981,Asia,Southeast Asia
+608,PHL,Philippines,1950,42.56756592,Middle(semi-per),1070,2.720000029,Asia,Southeast Asia
+608,PHL,Philippines,1960,50.33783722,Middle(semi-per),1476,4.22300005,Asia,Southeast Asia
+608,PHL,Philippines,1970,48.98648834,Middle(semi-per),1764,5.405600071,Asia,Southeast Asia
+608,PHL,Philippines,1980,50.67567444,Middle(semi-per),2376,6.04489994,Asia,Southeast Asia
+608,PHL,Philippines,1990,48.64864731,Middle(semi-per),4010.202881,7.465799809,Asia,Southeast Asia
+608,PHL,Philippines,2000,45.94594574,Middle(semi-per),4224.113281,8.274499893,Asia,Southeast Asia
+608,PHL,Philippines,2010,44.59459305,Middle(semi-per),5596.836914,8.971500397,Asia,Southeast Asia
+620,PRT,Portugal,1880,61.48648834,Middle(semi-per),947,1.00999999,SE Europe,South Europe
+620,PRT,Portugal,1890,64.52702332,Middle(semi-per),1128,1.309999943,SE Europe,South Europe
+620,PRT,Portugal,1900,69.93243408,High(core),1302,1.669999957,SE Europe,South Europe
+620,PRT,Portugal,1910,65.5405426,Middle(semi-per),1228,1.879999995,SE Europe,South Europe
+620,PRT,Portugal,1920,59.12162018,Middle(semi-per),1229,2.079999924,SE Europe,South Europe
+620,PRT,Portugal,1930,63.17567444,Middle(semi-per),1571,2.220000029,SE Europe,South Europe
+620,PRT,Portugal,1940,56.08108139,Middle(semi-per),1615,2.400000095,SE Europe,South Europe
+620,PRT,Portugal,1950,54.7297287,Middle(semi-per),2086,2.660000086,SE Europe,South Europe
+620,PRT,Portugal,1960,55.40540695,Middle(semi-per),2956,3.19569993,SE Europe,South Europe
+620,PRT,Portugal,1970,56.75675583,Middle(semi-per),5473,3.768199921,SE Europe,South Europe
+620,PRT,Portugal,1980,62.83783722,Middle(semi-per),8044,4.697899818,SE Europe,South Europe
+620,PRT,Portugal,1990,66.21621704,Middle(semi-per),20166.92773,6.778800011,SE Europe,South Europe
+620,PRT,Portugal,2000,64.1891861,Middle(semi-per),25999.49023,7.343500137,SE Europe,South Europe
+620,PRT,Portugal,2010,59.12162018,Middle(semi-per),27238.46094,7.992899895,SE Europe,South Europe
+686,SEN,Senegal,1880,10.81081104,Low(periphery),533.666687,0.189999998,Africa,West Africa
+686,SEN,Senegal,1890,15.87837791,Low(periphery),567.333313,0.209999993,Africa,West Africa
+686,SEN,Senegal,1900,13.85135174,Low(periphery),601,0.230000004,Africa,West Africa
+686,SEN,Senegal,1910,18.91891861,Low(periphery),628.6923218,0.25,Africa,West Africa
+686,SEN,Senegal,1920,14.18918896,Low(periphery),682.6296387,0.270000011,Africa,West Africa
+686,SEN,Senegal,1930,13.85135174,Low(periphery),747.8148193,0.289999992,Africa,West Africa
+686,SEN,Senegal,1940,12.16216183,Low(periphery),813,0.310000002,Africa,West Africa
+686,SEN,Senegal,1950,22.63513565,Low(periphery),1259,0.330000013,Africa,West Africa
+686,SEN,Senegal,1960,36.14864731,Middle(semi-per),1445,1.856999993,Africa,West Africa
+686,SEN,Senegal,1970,29.39189148,Low(periphery),1435,2.26699996,Africa,West Africa
+686,SEN,Senegal,1980,26.35135078,Low(periphery),1268,2.528000116,Africa,West Africa
+686,SEN,Senegal,1990,20.27026939,Low(periphery),1841.992798,3.466500044,Africa,West Africa
+686,SEN,Senegal,2000,18.91891861,Low(periphery),1907.557373,4.216599941,Africa,West Africa
+686,SEN,Senegal,2010,17.90540504,Low(periphery),2180.591309,5.198500156,Africa,West Africa
+694,SLE,Sierra Leone,1880,19.93243217,Low(periphery),533.666687,0.300000012,Africa,West Africa
+694,SLE,Sierra Leone,1890,19.93243217,Low(periphery),567.333313,0.300000012,Africa,West Africa
+694,SLE,Sierra Leone,1900,15.5405407,Low(periphery),601,0.330000013,Africa,West Africa
+694,SLE,Sierra Leone,1910,10.81081104,Low(periphery),628.6923218,0.330000013,Africa,West Africa
+694,SLE,Sierra Leone,1920,14.18918896,Low(periphery),682.6296387,0.319999993,Africa,West Africa
+694,SLE,Sierra Leone,1930,18.91891861,Low(periphery),747.8148193,0.319999993,Africa,West Africa
+694,SLE,Sierra Leone,1940,18.24324417,Low(periphery),813,0.319999993,Africa,West Africa
+694,SLE,Sierra Leone,1950,12.5,Low(periphery),656,0.340000004,Africa,West Africa
+694,SLE,Sierra Leone,1960,14.52702713,Low(periphery),856,0.539300025,Africa,West Africa
+694,SLE,Sierra Leone,1970,15.87837791,Low(periphery),1129,0.879999995,Africa,West Africa
+694,SLE,Sierra Leone,1980,14.52702713,Low(periphery),1116,1.152899981,Africa,West Africa
+694,SLE,Sierra Leone,1990,9.459459305,Low(periphery),1250.575195,2.218300104,Africa,West Africa
+694,SLE,Sierra Leone,2000,7.432432652,Low(periphery),912.7425537,2.976799965,Africa,West Africa
+694,SLE,Sierra Leone,2010,7.094594479,Low(periphery),1217.219238,3.709500074,Africa,West Africa
+710,ZAF,South Africa,1880,67.56756592,High(core),1031.023315,1.309999943,Africa,South Africa
+710,ZAF,South Africa,1890,71.62162018,High(core),1204.046509,1.480000019,Africa,South Africa
+710,ZAF,South Africa,1900,71.28378296,High(core),1377.069824,1.690000057,Africa,South Africa
+710,ZAF,South Africa,1910,71.9594574,High(core),1550.093018,1.919999957,Africa,South Africa
+710,ZAF,South Africa,1920,71.62162018,High(core),1778.51355,2.25,Africa,South Africa
+710,ZAF,South Africa,1930,71.9594574,High(core),2030.675659,2.730000019,Africa,South Africa
+710,ZAF,South Africa,1940,71.9594574,High(core),2282.837891,3.220000029,Africa,South Africa
+710,ZAF,South Africa,1950,67.90540314,High(core),2535,3.710000038,Africa,South Africa
+710,ZAF,South Africa,1960,63.17567444,Middle(semi-per),3041,4.389999866,Africa,South Africa
+710,ZAF,South Africa,1970,57.09459305,Middle(semi-per),4045,4.644599915,Africa,South Africa
+710,ZAF,South Africa,1980,54.7297287,Middle(semi-per),4390,4.879899979,Africa,South Africa
+710,ZAF,South Africa,1990,58.44594574,Middle(semi-per),9898.521484,6.79640007,Africa,South Africa
+710,ZAF,South Africa,2000,53.04053879,Middle(semi-per),9715.621094,7.680600166,Africa,South Africa
+710,ZAF,South Africa,2010,52.36486435,Middle(semi-per),12028.93359,8.557800293,Africa,South Africa
+724,ESP,Spain,1880,86.48648834,High(core),1646,3.049999952,SE Europe,South Europe
+724,ESP,Spain,1890,85.8108139,High(core),1624,3.680000067,SE Europe,South Europe
+724,ESP,Spain,1900,85.8108139,High(core),1786,4.210000038,SE Europe,South Europe
+724,ESP,Spain,1910,84.79729462,High(core),1895,4.630000114,SE Europe,South Europe
+724,ESP,Spain,1920,84.12162018,High(core),2177,4.880000114,SE Europe,South Europe
+724,ESP,Spain,1930,82.09459686,High(core),2620,4.989999771,SE Europe,South Europe
+724,ESP,Spain,1940,73.64865112,High(core),2080,5.03000021,SE Europe,South Europe
+724,ESP,Spain,1950,70.2702713,High(core),2189,5.079999924,SE Europe,South Europe
+724,ESP,Spain,1960,58.10810852,Middle(semi-per),3072,3.296600103,SE Europe,South Europe
+724,ESP,Spain,1970,68.24324036,High(core),6319,4.742499828,SE Europe,South Europe
+724,ESP,Spain,1980,68.58107758,High(core),9203,5.181499958,SE Europe,South Europe
+724,ESP,Spain,1990,67.56756592,High(core),23758.76172,6.638899803,SE Europe,South Europe
+724,ESP,Spain,2000,77.70270538,High(core),29967.16602,9.339599609,SE Europe,South Europe
+724,ESP,Spain,2010,80.40540314,High(core),32506.43359,10.38210011,SE Europe,South Europe
+736,SDN,Sudan,1880,10.81081104,Low(periphery),533.666687,0.079999998,Africa,North Africa
+736,SDN,Sudan,1890,10.1351347,Low(periphery),567.333313,0.100000001,Africa,North Africa
+736,SDN,Sudan,1900,6.081080914,Low(periphery),601,0.119999997,Africa,North Africa
+736,SDN,Sudan,1910,4.391891956,Low(periphery),628.6923218,0.140000001,Africa,North Africa
+736,SDN,Sudan,1920,7.770270348,Low(periphery),682.6296387,0.159999996,Africa,North Africa
+736,SDN,Sudan,1930,9.459459305,Low(periphery),747.8148193,0.180000007,Africa,North Africa
+736,SDN,Sudan,1940,7.094594479,Low(periphery),813,0.200000003,Africa,North Africa
+736,SDN,Sudan,1950,18.58108139,Low(periphery),821,0.49000001,Africa,North Africa
+736,SDN,Sudan,1960,16.21621704,Low(periphery),1024,0.481999993,Africa,North Africa
+736,SDN,Sudan,1970,10.81081104,Low(periphery),888,0.727500021,Africa,North Africa
+736,SDN,Sudan,1980,9.459459305,Low(periphery),931,0.945500016,Africa,North Africa
+736,SDN,Sudan,1990,13.51351357,Low(periphery),1743.446045,2.14560008,Africa,North Africa
+736,SDN,Sudan,2000,14.18918896,Low(periphery),2286.658691,2.82130003,Africa,North Africa
+736,SDN,Sudan,2010,14.52702713,Low(periphery),3366.096191,3.278000116,Africa,North Africa
+752,SWE,Sweden,1880,89.86486816,High(core),1520,5.050000191,NW Europe,North Europe
+752,SWE,Sweden,1890,90.5405426,High(core),1769,5.460000038,NW Europe,North Europe
+752,SWE,Sweden,1900,90.87837982,High(core),2209,5.920000076,NW Europe,North Europe
+752,SWE,Sweden,1910,92.2297287,High(core),2776,6.329999924,NW Europe,North Europe
+752,SWE,Sweden,1920,92.90540314,High(core),3111,6.679999828,NW Europe,North Europe
+752,SWE,Sweden,1930,93.24324036,High(core),4306,6.980000019,NW Europe,North Europe
+752,SWE,Sweden,1940,93.91892242,High(core),5180,7.28000021,NW Europe,North Europe
+752,SWE,Sweden,1950,92.90540314,High(core),6769,7.53000021,NW Europe,North Europe
+752,SWE,Sweden,1960,91.89189148,High(core),8792,7.270199776,NW Europe,North Europe
+752,SWE,Sweden,1970,92.90540314,High(core),13011,8.079299927,NW Europe,North Europe
+752,SWE,Sweden,1980,93.91892242,High(core),15016,8.827300072,NW Europe,North Europe
+752,SWE,Sweden,1990,90.87837982,High(core),30933.63281,10.19789982,NW Europe,North Europe
+752,SWE,Sweden,2000,90.5405426,High(core),36854.86719,11.06709957,NW Europe,North Europe
+752,SWE,Sweden,2010,90.20270538,High(core),42942.5625,11.56719971,NW Europe,North Europe
+756,CHE,Switzerland,1880,97.97297668,High(core),2450,6.590000153,NW Europe,West Europe
+756,CHE,Switzerland,1890,97.97297668,High(core),3182,6.909999847,NW Europe,West Europe
+756,CHE,Switzerland,1900,98.64865112,High(core),3833,7.300000191,NW Europe,West Europe
+756,CHE,Switzerland,1910,98.3108139,High(core),4331,7.539999962,NW Europe,West Europe
+756,CHE,Switzerland,1920,96.9594574,High(core),4314,7.710000038,NW Europe,West Europe
+756,CHE,Switzerland,1930,97.63513184,High(core),6246,7.840000153,NW Europe,West Europe
+756,CHE,Switzerland,1940,97.97297668,High(core),6397,8.600000381,NW Europe,West Europe
+756,CHE,Switzerland,1950,98.3108139,High(core),9064,8.960000038,NW Europe,West Europe
+756,CHE,Switzerland,1960,95.2702713,High(core),12457,7.570000172,NW Europe,West Europe
+756,CHE,Switzerland,1970,96.62162018,High(core),16904,8.700200081,NW Europe,West Europe
+756,CHE,Switzerland,1980,97.63513184,High(core),18779,9.475500107,NW Europe,West Europe
+756,CHE,Switzerland,1990,93.91892242,High(core),47768.35156,9.644800186,NW Europe,West Europe
+756,CHE,Switzerland,2000,86.82432556,High(core),50314.07422,9.548500061,NW Europe,West Europe
+756,CHE,Switzerland,2010,83.10810852,High(core),55541.67188,9.876299858,NW Europe,West Europe
+760,SYR,Syria,1880,61.48648834,Middle(semi-per),961.6744385,1,Asia,West Asia
+760,SYR,Syria,1890,60.47297287,Middle(semi-per),1079.348877,1.049999952,Asia,West Asia
+760,SYR,Syria,1900,59.45946121,Middle(semi-per),1197.023315,1.110000014,Asia,West Asia
+760,SYR,Syria,1910,58.44594574,Middle(semi-per),1314.697632,1.159999967,Asia,West Asia
+760,SYR,Syria,1920,59.79729843,Middle(semi-per),1550.351318,1.220000029,Asia,West Asia
+760,SYR,Syria,1930,56.75675583,Middle(semi-per),1836.567627,1.269999981,Asia,West Asia
+760,SYR,Syria,1940,51.68918991,Middle(semi-per),2122.783691,1.350000024,Asia,West Asia
+760,SYR,Syria,1950,51.35135269,Middle(semi-per),2409,1.549999952,Asia,West Asia
+760,SYR,Syria,1960,44.59459305,Middle(semi-per),3023,1.374799967,Asia,West Asia
+760,SYR,Syria,1970,42.2297287,Middle(semi-per),3540,2.209899902,Asia,West Asia
+760,SYR,Syria,1980,50.33783722,Middle(semi-per),6508,2.815500021,Asia,West Asia
+760,SYR,Syria,1990,38.51351166,Middle(semi-per),5701,4.663300037,Asia,West Asia
+760,SYR,Syria,2000,35.81081009,Middle(semi-per),7368,4.634900093,Asia,West Asia
+760,SYR,Syria,2010,32.7702713,Low(periphery),9227.240234,5.27820015,Asia,West Asia
+76,BRA,Brazil,1880,60.13513565,Middle(semi-per),752,1.330000043,L America,South America
+76,BRA,Brazil,1890,58.44594574,Middle(semi-per),794,1.409999967,L America,South America
+76,BRA,Brazil,1900,45.94594574,Middle(semi-per),678,1.49000001,L America,South America
+76,BRA,Brazil,1910,47.63513565,Middle(semi-per),769,1.570000052,L America,South America
+76,BRA,Brazil,1920,49.32432556,Middle(semi-per),963,1.690000057,L America,South America
+76,BRA,Brazil,1930,47.63513565,Middle(semi-per),1048,1.840000033,L America,South America
+76,BRA,Brazil,1940,49.32432556,Middle(semi-per),1250,2.130000114,L America,South America
+76,BRA,Brazil,1950,50.67567444,Middle(semi-per),1672,2.559999943,L America,South America
+76,BRA,Brazil,1960,45.2702713,Middle(semi-per),2335,2.053499937,L America,South America
+76,BRA,Brazil,1970,42.90540695,Middle(semi-per),3057,2.810899973,L America,South America
+76,BRA,Brazil,1980,43.24324417,Middle(semi-per),5195,2.570199966,L America,South America
+76,BRA,Brazil,1990,47.97297287,Middle(semi-per),10344.63672,4.462800026,L America,South America
+76,BRA,Brazil,2000,49.32432556,Middle(semi-per),11370.72949,6.410699844,L America,South America
+76,BRA,Brazil,2010,48.64864731,Middle(semi-per),14539.08496,7.53910017,L America,South America
+764,THA,Thailand,1880,30.06756783,Low(periphery),696,0.100000001,Asia,Southeast Asia
+764,THA,Thailand,1890,32.43243408,Low(periphery),784,0.140000001,Asia,Southeast Asia
+764,THA,Thailand,1900,31.41891861,Low(periphery),808.7825928,0.189999998,Asia,Southeast Asia
+764,THA,Thailand,1910,25.67567635,Low(periphery),833.5652466,0.230000004,Asia,Southeast Asia
+764,THA,Thailand,1920,22.29729652,Low(periphery),820,0.280000001,Asia,Southeast Asia
+764,THA,Thailand,1930,22.29729652,Low(periphery),796.666687,0.360000014,Asia,Southeast Asia
+764,THA,Thailand,1940,29.39189148,Low(periphery),824.5,0.870000005,Asia,Southeast Asia
+764,THA,Thailand,1950,30.40540504,Low(periphery),817,1.690000057,Asia,Southeast Asia
+764,THA,Thailand,1960,43.91891861,Middle(semi-per),1078,4.190499783,Asia,Southeast Asia
+764,THA,Thailand,1970,38.17567444,Middle(semi-per),1694,3.625200033,Asia,Southeast Asia
+764,THA,Thailand,1980,41.55405426,Middle(semi-per),2554,3.926700115,Asia,Southeast Asia
+764,THA,Thailand,1990,45.2702713,Middle(semi-per),6650.439941,5.41230011,Asia,Southeast Asia
+764,THA,Thailand,2000,44.59459305,Middle(semi-per),9189.060547,6.112500191,Asia,Southeast Asia
+764,THA,Thailand,2010,47.97297287,Middle(semi-per),13486.5625,7.495699883,Asia,Southeast Asia
+788,TUN,Tunisia,1880,32.09459305,Low(periphery),691.1395264,0.129999995,Africa,North Africa
+788,TUN,Tunisia,1890,30.06756783,Low(periphery),749.2790527,0.129999995,Africa,North Africa
+788,TUN,Tunisia,1900,29.39189148,Low(periphery),807.4185791,0.159999996,Africa,North Africa
+788,TUN,Tunisia,1910,25.67567635,Low(periphery),865.5581665,0.200000003,Africa,North Africa
+788,TUN,Tunisia,1920,26.68918991,Low(periphery),926.8919067,0.280000001,Africa,North Africa
+788,TUN,Tunisia,1930,25.67567635,Low(periphery),989.5946045,0.409999996,Africa,North Africa
+788,TUN,Tunisia,1940,28.37837791,Low(periphery),1052.297241,0.589999974,Africa,North Africa
+788,TUN,Tunisia,1950,26.68918991,Low(periphery),1115,0.75999999,Africa,North Africa
+788,TUN,Tunisia,1960,25.67567635,Low(periphery),1343,0.908299983,Africa,North Africa
+788,TUN,Tunisia,1970,30.06756783,Low(periphery),1827,1.761000037,Africa,North Africa
+788,TUN,Tunisia,1980,35.13513565,Middle(semi-per),2944,2.450999975,Africa,North Africa
+788,TUN,Tunisia,1990,36.82432556,Middle(semi-per),5614.938477,4.375899792,Africa,North Africa
+788,TUN,Tunisia,2000,40.54053879,Middle(semi-per),7573.929199,5.822899818,Africa,North Africa
+788,TUN,Tunisia,2010,43.24324417,Middle(semi-per),10436.36523,7.322599888,Africa,North Africa
+792,TUR,Turkey,1880,46.62162018,Middle(semi-per),915.2325439,0.389999986,Asia,West Asia
+792,TUR,Turkey,1890,45.94594574,Middle(semi-per),1005.465088,0.439999998,Asia,West Asia
+792,TUR,Turkey,1900,44.93243408,Middle(semi-per),1095.697632,0.49000001,Asia,West Asia
+792,TUR,Turkey,1910,44.59459305,Middle(semi-per),1185.930176,0.540000021,Asia,West Asia
+792,TUR,Turkey,1920,30.06756783,Low(periphery),862.2999878,0.579999983,Asia,West Asia
+792,TUR,Turkey,1930,35.13513565,Middle(semi-per),1249,0.620000005,Asia,West Asia
+792,TUR,Turkey,1940,38.85135269,Middle(semi-per),1675,0.709999979,Asia,West Asia
+792,TUR,Turkey,1950,37.83783722,Middle(semi-per),1623,1.090000033,Asia,West Asia
+792,TUR,Turkey,1960,42.56756592,Middle(semi-per),2247,1.76820004,Asia,West Asia
+792,TUR,Turkey,1970,42.2297287,Middle(semi-per),3078,2.432499886,Asia,West Asia
+792,TUR,Turkey,1980,41.89189148,Middle(semi-per),4022,2.924900055,Asia,West Asia
+792,TUR,Turkey,1990,52.02702713,Middle(semi-per),11400.17773,5.004600048,Asia,West Asia
+792,TUR,Turkey,2000,49.32432556,Middle(semi-per),13862.05078,6.080200195,Asia,West Asia
+792,TUR,Turkey,2010,48.98648834,Middle(semi-per),17959.25977,7.015699863,Asia,West Asia
+800,UGA,Uganda,1880,28.37837791,Low(periphery),533.666687,0.75999999,Africa,East Africa
+800,UGA,Uganda,1890,22.97297287,Low(periphery),567.333313,0.779999971,Africa,East Africa
+800,UGA,Uganda,1900,20.60810852,Low(periphery),601,0.790000021,Africa,East Africa
+800,UGA,Uganda,1910,28.0405407,Low(periphery),628.6923218,0.800000012,Africa,East Africa
+800,UGA,Uganda,1920,25.33783722,Low(periphery),682.6296387,0.819999993,Africa,East Africa
+800,UGA,Uganda,1930,19.93243217,Low(periphery),747.8148193,0.829999983,Africa,East Africa
+800,UGA,Uganda,1940,18.91891861,Low(periphery),813,0.839999974,Africa,East Africa
+800,UGA,Uganda,1950,21.62162209,Low(periphery),687,0.910000026,Africa,East Africa
+800,UGA,Uganda,1960,19.25675583,Low(periphery),713,1.161000013,Africa,East Africa
+800,UGA,Uganda,1970,16.21621704,Low(periphery),867,1.500499964,Africa,East Africa
+800,UGA,Uganda,1980,10.81081104,Low(periphery),572,1.962700009,Africa,East Africa
+800,UGA,Uganda,1990,11.82432461,Low(periphery),782.0441895,3.497600079,Africa,East Africa
+800,UGA,Uganda,2000,14.8648653,Low(periphery),1066.957642,4.32310009,Africa,East Africa
+800,UGA,Uganda,2010,15.5405407,Low(periphery),1540.132202,5.36950016,Africa,East Africa
+818,EGY,Egypt,1880,31.41891861,Low(periphery),707.8372192,0.109999999,Africa,North Africa
+818,EGY,Egypt,1890,31.41891861,Low(periphery),766.6744385,0.140000001,Africa,North Africa
+818,EGY,Egypt,1900,31.08108139,Low(periphery),825.5116577,0.170000002,Africa,North Africa
+818,EGY,Egypt,1910,25.67567635,Low(periphery),884.3488159,0.189999998,Africa,North Africa
+818,EGY,Egypt,1920,28.71621704,Low(periphery),903.5134888,0.370000005,Africa,North Africa
+818,EGY,Egypt,1930,29.72973061,Low(periphery),905.6756592,0.689999998,Africa,North Africa
+818,EGY,Egypt,1940,28.0405407,Low(periphery),907.8378296,0.779999971,Africa,North Africa
+818,EGY,Egypt,1950,24.32432365,Low(periphery),910,0.870000005,Africa,North Africa
+818,EGY,Egypt,1960,19.59459496,Low(periphery),991,0.808300018,Africa,North Africa
+818,EGY,Egypt,1970,20.60810852,Low(periphery),1254,1.305299997,Africa,North Africa
+818,EGY,Egypt,1980,23.64864922,Low(periphery),2069,1.683899999,Africa,North Africa
+818,EGY,Egypt,1990,38.51351166,Middle(semi-per),5909.161621,4.377799988,Africa,North Africa
+818,EGY,Egypt,2000,41.21621704,Middle(semi-per),7388.356445,5.909800053,Africa,North Africa
+818,EGY,Egypt,2010,41.21621704,Middle(semi-per),9857.46875,7.0770998,Africa,North Africa
+826,GBR,United Kingdom,1880,95.94594574,High(core),3477,4.550000191,NW Europe,North Europe
+826,GBR,United Kingdom,1890,95.2702713,High(core),4009,5.010000229,NW Europe,North Europe
+826,GBR,United Kingdom,1900,95.94594574,High(core),4492,5.5,NW Europe,North Europe
+826,GBR,United Kingdom,1910,95.94594574,High(core),4611,6.039999962,NW Europe,North Europe
+826,GBR,United Kingdom,1920,95.2702713,High(core),4548,6.489999771,NW Europe,North Europe
+826,GBR,United Kingdom,1930,94.93243408,High(core),5441,6.869999886,NW Europe,North Europe
+826,GBR,United Kingdom,1940,95.2702713,High(core),6856,7.190000057,NW Europe,North Europe
+826,GBR,United Kingdom,1950,93.91892242,High(core),6939,7.619999886,NW Europe,North Europe
+826,GBR,United Kingdom,1960,88.85134888,High(core),8645,6.299099922,NW Europe,North Europe
+826,GBR,United Kingdom,1970,87.83783722,High(core),10767,7.296700001,NW Europe,North Europe
+826,GBR,United Kingdom,1980,85.13513184,High(core),12931,7.599199772,NW Europe,North Europe
+826,GBR,United Kingdom,1990,77.36486816,High(core),26769.35742,8.21380043,NW Europe,North Europe
+826,GBR,United Kingdom,2000,74.32432556,High(core),32961.52734,8.930100441,NW Europe,North Europe
+826,GBR,United Kingdom,2010,75.67567444,High(core),36195.86719,9.754400253,NW Europe,North Europe
+840,USA,United States,1880,98.3108139,High(core),3184,5.920000076,NW Europe,Offshoots
+840,USA,United States,1890,97.97297668,High(core),3392,6.510000229,NW Europe,Offshoots
+840,USA,United States,1900,98.64865112,High(core),4091,7,NW Europe,Offshoots
+840,USA,United States,1910,98.64865112,High(core),4964,7.320000172,NW Europe,Offshoots
+840,USA,United States,1920,97.63513184,High(core),5552,7.690000057,NW Europe,Offshoots
+840,USA,United States,1930,98.3108139,High(core),6213,8.31000042,NW Europe,Offshoots
+840,USA,United States,1940,98.98648834,High(core),7010,8.68999958,NW Europe,Offshoots
+840,USA,United States,1950,98.98648834,High(core),9561,9.350000381,NW Europe,Offshoots
+840,USA,United States,1960,97.97297668,High(core),11328,9.178799629,NW Europe,Offshoots
+840,USA,United States,1970,98.3108139,High(core),15030,10.7894001,NW Europe,Offshoots
+840,USA,United States,1980,98.64865112,High(core),18577,11.47669983,NW Europe,Offshoots
+840,USA,United States,1990,97.63513184,High(core),37062.12891,12.23079967,NW Europe,Offshoots
+840,USA,United States,2000,97.29729462,High(core),45986.05078,12.70559978,NW Europe,Offshoots
+840,USA,United States,2010,96.9594574,High(core),49372.62109,13.09710026,NW Europe,Offshoots
+858,URY,Uruguay,1880,87.16216278,High(core),2082,2.140000105,L America,South America
+858,URY,Uruguay,1890,83.44594574,High(core),2147,2.289999962,L America,South America
+858,URY,Uruguay,1900,80.06756592,High(core),2219,2.440000057,L America,South America
+858,URY,Uruguay,1910,81.41892242,High(core),3136,2.589999914,L America,South America
+858,URY,Uruguay,1920,78.37837982,High(core),2674,2.819999933,L America,South America
+858,URY,Uruguay,1930,81.08107758,High(core),4301,3.269999981,L America,South America
+858,URY,Uruguay,1940,78.37837982,High(core),3661,3.829999924,L America,South America
+858,URY,Uruguay,1950,79.39189148,High(core),4659,4.420000076,L America,South America
+858,URY,Uruguay,1960,76.01351166,High(core),4960,4.839900017,L America,South America
+858,URY,Uruguay,1970,67.90540314,High(core),5184,5.678999901,L America,South America
+858,URY,Uruguay,1980,68.24324036,High(core),6555,6.15929985,L America,South America
+858,URY,Uruguay,1990,61.48648834,Middle(semi-per),9840.719727,7.474500179,L America,South America
+858,URY,Uruguay,2000,59.45946121,Middle(semi-per),12874.76465,8.0916996,L America,South America
+858,URY,Uruguay,2010,57.09459305,Middle(semi-per),17082.4043,8.552900314,L America,South America
+862,VEN,Venezuela,1880,56.08108139,Middle(semi-per),653,1.25,L America,South America
+862,VEN,Venezuela,1890,55.40540695,Middle(semi-per),737,1.330000043,L America,South America
+862,VEN,Venezuela,1900,55.40540695,Middle(semi-per),821,1.419999957,L America,South America
+862,VEN,Venezuela,1910,50,Middle(semi-per),886,1.50999999,L America,South America
+862,VEN,Venezuela,1920,51.35135269,Middle(semi-per),1173,1.590000033,L America,South America
+862,VEN,Venezuela,1930,68.58107758,High(core),3444,1.679999948,L America,South America
+862,VEN,Venezuela,1940,69.25675964,High(core),4045,1.820000052,L America,South America
+862,VEN,Venezuela,1950,70.94594574,High(core),7462,2.24000001,L America,South America
+862,VEN,Venezuela,1960,73.64865112,High(core),9646,3.121099949,L America,South America
+862,VEN,Venezuela,1970,69.59459686,High(core),10672,3.952600002,L America,South America
+862,VEN,Venezuela,1980,66.55405426,Middle(semi-per),10139,4.732600212,L America,South America
+862,VEN,Venezuela,1990,55.74324417,Middle(semi-per),14450.68359,5.106200218,L America,South America
+862,VEN,Venezuela,2000,49.32432556,Middle(semi-per),14413.06348,5.892799854,L America,South America
+862,VEN,Venezuela,2010,47.97297287,Middle(semi-per),16544.97266,7.019999981,L America,South America
+894,ZMB,Zambia,1880,30.40540504,Low(periphery),533.666687,0.620000005,Africa,East Africa
+894,ZMB,Zambia,1890,17.56756783,Low(periphery),567.333313,0.620000005,Africa,East Africa
+894,ZMB,Zambia,1900,18.58108139,Low(periphery),601,0.620000005,Africa,East Africa
+894,ZMB,Zambia,1910,19.93243217,Low(periphery),628.6923218,0.620000005,Africa,East Africa
+894,ZMB,Zambia,1920,18.58108139,Low(periphery),682.6296387,0.629999995,Africa,East Africa
+894,ZMB,Zambia,1930,21.62162209,Low(periphery),747.8148193,0.670000017,Africa,East Africa
+894,ZMB,Zambia,1940,28.37837791,Low(periphery),813,1.659999967,Africa,East Africa
+894,ZMB,Zambia,1950,33.10810852,Low(periphery),661,2.359999895,Africa,East Africa
+894,ZMB,Zambia,1960,30.74324417,Low(periphery),960,2.256400108,Africa,East Africa
+894,ZMB,Zambia,1970,29.05405426,Low(periphery),1073,2.974699974,Africa,East Africa
+894,ZMB,Zambia,1980,25,Low(periphery),911,3.611599922,Africa,East Africa
+894,ZMB,Zambia,1990,27.70270348,Low(periphery),2341.933105,4.892499924,Africa,East Africa
+894,ZMB,Zambia,2000,28.0405407,Low(periphery),2102.983154,6.204100132,Africa,East Africa
+894,ZMB,Zambia,2010,27.70270348,Low(periphery),3279.2771,6.953199863,Africa,East Africa
