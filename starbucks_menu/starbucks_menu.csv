@@ -1,291 +1,291 @@
-Menu,Category,Calories,Fat_g,Carb_g,Fiber_g,Protein_g
-Chonga Bagel,food,300.0,5.0,50.0,3.0,12.0
-8-Grain Roll,food,380.0,6.0,70.0,7.0,10.0
-Almond Croissant,food,410.0,22.0,45.0,3.0,10.0
-Apple Fritter,food,460.0,23.0,56.0,2.0,7.0
-Banana Nut Bread,food,420.0,22.0,52.0,2.0,6.0
-Blueberry Muffin with Yogurt and Honey,food,380.0,16.0,53.0,1.0,6.0
-Blueberry Scone,food,420.0,17.0,61.0,2.0,5.0
-Butter Croissant,food,240.0,12.0,28.0,1.0,5.0
-Butterfly Cookie,food,350.0,22.0,38.0,0.0,2.0
-Cheese Danish,food,320.0,16.0,36.0,1.0,8.0
-Chewy Chocolate Cookie,food,170.0,5.0,30.0,2.0,2.0
-Chocolate Chip Cookie,food,310.0,15.0,42.0,2.0,4.0
-Chocolate Chunk Muffin,food,440.0,21.0,60.0,2.0,7.0
-Chocolate Croissant,food,330.0,18.0,38.0,1.0,6.0
-Chocolate Hazelnut Croissant,food,390.0,22.0,43.0,2.0,7.0
-Chocolate Marble Loaf Cake,food,490.0,24.0,64.0,2.0,6.0
-Cinnamon Morning Bun,food,390.0,15.0,56.0,2.0,8.0
-Cinnamon Raisin Bagel,food,270.0,1.0,58.0,3.0,9.0
-Classic Coffee Cake,food,390.0,16.0,57.0,1.0,5.0
-Cookie Butter Bar,food,360.0,23.0,36.0,0.0,2.0
-Cranberry Orange Scone,food,420.0,15.0,64.0,1.0,6.0
-Devil's Food Doughnut,food,430.0,23.0,53.0,2.0,5.0
-Double Chocolate Brownie,food,410.0,24.0,46.0,3.0,6.0
-Double Chocolate Chunk Brownie,food,490.0,28.0,55.0,3.0,7.0
-Double Chocolate Loaf Cake,food,440.0,23.0,54.0,3.0,5.0
-Everybody's Favorite - Bantam Bagel (2 Pack),food,100.0,3.5,14.0,0.0,3.0
-Everything Bagel with Cheese,food,290.0,3.5,53.0,2.0,11.0
-Frappuccino® Cookie Straw,food,90.0,3.0,14.0,0.0,1.0
-French Toast - Bantam Bagels (2 Pack),food,200.0,8.0,30.0,0.0,6.0
-Gluten-Free Marshmallow Dream Bar,food,240.0,5.0,45.0,0.0,2.0
-Ice Cream Cone Sugar Cookie,food,250.0,14.0,29.0,1.0,3.0
-Iced Lemon Pound Cake,food,470.0,20.0,68.0,1.0,6.0
-Michigan Cherry Oat Bar,food,310.0,10.0,47.0,2.0,3.0
-Multigrain Bagel,food,350.0,4.0,64.0,8.0,17.0
-Oatmeal Cookie,food,290.0,12.0,40.0,3.0,5.0
-Octopus Cookie,food,330.0,18.0,39.0,1.0,3.0
-Old-Fashioned Glazed Doughnut,food,480.0,27.0,56.0,1.0,5.0
-Peanut butter cup cookie,food,360.0,21.0,36.0,3.0,8.0
-Pecan Tart,food,330.0,18.0,39.0,1.0,4.0
-Petite Vanilla Bean Scone,food,120.0,4.5,18.0,0.0,2.0
-Plain Bagel,food,280.0,1.5,56.0,2.0,9.0
-Pumpkin Bread,food,410.0,15.0,63.0,2.0,6.0
-Raspberry Swirl Loaf Cake,food,420.0,17.0,61.0,1.0,6.0
-Raspberry Whoopie Pie,food,360.0,18.0,45.0,1.0,3.0
-Reduced-Fat Cinnamon Swirl Coffee Cake,food,370.0,9.0,67.0,2.0,5.0
-S'mores Bar,food,330.0,17.0,44.0,1.0,2.0
-S'mores Bar Multipack,food,330.0,17.0,44.0,1.0,2.0
-Sprouted Grain Vegan Bagel,food,330.0,6.0,57.0,7.0,12.0
-Strawberry Cake Pop,food,180.0,9.0,23.0,0.0,2.0
-The Classic - Bantam Bagels (2 Pack),food,200.0,8.0,28.0,0.0,6.0
-Toffeedoodle,food,300.0,13.0,44.0,1.0,3.0
-Vanilla Bean Whoopie Pie,food,360.0,18.0,45.0,1.0,3.0
-Vermont Maple Walnut Muffin,food,390.0,21.0,45.0,2.0,6.0
-Volpi™ Pepperoni & Tomato Savory Foldover,food,270.0,14.0,27.0,2.0,10.0
-Strawberries & Jam Sandwich,food,600.0,25.0,80.0,10.0,19.0
-Burrata & Basil Pesto Small Sandwich,food,300.0,14.0,34.0,2.0,11.0
-Cage-Free Eggs & Seasoned Grains Side Salad,food,360.0,18.0,33.0,3.0,17.0
-Cauliflower Tabbouleh Side Salad,food,130.0,12.0,7.0,3.0,2.0
-Cubano Sandwich,food,430.0,23.0,34.0,3.0,21.0
-Farmers' Market Protein Box,food,470.0,29.0,29.0,4.0,21.0
-Garden Greens & Shaved Parmesan Side Salad,food,170.0,13.0,9.0,2.0,7.0
-Green Goddess Avocado Salad,food,620.0,37.0,62.0,10.0,13.0
-Herbed Chicken & Fig Spread Small Sandwich,food,300.0,8.0,43.0,2.0,19.0
-Honey BBQ Sriracha Chicken Sandwich,food,360.0,7.0,52.0,3.0,22.0
-Roasted Carrot & Kale Side Salad,food,440.0,26.0,44.0,7.0,10.0
-Roasted Turkey & Dill Havarti Sandwich,food,600.0,32.0,47.0,6.0,32.0
-Seared Steak & Cheddar Sandwich,food,530.0,29.0,44.0,2.0,23.0
-Slow-Roasted Ham & Beecher's Flagship Cheese Small Sandwich,food,350.0,18.0,31.0,1.0,16.0
-Smoked Mozzarella & Roasted Pepper Sandwich,food,500.0,28.0,46.0,4.0,18.0
-Turkey & Fire-Roasted Corn Salad,food,560.0,29.0,53.0,7.0,24.0
-Za'atar Chicken & Lemon Tahini Salad,food,570.0,23.0,67.0,11.0,27.0
-BBQ Chicken Protein Box,food,420.0,16.0,49.0,5.0,22.0
-Cheese & Fruit Protein Box,food,450.0,27.0,34.0,4.0,20.0
-Chicken Wrap Protein Box,food,460.0,22.0,45.0,4.0,20.0
-Eggs & Cheese Protein Box,food,460.0,24.0,40.0,5.0,23.0
-PB&J Protein Box,food,520.0,26.0,53.0,5.0,20.0
-Smoked Turkey Protein Box,food,360.0,12.0,42.0,5.0,24.0
-Birthday Cake Pop,food,170.0,9.0,23.0,0.0,1.0
-Chocolate Cake Pop,food,160.0,8.0,23.0,1.0,2.0
-Chocolate Chip Cookie Dough Cake Pop,food,180.0,9.0,23.0,0.0,2.0
-Pirate Cake Pop,food,180.0,9.0,24.0,0.0,1.0
-Bacon Gouda & Egg Breakfast Sandwich,food,370.0,19.0,32.0,1.0,18.0
-Certified Gluten-Free Breakfast Sandwich,food,280.0,13.0,18.0,6.0,18.0
-Classic Whole-Grain Oatmeal,food,160.0,2.5,28.0,4.0,5.0
-Double-Smoked Bacon Cheddar & Egg Sandwich,food,490.0,27.0,40.0,1.0,21.0
-Ham & Cheese Croissant,food,320.0,17.0,28.0,1.0,14.0
-Hearty Blueberry Oatmeal,food,220.0,2.5,43.0,5.0,5.0
-Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,food,230.0,6.0,28.0,2.0,16.0
-Sausage Cheddar & Egg Breakfast Sandwich,food,500.0,28.0,41.0,1.0,15.0
-Seared Steak Egg & Tomatillo Wrap,food,410.0,18.0,43.0,2.0,21.0
-Slow-Roasted Ham Swiss & Egg Breakfast Sandwich,food,450.0,23.0,42.0,1.0,24.0
-Sous Vide Egg Bites: Bacon & Gruyere,food,310.0,22.0,9.0,0.0,19.0
-Sous Vide Egg Bites: Egg White & Red Pepper,food,170.0,7.0,13.0,1.0,13.0
-Spicy Chorizo  Monterey Jack & Egg Breakfast Sandwich,food,500.0,30.0,35.0,3.0,26.0
-Spinach Feta & Cage Free Egg White Breakfast Wrap,food,290.0,10.0,33.0,6.0,19.0
-Ancho Chipotle Chicken Panini ,food,500.0,19.0,57.0,4.0,26.0
-Chicken & Quinoa Protein Bowl with Black Beans and Greens,food,420.0,17.0,42.0,9.0,27.0
-Chicken Artichoke on Ancient Grain Flatbread,food,510.0,27.0,37.0,5.0,24.0
-Chicken BLT Salad Sandwich,food,470.0,25.0,35.0,3.0,21.0
-Egg Salad Sandwich,food,480.0,27.0,42.0,7.0,16.0
-Homestyle Chicken & Double-Smoked Bacon,food,480.0,17.0,57.0,3.0,23.0
-Italian-Style Ham & Spicy Salami,food,480.0,20.0,49.0,3.0,22.0
-Lentils & Vegetable Protein Bowl with Brown Rice,food,650.0,29.0,80.0,21.0,23.0
-Roasted Tomato & Mozzarella Panini,food,420.0,18.0,47.0,3.0,11.0
-Turkey & Havarti Sandwich,food,460.0,21.0,31.0,2.0,29.0
-Turkey Pesto Panini,food,560.0,23.0,55.0,3.0,34.0
-Berry Trio Yogurt,food,240.0,2.5,39.0,3.0,14.0
-Fresh Blueberries and Honey Greek Yogurt Parfait,food,240.0,2.5,42.0,2.0,14.0
-Justin's Chocolate Hazelnut Butter,food,180.0,14.0,12.0,3.0,4.0
-Justin's Classic Almond Butter,food,190.0,18.0,6.0,3.0,7.0
-Lemon Chiffon Yogurt,food,340.0,13.0,38.0,0.0,18.0
-Organic Avocado (Spread),food,90.0,8.0,5.0,4.0,1.0
-Seasonal Fruit Blend,food,90.0,0.0,24.0,4.0,1.0
-Cool Lime Starbucks Refreshers™ Beverage,drink,45.0,0.0,11.0,0.0,
-Ombré Pink Drink,drink,,,,,
-Pink Drink,drink,,,,,
-Strawberry Acai Starbucks Refreshers™ Beverage,drink,80.0,0.0,18.0,1.0,
-Very Berry Hibiscus Starbucks Refreshers™ Beverage,drink,60.0,0.0,14.0,1.0,
-Violet Drink,drink,,,,,
-Evolution Fresh™ Cold-Pressed Apple Berry Juice,drink,,,,,
-Evolution Fresh™ Defense Up,drink,,,,,
-Evolution Fresh™ Organic Ginger Limeade,drink,110.0,0.0,28.0,0.0,
-Iced Coffee,drink,0.0,0.0,0.0,0.0,
-Iced Coffee with Milk,drink,,,,,
-Iced Espresso Classics - Vanilla Latte,drink,130.0,2.5,21.0,0.0,
-Iced Espresso Classics - Caffe Mocha,drink,140.0,2.5,23.0,0.0,
-Iced Espresso Classics - Caramel Macchiato,drink,130.0,2.5,21.0,0.0,
-Starbucks® Caramel Iced Coffee,drink,,,,,
-Starbucks® Iced Coffee + Milk,drink,,,,,
-Starbucks® Low Calorie Iced Coffee + Milk,drink,,,,,
-Starbucks® Vanilla Iced Coffee,drink,,,,,
-Shaken Sweet Tea,drink,80.0,0.0,19.0,0.0,
-Tazo® Bottled Berry Blossom White,drink,60.0,0.0,15.0,0.0,
-Tazo® Bottled Black Mango,drink,150.0,0.0,38.0,0.0,
-Tazo® Bottled Black with Lemon,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Brambleberry,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Giant Peach,drink,150.0,0.0,37.0,0.0,
-Tazo® Bottled Iced Passion,drink,70.0,0.0,17.0,0.0,
-Tazo® Bottled Lemon Ginger,drink,120.0,0.0,31.0,0.0,
-Tazo® Bottled Organic Black Lemonade,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Organic Iced Black Tea,drink,60.0,0.0,15.0,0.0,
-Tazo® Bottled Organic Iced Green Tea,drink,120.0,0.0,31.0,0.0,
-Tazo® Bottled Plum Pomegranate,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Tazoberry,drink,150.0,0.0,38.0,0.0,
-Tazo® Bottled White Cranberry,drink,140.0,0.0,35.0,0.0,
-Teavana® Shaken Iced Black Tea,drink,30.0,0.0,8.0,0.0,
-Teavana® Shaken Iced Black Tea Lemonade,drink,70.0,0.0,17.0,0.0,
-Teavana® Shaken Iced Green Tea,drink,30.0,0.0,8.0,0.0,
-Teavana® Shaken Iced Green Tea Lemonade,drink,70.0,0.0,17.0,0.0,
-Teavana® Shaken Iced Passion Tango™ Tea,drink,30.0,0.0,8.0,0.0,
-Teavana® Shaken Iced Passion Tango™ Tea Lemonade,drink,90.0,0.0,24.0,0.0,
-Teavana® Shaken Iced Peach Green Tea,drink,60.0,0.0,15.0,0.0,
-Iced Espresso Classics - Vanilla Latte,drink,130.0,2.5,21.0,0.0,
-Iced Espresso Classics - Caffe Mocha,drink,140.0,2.5,23.0,0.0,
-Iced Espresso Classics - Caramel Macchiato,drink,130.0,2.5,21.0,0.0,
-Iced Espresso Classics - Skinny Caramel Macchiato,drink,,,,,
-Iced Espresso Classics - Skinny Vanilla Latte,drink,,,,,
-Starbucks Doubleshot® Energy Coffee Drink,drink,,,,,
-Starbucks Doubleshot® Energy Mexican Mocha,drink,,,,,
-Starbucks Doubleshot® Energy Mocha Drink,drink,,,,,
-Starbucks Doubleshot® Energy Vanilla Drink,drink,,,,,
-Starbucks Doubleshot® Energy White Chocolate Drink,drink,,,,,
-Starbucks Doubleshot® Energy+Cinnamon Dolce Drink,drink,,,,,
-Starbucks Doubleshot® Espresso Cubano,drink,,,,,
-Starbucks Doubleshot® Espresso Drink,drink,,,,,
-Starbucks Doubleshot® Espresso Salted Caramel Cream,drink,,,,,
-Starbucks Doubleshot® Light Espresso Drink,drink,,,,,
-Starbucks Doubleshot® Protein Caramel,drink,,,,,
-Starbucks Refreshers™ Raspberry Pomegranate,drink,90.0,0.0,27.0,0.0,
-Starbucks Refreshers™ Strawberry Lemonade,drink,90.0,0.0,27.0,0.0,
-Starbucks® Bottled Caramel Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Bottled Coffee Frappuccino® Coffee Drink,drink,,,,,
-"Starbucks® Bottled Cold Brew Black, Unsweetened",drink,,,,,
-Starbucks® Bottled Cold Brew Cocoa and Honey with Cream,drink,,,,,
-Starbucks® Bottled Dulce de Leche Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Bottled Mocha Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Bottled Mocha Light Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Bottled S'mores Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Bottled Vanilla Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Bottled Vanilla Light Frappuccino® Coffee Drink,drink,,,,,
-Starbucks® Caramel Iced Coffee,drink,,,,,
-Starbucks® Doubleshot Protein Dark Chocolate,drink,210.0,2.5,33.0,2.0,
-Starbucks® Doubleshot Protein Vanilla,drink,200.0,2.5,34.0,2.0,
-Starbucks® Iced Coffee + Milk,drink,,,,,
-Starbucks® Iced Coffee Caramel,drink,60.0,0.0,13.0,0.0,
-Starbucks® Iced Coffee Light Sweetened,drink,50.0,0.0,11.0,0.0,
-Starbucks® Iced Coffee Unsweetened,drink,10.0,0.0,2.0,0.0,
-Starbucks® Low Calorie Iced Coffee + Milk,drink,,,,,
-Starbucks® Refreshers™ - Black Cherry Limeade with Coconut Water,drink,,,,,
-Starbucks® Vanilla Iced Coffee,drink,,,,,
-Tazo® Bottled Berry Blossom White,drink,60.0,0.0,15.0,0.0,
-Tazo® Bottled Black Mango,drink,150.0,0.0,38.0,0.0,
-Tazo® Bottled Black with Lemon,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Brambleberry,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Giant Peach,drink,150.0,0.0,37.0,0.0,
-Tazo® Bottled Iced Passion,drink,70.0,0.0,17.0,0.0,
-Tazo® Bottled Lemon Ginger,drink,120.0,0.0,31.0,0.0,
-Tazo® Bottled Organic Black Lemonade,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Organic Iced Black Tea,drink,60.0,0.0,15.0,0.0,
-Tazo® Bottled Organic Iced Green Tea,drink,120.0,0.0,31.0,0.0,
-Tazo® Bottled Plum Pomegranate,drink,140.0,0.0,35.0,0.0,
-Tazo® Bottled Tazoberry,drink,150.0,0.0,38.0,0.0,
-Tazo® Bottled White Cranberry,drink,140.0,0.0,35.0,0.0,
-Teavana® Mango Black Tea,drink,,,,,
-Teavana® Passion Tango® Herbal Tea,drink,,,,,
-Teavana® Peach Green Tea,drink,,,,,
-White Chocolate Mocha Bottled Frappuccino,drink,,,,,
-Blonde Roast,drink,5.0,0.0,0.0,0.0,
-Caffè Misto,drink,,,,,
-Clover® Brewed Coffee,drink,10.0,0.0,0.0,0.0,
-Coffee Traveler,drink,,,,,
-Decaf Pike Place® Roast,drink,5.0,0.0,0.0,0.0,
-Featured Dark Roast,drink,5.0,0.0,0.0,0.0,
-Iced Coffee,drink,5.0,0.0,0.0,0.0,
-Iced Coffee with Milk,drink,,,,,
-Nariño 70 Cold Brew,drink,5.0,0.0,0.0,0.0,
-Nariño 70 Cold Brew with Milk,drink,0.0,0.0,0.0,0.0,
-Nitro Cold Brew,drink,5.0,0.0,0.0,0.0,
-Nitro Cold Brew with Sweet Cream,drink,70.0,5.0,5.0,0.0,
-Pike Place® Roast,drink,5.0,0.0,0.0,0.0,
-Toasted Coconut Cold Brew,drink,,,,,
-Vanilla Sweet Cream Cold Brew,drink,110.0,6.0,14.0,0.0,
-Hot Chocolate,drink,320.0,9.0,47.0,4.0,
-Starbucks® Signature Hot Chocolate,drink,430.0,26.0,45.0,5.0,
-Caffè Americano,drink,,,,,
-Caffè Latte,drink,190.0,7.0,19.0,0.0,
-Caffè Mocha,drink,290.0,8.0,42.0,4.0,
-Cappuccino,drink,120.0,4.0,12.0,0.0,
-Caramel Macchiato,drink,250.0,7.0,35.0,0.0,
-Cascara Coconutmilk Latte,drink,,,,,
-Cinnamon Dolce Latte,drink,260.0,6.0,40.0,0.0,
-Coconutmilk Mocha Macchiato,drink,250.0,9.0,32.0,0.0,
-Espresso,drink,,,,,
-Espresso Con Panna,drink,,,,,
-Espresso Macchiato,drink,,,,,
-Flat White,drink,180.0,7.0,18.0,0.0,
-Iced Caffè Americano,drink,,,,,
-Iced Caffè Latte,drink,130.0,4.5,13.0,0.0,
-Iced Caffè Mocha,drink,230.0,6.0,36.0,4.0,
-Iced Caramel Macchiato,drink,250.0,7.0,37.0,0.0,
-Iced Cascara Coconutmilk Latte,drink,,,,,
-Iced Cinnamon Dolce Latte,drink,200.0,4.0,34.0,0.0,
-Iced Coconutmilk Mocha Macchiato,drink,260.0,9.0,34.0,0.0,
-Iced Skinny Cinnamon Dolce Latte,drink,,,,,
-Iced Skinny Mocha,drink,,,,,
-Iced Vanilla Latte,drink,190.0,4.0,30.0,0.0,
-Iced White Chocolate Mocha,drink,300.0,8.0,47.0,0.0,
-Latte Macchiato,drink,190.0,7.0,19.0,0.0,
-Latte Macchiato,drink,190.0,7.0,19.0,0.0,
-Skinny Mocha,drink,,,,,
-Starbucks Doubleshot® on Ice Beverage,drink,45.0,1.0,5.0,0.0,
-Vanilla Latte,drink,250.0,6.0,37.0,0.0,
-White Chocolate Mocha,drink,360.0,11.0,53.0,0.0,
-Caffè Vanilla Frappuccino® Blended Coffee,drink,,,,,
-Caffè Vanilla Light Frappuccino® Blended Coffee,drink,,,,,
-Caramel Cocoa Cluster Frappuccino® Blended Coffee,drink,,,,,
-Caramel Frappuccino® Blended Coffee,drink,,,,,
-Caramel Light Frappuccino® Blended Coffee,drink,,,,,
-Chai Crème Frappuccino® Blended Crème,drink,,,,,
-Cinnamon Dolce Frappuccino® Blended Coffee,drink,350.0,4.5,64.0,0.0,
-Cinnamon Dolce Light Frappuccino® Blended Coffee,drink,,,,,
-Cinnamon Roll Frappuccino® Blended Coffee,drink,,,,,
-Coffee Frappuccino® Blended Coffee,drink,,,,,
-Coffee Light Frappuccino® Blended Coffee,drink,110.0,0.0,24.0,0.0,
-Cupcake Crème Frappuccino® Blended Crème,drink,,,,,
-Green Tea Crème Frappuccino® Blended Crème,drink,,,,,
-Java Chip Frappuccino® Blended Coffee,drink,,,,,
-Java Chip Light Frappuccino® Blended Coffee,drink,,,,,
-Lemon Bar Crème Frappuccino® Blended Crème,drink,,,,,
-Midnight Mint Mocha Frappuccino® Blended Coffee,drink,,,,,
-Midnight Mint Mocha Frappuccino® Blended Crème,drink,,,,,
-Mocha Frappuccino® Blended Coffee,drink,280.0,2.5,60.0,2.0,
-Mocha Light Frappuccino® Blended Coffee,drink,140.0,0.5,28.0,1.0,
-Oprah Cinnamon Chai Crème Frappuccino® Blended Crème,drink,,,,,
-Red Velvet Cake Crème Frappuccino® Blended Crème,drink,,,,,
-S'mores Frappuccino® Blended Coffee,drink,,,,,
-S'mores Frappuccino® Blended Crème,drink,,,,,
-Strawberries & Crème Frappuccino® Blended Crème,drink,,,,,
-The Pokémon™ GO Frappuccino® Blended Beverage,drink,,,,,
-Vanilla Bean Crème Frappuccino® Blended Crème,drink,,,,,
-White Chocolate Mocha Frappuccino® Blended Coffee,drink,,,,,
-Cinnamon Dolce Crème,drink,200.0,6.0,28.0,0.0,
-Organic Chocolate Milk Box,drink,,,,,
-Steamed Apple Juice,drink,,,,,
-Vanilla Crème,drink,200.0,6.0,28.0,0.0,
-Chocolate Smoothie,drink,320.0,5.0,53.0,8.0,
-Strawberry Smoothie,drink,300.0,2.0,60.0,7.0,
-Ginger Ale,drink,,,,,
-Lemon Ale,drink,,,,,
-Orange Cream Soda,drink,,,,,
+Menu,Category,Calories,Fat_g,Carb_g,Fiber_g,Protein_g,Sodium
+Cool Lime Starbucks Refreshers™ Beverage,drink,45.0,0.0,11.0,0.0,,10.0
+Ombré Pink Drink,drink,,,,,,
+Pink Drink,drink,,,,,,
+Strawberry Acai Starbucks Refreshers™ Beverage,drink,80.0,0.0,18.0,1.0,,10.0
+Very Berry Hibiscus Starbucks Refreshers™ Beverage,drink,60.0,0.0,14.0,1.0,,10.0
+Violet Drink,drink,,,,,,
+Evolution Fresh™ Cold-Pressed Apple Berry Juice,drink,,,,,,
+Evolution Fresh™ Defense Up,drink,,,,,,
+Evolution Fresh™ Organic Ginger Limeade,drink,110.0,0.0,28.0,0.0,,5.0
+Iced Coffee,drink,0.0,0.0,0.0,0.0,,0.0
+Iced Coffee with Milk,drink,,,,,,
+Iced Espresso Classics - Vanilla Latte,drink,130.0,2.5,21.0,0.0,,65.0
+Iced Espresso Classics - Caffe Mocha,drink,140.0,2.5,23.0,0.0,,90.0
+Iced Espresso Classics - Caramel Macchiato,drink,130.0,2.5,21.0,0.0,,65.0
+Starbucks® Caramel Iced Coffee,drink,,,,,,
+Starbucks® Iced Coffee + Milk,drink,,,,,,
+Starbucks® Low Calorie Iced Coffee + Milk,drink,,,,,,
+Starbucks® Vanilla Iced Coffee,drink,,,,,,
+Shaken Sweet Tea,drink,80.0,0.0,19.0,0.0,,10.0
+Tazo® Bottled Berry Blossom White,drink,60.0,0.0,15.0,0.0,,10.0
+Tazo® Bottled Black Mango,drink,150.0,0.0,38.0,0.0,,15.0
+Tazo® Bottled Black with Lemon,drink,140.0,0.0,35.0,0.0,,10.0
+Tazo® Bottled Brambleberry,drink,140.0,0.0,35.0,0.0,,15.0
+Tazo® Bottled Giant Peach,drink,150.0,0.0,37.0,0.0,,15.0
+Tazo® Bottled Iced Passion,drink,70.0,0.0,17.0,0.0,,10.0
+Tazo® Bottled Lemon Ginger,drink,120.0,0.0,31.0,0.0,,10.0
+Tazo® Bottled Organic Black Lemonade,drink,140.0,0.0,35.0,0.0,,10.0
+Tazo® Bottled Organic Iced Black Tea,drink,60.0,0.0,15.0,0.0,,10.0
+Tazo® Bottled Organic Iced Green Tea,drink,120.0,0.0,31.0,0.0,,10.0
+Tazo® Bottled Plum Pomegranate,drink,140.0,0.0,35.0,0.0,,10.0
+Tazo® Bottled Tazoberry,drink,150.0,0.0,38.0,0.0,,15.0
+Tazo® Bottled White Cranberry,drink,140.0,0.0,35.0,0.0,,10.0
+Teavana® Shaken Iced Black Tea,drink,30.0,0.0,8.0,0.0,,5.0
+Teavana® Shaken Iced Black Tea Lemonade,drink,70.0,0.0,17.0,0.0,,0.0
+Teavana® Shaken Iced Green Tea,drink,30.0,0.0,8.0,0.0,,5.0
+Teavana® Shaken Iced Green Tea Lemonade,drink,70.0,0.0,17.0,0.0,,5.0
+Teavana® Shaken Iced Passion Tango™ Tea,drink,30.0,0.0,8.0,0.0,,5.0
+Teavana® Shaken Iced Passion Tango™ Tea Lemonade,drink,90.0,0.0,24.0,0.0,,0.0
+Teavana® Shaken Iced Peach Green Tea,drink,60.0,0.0,15.0,0.0,,0.0
+Iced Espresso Classics - Vanilla Latte,drink,130.0,2.5,21.0,0.0,,65.0
+Iced Espresso Classics - Caffe Mocha,drink,140.0,2.5,23.0,0.0,,90.0
+Iced Espresso Classics - Caramel Macchiato,drink,130.0,2.5,21.0,0.0,,65.0
+Iced Espresso Classics - Skinny Caramel Macchiato,drink,,,,,,
+Iced Espresso Classics - Skinny Vanilla Latte,drink,,,,,,
+Starbucks Doubleshot® Energy Coffee Drink,drink,,,,,,
+Starbucks Doubleshot® Energy Mexican Mocha,drink,,,,,,
+Starbucks Doubleshot® Energy Mocha Drink,drink,,,,,,
+Starbucks Doubleshot® Energy Vanilla Drink,drink,,,,,,
+Starbucks Doubleshot® Energy White Chocolate Drink,drink,,,,,,
+Starbucks Doubleshot® Energy+Cinnamon Dolce Drink,drink,,,,,,
+Starbucks Doubleshot® Espresso Cubano,drink,,,,,,
+Starbucks Doubleshot® Espresso Drink,drink,,,,,,
+Starbucks Doubleshot® Espresso Salted Caramel Cream,drink,,,,,,
+Starbucks Doubleshot® Light Espresso Drink,drink,,,,,,
+Starbucks Doubleshot® Protein Caramel,drink,,,,,,
+Starbucks Refreshers™ Raspberry Pomegranate,drink,90.0,0.0,27.0,0.0,,0.0
+Starbucks Refreshers™ Strawberry Lemonade,drink,90.0,0.0,27.0,0.0,,0.0
+Starbucks® Bottled Caramel Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Bottled Coffee Frappuccino® Coffee Drink,drink,,,,,,
+"Starbucks® Bottled Cold Brew Black, Unsweetened",drink,,,,,,
+Starbucks® Bottled Cold Brew Cocoa and Honey with Cream,drink,,,,,,
+Starbucks® Bottled Dulce de Leche Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Bottled Mocha Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Bottled Mocha Light Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Bottled S'mores Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Bottled Vanilla Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Bottled Vanilla Light Frappuccino® Coffee Drink,drink,,,,,,
+Starbucks® Caramel Iced Coffee,drink,,,,,,
+Starbucks® Doubleshot Protein Dark Chocolate,drink,210.0,2.5,33.0,2.0,,115.0
+Starbucks® Doubleshot Protein Vanilla,drink,200.0,2.5,34.0,2.0,,120.0
+Starbucks® Iced Coffee + Milk,drink,,,,,,
+Starbucks® Iced Coffee Caramel,drink,60.0,0.0,13.0,0.0,,0.0
+Starbucks® Iced Coffee Light Sweetened,drink,50.0,0.0,11.0,0.0,,0.0
+Starbucks® Iced Coffee Unsweetened,drink,10.0,0.0,2.0,0.0,,0.0
+Starbucks® Low Calorie Iced Coffee + Milk,drink,,,,,,
+Starbucks® Refreshers™ - Black Cherry Limeade with Coconut Water,drink,,,,,,
+Starbucks® Vanilla Iced Coffee,drink,,,,,,
+Tazo® Bottled Berry Blossom White,drink,60.0,0.0,15.0,0.0,,10.0
+Tazo® Bottled Black Mango,drink,150.0,0.0,38.0,0.0,,15.0
+Tazo® Bottled Black with Lemon,drink,140.0,0.0,35.0,0.0,,10.0
+Tazo® Bottled Brambleberry,drink,140.0,0.0,35.0,0.0,,15.0
+Tazo® Bottled Giant Peach,drink,150.0,0.0,37.0,0.0,,15.0
+Tazo® Bottled Iced Passion,drink,70.0,0.0,17.0,0.0,,10.0
+Tazo® Bottled Lemon Ginger,drink,120.0,0.0,31.0,0.0,,10.0
+Tazo® Bottled Organic Black Lemonade,drink,140.0,0.0,35.0,0.0,,10.0
+Tazo® Bottled Organic Iced Black Tea,drink,60.0,0.0,15.0,0.0,,10.0
+Tazo® Bottled Organic Iced Green Tea,drink,120.0,0.0,31.0,0.0,,10.0
+Tazo® Bottled Plum Pomegranate,drink,140.0,0.0,35.0,0.0,,10.0
+Tazo® Bottled Tazoberry,drink,150.0,0.0,38.0,0.0,,15.0
+Tazo® Bottled White Cranberry,drink,140.0,0.0,35.0,0.0,,10.0
+Teavana® Mango Black Tea,drink,,,,,,
+Teavana® Passion Tango® Herbal Tea,drink,,,,,,
+Teavana® Peach Green Tea,drink,,,,,,
+White Chocolate Mocha Bottled Frappuccino,drink,,,,,,
+Blonde Roast,drink,5.0,0.0,0.0,0.0,,10.0
+Caffè Misto,drink,,,,,,
+Clover® Brewed Coffee,drink,10.0,0.0,0.0,0.0,,10.0
+Coffee Traveler,drink,,,,,,
+Decaf Pike Place® Roast,drink,5.0,0.0,0.0,0.0,,10.0
+Featured Dark Roast,drink,5.0,0.0,0.0,0.0,,10.0
+Iced Coffee,drink,5.0,0.0,0.0,0.0,,5.0
+Iced Coffee with Milk,drink,,,,,,
+Nariño 70 Cold Brew,drink,5.0,0.0,0.0,0.0,,15.0
+Nariño 70 Cold Brew with Milk,drink,0.0,0.0,0.0,0.0,,0.0
+Nitro Cold Brew,drink,5.0,0.0,0.0,0.0,,10.0
+Nitro Cold Brew with Sweet Cream,drink,70.0,5.0,5.0,0.0,,20.0
+Pike Place® Roast,drink,5.0,0.0,0.0,0.0,,10.0
+Toasted Coconut Cold Brew,drink,,,,,,
+Vanilla Sweet Cream Cold Brew,drink,110.0,6.0,14.0,0.0,,25.0
+Hot Chocolate,drink,320.0,9.0,47.0,4.0,,160.0
+Starbucks® Signature Hot Chocolate,drink,430.0,26.0,45.0,5.0,,115.0
+Caffè Americano,drink,,,,,,
+Caffè Latte,drink,190.0,7.0,19.0,0.0,,170.0
+Caffè Mocha,drink,290.0,8.0,42.0,4.0,,140.0
+Cappuccino,drink,120.0,4.0,12.0,0.0,,100.0
+Caramel Macchiato,drink,250.0,7.0,35.0,0.0,,150.0
+Cascara Coconutmilk Latte,drink,,,,,,
+Cinnamon Dolce Latte,drink,260.0,6.0,40.0,0.0,,150.0
+Coconutmilk Mocha Macchiato,drink,250.0,9.0,32.0,0.0,,180.0
+Espresso,drink,,,,,,
+Espresso Con Panna,drink,,,,,,
+Espresso Macchiato,drink,,,,,,
+Flat White,drink,180.0,7.0,18.0,0.0,,160.0
+Iced Caffè Americano,drink,,,,,,
+Iced Caffè Latte,drink,130.0,4.5,13.0,0.0,,115.0
+Iced Caffè Mocha,drink,230.0,6.0,36.0,4.0,,90.0
+Iced Caramel Macchiato,drink,250.0,7.0,37.0,0.0,,150.0
+Iced Cascara Coconutmilk Latte,drink,,,,,,
+Iced Cinnamon Dolce Latte,drink,200.0,4.0,34.0,0.0,,95.0
+Iced Coconutmilk Mocha Macchiato,drink,260.0,9.0,34.0,0.0,,180.0
+Iced Skinny Cinnamon Dolce Latte,drink,,,,,,
+Iced Skinny Mocha,drink,,,,,,
+Iced Vanilla Latte,drink,190.0,4.0,30.0,0.0,,100.0
+Iced White Chocolate Mocha,drink,300.0,8.0,47.0,0.0,,190.0
+Latte Macchiato,drink,190.0,7.0,19.0,0.0,,160.0
+Latte Macchiato,drink,190.0,7.0,19.0,0.0,,160.0
+Skinny Mocha,drink,,,,,,
+Starbucks Doubleshot® on Ice Beverage,drink,45.0,1.0,5.0,0.0,,40.0
+Vanilla Latte,drink,250.0,6.0,37.0,0.0,,150.0
+White Chocolate Mocha,drink,360.0,11.0,53.0,0.0,,240.0
+Caffè Vanilla Frappuccino® Blended Coffee,drink,,,,,,
+Caffè Vanilla Light Frappuccino® Blended Coffee,drink,,,,,,
+Caramel Cocoa Cluster Frappuccino® Blended Coffee,drink,,,,,,
+Caramel Frappuccino® Blended Coffee,drink,,,,,,
+Caramel Light Frappuccino® Blended Coffee,drink,,,,,,
+Chai Crème Frappuccino® Blended Crème,drink,,,,,,
+Cinnamon Dolce Frappuccino® Blended Coffee,drink,350.0,4.5,64.0,0.0,,0.0
+Cinnamon Dolce Light Frappuccino® Blended Coffee,drink,,,,,,
+Cinnamon Roll Frappuccino® Blended Coffee,drink,,,,,,
+Coffee Frappuccino® Blended Coffee,drink,,,,,,
+Coffee Light Frappuccino® Blended Coffee,drink,110.0,0.0,24.0,0.0,,200.0
+Cupcake Crème Frappuccino® Blended Crème,drink,,,,,,
+Green Tea Crème Frappuccino® Blended Crème,drink,,,,,,
+Java Chip Frappuccino® Blended Coffee,drink,,,,,,
+Java Chip Light Frappuccino® Blended Coffee,drink,,,,,,
+Lemon Bar Crème Frappuccino® Blended Crème,drink,,,,,,
+Midnight Mint Mocha Frappuccino® Blended Coffee,drink,,,,,,
+Midnight Mint Mocha Frappuccino® Blended Crème,drink,,,,,,
+Mocha Frappuccino® Blended Coffee,drink,280.0,2.5,60.0,2.0,,220.0
+Mocha Light Frappuccino® Blended Coffee,drink,140.0,0.5,28.0,1.0,,180.0
+Oprah Cinnamon Chai Crème Frappuccino® Blended Crème,drink,,,,,,
+Red Velvet Cake Crème Frappuccino® Blended Crème,drink,,,,,,
+S'mores Frappuccino® Blended Coffee,drink,,,,,,
+S'mores Frappuccino® Blended Crème,drink,,,,,,
+Strawberries & Crème Frappuccino® Blended Crème,drink,,,,,,
+The Pokémon™ GO Frappuccino® Blended Beverage,drink,,,,,,
+Vanilla Bean Crème Frappuccino® Blended Crème,drink,,,,,,
+White Chocolate Mocha Frappuccino® Blended Coffee,drink,,,,,,
+Cinnamon Dolce Crème,drink,200.0,6.0,28.0,0.0,,135.0
+Organic Chocolate Milk Box,drink,,,,,,
+Steamed Apple Juice,drink,,,,,,
+Vanilla Crème,drink,200.0,6.0,28.0,0.0,,135.0
+Chocolate Smoothie,drink,320.0,5.0,53.0,8.0,,170.0
+Strawberry Smoothie,drink,300.0,2.0,60.0,7.0,,130.0
+Ginger Ale,drink,,,,,,
+Lemon Ale,drink,,,,,,
+Orange Cream Soda,drink,,,,,,
+Chonga Bagel,food,300.0,5.0,50.0,3.0,12.0,
+8-Grain Roll,food,380.0,6.0,70.0,7.0,10.0,
+Almond Croissant,food,410.0,22.0,45.0,3.0,10.0,
+Apple Fritter,food,460.0,23.0,56.0,2.0,7.0,
+Banana Nut Bread,food,420.0,22.0,52.0,2.0,6.0,
+Blueberry Muffin with Yogurt and Honey,food,380.0,16.0,53.0,1.0,6.0,
+Blueberry Scone,food,420.0,17.0,61.0,2.0,5.0,
+Butter Croissant,food,240.0,12.0,28.0,1.0,5.0,
+Butterfly Cookie,food,350.0,22.0,38.0,0.0,2.0,
+Cheese Danish,food,320.0,16.0,36.0,1.0,8.0,
+Chewy Chocolate Cookie,food,170.0,5.0,30.0,2.0,2.0,
+Chocolate Chip Cookie,food,310.0,15.0,42.0,2.0,4.0,
+Chocolate Chunk Muffin,food,440.0,21.0,60.0,2.0,7.0,
+Chocolate Croissant,food,330.0,18.0,38.0,1.0,6.0,
+Chocolate Hazelnut Croissant,food,390.0,22.0,43.0,2.0,7.0,
+Chocolate Marble Loaf Cake,food,490.0,24.0,64.0,2.0,6.0,
+Cinnamon Morning Bun,food,390.0,15.0,56.0,2.0,8.0,
+Cinnamon Raisin Bagel,food,270.0,1.0,58.0,3.0,9.0,
+Classic Coffee Cake,food,390.0,16.0,57.0,1.0,5.0,
+Cookie Butter Bar,food,360.0,23.0,36.0,0.0,2.0,
+Cranberry Orange Scone,food,420.0,15.0,64.0,1.0,6.0,
+Devil's Food Doughnut,food,430.0,23.0,53.0,2.0,5.0,
+Double Chocolate Brownie,food,410.0,24.0,46.0,3.0,6.0,
+Double Chocolate Chunk Brownie,food,490.0,28.0,55.0,3.0,7.0,
+Double Chocolate Loaf Cake,food,440.0,23.0,54.0,3.0,5.0,
+Everybody's Favorite - Bantam Bagel (2 Pack),food,100.0,3.5,14.0,0.0,3.0,
+Everything Bagel with Cheese,food,290.0,3.5,53.0,2.0,11.0,
+Frappuccino® Cookie Straw,food,90.0,3.0,14.0,0.0,1.0,
+French Toast - Bantam Bagels (2 Pack),food,200.0,8.0,30.0,0.0,6.0,
+Gluten-Free Marshmallow Dream Bar,food,240.0,5.0,45.0,0.0,2.0,
+Ice Cream Cone Sugar Cookie,food,250.0,14.0,29.0,1.0,3.0,
+Iced Lemon Pound Cake,food,470.0,20.0,68.0,1.0,6.0,
+Michigan Cherry Oat Bar,food,310.0,10.0,47.0,2.0,3.0,
+Multigrain Bagel,food,350.0,4.0,64.0,8.0,17.0,
+Oatmeal Cookie,food,290.0,12.0,40.0,3.0,5.0,
+Octopus Cookie,food,330.0,18.0,39.0,1.0,3.0,
+Old-Fashioned Glazed Doughnut,food,480.0,27.0,56.0,1.0,5.0,
+Peanut butter cup cookie,food,360.0,21.0,36.0,3.0,8.0,
+Pecan Tart,food,330.0,18.0,39.0,1.0,4.0,
+Petite Vanilla Bean Scone,food,120.0,4.5,18.0,0.0,2.0,
+Plain Bagel,food,280.0,1.5,56.0,2.0,9.0,
+Pumpkin Bread,food,410.0,15.0,63.0,2.0,6.0,
+Raspberry Swirl Loaf Cake,food,420.0,17.0,61.0,1.0,6.0,
+Raspberry Whoopie Pie,food,360.0,18.0,45.0,1.0,3.0,
+Reduced-Fat Cinnamon Swirl Coffee Cake,food,370.0,9.0,67.0,2.0,5.0,
+S'mores Bar,food,330.0,17.0,44.0,1.0,2.0,
+S'mores Bar Multipack,food,330.0,17.0,44.0,1.0,2.0,
+Sprouted Grain Vegan Bagel,food,330.0,6.0,57.0,7.0,12.0,
+Strawberry Cake Pop,food,180.0,9.0,23.0,0.0,2.0,
+The Classic - Bantam Bagels (2 Pack),food,200.0,8.0,28.0,0.0,6.0,
+Toffeedoodle,food,300.0,13.0,44.0,1.0,3.0,
+Vanilla Bean Whoopie Pie,food,360.0,18.0,45.0,1.0,3.0,
+Vermont Maple Walnut Muffin,food,390.0,21.0,45.0,2.0,6.0,
+Volpi™ Pepperoni & Tomato Savory Foldover,food,270.0,14.0,27.0,2.0,10.0,
+Strawberries & Jam Sandwich,food,600.0,25.0,80.0,10.0,19.0,
+Burrata & Basil Pesto Small Sandwich,food,300.0,14.0,34.0,2.0,11.0,
+Cage-Free Eggs & Seasoned Grains Side Salad,food,360.0,18.0,33.0,3.0,17.0,
+Cauliflower Tabbouleh Side Salad,food,130.0,12.0,7.0,3.0,2.0,
+Cubano Sandwich,food,430.0,23.0,34.0,3.0,21.0,
+Farmers' Market Protein Box,food,470.0,29.0,29.0,4.0,21.0,
+Garden Greens & Shaved Parmesan Side Salad,food,170.0,13.0,9.0,2.0,7.0,
+Green Goddess Avocado Salad,food,620.0,37.0,62.0,10.0,13.0,
+Herbed Chicken & Fig Spread Small Sandwich,food,300.0,8.0,43.0,2.0,19.0,
+Honey BBQ Sriracha Chicken Sandwich,food,360.0,7.0,52.0,3.0,22.0,
+Roasted Carrot & Kale Side Salad,food,440.0,26.0,44.0,7.0,10.0,
+Roasted Turkey & Dill Havarti Sandwich,food,600.0,32.0,47.0,6.0,32.0,
+Seared Steak & Cheddar Sandwich,food,530.0,29.0,44.0,2.0,23.0,
+Slow-Roasted Ham & Beecher's Flagship Cheese Small Sandwich,food,350.0,18.0,31.0,1.0,16.0,
+Smoked Mozzarella & Roasted Pepper Sandwich,food,500.0,28.0,46.0,4.0,18.0,
+Turkey & Fire-Roasted Corn Salad,food,560.0,29.0,53.0,7.0,24.0,
+Za'atar Chicken & Lemon Tahini Salad,food,570.0,23.0,67.0,11.0,27.0,
+BBQ Chicken Protein Box,food,420.0,16.0,49.0,5.0,22.0,
+Cheese & Fruit Protein Box,food,450.0,27.0,34.0,4.0,20.0,
+Chicken Wrap Protein Box,food,460.0,22.0,45.0,4.0,20.0,
+Eggs & Cheese Protein Box,food,460.0,24.0,40.0,5.0,23.0,
+PB&J Protein Box,food,520.0,26.0,53.0,5.0,20.0,
+Smoked Turkey Protein Box,food,360.0,12.0,42.0,5.0,24.0,
+Birthday Cake Pop,food,170.0,9.0,23.0,0.0,1.0,
+Chocolate Cake Pop,food,160.0,8.0,23.0,1.0,2.0,
+Chocolate Chip Cookie Dough Cake Pop,food,180.0,9.0,23.0,0.0,2.0,
+Pirate Cake Pop,food,180.0,9.0,24.0,0.0,1.0,
+Bacon Gouda & Egg Breakfast Sandwich,food,370.0,19.0,32.0,1.0,18.0,
+Certified Gluten-Free Breakfast Sandwich,food,280.0,13.0,18.0,6.0,18.0,
+Classic Whole-Grain Oatmeal,food,160.0,2.5,28.0,4.0,5.0,
+Double-Smoked Bacon Cheddar & Egg Sandwich,food,490.0,27.0,40.0,1.0,21.0,
+Ham & Cheese Croissant,food,320.0,17.0,28.0,1.0,14.0,
+Hearty Blueberry Oatmeal,food,220.0,2.5,43.0,5.0,5.0,
+Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,food,230.0,6.0,28.0,2.0,16.0,
+Sausage Cheddar & Egg Breakfast Sandwich,food,500.0,28.0,41.0,1.0,15.0,
+Seared Steak Egg & Tomatillo Wrap,food,410.0,18.0,43.0,2.0,21.0,
+Slow-Roasted Ham Swiss & Egg Breakfast Sandwich,food,450.0,23.0,42.0,1.0,24.0,
+Sous Vide Egg Bites: Bacon & Gruyere,food,310.0,22.0,9.0,0.0,19.0,
+Sous Vide Egg Bites: Egg White & Red Pepper,food,170.0,7.0,13.0,1.0,13.0,
+Spicy Chorizo  Monterey Jack & Egg Breakfast Sandwich,food,500.0,30.0,35.0,3.0,26.0,
+Spinach Feta & Cage Free Egg White Breakfast Wrap,food,290.0,10.0,33.0,6.0,19.0,
+Ancho Chipotle Chicken Panini ,food,500.0,19.0,57.0,4.0,26.0,
+Chicken & Quinoa Protein Bowl with Black Beans and Greens,food,420.0,17.0,42.0,9.0,27.0,
+Chicken Artichoke on Ancient Grain Flatbread,food,510.0,27.0,37.0,5.0,24.0,
+Chicken BLT Salad Sandwich,food,470.0,25.0,35.0,3.0,21.0,
+Egg Salad Sandwich,food,480.0,27.0,42.0,7.0,16.0,
+Homestyle Chicken & Double-Smoked Bacon,food,480.0,17.0,57.0,3.0,23.0,
+Italian-Style Ham & Spicy Salami,food,480.0,20.0,49.0,3.0,22.0,
+Lentils & Vegetable Protein Bowl with Brown Rice,food,650.0,29.0,80.0,21.0,23.0,
+Roasted Tomato & Mozzarella Panini,food,420.0,18.0,47.0,3.0,11.0,
+Turkey & Havarti Sandwich,food,460.0,21.0,31.0,2.0,29.0,
+Turkey Pesto Panini,food,560.0,23.0,55.0,3.0,34.0,
+Berry Trio Yogurt,food,240.0,2.5,39.0,3.0,14.0,
+Fresh Blueberries and Honey Greek Yogurt Parfait,food,240.0,2.5,42.0,2.0,14.0,
+Justin's Chocolate Hazelnut Butter,food,180.0,14.0,12.0,3.0,4.0,
+Justin's Classic Almond Butter,food,190.0,18.0,6.0,3.0,7.0,
+Lemon Chiffon Yogurt,food,340.0,13.0,38.0,0.0,18.0,
+Organic Avocado (Spread),food,90.0,8.0,5.0,4.0,1.0,
+Seasonal Fruit Blend,food,90.0,0.0,24.0,4.0,1.0,
