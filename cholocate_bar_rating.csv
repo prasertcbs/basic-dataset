@@ -1,4 +1,4 @@
-"Company (Maker-if known)","Specific Bean Originor Bar Name",REF,"ReviewDate","CocoaPercent","CompanyLocation",Rating,"BeanType","Broad BeanOrigin"
+Maker,BarName,REF,ReviewDate,Cocoa_Percent,CompanyLocation,Rating,BeanType,BeanOrigin
 A. Morin,Agua Grande,1876,2016,63%,France,3.75,,Sao Tome
 A. Morin,Kpime,1676,2015,70%,France,2.75,,Togo
 A. Morin,Atsane,1676,2015,70%,France,3,,Togo
@@ -1164,9 +1164,9 @@ Nahua,"Costa Rica, Oscuro",1049,2013,70%,Costa Rica,3,,Costa Rica
 Naive,Trinidad & Tobago,1046,2013,70%,Lithuania,3.75,,"Trinidad, Tobago"
 Naive,"Maranon Canyon, Fortunato No. 4",1133,2013,78%,Lithuania,3.75,Forastero (Nacional),Peru
 Naive,Grenada,867,2012,71%,Lithuania,2.5,Trinitario,Grenada
-Naï¿_ve,Nicaragua,1379,2014,70%,Lithuania,3.25,Criollo,Nicaragua
-Naï¿_ve,Chuao,1399,2014,75%,Lithuania,2.75,Trinitario,Venezuela
-Naï¿_ve,Barinas,1399,2014,70%,Lithuania,3,,Venezuela
+Na•À_ve,Nicaragua,1379,2014,70%,Lithuania,3.25,Criollo,Nicaragua
+Na•À_ve,Chuao,1399,2014,75%,Lithuania,2.75,Trinitario,Venezuela
+Na•À_ve,Barinas,1399,2014,70%,Lithuania,3,,Venezuela
 Nanea,Criollo Blend,1007,2013,85%,U.S.A.,3.5,,Hawaii
 Nathan Miller,Peru,1403,2014,72%,U.S.A.,2.25,,Peru
 Nathan Miller,Hispaniola,1403,2014,70%,U.S.A.,2.5,,Dominican Republic
