@@ -1,0 +1,177 @@
+CPI 2016 Rank,Country,Country Code,Region,CPI 2016 Score,CPI 2015 Score,CPI 2014 Score,CPI 2013 Score,CPI 2012 Score
+1,New Zealand,NZL,Asia Pacific,90,88,91,91,90
+1,Denmark,DNK,Europe and Central Asia,90,91,92,91,90
+3,Finland,FIN,Europe and Central Asia,89,90,89,89,90
+4,Sweden,SWE,Europe and Central Asia,88,89,87,89,88
+5,Switzerland,CHE,Europe and Central Asia,86,86,86,85,86
+6,Norway,NOR,Europe and Central Asia,85,87,86,86,85
+7,Singapore,SGP,Asia Pacific,84,85,84,86,87
+8,Netherlands,NLD,Europe and Central Asia,83,87,83,83,84
+9,Canada,CAN,Americas,82,83,81,81,84
+10,Germany,DEU,Europe and Central Asia,81,81,79,78,79
+10,Luxembourg,LUX,Europe and Central Asia,81,81,82,80,80
+10,United Kingdom,GBR,Europe and Central Asia,81,81,78,76,74
+13,Australia,AUS,Asia Pacific,79,79,80,81,85
+14,Iceland,ISL,Europe and Central Asia,78,79,79,78,82
+15,Hong Kong,HKG,Asia Pacific,77,75,74,75,77
+15,Belgium,BEL,Europe and Central Asia,77,77,76,75,75
+17,Austria,AUT,Europe and Central Asia,75,76,72,69,69
+18,The United States of America,USA,Americas,74,76,74,73,73
+19,Ireland,IRL,Europe and Central Asia,73,75,74,72,69
+20,Japan,JPN,Asia Pacific,72,75,76,74,74
+21,Uruguay,URY,Americas,71,74,73,73,72
+22,Estonia,EST,Europe and Central Asia,70,70,69,68,64
+23,France,FRA,Europe and Central Asia,69,70,69,71,71
+24,Bahamas,BHS,Americas,66,,71,71,71
+24,Chile,CHL,Americas,66,70,73,71,72
+24,United Arab Emirates,ARE,Middle East and North Africa,66,70,70,69,68
+27,Bhutan,BTN,Asia Pacific,65,65,65,63,63
+28,Israel,ISR,Middle East and North Africa,64,61,60,61,60
+29,Poland,POL,Europe and Central Asia,62,62,61,60,58
+29,Portugal,PRT,Europe and Central Asia,62,63,63,62,63
+31,Barbados,BRB,Americas,61,,74,75,76
+31,Taiwan,TWN,Asia Pacific,61,62,61,61,61
+31,Qatar,QAT,Middle East and North Africa,61,71,69,68,68
+31,Slovenia,SVN,Europe and Central Asia,61,60,58,57,61
+35,Saint Lucia,LCA,Americas,60,,,71,71
+35,Saint Vincent and The Grenadines,VCT,Americas,60,,67,62,62
+35,Botswana,BWA,Sub-Saharan Africa,60,63,63,64,65
+38,Dominica,DMA,Americas,59,,58,58,58
+38,Cape Verde,CPV,Sub-Saharan Africa,59,55,57,58,60
+38,Lithuania,LTU,Europe and Central Asia,59,61,58,57,54
+41,Costa Rica,CRI,Americas,58,55,54,53,54
+41,Brunei,BRN,Asia Pacific,58,,,60,55
+41,Spain,ESP,Europe and Central Asia,58,58,60,59,65
+44,Georgia,GEO,Europe and Central Asia,57,52,52,49,52
+44,Latvia,LVA,Europe and Central Asia,57,55,55,53,49
+46,Grenada,GRD,Americas,56,,,,
+47,Cyprus,CYP,Europe and Central Asia,55,61,63,63,66
+47,Czech Republic,CZE,Europe and Central Asia,55,56,51,48,49
+47,Malta,MLT,Europe and Central Asia,55,56,55,56,57
+50,Mauritius,MUS,Sub-Saharan Africa,54,53,54,52,57
+50,Rwanda,RWA,Sub-Saharan Africa,54,54,49,53,53
+52,Korea (South),KOR,Asia Pacific,53,56,55,55,56
+53,Namibia,NAM,Sub-Saharan Africa,52,53,49,48,48
+54,Slovakia,SVK,Europe and Central Asia,51,51,50,47,46
+55,Malaysia,MYS,Asia Pacific,49,50,52,50,49
+55,Croatia,HRV,Europe and Central Asia,49,51,48,48,46
+57,Jordan,JOR,Middle East and North Africa,48,53,49,45,48
+57,Hungary,HUN,Europe and Central Asia,48,51,54,54,55
+57,Romania,ROM,Europe and Central Asia,48,46,43,43,44
+60,Cuba,CUB,Americas,47,47,46,46,48
+60,Italy,ITA,Europe and Central Asia,47,44,43,43,42
+62,Saudi Arabia,SAU,Middle East and North Africa,46,52,49,46,44
+62,Sao Tome and Principe,STP,Sub-Saharan Africa,46,42,42,42,42
+64,Suriname,SUR,Americas,45,36,36,36,37
+64,Montenegro,MON,Europe and Central Asia,45,44,42,44,41
+64,Oman,OMN,Middle East and North Africa,45,45,45,47,47
+64,Senegal,SEN,Sub-Saharan Africa,45,44,43,41,36
+64,South Africa,ZAF,Sub-Saharan Africa,45,44,44,42,43
+69,Greece,GRC,Europe and Central Asia,44,46,43,40,36
+70,Bahrain,BHR,Middle East and North Africa,43,51,49,48,51
+70,Ghana,GHA,Sub-Saharan Africa,43,47,48,46,45
+72,Solomon Islands,SLB,Asia Pacific,42,,,,
+72,Serbia,SCG,Europe and Central Asia,42,40,41,42,39
+72,Burkina Faso,BFA,Sub-Saharan Africa,42,38,38,38,38
+75,Turkey,TUR,Europe and Central Asia,41,42,45,50,49
+75,Kuwait,KWT,Middle East and North Africa,41,49,44,43,44
+75,Tunisia,TUN,Middle East and North Africa,41,38,40,41,41
+75,Bulgaria,BGR,Europe and Central Asia,41,41,43,41,41
+79,Brazil,BRA,Americas,40,38,43,42,43
+79,China,CHN,Asia Pacific,40,37,36,40,39
+79,India,IND,Asia Pacific,40,38,38,36,36
+79,Belarus,BLR,Europe and Central Asia,40,32,31,29,31
+83,Jamaica,JAM,Americas,39,41,38,38,38
+83,Albania,ALB,Europe and Central Asia,39,36,33,31,33
+83,Bosnia and Herzegovina,BIH,Europe and Central Asia,39,38,39,42,42
+83,Lesotho,LSO,Sub-Saharan Africa,39,44,49,49,45
+87,Panama,PAN,Americas,38,39,37,35,38
+87,Mongolia,MNG,Asia Pacific,38,39,39,38,36
+87,Zambia,ZMB,Sub-Saharan Africa,38,38,38,38,37
+90,Colombia,COL,Americas,37,37,37,36,36
+90,Indonesia,IDN,Asia Pacific,37,36,34,32,32
+90,The FYR of Macedonia,MKD,Europe and Central Asia,37,42,45,44,43
+90,Morocco,MAR,Middle East and North Africa,37,36,39,37,37
+90,Liberia,LBR,Sub-Saharan Africa,37,37,37,38,41
+95,Argentina,ARG,Americas,36,32,34,34,35
+95,El Salvador,SLV,Americas,36,39,39,38,38
+95,Maldives,MDV,Asia Pacific,36,,,,
+95,Sri Lanka,LKA,Asia Pacific,36,37,38,37,40
+95,Kosovo,LWI,Europe and Central Asia,36,33,33,33,34
+95,Benin,BEN,Sub-Saharan Africa,36,37,39,36,36
+101,Peru,PER,Americas,35,36,38,38,38
+101,Trinidad and Tobago,TTO,Americas,35,39,38,38,39
+101,Philippines,PHL,Asia Pacific,35,35,38,36,34
+101,Thailand,THA,Asia Pacific,35,38,38,35,37
+101,Timor-Leste,TLS,Asia Pacific,35,28,28,30,33
+101,Gabon,GAB,Sub-Saharan Africa,35,34,37,34,35
+101,Niger,NER,Sub-Saharan Africa,35,34,35,34,33
+108,Guyana,GUY,Americas,34,29,30,27,28
+108,Algeria,DZA,Middle East and North Africa,34,36,36,36,34
+108,Egypt,EGY,Middle East and North Africa,34,36,37,32,32
+108,Côte d’Ivoire,CIV,Sub-Saharan Africa,34,32,32,27,29
+108,Ethiopia,ETH,Sub-Saharan Africa,34,33,33,33,33
+113,Bolivia,BOL,Americas,33,34,35,34,34
+113,Vietnam,VNM,Asia Pacific,33,31,31,31,31
+113,Armenia,ARM,Europe and Central Asia,33,35,37,36,34
+116,Pakistan,PAK,Asia Pacific,32,30,29,28,27
+116,Mali,MLI,Sub-Saharan Africa,32,35,32,28,34
+116,Tanzania,TZA,Sub-Saharan Africa,32,30,31,33,35
+116,Togo,TGO,Sub-Saharan Africa,32,32,29,29,30
+120,Dominican Republic,DOM,Americas,31,33,32,29,32
+120,Ecuador,ECU,Americas,31,32,33,35,32
+120,Malawi,MWI,Sub-Saharan Africa,31,31,33,37,37
+123,Honduras,HND,Americas,30,31,29,26,28
+123,Mexico,MEX,Americas,30,35,35,34,34
+123,Paraguay,PRY,Americas,30,27,24,24,25
+123,Laos,LAO,Asia Pacific,30,25,25,26,21
+123,Azerbaijan,AZE,Europe and Central Asia,30,29,29,28,27
+123,Moldova,MDA,Europe and Central Asia,30,33,35,35,36
+123,Djibouti,DJI,Sub-Saharan Africa,30,34,34,36,36
+123,Sierra Leone,SLE,Sub-Saharan Africa,30,29,31,30,31
+131,Nepal,NPL,Asia Pacific,29,27,29,31,27
+131,Kazakhstan,KAZ,Europe and Central Asia,29,28,29,26,28
+131,Russia,RUS,Europe and Central Asia,29,29,27,28,28
+131,Ukraine,UKR,Europe and Central Asia,29,27,26,25,26
+131,Iran,IRN,Middle East and North Africa,29,27,27,25,28
+136,Guatemala,GTM,Americas,28,28,32,29,33
+136,Myanmar,MMR,Asia Pacific,28,22,21,21,15
+136,Papua New Guinea,PNG,Asia Pacific,28,25,25,25,25
+136,Kyrgyzstan,KGZ,Europe and Central Asia,28,28,27,24,24
+136,Lebanon,LBN,Middle East and North Africa,28,28,27,28,30
+136,Nigeria,NGA,Sub-Saharan Africa,28,26,27,25,27
+142,Guinea,GIN,Sub-Saharan Africa,27,25,25,24,24
+142,Mauritania,MRT,Sub-Saharan Africa,27,31,30,30,31
+142,Mozambique,MOZ,Sub-Saharan Africa,27,31,31,30,31
+145,Nicaragua,NIC,Americas,26,27,28,28,29
+145,Bangladesh,BGD,Asia Pacific,26,25,25,27,26
+145,Cameroon,CMR,Sub-Saharan Africa,26,27,27,25,26
+145,Gambia,GMB,Sub-Saharan Africa,26,28,29,28,34
+145,Kenya,KEN,Sub-Saharan Africa,26,25,25,27,27
+145,Madagascar,MDG,Sub-Saharan Africa,26,28,28,28,32
+151,Tajikistan,TJK,Europe and Central Asia,25,26,23,22,22
+151,Uganda,UGA,Sub-Saharan Africa,25,25,26,26,29
+153,Comoros,COM,Sub-Saharan Africa,24,26,26,28,28
+154,Turkmenistan,TKM,Europe and Central Asia,22,18,17,17,17
+154,Zimbabwe,ZWE,Sub-Saharan Africa,22,21,21,21,20
+156,Cambodia,KHM,Asia Pacific,21,21,21,20,22
+156,Uzbekistan,UZB,Europe and Central Asia,21,19,18,17,17
+156,The Democratic Republic of Congo,COD,Sub-Saharan Africa,21,22,22,22,21
+159,Haiti,HTI,Americas,20,17,19,19,19
+159,Burundi,BDI,Sub-Saharan Africa,20,21,20,21,19
+159,Central African Republic,CAF,Sub-Saharan Africa,20,24,24,25,26
+159,Chad,TCD,Sub-Saharan Africa,20,22,22,19,19
+159,Republic of Congo,COG,Sub-Saharan Africa,20,23,23,22,26
+164,Angola,AGO,Sub-Saharan Africa,18,15,19,23,22
+164,Eritrea,ERI,Sub-Saharan Africa,18,18,18,20,25
+166,Venezuela,VEN,Americas,17,17,19,20,19
+166,Iraq,IRQ,Middle East and North Africa,17,16,16,16,18
+168,Guinea-Bissau,GNB,Sub-Saharan Africa,16,17,19,19,25
+169,Afghanistan,AFG,Asia Pacific,15,11,12,8,8
+170,Libya,LBY,Middle East and North Africa,14,16,18,15,21
+170,Yemen,YEM,Middle East and North Africa,14,18,19,18,23
+170,Sudan,SDN,Sub-Saharan Africa,14,12,11,11,13
+173,Syria,SYR,Middle East and North Africa,13,18,20,17,26
+174,Korea (North),PRK,Asia Pacific,12,8,8,8,8
+175,South Sudan,SSD,Sub-Saharan Africa,11,15,15,14,
+176,Somalia,SOM,Sub-Saharan Africa,10,8,8,8,8
