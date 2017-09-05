@@ -1,0 +1,702 @@
+id,move,description,type,category,power,accuracy,pp,z-effect,priority,crit
+1,Pound,"The target is physically pounded with a long tail, a foreleg, or the like.",Normal,Physical,40,100%,35,100 Power,0,0
+2,Karate Chop,The target is attacked with a sharp chop. Critical hits land more easily.,Fighting,Physical,50,100%,25,100 Power,0,1
+3,Double Slap,"The target is slapped repeatedly, back and forth, two to five times in a row.",Normal,Physical,15,85%,10,100 Power,0,0
+4,Comet Punch,The target is hit with a flurry of punches that strike two to five times in a row.,Normal,Physical,18,85%,15,100 Power,0,0
+5,Mega Punch,The target is slugged by a punch thrown with muscle-packed power.,Normal,Physical,80,85%,20,160 Power,0,0
+6,Pay Day,Numerous coins are hurled at the target to inflict damage. Money is earned after the battle.,Normal,Physical,40,100%,20,100 Power,0,0
+7,Fire Punch,The target is punched with a fiery fist. This may also leave the target with a burn.,Fire,Physical,75,100%,15,140 Power,0,0
+8,Ice Punch,The target is punched with an icy fist. This may also leave the target frozen.,Ice,Physical,75,100%,15,140 Power,0,0
+9,Thunder Punch,The target is punched with an electrified fist. This may also leave the target with paralysis.,Electric,Physical,75,100%,15,140 Power,0,0
+10,Scratch,"Hard, pointed, sharp claws rake the target to inflict damage.",Normal,Physical,40,100%,35,100 Power,0,0
+11,Vice Grip,The target is gripped and squeezed from both sides to inflict damage.,Normal,Physical,55,100%,30,100 Power,0,0
+12,Guillotine,"A vicious, tearing attack with big pincers. The target faints instantly if this attack hits.",Normal,Physical,—,30%,5,180 Power,0,0
+13,Razor Wind,"In this two-turn attack, blades of wind hit opposing Pokémon on the second turn. Critical hits land more easily.",Normal,Special,80,100%,10,160 Power,0,1
+14,Swords Dance,A frenetic dance to uplift the fighting spirit. This sharply raises the user’s Attack stat.,Normal,Status,0,—,20,Reset user's stats,0,0
+15,Cut,The target is cut with a scythe or claw.,Normal,Physical,50,95%,30,100 Power,0,0
+16,Gust,A gust of wind is whipped up by wings and launched at the target to inflict damage.,Flying,Special,40,100%,35,100 Power,0,0
+17,Wing Attack,"The target is struck with large, imposing wings spread wide to inflict damage.",Flying,Physical,60,100%,35,120 Power,0,0
+18,Whirlwind,"The target is blown away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",Normal,Status,0,—,20,Special Defense ↑,-6,0
+19,Fly,The user soars and then strikes its target on the next turn.,Flying,Physical,90,95%,15,175 Power,0,0
+20,Bind,Things such as long bodies or tentacles are used to bind and squeeze the target for four to five turns.,Normal,Physical,15,85%,20,100 Power,0,0
+21,Slam,"The target is slammed with a long tail, vines, or the like to inflict damage.",Normal,Physical,80,75%,20,160 Power,0,0
+22,Vine Whip,"The target is struck with slender, whiplike vines to inflict damage.",Grass,Physical,45,100%,25,100 Power,0,0
+23,Stomp,The target is stomped with a big foot. This may also make the target flinch.,Normal,Physical,65,100%,20,120 Power,0,0
+24,Double Kick,The target is quickly kicked twice in succession using both feet.,Fighting,Physical,30,100%,30,100 Power,0,0
+25,Mega Kick,The target is attacked by a kick launched with muscle-packed power.,Normal,Physical,120,75%,5,190 Power,0,0
+26,Jump Kick,"The user jumps up high, then strikes with a kick. If the kick misses, the user hurts itself.",Fighting,Physical,100,95%,10,180 Power,0,0
+27,Rolling Kick,"The user lashes out with a quick, spinning kick. This may also make the target flinch.",Fighting,Physical,60,85%,15,120 Power,0,0
+28,Sand Attack,"Sand is hurled in the target’s face, reducing the target’s accuracy.",Ground,Status,0,100%,15,Evasiveness ↑,0,0
+29,Headbutt,The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch.,Normal,Physical,70,100%,15,140 Power,0,0
+30,Horn Attack,The target is jabbed with a sharply pointed horn to inflict damage.,Normal,Physical,65,100%,25,120 Power,0,0
+31,Fury Attack,The target is jabbed repeatedly with a horn or beak two to five times in a row.,Normal,Physical,15,85%,20,100 Power,0,0
+32,Horn Drill,The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits.,Normal,Physical,—,30%,5,180 Power,0,0
+33,Tackle,A physical attack in which the user charges and slams into the target with its whole body.,Normal,Physical,40,100%,35,100 Power,0,0
+34,Body Slam,The user drops onto the target with its full body weight. This may also leave the target with paralysis.,Normal,Physical,85,100%,15,160 Power,0,0
+35,Wrap,"A long body, vines, or the like are used to wrap and squeeze the target for four to five turns.",Normal,Physical,15,90%,20,100 Power,0,0
+36,Take Down,"A reckless, full-body charge attack for slamming into the target. This also damages the user a little.",Normal,Physical,90,85%,20,175 Power,0,0
+37,Thrash,The user rampages and attacks for two to three turns. The user then becomes confused.,Normal,Physical,120,100%,10,190 Power,0,0
+38,Double-Edge,"A reckless, life-risking tackle. This also damages the user quite a lot.",Normal,Physical,120,100%,15,190 Power,0,0
+39,Tail Whip,"The user wags its tail cutely, making opposing Pokémon less wary and lowering their Defense stat.",Normal,Status,0,100%,30,Attack ↑,0,0
+40,Poison Sting,The user stabs the target with a poisonous stinger. This may also poison the target.,Poison,Physical,15,100%,35,100 Power,0,0
+41,Twineedle,The user damages the target twice in succession by jabbing it with two spikes. This may also poison the target.,Bug,Physical,25,100%,20,100 Power,0,0
+42,Pin Missile,Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.,Bug,Physical,25,95%,20,140 Power,0,0
+43,Leer,The user gives opposing Pokémon an intimidating leer that lowers the Defense stat.,Normal,Status,0,100%,30,Attack ↑,0,0
+44,Bite,The target is bitten with viciously sharp fangs. This may also make the target flinch.,Dark,Physical,60,100%,25,120 Power,0,0
+45,Growl,"The user growls in an endearing way, making opposing Pokémon less wary. This lowers their Attack stat.",Normal,Status,0,100%,40,Defense ↑,0,0
+46,Roar,"The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",Normal,Status,0,—,20,Defense ↑,-6,0
+47,Sing,A soothing lullaby is sung in a calming voice that puts the target into a deep slumber.,Normal,Status,0,55%,15,Speed ↑,0,0
+48,Supersonic,The user generates odd sound waves from its body that confuse the target.,Normal,Status,0,55%,20,Speed ↑,0,0
+49,Sonic Boom,The target is hit with a destructive shock wave that always inflicts 20 HP damage.,Normal,Special,—,90%,20,100 Power,0,0
+50,Disable,"For four turns, this move prevents the target from using the move it last used.",Normal,Status,0,100%,20,Reset user's stats,0,0
+51,Acid,The opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stat.,Poison,Special,40,100%,30,100 Power,0,0
+52,Ember,The target is attacked with small flames. This may also leave the target with a burn.,Fire,Special,40,100%,25,100 Power,0,0
+53,Flamethrower,The target is scorched with an intense blast of fire. This may also leave the target with a burn.,Fire,Special,90,100%,15,175 Power,0,0
+54,Mist,The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns.,Ice,Status,0,—,30,Restores user's HP 100%,0,0
+55,Water Gun,The target is blasted with a forceful shot of water.,Water,Special,40,100%,25,100 Power,0,0
+56,Hydro Pump,The target is blasted by a huge volume of water launched under great pressure.,Water,Special,110,80%,5,185 Power,0,0
+57,Surf,The user attacks everything around it by swamping its surroundings with a giant wave.,Water,Special,90,100%,15,175 Power,0,0
+58,Ice Beam,The target is struck with an icy-cold beam of energy. This may also leave the target frozen.,Ice,Special,90,100%,10,175 Power,0,0
+59,Blizzard,A howling blizzard is summoned to strike opposing Pokémon. This may also leave the opposing Pokémon frozen.,Ice,Special,110,70%,5,185 Power,0,0
+60,Psybeam,The target is attacked with a peculiar ray. This may also leave the target confused.,Psychic,Special,65,100%,20,120 Power,0,0
+61,Bubble Beam,A spray of bubbles is forcefully ejected at the target. This may also lower its Speed stat.,Water,Special,65,100%,20,120 Power,0,0
+62,Aurora Beam,The target is hit with a rainbow-colored beam. This may also lower the target’s Attack stat.,Ice,Special,65,100%,20,120 Power,0,0
+63,Hyper Beam,The target is attacked with a powerful beam. The user can’t move on the next turn.,Normal,Special,150,90%,5,200 Power,0,0
+64,Peck,The target is jabbed with a sharply pointed beak or horn.,Flying,Physical,35,100%,35,100 Power,0,0
+65,Drill Peck,A corkscrewing attack with a sharp beak acting as a drill.,Flying,Physical,80,100%,20,160 Power,0,0
+66,Submission,The user grabs the target and recklessly dives for the ground. This also damages the user a little.,Fighting,Physical,80,80%,25,160 Power,0,0
+67,Low Kick,"A powerful low kick that makes the target fall over. The heavier the target, the greater the move’s power.",Fighting,Physical,—,100%,20,160 Power,0,0
+68,Counter,"A retaliation move that counters any physical attack, inflicting double the damage taken.",Fighting,Physical,—,100%,20,100 Power,-5,0
+69,Seismic Toss,The target is thrown using the power of gravity. It inflicts damage equal to the user’s level.,Fighting,Physical,—,100%,20,100 Power,0,0
+70,Strength,The target is slugged with a punch thrown at maximum power.,Normal,Physical,80,100%,15,160 Power,0,0
+71,Absorb,A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.,Grass,Special,20,100%,25,100 Power,0,0
+72,Mega Drain,A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.,Grass,Special,40,100%,15,120 Power,0,0
+73,Leech Seed,A seed is planted on the target. It steals some HP from the target every turn.,Grass,Status,0,90%,10,Reset user's stats,0,0
+74,Growth,"The user’s body grows all at once, raising the Attack and Sp. Atk stats.",Normal,Status,0,—,20,Special Attack ↑,0,0
+75,Razor Leaf,Sharp-edged leaves are launched to slash at the opposing Pokémon. Critical hits land more easily.,Grass,Physical,55,95%,25,100 Power,0,1
+76,Solar Beam,"In this two-turn attack, the user gathers light, then blasts a bundled beam on the next turn.",Grass,Special,120,100%,10,190 Power,0,0
+77,Poison Powder,The user scatters a cloud of poisonous dust that poisons the target.,Poison,Status,0,75%,35,Defense ↑,0,0
+78,Stun Spore,The user scatters a cloud of numbing powder that paralyzes the target.,Grass,Status,0,75%,30,Special Defense ↑,0,0
+79,Sleep Powder,The user scatters a big cloud of sleep-inducing dust around the target.,Grass,Status,0,75%,15,Speed ↑,0,0
+80,Petal Dance,The user attacks the target by scattering petals for two to three turns. The user then becomes confused.,Grass,Special,120,100%,10,190 Power,0,0
+81,String Shot,The opposing Pokémon are bound with silk blown from the user’s mouth that harshly lowers the Speed stat.,Bug,Status,0,95%,40,Speed ↑,0,0
+82,Dragon Rage,This attack hits the target with a shock wave of pure rage. This attack always inflicts 40 HP damage.,Dragon,Special,—,100%,10,100 Power,0,0
+83,Fire Spin,The target becomes trapped within a fierce vortex of fire that rages for four to five turns.,Fire,Special,35,85%,15,100 Power,0,0
+84,Thunder Shock,A jolt of electricity crashes down on the target to inflict damage. This may also leave the target with paralysis.,Electric,Special,40,100%,30,100 Power,0,0
+85,Thunderbolt,A strong electric blast crashes down on the target. This may also leave the target with paralysis.,Electric,Special,90,100%,15,175 Power,0,0
+86,Thunder Wave,The user launches a weak jolt of electricity that paralyzes the target.,Electric,Status,0,90%,20,Special Defense ↑,0,0
+87,Thunder,A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis.,Electric,Special,110,70%,10,185 Power,0,0
+88,Rock Throw,The user picks up and throws a small rock at the target to attack.,Rock,Physical,50,90%,15,100 Power,0,0
+89,Earthquake,The user sets off an earthquake that strikes every Pokémon around it.,Ground,Physical,100,100%,10,180 Power,0,0
+90,Fissure,The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits.,Ground,Physical,—,—,5,180 Power,0,0
+91,Dig,"The user burrows, then attacks on the next turn.",Ground,Physical,80,100%,10,160 Power,0,0
+92,Toxic,A move that leaves the target badly poisoned. Its poison damage worsens every turn.,Poison,Status,0,90%,10,Defense ↑,0,0
+93,Confusion,The target is hit by a weak telekinetic force. This may also confuse the target.,Psychic,Special,50,100%,25,100 Power,0,0
+94,Psychic,The target is hit by a strong telekinetic force. This may also lower the target’s Sp. Def stat.,Psychic,Special,90,100%,10,175 Power,0,0
+95,Hypnosis,The user employs hypnotic suggestion to make the target fall into a deep sleep.,Psychic,Status,0,60%,20,Speed ↑,0,0
+96,Meditate,The user meditates to awaken the power deep within its body and raise its Attack stat.,Psychic,Status,0,—,40,Attack ↑,0,0
+97,Agility,The user relaxes and lightens its body to move faster. This sharply raises the Speed stat.,Psychic,Status,0,—,30,Reset user's stats,0,0
+98,Quick Attack,The user lunges at the target at a speed that makes it almost invisible. This move always goes first.,Normal,Physical,40,100%,30,100 Power,1,0
+99,Rage,"As long as this move is in use, the power of rage raises the Attack stat each time the user is hit in battle.",Normal,Physical,20,100%,20,100 Power,0,0
+100,Teleport,Use it to flee from any wild Pokémon.,Psychic,Status,0,—,20,Restores user's HP 100%,0,0
+101,Night Shade,The user makes the target see a frightening mirage. It inflicts damage equal to the user’s level.,Ghost,Special,—,100%,15,100 Power,0,0
+102,Mimic,The user copies the target’s last move. The move can be used during battle until the Pokémon is switched out.,Normal,Status,0,100%,10,Accuracy ↑,0,0
+103,Screech,An earsplitting screech harshly lowers the target’s Defense stat.,Normal,Status,0,85%,40,Attack ↑,0,0
+104,Double Team,"By moving rapidly, the user makes illusory copies of itself to raise its evasiveness.",Normal,Status,0,—,15,Reset user's stats,0,0
+105,Recover,"Restoring its own cells, the user restores its own HP by half of its max HP.",Normal,Status,0,—,10,Reset user's stats,0,0
+106,Harden,The user stiffens all the muscles in its body to raise its Defense stat.,Normal,Status,0,—,30,Defense ↑,0,0
+107,Minimize,"The user compresses its body to make itself look smaller, which sharply raises its evasiveness.",Normal,Status,0,—,10,Reset user's stats,0,0
+108,Smokescreen,The user releases an obscuring cloud of smoke or ink. This lowers the target’s accuracy.,Normal,Status,0,100%,20,Evasiveness ↑,0,0
+109,Confuse Ray,The target is exposed to a sinister ray that triggers confusion.,Ghost,Status,0,100%,10,Special Attack ↑,0,0
+110,Withdraw,"The user withdraws its body into its hard shell, raising its Defense stat.",Water,Status,0,—,40,Defense ↑,0,0
+111,Defense Curl,The user curls up to conceal weak spots and raise its Defense stat.,Normal,Status,0,—,40,Accuracy ↑,0,0
+112,Barrier,The user throws up a sturdy wall that sharply raises its Defense stat.,Psychic,Status,0,—,20,Reset user's stats,0,0
+113,Light Screen,A wondrous wall of light is put up to reduce damage from special attacks for five turns.,Psychic,Status,0,—,30,Special Defense ↑,0,0
+114,Haze,The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle.,Ice,Status,0,—,30,Restores user's HP 100%,0,0
+115,Reflect,A wondrous wall of light is put up to reduce damage from physical attacks for five turns.,Psychic,Status,0,—,20,Defense ↑,0,0
+116,Focus Energy,The user takes a deep breath and focuses so that critical hits land more easily.,Normal,Status,0,—,30,Accuracy ↑,0,0
+117,Bide,"The user endures attacks for two turns, then strikes back to cause double the damage taken.",Normal,Physical,—,100%,10,100 Power,1,0
+118,Metronome,The user waggles a finger and stimulates its brain into randomly using nearly any move.,Normal,Status,0,—,10,No additional effect,0,0
+119,Mirror Move,The user counters the target by mimicking the target’s last move.,Flying,Status,0,—,20,Attack ↑↑,0,0
+120,Self-Destruct,The user attacks everything around it by causing an explosion. The user faints upon using this move.,Normal,Physical,200,100%,5,200 Power,0,0
+121,Egg Bomb,A large egg is hurled at the target with maximum force to inflict damage.,Normal,Physical,100,75%,10,180 Power,0,0
+122,Lick,"The target is licked with a long tongue, causing damage. This may also leave the target with paralysis.",Ghost,Physical,30,100%,30,100 Power,0,0
+123,Smog,The target is attacked with a discharge of filthy gases. This may also poison the target.,Poison,Special,30,70%,20,100 Power,0,0
+124,Sludge,Unsanitary sludge is hurled at the target. This may also poison the target.,Poison,Special,65,100%,20,120 Power,0,0
+125,Bone Club,The user clubs the target with a bone. This may also make the target flinch.,Ground,Physical,65,85%,20,120 Power,0,0
+126,Fire Blast,The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn.,Fire,Special,110,85%,5,185 Power,0,0
+127,Waterfall,The user charges at the target and may make it flinch.,Water,Physical,80,100%,15,160 Power,0,0
+128,Clamp,The target is clamped and squeezed by the user’s very thick and sturdy shell for four to five turns.,Water,Physical,35,85%,10,100 Power,0,0
+129,Swift,Star-shaped rays are shot at the opposing Pokémon. This attack never misses.,Normal,Special,60,—,20,120 Power,0,0
+130,Skull Bash,"The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn.",Normal,Physical,130,100%,10,195 Power,0,0
+131,Spike Cannon,Sharp spikes are shot at the target in rapid succession. They hit two to five times in a row.,Normal,Physical,20,100%,15,100 Power,0,0
+132,Constrict,"The target is attacked with long, creeping tentacles, vines, or the like. This may also lower the target’s Speed stat.",Normal,Physical,10,100%,35,100 Power,0,0
+133,Amnesia,The user temporarily empties its mind to forget its concerns. This sharply raises the user’s Sp. Def stat.,Psychic,Status,0,—,20,Reset user's stats,0,0
+134,Kinesis,The user distracts the target by bending a spoon. This lowers the target’s accuracy.,Psychic,Status,0,80%,15,Evasiveness ↑,0,0
+135,Soft-Boiled,The user restores its own HP by up to half of its max HP.,Normal,Status,0,—,10,Reset user's stats,0,0
+136,High Jump Kick,"The target is attacked with a knee kick from a jump. If it misses, the user is hurt instead.",Fighting,Physical,130,90%,10,195 Power,0,0
+137,Glare,The user intimidates the target with the pattern on its belly to cause paralysis.,Normal,Status,0,100%,30,Special Defense ↑,0,0
+138,Dream Eater,The user eats the dreams of a sleeping target. It absorbs half the damage caused to heal its own HP.,Psychic,Special,100,100%,15,180 Power,0,0
+139,Poison Gas,"A cloud of poison gas is sprayed in the face of opposing Pokémon, poisoning those hit.",Poison,Status,0,90%,40,Defense ↑,0,0
+140,Barrage,Round objects are hurled at the target to strike two to five times in a row.,Normal,Physical,15,85%,20,100 Power,0,0
+141,Leech Life,The user drains the target’s blood. The user’s HP is restored by half the damage taken by the target.,Bug,Physical,80,100%,10,160 Power,0,0
+142,Lovely Kiss,"With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep.",Normal,Status,0,75%,10,Speed ↑,0,0
+143,Sky Attack,A second-turn attack move where critical hits land more easily. This may also make the target flinch.,Flying,Physical,140,90%,5,200 Power,0,1
+144,Transform,The user transforms into a copy of the target right down to having the same move set.,Normal,Status,0,—,10,Restores user's HP 100%,0,0
+145,Bubble,A spray of countless bubbles is jetted at the opposing Pokémon. This may also lower their Speed stat.,Water,Special,40,100%,30,100 Power,0,0
+146,Dizzy Punch,The target is hit with rhythmically launched punches. This may also leave the target confused.,Normal,Physical,70,100%,10,140 Power,0,0
+147,Spore,The user scatters bursts of spores that induce sleep.,Grass,Status,0,100%,15,Reset user's stats,0,0
+148,Flash,The user flashes a bright light that cuts the target’s accuracy.,Normal,Status,0,100%,20,Evasiveness ↑,0,0
+149,Psywave,The target is attacked with an odd psychic wave. The attack varies in intensity.,Psychic,Special,—,100%,15,100 Power,0,0
+150,Splash,The user just flops and splashes around to no effect at all...,Normal,Status,0,—,40,Attack ↑↑↑,0,0
+151,Acid Armor,"The user alters its cellular structure to liquefy itself, sharply raising its Defense stat.",Poison,Status,0,—,20,Reset user's stats,0,0
+152,Crabhammer,The target is hammered with a large pincer. Critical hits land more easily.,Water,Physical,100,90%,10,180 Power,0,1
+153,Explosion,The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move.,Normal,Physical,250,100%,5,200 Power,0,0
+154,Fury Swipes,The target is raked with sharp claws or scythes quickly two to five times in a row.,Normal,Physical,18,80%,15,100 Power,0,0
+155,Bonemerang,The user throws the bone it holds. The bone loops around to hit the target twice0coming and going.,Ground,Physical,50,90%,10,100 Power,0,0
+156,Rest,The user goes to sleep for two turns. This fully restores the user’s HP and heals any status conditions.,Psychic,Status,0,—,10,Reset user's stats,0,0
+157,Rock Slide,Large boulders are hurled at the opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch.,Rock,Physical,75,90%,10,140 Power,0,0
+158,Hyper Fang,The user bites hard on the target with its sharp front fangs. This may also make the target flinch.,Normal,Physical,80,90%,15,160 Power,0,0
+159,Sharpen,"The user makes its edges more jagged, which raises its Attack stat.",Normal,Status,0,—,30,Attack ↑,0,0
+160,Conversion,The user changes its type to become the same type as the move at the top of the list of moves it knows.,Normal,Status,0,—,30,All stats ↑,0,0
+161,Tri Attack,"The user strikes with a simultaneous three-beam attack. May also burn, freeze, or paralyze the target.",Normal,Special,80,100%,10,160 Power,0,0
+162,Super Fang,The user chomps hard on the target with its sharp front fangs. This cuts the target’s HP in half.,Normal,Physical,—,90%,10,100 Power,0,0
+163,Slash,The target is attacked with a slash of claws or blades. Critical hits land more easily.,Normal,Physical,70,100%,20,140 Power,0,1
+164,Substitute,The user makes a copy of itself using some of its HP. The copy serves as the user’s decoy.,Normal,Status,0,—,10,Reset user's stats,0,0
+165,Struggle,This attack is used in desperation only if the user has no PP. It also damages the user a little.,Normal,Physical,50,—,1,1 Power,0,0
+166,Sketch,"It enables the user to permanently learn the move last used by the target. Once used, Sketch disappears.",Normal,Status,0,—,1,All stats ↑,0,0
+167,Triple Kick,A consecutive three-kick attack that becomes more powerful with each successive hit.,Fighting,Physical,10,90%,10,120 Power,0,0
+168,Thief,The user attacks and steals the target’s held item simultaneously. The user can’t steal anything if it already holds an item.,Dark,Physical,60,100%,25,120 Power,0,0
+169,Spider Web,"The user ensnares the target with thin, gooey silk so it can’t flee from battle.",Bug,Status,0,100%,10,Defense ↑,0,0
+170,Mind Reader,The user senses the target’s movements with its mind to ensure its next attack does not miss the target.,Normal,Status,0,100%,5,Special Attack ↑,0,0
+171,Nightmare,A sleeping target sees a nightmare that inflicts some damage every turn.,Ghost,Status,0,100%,15,Special Attack ↑,0,0
+172,Flame Wheel,The user cloaks itself in fire and charges at the target. This may also leave the target with a burn.,Fire,Physical,60,100%,25,120 Power,0,0
+173,Snore,This attack can be used only if the user is asleep. The harsh noise may also make the target flinch.,Normal,Special,50,100%,15,100 Power,0,0
+174,Curse,A move that works differently for the Ghost type than for all other types.,Ghost,Status,0,—,10,"Restores user's HP 100% if user is Ghost-type, Attack ↑ otherwise",0,0
+175,Flail,"The user flails about aimlessly to attack. The less HP the user has, the greater the move’s power.",Normal,Physical,—,100%,15,160 Power,0,0
+176,Conversion 2,The user changes its type to make itself resistant to the type of the attack the opponent used last.,Normal,Status,0,100%,30,Restores user's HP 100%,0,0
+177,Aeroblast,A vortex of air is shot at the target to inflict damage. Critical hits land more easily.,Flying,Special,100,95%,5,180 Power,0,1
+178,Cotton Spore,"The user releases cotton-like spores that cling to the opposing Pokémon, which harshly lowers their Speed stat.",Grass,Status,0,100%,40,Reset user's stats,0,0
+179,Reversal,An all-out attack that becomes more powerful the less HP the user has.,Fighting,Physical,—,100%,15,160 Power,0,0
+180,Spite,The user unleashes its grudge on the move last used by the target by cutting 4 PP from it.,Ghost,Status,0,100%,10,Restores user's HP 100%,0,0
+181,Powder Snow,The user attacks with a chilling gust of powdery snow. This may also freeze the opposing Pokémon.,Ice,Special,40,100%,25,100 Power,0,0
+182,Protect,Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.,Normal,Status,0,—,10,Reset user's stats,4,0
+183,Mach Punch,The user throws a punch at blinding speed. This move always goes first.,Fighting,Physical,40,100%,30,100 Power,1,0
+184,Scary Face,The user frightens the target with a scary face to harshly lower its Speed stat.,Normal,Status,0,100%,10,Speed ↑,0,0
+185,Feint Attack,"The user approaches the target disarmingly, then throws a sucker punch. This attack never misses.",Dark,Physical,60,—,20,120 Power,0,0
+186,Sweet Kiss,"The user kisses the target with a sweet, angelic cuteness that causes confusion.",Fairy,Status,0,75%,10,Special Attack ↑,0,0
+187,Belly Drum,The user maximizes its Attack stat in exchange for HP equal to half its max HP.,Normal,Status,0,—,10,Restores user's HP 100%,0,0
+188,Sludge Bomb,Unsanitary sludge is hurled at the target. This may also poison the target.,Poison,Special,90,100%,10,175 Power,0,0
+189,Mud-Slap,The user hurls mud in the target’s face to inflict damage and lower its accuracy.,Ground,Special,20,100%,10,100 Power,0,0
+190,Octazooka,The user attacks by spraying ink in the target’s face or eyes. This may also lower the target’s accuracy.,Water,Special,65,85%,10,120 Power,0,0
+191,Spikes,The user lays a trap of spikes at the opposing team’s feet. The trap hurts Pokémon that switch into battle.,Ground,Status,0,—,20,Defense ↑,0,0
+192,Zap Cannon,The user fires an electric blast like a cannon to inflict damage and cause paralysis.,Electric,Special,120,50%,5,190 Power,0,0
+193,Foresight,Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.,Normal,Status,0,100%,40,Boosts critical-hit ratio,0,0
+194,Destiny Bond,"After using this move, if the user faints, the Pokémon that landed the knockout hit also faints. Its chance of failing rises if it is used in succession.",Ghost,Status,0,—,5,Becomes center of attention,0,0
+195,Perish Song,"Any Pokémon that hears this song faints in three turns, unless it switches out of battle.",Normal,Status,0,—,5,Reset user's stats,0,0
+196,Icy Wind,The user attacks with a gust of chilled air. This also lowers the opposing Pokémon’s Speed stats.,Ice,Special,55,95%,15,100 Power,0,0
+197,Detect,Enables the user to evade all attacks. Its chance of failing rises if it is used in succession.,Fighting,Status,0,—,5,Evasiveness ↑,4,0
+198,Bone Rush,The user strikes the target with a hard bone two to five times in a row.,Ground,Physical,25,90%,10,140 Power,0,0
+199,Lock-On,The user takes sure aim at the target. This ensures the next attack does not miss the target.,Normal,Status,0,100%,5,Speed ↑,0,0
+200,Outrage,The user rampages and attacks for two to three turns. The user then becomes confused.,Dragon,Physical,120,100%,10,190 Power,0,0
+201,Sandstorm,"A five-turn sandstorm is summoned to hurt all combatants except the Rock, Ground, and Steel types. It raises the Sp. Def stat of Rock types.",Rock,Status,0,—,10,Speed ↑,0,0
+202,Giga Drain,A nutrient-draining attack. The user’s HP is restored by half the damage taken by the target.,Grass,Special,75,100%,10,140 Power,0,0
+203,Endure,The user endures any attack with at least 1 HP. Its chance of failing rises if it is used in succession.,Normal,Status,0,—,10,Reset user's stats,3,0
+204,Charm,"The user gazes at the target rather charmingly, making it less wary. This harshly lowers its Attack stat.",Fairy,Status,0,100%,20,Defense ↑,0,0
+205,Rollout,The user continually rolls into the target over five turns. It becomes more powerful each time it hits.,Rock,Physical,30,90%,20,100 Power,0,0
+206,False Swipe,A restrained attack that prevents the target from fainting. The target is left with at least 1 HP.,Normal,Physical,40,100%,40,100 Power,0,0
+207,Swagger,"The user enrages and confuses the target. However, this also sharply raises the target’s Attack stat.",Normal,Status,0,85%,15,Reset user's stats,0,0
+208,Milk Drink,The user restores its own HP by up to half of its max HP.,Normal,Status,0,—,10,Reset user's stats,0,0
+209,Spark,The user throws an electrically charged tackle at the target. This may also leave the target with paralysis.,Electric,Physical,65,100%,20,120 Power,0,0
+210,Fury Cutter,The target is slashed with scythes or claws. This attack becomes more powerful if it hits in succession.,Bug,Physical,40,95%,20,100 Power,0,0
+211,Steel Wing,The target is hit with wings of steel. This may also raise the user’s Defense stat.,Steel,Physical,70,90%,25,140 Power,0,0
+212,Mean Look,"The user pins the target with a dark, arresting look. The target becomes unable to flee.",Normal,Status,0,100%,5,Special Defense ↑,0,0
+213,Attract,"If it is the opposite gender of the user, the target becomes infatuated and less likely to attack.",Normal,Status,0,100%,15,Reset user's stats,0,0
+214,Sleep Talk,"While it is asleep, the user randomly uses one of the moves it knows.",Normal,Status,0,—,10,Boosts critical-hit ratio,0,0
+215,Heal Bell,The user makes a soothing bell chime to heal the status conditions of all the party Pokémon.,Normal,Status,0,—,5,Restores user's HP 100%,0,0
+216,Return,This full-power attack grows more powerful the more the user likes its Trainer.,Normal,Physical,—,100%,20,160 Power,0,0
+217,Present,"The user attacks by giving the target a gift with a hidden trap. It restores HP sometimes, however.",Normal,Physical,—,90%,15,100 Power,0,0
+218,Frustration,This full-power attack grows more powerful the less the user likes its Trainer.,Normal,Physical,—,100%,20,160 Power,0,0
+219,Safeguard,The user creates a protective field that prevents status conditions for five turns.,Normal,Status,0,—,25,Speed ↑,0,0
+220,Pain Split,"The user adds its HP to the target’s HP, then equally shares the combined HP with the target.",Normal,Status,0,100%,20,Defense ↑,0,0
+221,Sacred Fire,The target is razed with a mystical fire of great intensity. This may also leave the target with a burn.,Fire,Physical,100,95%,5,180 Power,0,0
+222,Magnitude,The user attacks everything around it with a ground-shaking quake. Its power varies.,Ground,Physical,—,100%,30,140 Power,0,0
+223,Dynamic Punch,"The user punches the target with full, concentrated power. This confuses the target if it hits.",Fighting,Physical,100,50%,5,180 Power,0,0
+224,Megahorn,"Using its tough and impressive horn, the user rams into the target with no letup.",Bug,Physical,120,85%,10,190 Power,0,0
+225,Dragon Breath,The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis.,Dragon,Special,60,100%,20,120 Power,0,0
+226,Baton Pass,The user switches places with a party Pokémon in waiting and passes along any stat changes.,Normal,Status,0,—,40,Reset user's stats,0,0
+227,Encore,The user compels the target to keep using the move it encored for three turns.,Normal,Status,0,100%,5,Speed ↑,0,0
+228,Pursuit,The power of this attack move is doubled if it’s used on a target that’s switching out of battle.,Dark,Physical,40,100%,20,100 Power,0,0
+229,Rapid Spin,"A spin attack that can also eliminate such moves as Bind, Wrap, Leech Seed, and Spikes.",Normal,Physical,20,100%,40,100 Power,0,0
+230,Sweet Scent,A sweet scent that harshly lowers opposing Pokémon’s evasiveness.,Normal,Status,0,100%,20,Accuracy ↑,0,0
+231,Iron Tail,The target is slammed with a steel-hard tail. This may also lower the target’s Defense stat.,Steel,Physical,100,75%,15,180 Power,0,0
+232,Metal Claw,The target is raked with steel claws. This may also raise the user’s Attack stat.,Steel,Physical,50,95%,35,100 Power,0,0
+233,Vital Throw,"The user attacks last. In return, this throw move never misses.",Fighting,Physical,70,—,10,140 Power,-1,0
+234,Morning Sun,The user restores its own HP. The amount of HP regained varies with the weather.,Normal,Status,0,—,5,Reset user's stats,0,0
+235,Synthesis,The user restores its own HP. The amount of HP regained varies with the weather.,Grass,Status,0,—,5,Reset user's stats,0,0
+236,Moonlight,The user restores its own HP. The amount of HP regained varies with the weather.,Fairy,Status,0,—,5,Reset user's stats,0,0
+237,Hidden Power,A unique attack that varies in type depending on the Pokémon using it.,Normal,Special,60,100%,15,120 Power,0,0
+238,Cross Chop,The user delivers a double chop with its forearms crossed. Critical hits land more easily.,Fighting,Physical,100,80%,5,180 Power,0,1
+239,Twister,The user whips up a vicious tornado to tear at the opposing Pokémon. This may also make them flinch.,Dragon,Special,40,100%,20,100 Power,0,0
+240,Rain Dance,"The user summons a heavy rain that falls for five turns, powering up Water-type moves. It lowers the power of Fire-type moves.",Water,Status,0,—,5,Speed ↑,0,0
+241,Sunny Day,"The user intensifies the sun for five turns, powering up Fire-type moves. It lowers the power of Water-type moves.",Fire,Status,0,—,5,Speed ↑,0,0
+242,Crunch,The user crunches up the target with sharp fangs. This may also lower the target’s Defense stat.,Dark,Physical,80,100%,15,160 Power,0,0
+243,Mirror Coat,"A retaliation move that counters any special attack, inflicting double the damage taken.",Psychic,Special,—,100%,20,100 Power,-5,0
+244,Psych Up,The user hypnotizes itself into copying any stat change made by the target.,Normal,Status,0,—,10,Restores user's HP 100%,0,0
+245,Extreme Speed,The user charges the target at blinding speed. This move always goes first.,Normal,Physical,80,100%,5,160 Power,2,0
+246,Ancient Power,The user attacks with a prehistoric power. This may also raise all the user’s stats at once.,Rock,Special,60,100%,5,120 Power,0,0
+247,Shadow Ball,The user hurls a shadowy blob at the target. This may also lower the target’s Sp. Def stat.,Ghost,Special,80,100%,15,160 Power,0,0
+248,Future Sight,"Two turns after this move is used, a hunk of psychic energy attacks the target.",Psychic,Special,120,100%,10,190 Power,0,0
+249,Rock Smash,The user attacks with a punch. This may also lower the target’s Defense stat.,Fighting,Physical,40,100%,15,100 Power,0,0
+250,Whirlpool,The user traps the target in a violent swirling whirlpool for four to five turns.,Water,Special,35,85%,15,100 Power,0,0
+251,Beat Up,"The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks.",Dark,Physical,—,100%,10,100 Power,0,0
+252,Fake Out,This attack hits first and makes the target flinch. It only works the first turn the user is in battle.,Normal,Physical,40,100%,10,100 Power,3,0
+253,Uproar,"The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep.",Normal,Special,90,100%,10,175 Power,0,0
+254,Stockpile,The user charges up power and raises both its Defense and Sp. Def stats. The move can be used three times.,Normal,Status,0,—,20,Restores user's HP 100%,0,0
+255,Spit Up,"The power stored using the move Stockpile is released at once in an attack. The more power is stored, the greater the move’s power.",Normal,Special,—,100%,10,100 Power,0,0
+256,Swallow,The power stored using the move Stockpile is absorbed by the user to heal its HP. Storing more power heals more HP.,Normal,Status,0,—,10,Reset user's stats,0,0
+257,Heat Wave,The user attacks by exhaling hot breath on the opposing Pokémon. This may also leave those Pokémon with a burn.,Fire,Special,95,90%,10,175 Power,0,0
+258,Hail,The user summons a hailstorm lasting five turns. It damages all Pokémon except the Ice type.,Ice,Status,0,—,10,Speed ↑,0,0
+259,Torment,"The user torments and enrages the target, making it incapable of using the same move twice in a row.",Dark,Status,0,100%,15,Defense ↑,0,0
+260,Flatter,"Flattery is used to confuse the target. However, this also raises the target’s Sp. Atk stat.",Dark,Status,0,100%,15,Special Defense ↑,0,0
+261,Will-O-Wisp,"The user shoots a sinister, bluish-white flame at the target to inflict a burn.",Fire,Status,0,85%,15,Attack ↑,0,0
+262,Memento,"The user faints when using this move. In return, this harshly lowers the target’s Attack and Sp. Atk stats.",Dark,Status,0,100%,10,Restores replacement’s HP 100%,0,0
+263,Facade,"This attack move doubles its power if the user is poisoned, burned, or paralyzed.",Normal,Physical,70,100%,20,140 Power,0,0
+264,Focus Punch,The user focuses its mind before launching a punch. This move fails if the user is hit before it is used.,Fighting,Physical,150,100%,20,200 Power,-3,0
+265,Smelling Salts,"This attack’s power is doubled when used on a target with paralysis. This also cures the target’s paralysis, however.",Normal,Physical,70,100%,10,140 Power,0,0
+266,Follow Me,"The user draws attention to itself, making all targets take aim only at the user.",Normal,Status,0,100%,20,Reset user's stats,2,0
+267,Nature Power,This attack makes use of nature’s power. Its effects vary depending on the user’s environment.,Normal,Status,0,—,20,No additional effect,0,0
+268,Charge,The user boosts the power of the Electric move it uses on the next turn. This also raises the user’s Sp. Def stat.,Electric,Status,0,—,20,Special Defense ↑,0,0
+269,Taunt,The target is taunted into a rage that allows it to use only attack moves for three turns.,Dark,Status,0,100%,20,Attack ↑,0,0
+270,Helping Hand,The user assists an ally by boosting the power of that ally’s attack.,Normal,Status,0,—,20,Reset user's stats,5,0
+271,Trick,The user catches the target off guard and swaps its held item with its own.,Psychic,Status,0,100%,10,Speed ↑↑,0,0
+272,Role Play,"The user mimics the target completely, copying the target’s natural Ability.",Psychic,Status,0,—,10,Speed ↑,0,0
+273,Wish,"One turn after this move is used, the user’s or its replacement’s HP is restored by half the user’s max HP.",Normal,Status,0,—,10,Special Defense ↑,0,0
+274,Assist,The user hurriedly and randomly uses a move among those known by ally Pokémon.,Normal,Status,0,—,20,No additional effect,0,0
+275,Ingrain,"The user lays roots that restore its HP on every turn. Because it’s rooted, it can’t switch out.",Grass,Status,0,—,20,Special Defense ↑,0,0
+276,Superpower,"The user attacks the target with great power. However, this also lowers the user’s Attack and Defense stats.",Fighting,Physical,120,100%,5,190 Power,0,0
+277,Magic Coat,A barrier reflects back to the target moves like Leech Seed and moves that damage status.,Psychic,Status,0,—,15,Special Defense ↑↑,4,0
+278,Recycle,The user recycles a held item that has been used in battle so it can be used again.,Normal,Status,0,100%,10,Speed ↑↑,0,0
+279,Revenge,This attack move’s power is doubled if the user has been hurt by the opponent in the same turn.,Fighting,Physical,60,100%,10,120 Power,-4,0
+280,Brick Break,"The user attacks with a swift chop. It can also break barriers, such as Light Screen and Reflect.",Fighting,Physical,75,100%,15,140 Power,0,0
+281,Yawn,The user lets loose a huge yawn that lulls the target into falling asleep on the next turn.,Normal,Status,0,100%,10,Speed ↑,0,0
+282,Knock Off,"The user slaps down the target’s held item, and that item can’t be used in that battle. The move does more damage if the target has a held item.",Dark,Physical,65,100%,20,120 Power,0,0
+283,Endeavor,This attack move cuts down the target’s HP to equal the user’s HP.,Normal,Physical,—,100%,5,160 Power,0,0
+284,Eruption,"The user attacks opposing Pokémon with explosive fury. The lower the user’s HP, the lower the move’s power.",Fire,Special,—,100%,5,200 Power,0,0
+285,Skill Swap,The user employs its psychic power to exchange Abilities with the target.,Psychic,Status,0,100%,10,Speed ↑,0,0
+286,Imprison,"If opposing Pokémon know any move also known by the user, they are prevented from using it.",Psychic,Status,0,100%,10,Special Defense ↑↑,0,0
+287,Refresh,"The user rests to cure itself of poisoning, a burn, or paralysis.",Normal,Status,0,100%,20,Restores user's HP 100%,0,0
+288,Grudge,"If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out.",Ghost,Status,0,100%,5,Becomes center of attention,0,0
+289,Snatch,The user steals the effects of any attempts to use a healing or stat-changing move.,Dark,Status,0,100%,10,Speed ↑↑,4,0
+290,Secret Power,The additional effects of this attack depend upon where it was used.,Normal,Physical,70,100%,20,140 Power,0,0
+291,Dive,"Diving on the first turn, the user floats up and attacks on the next turn.",Water,Physical,80,100%,10,160 Power,0,0
+292,Arm Thrust,The user lets loose a flurry of open-palmed arm thrusts that hit two to five times in a row.,Fighting,Physical,15,100%,20,100 Power,0,0
+293,Camouflage,"The user’s type is changed depending on its environment, such as at water’s edge, in grass, or in a cave.",Normal,Status,0,100%,20,Evasiveness ↑,0,0
+294,Tail Glow,"The user stares at flashing lights to focus its mind, drastically raising its Sp. Atk stat.",Bug,Status,0,100%,20,Reset user's stats,0,0
+295,Luster Purge,The user lets loose a damaging burst of light. This may also lower the target’s Sp. Def stat.,Psychic,Special,70,100%,5,140 Power,0,0
+296,Mist Ball,A mist-like flurry of down envelops and damages the target. This may also lower the target’s Sp. Atk stat.,Psychic,Special,70,100%,5,140 Power,0,0
+297,Feather Dance,The user covers the target’s body with a mass of down that harshly lowers its Attack stat.,Flying,Status,0,100%,15,Defense ↑,0,0
+298,Teeter Dance,The user performs a wobbly dance that confuses the Pokémon around it.,Normal,Status,0,100%,20,Special Attack ↑,0,0
+299,Blaze Kick,The user launches a kick that lands a critical hit more easily. This may also leave the target with a burn.,Fire,Physical,85,90%,10,160 Power,0,1
+300,Mud Sport,The user kicks up mud on the battlefield. This weakens Electric-type moves for five turns.,Ground,Status,0,100%,15,Special Defense ↑,0,0
+301,Ice Ball,The user attacks the target for five turns. The move’s power increases each time it hits.,Ice,Physical,30,90%,20,100 Power,0,0
+302,Needle Arm,The user attacks by wildly swinging its thorny arms. This may also make the target flinch.,Grass,Physical,60,100%,15,120 Power,0,0
+303,Slack Off,"The user slacks off, restoring its own HP by up to half of its max HP.",Normal,Status,0,100%,10,Reset user's stats,0,0
+304,Hyper Voice,The user lets loose a horribly echoing shout with the power to inflict damage.,Normal,Special,90,100%,10,175 Power,0,0
+305,Poison Fang,The user bites the target with toxic fangs. This may also leave the target badly poisoned.,Poison,Physical,50,100%,15,100 Power,0,0
+306,Crush Claw,The user slashes the target with hard and sharp claws. This may also lower the target’s Defense stat.,Normal,Physical,75,95%,10,140 Power,0,0
+307,Blast Burn,The target is razed by a fiery explosion. The user can’t move on the next turn.,Fire,Special,150,90%,5,200 Power,0,0
+308,Hydro Cannon,The target is hit with a watery blast. The user can’t move on the next turn.,Water,Special,150,90%,5,200 Power,0,0
+309,Meteor Mash,The target is hit with a hard punch fired like a meteor. This may also raise the user’s Attack stat.,Steel,Physical,90,90%,10,175 Power,0,0
+310,Astonish,The user attacks the target while shouting in a startling fashion. This may also make the target flinch.,Ghost,Physical,30,100%,15,100 Power,0,0
+311,Weather Ball,This attack move varies in power and type depending on the weather.,Normal,Special,50,100%,10,160 Power,0,0
+312,Aromatherapy,The user releases a soothing scent that heals all status conditions affecting the user’s party.,Grass,Status,0,—,5,Restores user's HP 100%,0,0
+313,Fake Tears,"The user feigns crying to fluster the target, harshly lowering its Sp. Def stat.",Dark,Status,0,100%,20,Special Attack ↑,0,0
+314,Air Cutter,The user launches razor-like wind to slash the opposing Pokémon. Critical hits land more easily.,Flying,Special,60,95%,25,120 Power,0,1
+315,Overheat,The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.,Fire,Special,130,90%,5,195 Power,0,0
+316,Odor Sleuth,Enables a Ghost-type target to be hit by Normal- and Fighting-type attacks. This also enables an evasive target to be hit.,Normal,Status,0,100%,40,Attack ↑,0,0
+317,Rock Tomb,Boulders are hurled at the target. This also lowers the target’s Speed stat by preventing its movement.,Rock,Physical,60,95%,15,120 Power,0,0
+318,Silver Wind,The target is attacked with powdery scales blown by the wind. This may also raise all the user’s stats.,Bug,Special,60,100%,5,120 Power,0,0
+319,Metal Sound,A horrible sound like scraping metal harshly lowers the target’s Sp. Def stat.,Steel,Status,0,85%,40,Special Attack ↑,0,0
+320,Grass Whistle,The user plays a pleasant melody that lulls the target into a deep sleep.,Grass,Status,0,55%,15,Speed ↑,0,0
+321,Tickle,"The user tickles the target into laughing, reducing its Attack and Defense stats.",Normal,Status,0,100%,20,Defense ↑,0,0
+322,Cosmic Power,The user absorbs a mystical power from space to raise its Defense and Sp. Def stats.,Psychic,Status,0,—,20,Special Defense ↑,0,0
+323,Water Spout,"The user spouts water to damage opposing Pokémon. The lower the user’s HP, the lower the move’s power.",Water,Special,—,100%,5,200 Power,0,0
+324,Signal Beam,The user attacks with a sinister beam of light. This may also confuse the target.,Bug,Special,75,100%,15,140 Power,0,0
+325,Shadow Punch,The user throws a punch from the shadows. This attack never misses.,Ghost,Physical,60,—,20,120 Power,0,0
+326,Extrasensory,"The user attacks with an odd, unseeable power. This may also make the target flinch.",Psychic,Special,80,100%,20,160 Power,0,0
+327,Sky Uppercut,The user attacks the target with an uppercut thrown skyward with force.,Fighting,Physical,85,90%,15,160 Power,0,0
+328,Sand Tomb,The user traps the target inside a harshly raging sandstorm for four to five turns.,Ground,Physical,35,85%,15,100 Power,0,0
+329,Sheer Cold,The target faints instantly. It’s less likely to hit the target if it’s used by Pokémon other than Ice types.,Ice,Special,—,—,5,180 Power,0,0
+330,Muddy Water,The user attacks by shooting muddy water at the opposing Pokémon. This may also lower their accuracy.,Water,Special,90,85%,10,175 Power,0,0
+331,Bullet Seed,The user forcefully shoots seeds at the target two to five times in a row.,Grass,Physical,25,100%,30,140 Power,0,0
+332,Aerial Ace,"The user confounds the target with speed, then slashes. This attack never misses.",Flying,Physical,60,—,20,120 Power,0,0
+333,Icicle Spear,The user launches sharp icicles at the target two to five times in a row.,Ice,Physical,25,100%,30,140 Power,0,0
+334,Iron Defense,"The user hardens its body’s surface like iron, sharply raising its Defense stat.",Steel,Status,0,—,15,Reset user's stats,0,0
+335,Block,The user blocks the target’s way with arms spread wide to prevent escape.,Normal,Status,0,100%,5,Defense ↑,0,0
+336,Howl,"The user howls loudly to raise its spirit, which raises its Attack stat.",Normal,Status,0,—,40,Attack ↑,0,0
+337,Dragon Claw,The user slashes the target with huge sharp claws.,Dragon,Physical,80,100%,15,160 Power,0,0
+338,Frenzy Plant,The user slams the target with an enormous tree. The user can’t move on the next turn.,Grass,Special,150,90%,5,200 Power,0,0
+339,Bulk Up,"The user tenses its muscles to bulk up its body, raising both its Attack and Defense stats.",Fighting,Status,0,—,20,Attack ↑,0,0
+340,Bounce,"The user bounces up high, then drops on the target on the second turn. This may also leave the target with paralysis.",Flying,Physical,85,85%,5,160 Power,0,0
+341,Mud Shot,The user attacks by hurling a blob of mud at the target. This also lowers the target’s Speed stat.,Ground,Special,55,95%,15,100 Power,0,0
+342,Poison Tail,The user hits the target with its tail. This may also poison the target. Critical hits land more easily.,Poison,Physical,50,100%,25,100 Power,0,1
+343,Covet,"The user endearingly approaches the target, then steals the target’s held item.",Normal,Physical,60,100%,25,120 Power,0,0
+344,Volt Tackle,The user electrifies itself and charges the target. This also damages the user quite a lot. This attack may leave the target with paralysis.,Electric,Physical,120,100%,15,190 Power,0,0
+345,Magical Leaf,The user scatters curious leaves that chase the target. This attack never misses.,Grass,Special,60,—,20,120 Power,0,0
+346,Water Sport,The user soaks the battlefield with water. This weakens Fire-type moves for five turns.,Water,Status,0,100%,15,Special Defense ↑,0,0
+347,Calm Mind,The user quietly focuses its mind and calms its spirit to raise its Sp. Atk and Sp. Def stats.,Psychic,Status,0,—,20,Reset user's stats,0,0
+348,Leaf Blade,The user handles a sharp leaf like a sword and attacks by cutting its target. Critical hits land more easily.,Grass,Physical,90,100%,15,175 Power,0,1
+349,Dragon Dance,"The user vigorously performs a mystic, powerful dance that raises its Attack and Speed stats.",Dragon,Status,0,—,20,Reset user's stats,0,0
+350,Rock Blast,The user hurls hard rocks at the target. Two to five rocks are launched in a row.,Rock,Physical,25,90%,10,140 Power,0,0
+351,Shock Wave,The user strikes the target with a quick jolt of electricity. This attack never misses.,Electric,Special,60,—,20,120 Power,0,0
+352,Water Pulse,The user attacks the target with a pulsing blast of water. This may also confuse the target.,Water,Special,60,100%,20,120 Power,0,0
+353,Doom Desire,"Two turns after this move is used, a concentrated bundle of light blasts the target.",Steel,Special,140,100%,5,200 Power,0,0
+354,Psycho Boost,The user attacks the target at full power. The attack’s recoil harshly lowers the user’s Sp. Atk stat.,Psychic,Special,140,90%,5,200 Power,0,0
+355,Roost,The user lands and rests its body. It restores the user’s HP by up to half of its max HP.,Flying,Status,0,—,10,Reset user's stats,0,0
+356,Gravity,Enables Flying-type Pokémon or Pokémon with the Levitate Ability to be hit by Ground-type moves. Flying moves can’t be used.,Psychic,Status,0,—,5,Special Attack ↑,0,0
+357,Miracle Eye,Enables a Dark-type target to be hit by Psychic-type attacks. This also enables an evasive target to be hit.,Psychic,Status,0,—,40,Special Attack ↑,0,0
+358,Wake-Up Slap,"This attack inflicts big damage on a sleeping target. This also wakes the target up, however.",Fighting,Physical,70,100%,10,140 Power,0,0
+359,Hammer Arm,"The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however.",Fighting,Physical,100,90%,10,180 Power,0,0
+360,Gyro Ball,"The user tackles the target with a high-speed spin. The slower the user compared to the target, the greater the move’s power.",Steel,Physical,—,100%,5,160 Power,0,0
+361,Healing Wish,"The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured.",Psychic,Status,0,—,10,No additional effect,0,0
+362,Brine,"If the target’s HP is half or less, this attack will hit with double the power.",Water,Special,65,100%,10,120 Power,0,0
+363,Natural Gift,The user draws power to attack by using its held Berry. The Berry determines the move’s type and power.,Normal,Physical,—,100%,15,160 Power,0,0
+364,Feint,This attack hits a target using a move such as Protect or Detect. This also lifts the effects of those moves.,Normal,Physical,30,100%,10,100 Power,2,0
+365,Pluck,"The user pecks the target. If the target is holding a Berry, the user eats it and gains its effect.",Flying,Physical,60,100%,20,120 Power,0,0
+366,Tailwind,The user whips up a turbulent whirlwind that ups the Speed stat of the user and its allies for four turns.,Flying,Status,0,—,15,Boosts critical-hit ratio,0,0
+367,Acupressure,"The user applies pressure to stress points, sharply boosting one of its or its allies’ stats.",Normal,Status,0,—,30,Boosts critical-hit ratio,0,0
+368,Metal Burst,The user retaliates with much greater force against the opponent that last inflicted damage on it.,Steel,Physical,—,100%,10,100 Power,0,0
+369,U-turn,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",Bug,Physical,70,100%,20,140 Power,0,0
+370,Close Combat,The user fights the target up close without guarding itself. This also lowers the user’s Defense and Sp. Def stats.,Fighting,Physical,120,100%,5,190 Power,0,0
+371,Payback,"The user stores power, then attacks. If the user moves after the target, this attack’s power will be doubled.",Dark,Physical,50,100%,10,100 Power,0,0
+372,Assurance,"If the target has already taken some damage in the same turn, this attack’s power is doubled.",Dark,Physical,60,100%,10,120 Power,0,0
+373,Embargo,This move prevents the target from using its held item for five turns. Its Trainer is also prevented from using items on it.,Dark,Status,0,100%,15,Special Attack ↑,0,0
+374,Fling,The user flings its held item at the target to attack. This move’s power and effects depend on the item.,Dark,Physical,—,100%,10,100 Power,0,0
+375,Psycho Shift,"Using its psychic power of suggestion, the user transfers its status conditions to the target.",Psychic,Status,0,100%,10,Special Attack ↑↑,0,0
+376,Trump Card,"The fewer PP this move has, the greater its power.",Normal,Special,—,—,5,160 Power,0,0
+377,Heal Block,"For five turns, the user prevents the opposing team from using any moves, Abilities, or held items that recover HP.",Psychic,Status,0,100%,15,Special Attack ↑↑,0,0
+378,Wring Out,"The user powerfully wrings the target. The more HP the target has, the greater the move’s power.",Normal,Special,—,100%,5,190 Power,0,0
+379,Power Trick,The user employs its psychic power to switch its Attack stat with its Defense stat.,Psychic,Status,0,—,10,Attack ↑,0,0
+380,Gastro Acid,The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target’s Ability.,Poison,Status,0,100%,10,Speed ↑,0,0
+381,Lucky Chant,"The user chants an incantation toward the sky, preventing opposing Pokémon from landing critical hits for five turns.",Normal,Status,0,—,30,Evasiveness ↑,0,0
+382,Me First,The user cuts ahead of the target to copy and use the target’s intended move with greater power. This move fails if it isn’t used first.,Normal,Status,0,—,20,Speed ↑↑,0,0
+383,Copycat,The user mimics the move used immediately before it. The move fails if no other move has been used yet.,Normal,Status,0,—,20,Accuracy ↑,0,0
+384,Power Swap,The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target.,Psychic,Status,0,—,10,Speed ↑,0,0
+385,Guard Swap,The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target.,Psychic,Status,0,—,10,Speed ↑,0,0
+386,Punishment,"The more the target has powered up with stat changes, the greater the move’s power.",Dark,Physical,—,100%,5,160 Power,0,0
+387,Last Resort,This move can be used only after the user has used all the other moves it knows in the battle.,Normal,Physical,140,100%,5,200 Power,0,0
+388,Worry Seed,A seed that causes worry is planted on the target. It prevents sleep by making the target’s Ability Insomnia.,Grass,Status,0,100%,10,Speed ↑,0,0
+389,Sucker Punch,This move enables the user to attack first. This move fails if the target is not readying an attack.,Dark,Physical,70,100%,5,140 Power,1,0
+390,Toxic Spikes,The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle.,Poison,Status,0,—,20,Defense ↑,0,0
+391,Heart Swap,The user employs its psychic power to switch stat changes with the target.,Psychic,Status,0,—,10,Boosts critical-hit ratio,0,0
+392,Aqua Ring,The user envelops itself in a veil made of water. It regains some HP every turn.,Water,Status,0,—,20,Defense ↑,0,0
+393,Magnet Rise,The user levitates using electrically generated magnetism for five turns.,Electric,Status,0,—,10,Evasiveness ↑,0,0
+394,Flare Blitz,The user cloaks itself in fire and charges the target. This also damages the user quite a lot. This attack may leave the target with a burn.,Fire,Physical,120,100%,15,190 Power,0,0
+395,Force Palm,The target is attacked with a shock wave. This may also leave the target with paralysis.,Fighting,Physical,60,100%,10,120 Power,0,0
+396,Aura Sphere,The user lets loose a blast of aura power from deep within its body at the target. This attack never misses.,Fighting,Special,80,—,20,160 Power,0,0
+397,Rock Polish,The user polishes its body to reduce drag. This can sharply raise the Speed stat.,Rock,Status,0,—,20,Reset user's stats,0,0
+398,Poison Jab,The target is stabbed with a tentacle or arm steeped in poison. This may also poison the target.,Poison,Physical,80,100%,20,160 Power,0,0
+399,Dark Pulse,The user releases a horrible aura imbued with dark thoughts. This may also make the target flinch.,Dark,Special,80,100%,15,160 Power,0,0
+400,Night Slash,The user slashes the target the instant an opportunity arises. Critical hits land more easily.,Dark,Physical,70,100%,15,140 Power,0,1
+401,Aqua Tail,The user attacks by swinging its tail as if it were a vicious wave in a raging storm.,Water,Physical,90,90%,10,175 Power,0,0
+402,Seed Bomb,The user slams a barrage of hard-shelled seeds down on the target from above.,Grass,Physical,80,100%,15,160 Power,0,0
+403,Air Slash,The user attacks with a blade of air that slices even the sky. This may also make the target flinch.,Flying,Special,75,95%,15,140 Power,0,0
+404,X-Scissor,The user slashes at the target by crossing its scythes or claws as if they were a pair of scissors.,Bug,Physical,80,100%,15,160 Power,0,0
+405,Bug Buzz,The user generates a damaging sound wave by vibration. This may also lower the target’s Sp. Def stat.,Bug,Special,90,100%,10,175 Power,0,0
+406,Dragon Pulse,The target is attacked with a shock wave generated by the user’s gaping mouth.,Dragon,Special,85,100%,10,160 Power,0,0
+407,Dragon Rush,The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch.,Dragon,Physical,100,75%,10,180 Power,0,0
+408,Power Gem,The user attacks with a ray of light that sparkles as if it were made of gemstones.,Rock,Special,80,100%,20,160 Power,0,0
+409,Drain Punch,An energy-draining punch. The user’s HP is restored by half the damage taken by the target.,Fighting,Physical,75,100%,10,140 Power,0,0
+410,Vacuum Wave,The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first.,Fighting,Special,40,100%,30,100 Power,1,0
+411,Focus Blast,The user heightens its mental focus and unleashes its power. This may also lower the target’s Sp. Def stat.,Fighting,Special,120,70%,5,190 Power,0,0
+412,Energy Ball,The user draws power from nature and fires it at the target. This may also lower the target’s Sp. Def stat.,Grass,Special,90,100%,10,175 Power,0,0
+413,Brave Bird,The user tucks in its wings and charges from a low altitude. This also damages the user quite a lot.,Flying,Physical,120,100%,15,190 Power,0,0
+414,Earth Power,The user makes the ground under the target erupt with power. This may also lower the target’s Sp. Def stat.,Ground,Special,90,100%,10,175 Power,0,0
+415,Switcheroo,The user trades held items with the target faster than the eye can follow.,Dark,Status,0,100%,10,Speed ↑↑,0,0
+416,Giga Impact,The user charges at the target using every bit of its power. The user can’t move on the next turn.,Normal,Physical,150,90%,5,200 Power,0,0
+417,Nasty Plot,The user stimulates its brain by thinking bad thoughts. This sharply raises the user’s Sp. Atk stat.,Dark,Status,0,—,20,Reset user's stats,0,0
+418,Bullet Punch,The user strikes the target with tough punches as fast as bullets. This move always goes first.,Steel,Physical,40,100%,30,100 Power,1,0
+419,Avalanche,The power of this attack move is doubled if the user has been hurt by the target in the same turn.,Ice,Physical,60,100%,10,120 Power,-4,0
+420,Ice Shard,The user flash-freezes chunks of ice and hurls them at the target. This move always goes first.,Ice,Physical,40,100%,30,100 Power,1,0
+421,Shadow Claw,The user slashes with a sharp claw made from shadows. Critical hits land more easily.,Ghost,Physical,70,100%,15,140 Power,0,1
+422,Thunder Fang,The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis.,Electric,Physical,65,95%,15,120 Power,0,0
+423,Ice Fang,The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen.,Ice,Physical,65,95%,15,120 Power,0,0
+424,Fire Fang,The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn.,Fire,Physical,65,95%,15,120 Power,0,0
+425,Shadow Sneak,The user extends its shadow and attacks the target from behind. This move always goes first.,Ghost,Physical,40,100%,30,100 Power,1,0
+426,Mud Bomb,The user launches a hard-packed mud ball to attack. This may also lower the target’s accuracy.,Ground,Special,65,85%,10,120 Power,0,0
+427,Psycho Cut,The user tears at the target with blades formed by psychic power. Critical hits land more easily.,Psychic,Physical,70,100%,20,140 Power,0,1
+428,Zen Headbutt,The user focuses its willpower to its head and attacks the target. This may also make the target flinch.,Psychic,Physical,80,90%,15,160 Power,0,0
+429,Mirror Shot,The user lets loose a flash of energy at the target from its polished body. This may also lower the target’s accuracy.,Steel,Special,65,85%,10,120 Power,0,0
+430,Flash Cannon,The user gathers all its light energy and releases it all at once. This may also lower the target’s Sp. Def stat.,Steel,Special,80,100%,10,160 Power,0,0
+431,Rock Climb,The user attacks the target by smashing into it with incredible force. This may also confuse the target.,Normal,Physical,90,85%,20,175 Power,0,0
+432,Defog,A strong wind blows away the target’s barriers such as Reflect or Light Screen. This also lowers the target’s evasiveness.,Flying,Status,0,—,15,Accuracy ↑,0,0
+433,Trick Room,The user creates a bizarre area in which slower Pokémon get to move first for five turns.,Psychic,Status,0,—,5,Accuracy ↑,-7,0
+434,Draco Meteor,Comets are summoned down from the sky onto the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.,Dragon,Special,130,90%,5,195 Power,0,0
+435,Discharge,The user strikes everything around it by letting loose a flare of electricity. This may also cause paralysis.,Electric,Special,80,100%,15,160 Power,0,0
+436,Lava Plume,The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.,Fire,Special,80,100%,15,160 Power,0,0
+437,Leaf Storm,The user whips up a storm of leaves around the target. The attack’s recoil harshly lowers the user’s Sp. Atk stat.,Grass,Special,130,90%,5,195 Power,0,0
+438,Power Whip,"The user violently whirls its vines, tentacles, or the like to harshly lash the target.",Grass,Physical,120,85%,10,190 Power,0,0
+439,Rock Wrecker,The user launches a huge boulder at the target to attack. The user can’t move on the next turn.,Rock,Physical,150,90%,5,200 Power,0,0
+440,Cross Poison,A slashing attack with a poisonous blade that may also poison the target. Critical hits land more easily.,Poison,Physical,70,100%,20,140 Power,0,1
+441,Gunk Shot,The user shoots filthy garbage at the target to attack. This may also poison the target.,Poison,Physical,120,80%,5,190 Power,0,0
+442,Iron Head,The user slams the target with its steel-hard head. This may also make the target flinch.,Steel,Physical,80,100%,15,160 Power,0,0
+443,Magnet Bomb,The user launches steel bombs that stick to the target. This attack never misses.,Steel,Physical,60,—,20,120 Power,0,0
+444,Stone Edge,The user stabs the target from below with sharpened stones. Critical hits land more easily.,Rock,Physical,100,80%,5,180 Power,0,1
+445,Captivate,"If any opposing Pokémon is the opposite gender of the user, it is charmed, which harshly lowers its Sp. Atk stat.",Normal,Status,0,100%,20,Special Defense ↑↑,0,0
+446,Stealth Rock,The user lays a trap of levitating stones around the opposing team. The trap hurts opposing Pokémon that switch into battle.,Rock,Status,0,—,20,Defense ↑,0,0
+447,Grass Knot,"The user snares the target with grass and trips it. The heavier the target, the greater the move’s power.",Grass,Special,—,100%,20,160 Power,0,0
+448,Chatter,The user attacks the target with sound waves of deafening chatter. This confuses the target.,Flying,Special,65,100%,20,120 Power,0,0
+449,Judgment,The user releases countless shots of light at the target. This move’s type varies depending on the kind of Plate the user is holding.,Normal,Special,100,100%,10,180 Power,0,0
+450,Bug Bite,"The user bites the target. If the target is holding a Berry, the user eats it and gains its effect.",Bug,Physical,60,100%,20,120 Power,0,0
+451,Charge Beam,The user attacks with an electric charge. The user may use any remaining electricity to raise its Sp. Atk stat.,Electric,Special,50,90%,10,100 Power,0,0
+452,Wood Hammer,The user slams its rugged body into the target to attack. This also damages the user quite a lot.,Grass,Physical,120,100%,15,190 Power,0,0
+453,Aqua Jet,The user lunges at the target at a speed that makes it almost invisible. This move always goes first.,Water,Physical,40,100%,20,100 Power,1,0
+454,Attack Order,The user calls out its underlings to pummel the target. Critical hits land more easily.,Bug,Physical,90,100%,15,175 Power,0,1
+455,Defend Order,"The user calls out its underlings to shield its body, raising its Defense and Sp. Def stats.",Bug,Status,0,—,10,Defense ↑,0,0
+456,Heal Order,The user calls out its underlings to heal it. The user regains up to half of its max HP.,Bug,Status,0,—,10,Reset user's stats,0,0
+457,Head Smash,"The user attacks the target with a hazardous, full-power headbutt. This also damages the user terribly.",Rock,Physical,150,80%,5,200 Power,0,0
+458,Double Hit,"The user slams the target with a long tail, vines, or a tentacle. The target is hit twice in a row.",Normal,Physical,35,90%,10,140 Power,0,0
+459,Roar of Time,The user blasts the target with power that distorts even time. The user can’t move on the next turn.,Dragon,Special,150,90%,5,200 Power,0,0
+460,Spacial Rend,The user tears the target along with the space around it. Critical hits land more easily.,Dragon,Special,100,95%,5,180 Power,0,1
+461,Lunar Dance,"The user faints. In return, the Pokémon taking its place will have its status and HP fully restored.",Psychic,Status,0,—,10,No additional effect,0,0
+462,Crush Grip,"The target is crushed with great force. The more HP the target has left, the greater this move’s power.",Normal,Physical,—,100%,5,190 Power,0,0
+463,Magma Storm,The target becomes trapped within a maelstrom of fire that rages for four to five turns.,Fire,Special,100,75%,5,180 Power,0,0
+464,Dark Void,Opposing Pokémon are dragged into a world of total darkness that makes them sleep.,Dark,Status,0,50%,10,Reset user's stats,0,0
+465,Seed Flare,The user emits a shock wave from its body to attack its target. This may also harshly lower the target’s Sp. Def stat.,Grass,Special,120,85%,5,190 Power,0,0
+466,Ominous Wind,The user blasts the target with a gust of repulsive wind. This may also raise all the user’s stats at once.,Ghost,Special,60,100%,5,120 Power,0,0
+467,Shadow Force,"The user disappears, then strikes the target on the next turn. This move hits even if the target protects itself.",Ghost,Physical,120,100%,5,190 Power,0,0
+468,Hone Claws,The user sharpens its claws to boost its Attack stat and accuracy.,Dark,Status,0,—,15,Attack ↑,0,0
+469,Wide Guard,The user and its allies are protected from wide-ranging attacks for one turn.,Rock,Status,0,—,10,Defense ↑,3,0
+470,Guard Split,The user employs its psychic power to average its Defense and Sp. Def stats with those of the target.,Psychic,Status,0,—,10,Speed ↑,0,0
+471,Power Split,The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target.,Psychic,Status,0,—,10,Speed ↑,0,0
+472,Wonder Room,The user creates a bizarre area in which Pokémon’s Defense and Sp. Def stats are swapped for five turns.,Psychic,Status,0,—,10,Special Defense ↑,0,0
+473,Psyshock,The user materializes an odd psychic wave to attack the target. This attack does physical damage.,Psychic,Special,80,100%,10,160 Power,0,0
+474,Venoshock,The user drenches the target in a special poisonous liquid. This move’s power is doubled if the target is poisoned.,Poison,Special,65,100%,10,120 Power,0,0
+475,Autotomize,The user sheds part of its body to make itself lighter and sharply raise its Speed stat.,Steel,Status,0,—,15,Reset user's stats,0,0
+476,Rage Powder,The user scatters a cloud of irritating powder to draw attention to itself. Opponents aim only at the user.,Bug,Status,0,—,20,Reset user's stats,2,0
+477,Telekinesis,The user makes the target float with its psychic power. The target is easier to hit for three turns.,Psychic,Status,0,—,15,Special Attack ↑,0,0
+478,Magic Room,The user creates a bizarre area in which Pokémon’s held items lose their effects for five turns.,Psychic,Status,0,—,10,Special Defense ↑,0,0
+479,Smack Down,The user throws a stone or similar projectile to attack an opponent. A flying Pokémon will fall to the ground when it’s hit.,Rock,Physical,50,100%,15,100 Power,0,0
+480,Storm Throw,The user strikes the target with a fierce blow. This attack always results in a critical hit.,Fighting,Physical,60,100%,10,120 Power,0,3
+481,Flame Burst,The user attacks the target with a bursting flame. The bursting flame damages Pokémon next to the target as well.,Fire,Special,70,100%,15,140 Power,0,0
+482,Sludge Wave,The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those hit.,Poison,Special,95,100%,10,175 Power,0,0
+483,Quiver Dance,"The user lightly performs a beautiful, mystic dance. This boosts the user’s Sp. Atk, Sp. Def, and Speed stats.",Bug,Status,0,—,20,Reset user's stats,0,0
+484,Heavy Slam,"The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move’s power.",Steel,Physical,—,100%,10,160 Power,0,0
+485,Synchronoise,"Using an odd shock wave, the user inflicts damage on any Pokémon of the same type in the area around it.",Psychic,Special,120,100%,15,190 Power,0,0
+486,Electro Ball,"The user hurls an electric orb at the target. The faster the user is than the target, the greater the move’s power.",Electric,Special,—,100%,10,160 Power,0,0
+487,Soak,The user shoots a torrent of water at the target and changes the target’s type to Water.,Water,Status,0,100%,20,Special Attack ↑,0,0
+488,Flame Charge,"Cloaking itself in flame, the user attacks. Then, building up more power, the user raises its Speed stat.",Fire,Physical,50,100%,20,100 Power,0,0
+489,Coil,The user coils up and concentrates. This raises its Attack and Defense stats as well as its accuracy.,Poison,Status,0,—,20,Reset user's stats,0,0
+490,Low Sweep,"The user makes a swift attack on the target’s legs, which lowers the target’s Speed stat.",Fighting,Physical,65,100%,20,120 Power,0,0
+491,Acid Spray,The user spits fluid that works to melt the target. This harshly lowers the target’s Sp. Def stat.,Poison,Special,40,100%,20,100 Power,0,0
+492,Foul Play,"The user turns the target’s power against it. The higher the target’s Attack stat, the greater the move’s power.",Dark,Physical,95,100%,15,175 Power,0,0
+493,Simple Beam,The user’s mysterious psychic wave changes the target’s Ability to Simple.,Normal,Status,0,100%,15,Special Attack ↑,0,0
+494,Entrainment,"The user dances with an odd rhythm that compels the target to mimic it, making the target’s Ability the same as the user’s.",Normal,Status,0,100%,15,Special Defense ↑,0,0
+495,After You,The user helps the target and makes it use its move right after the user.,Normal,Status,0,—,15,Speed ↑,0,0
+496,Round,The user attacks the target with a song. Others can join in the Round to increase the power of the attack.,Normal,Special,60,100%,15,120 Power,0,0
+497,Echoed Voice,"The user attacks the target with an echoing voice. If this move is used every turn, its power is increased.",Normal,Special,40,100%,15,100 Power,0,0
+498,Chip Away,"Looking for an opening, the user strikes consistently. The target’s stat changes don’t affect this attack’s damage.",Normal,Physical,70,100%,20,140 Power,0,0
+499,Clear Smog,The user attacks by throwing a clump of special mud. All stat changes are returned to normal.,Poison,Special,50,—,15,100 Power,0,0
+500,Stored Power,"The user attacks the target with stored power. The more the user’s stats are raised, the greater the move’s power.",Psychic,Special,20,100%,10,160 Power,0,0
+501,Quick Guard,The user protects itself and its allies from priority moves.,Fighting,Status,0,—,15,Defense ↑,3,0
+502,Ally Switch,The user teleports using a strange power and switches places with one of its allies.,Psychic,Status,0,—,15,Speed ↑↑,2,0
+503,Scald,The user shoots boiling hot water at its target. This may also leave the target with a burn.,Water,Special,80,100%,15,160 Power,0,0
+504,Shell Smash,"The user breaks its shell, which lowers Defense and Sp. Def stats but sharply raises its Attack, Sp. Atk, and Speed stats.",Normal,Status,0,—,15,Reset user's stats,0,0
+505,Heal Pulse,The user emits a healing pulse that restores the target’s HP by up to half of its max HP.,Psychic,Status,0,—,10,Reset user's stats,0,0
+506,Hex,This relentless attack does massive damage to a target affected by status conditions.,Ghost,Special,65,100%,10,160 Power,0,0
+507,Sky Drop,"The user takes the target into the sky, then drops it during the next turn. The target cannot attack while in the sky.",Flying,Physical,60,100%,10,120 Power,0,0
+508,Shift Gear,"The user rotates its gears, raising its Attack stat and sharply raising its Speed stat.",Steel,Status,0,—,10,Reset user's stats,0,0
+509,Circle Throw,"The target is thrown, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",Fighting,Physical,60,90%,10,120 Power,-6,0
+510,Incinerate,"The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable.",Fire,Special,60,100%,15,120 Power,0,0
+511,Quash,The user suppresses the target and makes its move go last.,Dark,Status,0,100%,15,Speed ↑,0,0
+512,Acrobatics,"The user nimbly strikes the target. If the user is not holding an item, this attack inflicts massive damage.",Flying,Physical,55,100%,15,100 Power,0,0
+513,Reflect Type,"The user reflects the target’s type, making it the same type as the target.",Normal,Status,0,—,15,Special Attack ↑,0,0
+514,Retaliate,"The user gets revenge for a fainted ally. If an ally fainted in the previous turn, this move’s power is increased.",Normal,Physical,70,100%,5,140 Power,0,0
+515,Final Gambit,The user risks everything to attack its target. The user faints but does damage equal to its HP.,Fighting,Special,—,100%,5,180 Power,0,0
+516,Bestow,The user passes its held item to the target when the target isn’t holding an item.,Normal,Status,0,—,15,Speed ↑↑,0,0
+517,Inferno,The user attacks by engulfing the target in an intense fire. This leaves the target with a burn.,Fire,Special,100,50%,5,180 Power,0,0
+518,Water Pledge,"A column of water strikes the target. When combined with its fire equivalent, its power increases and a rainbow appears.",Water,Special,80,100%,10,160 Power,0,0
+519,Fire Pledge,"A column of fire hits the target. When used with its grass equivalent, its power increases and a vast sea of fire appears.",Fire,Special,80,100%,10,160 Power,0,0
+520,Grass Pledge,"A column of grass hits the target. When used with its water equivalent, its power increases and a vast swamp appears.",Grass,Special,80,100%,10,160 Power,0,0
+521,Volt Switch,"After making its attack, the user rushes back to switch places with a party Pokémon in waiting.",Electric,Special,70,100%,20,140 Power,0,0
+522,Struggle Bug,"While resisting, the user attacks the opposing Pokémon. This lowers the Sp. Atk stat of those hit.",Bug,Special,50,100%,20,100 Power,0,0
+523,Bulldoze,The user strikes everything around it by stomping down on the ground. This lowers the Speed stat of those hit.,Ground,Physical,60,100%,20,120 Power,0,0
+524,Frost Breath,The user blows its cold breath on the target. This attack always results in a critical hit.,Ice,Special,60,90%,10,120 Power,0,3
+525,Dragon Tail,"The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon.",Dragon,Physical,60,90%,10,120 Power,-6,0
+526,Work Up,"The user is roused, and its Attack and Sp. Atk stats increase.",Normal,Status,0,—,30,Attack ↑,0,0
+527,Electroweb,The user attacks and captures opposing Pokémon using an electric net. This lowers their Speed stat.,Electric,Special,55,95%,15,100 Power,0,0
+528,Wild Charge,The user shrouds itself in electricity and smashes into its target. This also damages the user a little.,Electric,Physical,90,100%,15,175 Power,0,0
+529,Drill Run,The user crashes into its target while rotating its body like a drill. Critical hits land more easily.,Ground,Physical,80,95%,10,160 Power,0,1
+530,Dual Chop,The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row.,Dragon,Physical,40,90%,15,100 Power,0,0
+531,Heart Stamp,The user unleashes a vicious blow after its cute act makes the target less wary. This may also make the target flinch.,Psychic,Physical,60,100%,25,120 Power,0,0
+532,Horn Leech,The user drains the target’s energy with its horns. The user’s HP is restored by half the damage taken by the target.,Grass,Physical,75,100%,10,140 Power,0,0
+533,Sacred Sword,The user attacks by slicing with a long horn. The target’s stat changes don’t affect this attack’s damage.,Fighting,Physical,90,100%,15,175 Power,0,0
+534,Razor Shell,The user cuts its target with sharp shells. This may also lower the target’s Defense stat.,Water,Physical,75,95%,10,140 Power,0,0
+535,Heat Crash,"The user slams its target with its flame-covered body. The more the user outweighs the target, the greater the move’s power.",Fire,Physical,—,100%,10,160 Power,0,0
+536,Leaf Tornado,The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy.,Grass,Special,65,90%,10,120 Power,0,0
+537,Steamroller,The user crushes its target by rolling over the target with its rolled-up body. This may also make the target flinch.,Bug,Physical,65,100%,20,120 Power,0,0
+538,Cotton Guard,"The user protects itself by wrapping its body in soft cotton, which drastically raises the user’s Defense stat.",Grass,Status,0,—,10,Reset user's stats,0,0
+539,Night Daze,The user lets loose a pitch-black shock wave at its target. This may also lower the target’s accuracy.,Dark,Special,85,95%,10,160 Power,0,0
+540,Psystrike,The user materializes an odd psychic wave to attack the target. This attack does physical damage.,Psychic,Special,100,100%,10,180 Power,0,0
+541,Tail Slap,The user attacks by striking the target with its hard tail. It hits the target two to five times in a row.,Normal,Physical,25,85%,10,140 Power,0,0
+542,Hurricane,The user attacks by wrapping its opponent in a fierce wind that flies up into the sky. This may also confuse the target.,Flying,Special,110,70%,10,185 Power,0,0
+543,Head Charge,"The user charges its head into its target, using its powerful guard hair. This also damages the user a little.",Normal,Physical,120,100%,15,190 Power,0,0
+544,Gear Grind,The user attacks by throwing steel gears at its target twice.,Steel,Physical,50,85%,15,180 Power,0,0
+545,Searing Shot,The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn.,Fire,Special,100,100%,5,180 Power,0,0
+546,Techno Blast,The user fires a beam of light at its target. The move’s type changes depending on the Drive the user holds.,Normal,Special,120,100%,5,190 Power,0,0
+547,Relic Song,The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep.,Normal,Special,75,100%,10,140 Power,0,0
+548,Secret Sword,The user cuts with its long horn. The odd power contained in the horn does physical damage to the target.,Fighting,Special,85,100%,10,160 Power,0,0
+549,Glaciate,The user attacks by blowing freezing cold air at opposing Pokémon. This lowers their Speed stat.,Ice,Special,65,95%,10,120 Power,0,0
+550,Bolt Strike,The user surrounds itself with a great amount of electricity and charges its target. This may also leave the target with paralysis.,Electric,Physical,130,85%,5,195 Power,0,0
+551,Blue Flare,"The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn.",Fire,Special,130,85%,5,195 Power,0,0
+552,Fiery Dance,"Cloaked in flames, the user dances and flaps its wings. This may also raise the user’s Sp. Atk stat.",Fire,Special,80,100%,10,160 Power,0,0
+553,Freeze Shock,"On the second turn, the user hits the target with electrically charged ice. This may also leave the target with paralysis.",Ice,Physical,140,90%,5,200 Power,0,0
+554,Ice Burn,"On the second turn, an ultracold, freezing wind surrounds the target. This may leave the target with a burn.",Ice,Special,140,90%,5,200 Power,0,0
+555,Snarl,"The user yells as if it’s ranting about something, which lowers the Sp. Atk stat of opposing Pokémon.",Dark,Special,55,95%,15,100 Power,0,0
+556,Icicle Crash,The user attacks by harshly dropping large icicles onto the target. This may also make the target flinch.,Ice,Physical,85,90%,10,160 Power,0,0
+557,V-create,"With a hot flame on its forehead, the user hurls itself at its target. This lowers the user’s Defense, Sp. Def, and Speed stats.",Fire,Physical,180,95%,5,220 Power,0,0
+558,Fusion Flare,The user brings down a giant flame. This move’s power is increased when influenced by an enormous lightning bolt.,Fire,Special,100,100%,5,180 Power,0,0
+559,Fusion Bolt,The user throws down a giant lightning bolt. This move’s power is increased when influenced by an enormous flame.,Electric,Physical,100,100%,5,180 Power,0,0
+560,Flying Press,The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously.,Fighting,Physical,100,95%,10,170 Power,0,0
+561,Mat Block,"Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves.",Fighting,Status,0,—,10,Defense ↑,0,0
+562,Belch,The user lets out a damaging belch at the target. The user must eat a held Berry to use this move.,Poison,Special,120,90%,10,190 Power,0,0
+563,Rototiller,"Tilling the soil, the user makes it easier for plants to grow. This raises the Attack and Sp. Atk stats of Grass-type Pokémon.",Ground,Status,0,—,10,Attack ↑,0,0
+564,Sticky Web,"The user weaves a sticky net around the opposing team, which lowers their Speed stat upon switching into battle.",Bug,Status,0,—,20,Speed ↑,0,0
+565,Fell Stinger,"When the user knocks out a target with this move, the user’s Attack stat rises drastically.",Bug,Physical,50,100%,25,100 Power,0,0
+566,Phantom Force,"The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself.",Ghost,Physical,90,100%,10,175 Power,0,0
+567,Trick-or-Treat,The user takes the target trick-or-treating. This adds Ghost type to the target’s type.,Ghost,Status,0,100%,20,All stats ↑,0,0
+568,Noble Roar,"Letting out a noble roar, the user intimidates the target and lowers its Attack and Sp. Atk stats.",Normal,Status,0,100%,30,Defense ↑,0,0
+569,Ion Deluge,"The user disperses electrically charged particles, which changes Normal-type moves to Electric-type moves.",Electric,Status,0,—,25,Special Attack ↑,1,0
+570,Parabolic Charge,The user attacks everything around it. The user’s HP is restored by half the damage taken by those hit.,Electric,Special,65,100%,20,120 Power,0,0
+571,Forest’s Curse,The user puts a forest curse on the target. The target is now Grass type as well.,Grass,Status,0,100%,20,All stats ↑,0,0
+572,Petal Blizzard,The user stirs up a violent petal blizzard and attacks everything around it.,Grass,Physical,90,100%,15,175 Power,0,0
+573,Freeze-Dry,The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types.,Ice,Special,70,100%,20,140 Power,0,0
+574,Disarming Voice,"Letting out a charming cry, the user does emotional damage to opposing Pokémon. This attack never misses.",Fairy,Special,40,—,15,100 Power,0,0
+575,Parting Shot,"With a parting threat, the user lowers the target’s Attack and Sp. Atk stats. Then it switches with a party Pokémon.",Dark,Status,0,100%,20,Restores replacement’s HP 100%,0,0
+576,Topsy-Turvy,All stat changes affecting the target turn topsy-turvy and become the opposite of what they were.,Dark,Status,0,100%,20,Attack ↑,0,0
+577,Draining Kiss,The user steals the target’s HP with a kiss. The user’s HP is restored by over half of the damage taken by the target.,Fairy,Special,50,100%,10,100 Power,0,0
+578,Crafty Shield,The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage.,Fairy,Status,0,—,10,Special Defense ↑,3,0
+579,Flower Shield,The user raises the Defense stat of all Grass-type Pokémon in battle with a mysterious power.,Fairy,Status,0,—,10,Defense ↑,0,0
+580,Grassy Terrain,The user turns the ground to grass for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass type-moves.,Grass,Status,0,—,10,Defense ↑,0,0
+581,Misty Terrain,This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns.,Fairy,Status,0,—,10,Special Defense ↑,0,0
+582,Electrify,"If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type.",Electric,Status,0,—,20,Special Attack ↑,0,0
+583,Play Rough,The user plays rough with the target and attacks it. This may also lower the target’s Attack stat.,Fairy,Physical,90,90%,10,175 Power,0,0
+584,Fairy Wind,The user stirs up a fairy wind and strikes the target with it.,Fairy,Special,40,—,30,100 Power,0,0
+585,Moonblast,"Borrowing the power of the moon, the user attacks the target. This may also lower the target’s Sp. Atk stat.",Fairy,Special,95,100%,15,175 Power,0,0
+586,Boomburst,"The user attacks everything around it with the destructive power of a terrible, explosive sound.",Normal,Special,140,100%,10,200 Power,0,0
+587,Fairy Lock,"By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn.",Fairy,Status,0,—,10,Defense ↑,0,0
+588,King’s Shield,The user takes a defensive stance while it protects itself from damage. It also harshly lowers the Attack stat of any attacker who makes direct contact.,Steel,Status,0,—,10,Reset user's stats,4,0
+589,Play Nice,"The user and the target become friends, and the target loses its will to fight. This lowers the target’s Attack stat.",Normal,Status,0,—,20,Defense ↑,0,0
+590,Confide,"The user tells the target a secret, and the target loses its ability to concentrate. This lowers the target’s Sp. Atk stat.",Normal,Status,0,—,20,Special Defense ↑,0,0
+591,Diamond Storm,The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply raise the user’s Defense stat.,Rock,Physical,100,95%,5,180 Power,0,0
+592,Steam Eruption,The user immerses the target in superheated steam. This may also leave the target with a burn.,Water,Special,110,95%,5,185 Power,0,0
+593,Hyperspace Hole,"Using a hyperspace hole, the user appears right next to the target and strikes. This also hits a target using a move such as Protect or Detect.",Psychic,Special,80,—,5,160 Power,0,0
+594,Water Shuriken,The user hits the target with throwing stars two to five times in a row. This move always goes first.,Water,Special,15,100%,20,100 Power,1,0
+595,Mystical Fire,"The user attacks by breathing a special, hot fire. This also lowers the target’s Sp. Atk stat.",Fire,Special,75,100%,10,140 Power,0,0
+596,Spiky Shield,"In addition to protecting the user from attacks, this move also damages any attacker who makes direct contact.",Grass,Status,0,—,10,Defense ↑,4,0
+597,Aromatic Mist,The user raises the Sp. Def stat of an ally Pokémon by using a mysterious aroma.,Fairy,Status,0,—,20,Special Defense ↑↑,0,0
+598,Eerie Impulse,The user’s body generates an eerie impulse. Exposing the target to it harshly lowers the target’s Sp. Atk stat.,Electric,Status,0,100%,15,Special Defense ↑,0,0
+599,Venom Drench,"Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target.",Poison,Status,0,100%,20,Defense ↑,0,0
+600,Powder,"The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target.",Bug,Status,0,100%,20,Special Defense ↑↑,1,0
+601,Geomancy,"The user absorbs energy and sharply raises its Sp. Atk, Sp. Def, and Speed stats on the next turn.",Fairy,Status,0,—,10,All stats ↑,0,0
+602,Magnetic Flux,"The user manipulates magnetic fields, which raises the Defense and Sp. Def stats of ally Pokémon with the Plus or Minus Ability.",Electric,Status,0,—,20,Special Defense ↑,0,0
+603,Happy Hour,Using Happy Hour doubles the amount of prize money received after battle.,Normal,Status,0,—,30,All stats ↑,0,0
+604,Electric Terrain,"The user electrifies the ground for five turns, powering up Electric-type moves. Pokémon on the ground no longer fall asleep.",Electric,Status,0,—,10,Speed ↑,0,0
+605,Dazzling Gleam,The user damages opposing Pokémon by emitting a powerful flash.,Fairy,Special,80,100%,10,160 Power,0,0
+606,Celebrate,The Pokémon congratulates you on your special day!,Normal,Status,0,—,40,All stats ↑,0,0
+607,Hold Hands,The user and an ally hold hands. This makes them very happy.,Normal,Status,0,—,40,All stats ↑,0,0
+608,Baby-Doll Eyes,"The user stares at the target with its baby-doll eyes, which lowers its Attack stat. This move always goes first.",Fairy,Status,0,100%,30,Defense ↑,1,0
+609,Nuzzle,The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis.,Electric,Physical,20,100%,20,100 Power,0,0
+610,Hold Back,"The user holds back when it attacks, and the target is left with at least 1 HP.",Normal,Physical,40,100%,40,100 Power,0,0
+611,Infestation,The target is infested and attacked for four to five turns. The target can’t flee during this time.,Bug,Special,20,100%,20,100 Power,0,0
+612,Power-Up Punch,Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat.,Fighting,Physical,40,100%,20,100 Power,0,0
+613,Oblivion Wing,The user absorbs its target’s HP. The user’s HP is restored by over half of the damage taken by the target.,Flying,Special,80,100%,10,160 Power,0,0
+614,Thousand Arrows,This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground.,Ground,Physical,90,100%,10,180 Power,0,0
+615,Thousand Waves,The user attacks with a wave that crawls along the ground. Those hit can’t flee from battle.,Ground,Physical,90,100%,10,175 Power,0,0
+616,Land’s Wrath,The user gathers the energy of the land and focuses that power on opposing Pokémon to damage them.,Ground,Physical,90,100%,10,185 Power,0,0
+617,Light of Ruin,"Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot.",Fairy,Special,140,90%,5,200 Power,0,0
+618,Origin Pulse,The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue.,Water,Special,110,85%,10,185 Power,0,0
+619,Precipice Blades,The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone.,Ground,Physical,120,85%,10,190 Power,0,0
+620,Dragon Ascent,"After soaring upward, the user attacks its target by dropping out of the sky at high speeds. But it lowers its own Defense and Sp. Def stats in the process.",Flying,Physical,120,100%,5,190 Power,0,0
+621,Hyperspace Fury,"Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. But the user’s Defense stat falls.",Dark,Physical,100,—,5,180 Power,0,0
+622,Breakneck Blitz,"The user builds up its momentum using its Z-Power and crashes into the target at full speed. The power varies, depending on the original move.",Normal,#N/A,—,—,1,~Type: Normal,0,0
+623,All-Out Pummeling,"The user rams an energy orb created by its Z-Power into the target with full force. The power varies, depending on the original move.",Fighting,#N/A,—,—,1,~Type: Fighting,0,0
+624,Supersonic Skystrike,"The user soars up with its Z-Power and plummets toward the target at full speed. The power varies, depending on the original move.",Flying,#N/A,—,—,1,~Type: Flying,0,0
+625,Acid Downpour,"The user creates a poisonous swamp using its Z-Power and sinks the target into it at full force. The power varies, depending on the original move.",Poison,#N/A,—,—,1,~Type: Poison,0,0
+626,Tectonic Rage,"The user burrows deep into the ground and slams into the target with the full force of its Z-Power. The power varies, depending on the original move.",Ground,#N/A,—,—,1,~Type: Ground,0,0
+627,Continental Crush,"The user summons a huge rock mountain using its Z-Power and drops it onto the target with full force. The power varies, depending on the original move.",Rock,#N/A,—,—,1,~Type: Rock,0,0
+628,Savage Spin-Out,"The user binds the target with full force with threads of silk that the user spits using its Z-Power. The power varies, depending on the original move.",Bug,#N/A,—,—,1,~Type: Bug,0,0
+629,Never-Ending Nightmare,"Deep-seated grudges summoned by the user’s Z-Power trap the target. The power varies, depending on the original move.",Ghost,#N/A,—,—,1,~Type: Ghost,0,0
+630,Corkscrew Crash,"The user spins very fast and rams into the target with the full force of its Z-Power. The power varies, depending on the original move.",Steel,#N/A,—,—,1,~Type: Steel,0,0
+631,Inferno Overdrive,The user breathes a stream of intense fire toward the target with the full force of its Z-Power. The power varies depending on the original move.,Fire,#N/A,—,—,1,~Type: Fire,0,0
+632,Hydro Vortex,"The user creates a huge whirling current using its Z-Power to swallow the target with full force. The power varies, depending on the original move.",Water,#N/A,—,—,1,~Type: Water,0,0
+633,Bloom Doom,"The user collects energy from plants using its Z-Power and attacks the target with full force. The power varies, depending on the original move.",Grass,#N/A,—,—,1,~Type: Grass,0,0
+634,Gigavolt Havoc,"The user hits the target with a powerful electric current collected by its Z-Power. The power varies, depending on the original move.",Electric,#N/A,—,—,1,~Type: Electric,0,0
+635,Shattered Psyche,"The user controls the target with its Z-Power and hurts the target with full force. The power varies, depending on the original move.",Psychic,#N/A,—,—,1,~Type: Psychic,0,0
+636,Subzero Slammer,"The user dramatically drops the temperature using its Z-Power and freezes the target with full force. The power varies, depending on the original move.",Ice,#N/A,—,—,1,~Type: Ice,0,0
+637,Devastating Drake,"The user materializes its aura using its Z-Power and attacks the target with full force. The power varies, depending on the original move.",Dragon,#N/A,—,—,1,~Type: Dragon,0,0
+638,Black Hole Eclipse,"The user gathers dark energy using its Z-Power and sucks the target into it. The power varies, depending on the original move.",Dark,#N/A,—,—,1,~Type: Dark,0,0
+639,Twinkle Tackle,"The user creates a very charming space using its Z-Power and totally toys with the target. The power varies, depending on the original move.",Fairy,#N/A,—,—,1,~Type: Fairy,0,0
+640,Catastropika,"The user, Pikachu, surrounds itself with the maximum amount of electricity using its Z-Power and pounces on its target with full force.",Electric,Physical,210,—,1,~Volt Tackle,0,0
+641,Shore Up,The user regains up to half of its max HP. It restores more HP in a sandstorm.,Ground,Status,0,—,10,Reset user's stats,0,0
+642,First Impression,"Although this move has great power, it only works the first turn the user is in battle.",Bug,Physical,90,100%,10,175 Power,2,0
+643,Baneful Bunker,"In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact.",Poison,Status,0,—,10,Defense ↑,4,0
+644,Spirit Shackle,The user attacks while simultaneously stitching the target’s shadow to the ground to prevent the target from escaping.,Ghost,Physical,80,100%,10,160 Power,0,0
+645,Darkest Lariat,The user swings both arms and hits the target. The target’s stat changes don’t affect this attack’s damage.,Dark,Physical,85,100%,10,160 Power,0,0
+646,Sparkling Aria,"The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be healed by the touch of these bubbles.",Water,Special,90,100%,10,175 Power,0,0
+647,Ice Hammer,"The user swings and hits with its strong, heavy fist. It lowers the user’s Speed, however.",Ice,Physical,100,90%,10,180 Power,0,0
+648,Floral Healing,The user restores the target’s HP by up to half of its max HP. It restores more HP when the terrain is grass.,Fairy,Status,0,—,10,Reset user's stats,0,0
+649,High Horsepower,The user fiercely attacks the target using its entire body.,Ground,Physical,95,95%,10,175 Power,0,0
+650,Strength Sap,The user restores its HP by the same amount as the target’s Attack stat. It also lowers the target’s Attack stat.,Grass,Status,0,—,10,Defense ↑,0,0
+651,Solar Blade,"In this two-turn attack, the user gathers light and fills a blade with the light’s energy, attacking the target on the next turn.",Grass,Physical,125,100%,10,190 Power,0,0
+652,Leafage,The user attacks by pelting the target with leaves.,Grass,Physical,40,100%,40,100 Power,0,0
+653,Spotlight,The user shines a spotlight on the target so that only the target will be attacked during the turn.,Normal,Status,0,—,15,Special Defense ↑,3,0
+654,Toxic Thread,The user shoots poisonous threads to poison the target and lower the target’s Speed stat.,Poison,Status,0,100%,20,Speed ↑,0,0
+655,Laser Focus,The user concentrates intensely. The attack on the next turn always results in a critical hit.,Normal,Status,0,—,30,Attack ↑,0,0
+656,Gear Up,The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability.,Steel,Status,0,—,20,Special Attack ↑,0,0
+657,Throat Chop,"The user attacks the target’s throat, and the resultant suffering prevents the target from using moves that emit sound for two turns.",Dark,Physical,80,100%,15,160 Power,0,0
+658,Pollen Puff,"The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead.",Bug,Special,90,100%,15,175 Power,0,0
+659,Anchor Shot,The user entangles the target with its anchor chain while attacking. The target becomes unable to flee.,Steel,Physical,80,100%,20,160 Power,0,0
+660,Psychic Terrain,This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns.,Psychic,Status,0,—,10,Special Attack ↑,0,0
+661,Lunge,"The user makes a lunge at the target, attacking with full force. This also lowers the target’s Attack stat.",Bug,Physical,80,100%,15,160 Power,0,0
+662,Fire Lash,The user strikes the target with a burning lash. This also lowers the target’s Defense stat.,Fire,Physical,80,100%,15,160 Power,0,0
+663,Power Trip,"The user boasts its strength and attacks the target. The more the user’s stats are raised, the greater the move’s power.",Dark,Physical,20,100%,10,160 Power,0,0
+664,Burn Up,"To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type.",Fire,Special,130,100%,5,195 Power,0,0
+665,Speed Swap,The user exchanges Speed stats with the target.,Psychic,Status,0,—,10,Speed ↑,0,0
+666,Smart Strike,The user stabs the target with a sharp horn. This attack never misses.,Steel,Physical,70,100%,10,140 Power,0,0
+667,Purify,"The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP.",Poison,Status,0,—,20,All stats ↑,0,0
+668,Revelation Dance,The user attacks the target by dancing very hard. The user’s type determines the type of this move.,Normal,Special,90,100%,15,175 Power,0,0
+669,Core Enforcer,"If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability.",Dragon,Special,100,100%,10,140 Power,0,0
+670,Trop Kick,The user lands an intense kick of tropical origins on the target. This also lowers the target’s Attack stat.,Grass,Physical,70,100%,15,140 Power,0,0
+671,Instruct,The user instructs the target to use the target’s last move again.,Psychic,Status,0,—,15,Special Attack ↑,0,0
+672,Beak Blast,"The user first heats up its beak, and then it attacks the target. Making direct contact with the Pokémon while it’s heating up its beak results in a burn.",Flying,Physical,100,100%,15,180 Power,-3,0
+673,Clanging Scales,The user rubs the scales on its entire body and makes a huge noise to attack the opposing Pokémon. The user’s Defense stat goes down after the attack.,Dragon,Special,110,100%,5,185 Power,0,0
+674,Dragon Hammer,The user uses its body like a hammer to attack the target and inflict damage.,Dragon,Physical,90,100%,15,175 Power,0,0
+675,Brutal Swing,The user swings its body around violently to inflict damage on everything in its vicinity.,Dark,Physical,60,100%,20,120 Power,0,0
+676,Aurora Veil,This move reduces damage from physical and special moves for five turns. This can be used only in a hailstorm.,Ice,Status,0,—,20,Speed ↑,0,0
+677,Sinister Arrow Raid,"The user, Decidueye, creates countless arrows using its Z-Power and shoots the target with full force.",Ghost,Physical,180,—,1,~Spirit Shackle,0,0
+678,Malicious Moonsault,"The user, Incineroar, strengthens its body using its Z-Power and crashes into the target with full force.",Dark,Physical,180,—,1,~Darkest Lariat,0,0
+679,Oceanic Operetta,"The user, Primarina, summons a massive amount of water using its Z-Power and attacks the target with full force.",Water,Special,195,—,1,~Sparkling Aria,0,0
+680,Guardian of Alola,"The user, the Land Spirit Pokémon, obtains Alola’s energy using its Z-Power and attacks the target with full force. This reduces the target’s HP greatly.",Fairy,Special,—,—,1,~Nature’s Madness,0,0
+681,Soul-Stealing 7-Star Strike,"After obtaining Z-Power, the user, Marshadow, punches and kicks the target consecutively with full force.",Ghost,Physical,195,—,1,~Spectral Thief,0,0
+682,Stoked Sparksurfer,"After obtaining Z-Power, the user, Alolan Raichu, attacks the target with full force. This move leaves the target with paralysis.",Electric,Special,175,—,1,~Thunderbolt,0,0
+683,Pulverizing Pancake,"Z-Power brings out the true capabilities of the user, Snorlax. The Pokémon moves its enormous body energetically and attacks the target with full force.",Normal,Physical,210,—,1,~Giga Impact,0,0
+684,Extreme Evoboost,"After obtaining Z-Power, the user, Eevee, gets energy from its evolved friends and boosts its stats sharply.",Normal,Status,0,—,1,~Last Resort,0,0
+685,Genesis Supernova,"After obtaining Z-Power, the user, Mew, attacks the target with full force. The terrain will be charged with psychic energy.",Psychic,Special,185,—,1,~Psychic,0,0
+686,Shell Trap,"The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on the opposing Pokémon.",Fire,Special,150,100%,5,200 Power,-3,0
+687,Fleur Cannon,The user unleashes a strong beam. The attack’s recoil harshly lowers the user’s Sp. Atk stat.,Fairy,Special,130,90%,5,195 Power,0,0
+688,Psychic Fangs,The user bites the target with its psychic capabilities. This can also destroy Light Screen and Reflect.,Psychic,Physical,85,100%,10,160 Power,0,0
+689,Stomping Tantrum,"Driven by frustration, the user attacks the target. If the user’s previous move has failed, the power of this move doubles.",Ground,Physical,75,100%,10,140 Power,0,0
+690,Shadow Bone,The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat.,Ghost,Physical,85,100%,10,160 Power,0,0
+691,Accelerock,The user smashes into the target at high speed. This move always goes first.,Rock,Physical,40,100%,20,100 Power,1,0
+692,Liquidation,The user slams into the target using a full-force blast of water. This may also lower the target’s Defense stat.,Water,Physical,85,100%,10,160 Power,0,0
+693,Prismatic Laser,The user shoots powerful lasers using the power of a prism. The user can’t move on the next turn.,Psychic,Special,160,100%,10,200 Power,0,0
+694,Spectral Thief,"The user hides in the target’s shadow, steals the target’s stat boosts, and then attacks.",Ghost,Physical,90,100%,10,175 Power,0,0
+695,Sunsteel Strike,The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Abilities.,Steel,Physical,100,100%,5,180 Power,0,0
+696,Moongeist Beam,The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Abilities.,Ghost,Special,100,100%,5,180 Power,0,0
+697,Tearful Look,The user gets teary eyed to make the target lose its combative spirit. This lowers the target’s Attack and Sp. Atk stats.,Normal,Status,0,—,20,Defense ↑,0,0
+698,Zing Zap,"A strong electric blast crashes down on the target, giving it an electric shock. This may also make the target flinch.",Electric,Physical,80,100%,10,160 Power,0,0
+699,Nature’s Madness,The user hits the target with the force of nature. It halves the target’s HP.,Fairy,Special,—,100%,10,100 Power,0,0
+700,Multi-Attack,"Cloaking itself in high energy, the user slams into the target. The memory held determines the move’s type.",Normal,Physical,90,100%,10,185 Power,0,0
+701,"10,000,000 Volt Thunderbolt","The user, Pikachu wearing a cap, powers up a jolt of electricity using its Z-Power and unleashes it. Critical hits land more easily.",Electric,Special,195,—,1,~Thunderbolt,0,2
