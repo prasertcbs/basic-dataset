@@ -1,0 +1,139 @@
+userID,latitude,longitude,smoker,drink_level,dress_preference,ambience,transport,marital_status,hijos,birth_year,interest,personality,religion,activity,color,weight,budget,height
+U1001,22.139997,-100.978803,false,abstemious,informal,family,on foot,single,independent,1989,variety,thrifty-protector,none,student,black,69,medium,1.77
+U1002,22.150087,-100.983325,false,abstemious,informal,family,public,single,independent,1990,technology,hunter-ostentatious,Catholic,student,red,40,low,1.87
+U1003,22.119847,-100.946527,false,social drinker,formal,family,public,single,independent,1989,none,hard-worker,Catholic,student,blue,60,low,1.69
+U1004,18.867,-99.183,false,abstemious,informal,family,public,single,independent,1940,variety,hard-worker,none,professional,green,44,medium,1.53
+U1005,22.183477,-100.959891,false,abstemious,no preference,family,public,single,independent,1992,none,thrifty-protector,Catholic,student,black,65,medium,1.69
+U1006,22.15,-100.983,true,social drinker,no preference,friends,car owner,single,independent,1989,variety,hard-worker,none,student,blue,75,medium,1.8
+U1007,22.118464,-100.938256,false,casual drinker,informal,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,purple,60,low,1.59
+U1008,22.122989,-100.923811,false,social drinker,formal,solitary,public,single,independent,1989,technology,hard-worker,Catholic,student,green,68,low,1.72
+U1009,22.159427,-100.990448,false,abstemious,formal,family,on foot,single,kids,1991,variety,thrifty-protector,Catholic,student,green,75,medium,1.78
+U1010,22.190889,-100.998669,false,social drinker,no preference,friends,car owner,married,kids,1987,technology,hard-worker,none,student,green,40,medium,1.67
+U1011,23.724972,-99.152856,false,abstemious,no preference,family,public,single,independent,1989,variety,hard-worker,Catholic,student,purple,68,medium,1.78
+U1012,18.813348,-99.243697,false,casual drinker,formal,family,public,single,independent,1988,technology,hard-worker,Catholic,student,red,98,medium,1.84
+U1013,22.174624,-100.993873,false,abstemious,no preference,friends,public,widow,independent,1982,retro,thrifty-protector,none,professional,blue,80,medium,1.75
+U1014,23.751607,-99.170108,false,abstemious,?,friends,public,single,independent,1990,none,hard-worker,Catholic,student,blue,53,medium,1.69
+U1015,22.12676,-100.905209,true,social drinker,informal,family,public,single,independent,1989,technology,thrifty-protector,Catholic,student,black,87,medium,1.67
+U1016,22.156247,-100.977402,false,casual drinker,informal,friends,on foot,single,independent,1991,eco-friendly,thrifty-protector,Catholic,student,green,70,medium,1.67
+U1017,18.952615,-99.201616,false,casual drinker,formal,family,public,single,?,1991,retro,hunter-ostentatious,none,professional,orange,79,medium,1.79
+U1018,22.190949,-100.917902,true,casual drinker,formal,friends,public,single,independent,1989,technology,thrifty-protector,Christian,student,blue,65,low,1.83
+U1019,22.153385,-100.975294,false,casual drinker,no preference,family,public,single,independent,1989,variety,thrifty-protector,Catholic,student,purple,59,medium,1.6
+U1020,18.878189,-99.222969,false,abstemious,no preference,friends,public,single,independent,1982,technology,hard-worker,Catholic,professional,blue,40,medium,1.68
+U1021,23.730569,-99.171883,false,social drinker,no preference,family,car owner,single,dependent,1984,none,hard-worker,Catholic,student,purple,108,medium,1.62
+U1022,22.146708,-100.964355,false,casual drinker,formal,family,car owner,single,independent,1990,variety,hard-worker,Catholic,student,purple,46,medium,1.54
+U1023,23.752943,-99.166589,false,casual drinker,informal,friends,car owner,single,independent,1988,none,hard-worker,Catholic,student,blue,103,low,1.79
+U1024,22.154021,-100.976028,?,abstemious,?,?,?,?,?,1930,none,hard-worker,none,?,yellow,40,?,1.2
+U1025,22.125603,-100.907844,false,social drinker,no preference,family,public,single,?,1990,none,thrifty-protector,Catholic,student,red,65,medium,1.79
+U1026,23.733,-99.133,false,abstemious,formal,family,public,single,independent,1989,technology,hunter-ostentatious,Catholic,student,red,49,medium,1.55
+U1027,22.16515,-100.987015,true,social drinker,no preference,?,public,single,independent,1989,retro,thrifty-protector,Catholic,student,purple,60,low,1.65
+U1028,23.752874,-99.169242,false,abstemious,no preference,family,public,single,independent,1989,variety,hard-worker,Christian,student,blue,77,medium,1.63
+U1029,22.151796,-100.989075,true,casual drinker,formal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,58,low,1.6
+U1030,18.844818,-99.182758,false,casual drinker,formal,family,on foot,single,independent,1991,eco-friendly,hard-worker,Catholic,student,black,64,medium,1.75
+U1031,23.735698,-99.159851,false,abstemious,informal,solitary,?,married,kids,1992,none,hard-worker,Catholic,unemployed,white,40,medium,1.6
+U1032,22.169184,-100.986843,false,abstemious,formal,family,public,single,independent,1989,variety,hard-worker,Catholic,student,blue,40,medium,1.75
+U1033,22.15,-100.983,false,social drinker,no preference,family,on foot,single,?,1991,none,hard-worker,none,student,yellow,54,low,1.6
+U1034,22.137178,-101.013169,false,casual drinker,informal,family,public,single,independent,1990,technology,thrifty-protector,Catholic,student,yellow,50,medium,1.58
+U1035,18.839671,-99.223897,true,casual drinker,no preference,friends,car owner,single,independent,1985,variety,hunter-ostentatious,none,student,red,69,medium,1.75
+U1036,22.160572,-100.989418,false,social drinker,informal,family,public,single,independent,1991,none,hard-worker,Catholic,student,blue,76,medium,1.7
+U1037,22.15031,-100.900536,false,social drinker,no preference,family,public,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,52,low,1.5
+U1038,22.125786,-100.943705,true,social drinker,no preference,family,public,single,independent,1930,variety,thrifty-protector,Catholic,student,blue,97,low,1.83
+U1039,23.738067,-99.139906,false,social drinker,no preference,friends,?,single,independent,1989,none,hard-worker,none,student,yellow,83,medium,1.73
+U1040,18.895187,-99.18039,false,abstemious,no preference,friends,public,single,independent,1994,none,thrifty-protector,Catholic,student,blue,73,medium,1.64
+U1041,18.935191,-99.23624,false,abstemious,no preference,friends,on foot,single,independent,1985,eco-friendly,hunter-ostentatious,Catholic,professional,white,40,medium,1.62
+U1042,18.925773,-99.219589,false,abstemious,no preference,family,car owner,single,independent,1943,technology,thrifty-protector,Christian,student,yellow,40,high,1.4
+U1043,23.77103,-99.167082,false,abstemious,no preference,solitary,public,single,independent,1989,technology,hard-worker,none,student,white,60,medium,1.64
+U1044,18.95298,-99.260789,true,social drinker,informal,family,car owner,married,kids,1969,variety,thrifty-protector,Catholic,professional,orange,85,medium,1.73
+U1045,22.156724,-100.984268,false,casual drinker,elegant,friends,car owner,single,independent,1991,technology,thrifty-protector,Mormon,student,orange,68,high,1.6
+U1046,22.144415,-100.933097,false,social drinker,no preference,friends,car owner,single,independent,1990,retro,hard-worker,Catholic,student,black,82,medium,1.84
+U1047,22.142429,-100.949147,false,abstemious,no preference,family,public,single,independent,1992,retro,thrifty-protector,Catholic,student,purple,60,medium,1.63
+U1048,22.142208,-101.022785,true,casual drinker,no preference,?,public,single,independent,1988,eco-friendly,thrifty-protector,none,student,green,65,medium,1.7
+U1049,22.15,-100.983,false,casual drinker,informal,solitary,public,single,?,1991,none,hard-worker,none,student,blue,55,?,1.6
+U1050,23.758815,-99.171216,false,social drinker,no preference,family,car owner,single,independent,1989,variety,hard-worker,none,student,green,73,medium,1.71
+U1051,18.877719,-99.22299,false,casual drinker,no preference,family,public,single,independent,1979,variety,thrifty-protector,none,professional,blue,74,medium,1.76
+U1052,22.138055,-100.936005,true,social drinker,no preference,family,on foot,single,independent,1990,none,conformist,Catholic,student,blue,85,low,1.8
+U1053,22.175833,-100.986671,false,casual drinker,informal,family,public,single,independent,1990,variety,thrifty-protector,Catholic,student,red,66,low,1.72
+U1054,22.150683,-100.975342,false,social drinker,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,student,blue,59,medium,1.7
+U1055,22.143289,-100.987683,false,abstemious,no preference,family,car owner,married,dependent,1952,none,hard-worker,Catholic,professional,blue,70,medium,1.66
+U1056,22.168997,-100.974376,false,social drinker,informal,family,on foot,single,independent,1930,none,hard-worker,Catholic,student,yellow,61,medium,1.62
+U1057,22.196624,-100.91217,true,casual drinker,formal,friends,public,single,independent,1989,technology,hunter-ostentatious,Catholic,student,yellow,69,medium,1.83
+U1058,22.205802,-100.986081,false,abstemious,formal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,red,74,low,1.78
+U1059,18.988278,-99.097023,false,abstemious,formal,friends,on foot,single,independent,1987,technology,thrifty-protector,Catholic,student,blue,57,medium,1.69
+U1060,23.715238,-99.158864,false,casual drinker,formal,family,public,single,independent,1991,technology,thrifty-protector,Catholic,student,blue,82,medium,1.84
+U1061,22.140388,-100.937321,false,social drinker,no preference,friends,car owner,single,independent,1990,none,hard-worker,Catholic,professional,blue,40,medium,1.76
+U1062,22.195826,-101.006317,false,casual drinker,informal,friends,car owner,single,independent,1985,variety,hard-worker,Catholic,student,yellow,88,medium,1.68
+U1063,23.745096,-99.164357,false,casual drinker,formal,family,public,single,independent,1988,eco-friendly,conformist,Catholic,student,red,80,medium,1.78
+U1064,22.139511,-100.957002,false,casual drinker,formal,solitary,public,single,independent,1991,variety,hunter-ostentatious,none,student,blue,94,medium,1.77
+U1065,23.733665,-99.105617,false,abstemious,formal,friends,public,single,independent,1989,technology,conformist,Catholic,student,green,55,medium,1.72
+U1066,18.890695,-99.157104,false,abstemious,informal,solitary,public,single,?,1986,technology,thrifty-protector,Catholic,student,green,45,low,1.45
+U1067,23.752269,-99.168605,false,abstemious,no preference,family,public,single,independent,1987,technology,thrifty-protector,Christian,student,green,92,medium,1.73
+U1068,23.752269,-99.168605,false,casual drinker,informal,friends,public,single,independent,1988,technology,thrifty-protector,Catholic,student,blue,72,low,1.57
+U1069,19.347641,-99.130229,false,social drinker,no preference,family,public,single,independent,1983,variety,thrifty-protector,Catholic,professional,black,60,medium,1.56
+U1070,23.753237,-99.166868,false,casual drinker,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,47,low,1.6
+U1071,22.154339,-100.975342,false,abstemious,formal,friends,car owner,single,independent,1930,none,hunter-ostentatious,none,student,blue,40,high,1.73
+U1072,18.86826,-99.212033,false,casual drinker,no preference,family,public,single,independent,1984,eco-friendly,thrifty-protector,Christian,student,red,50,medium,1.54
+U1073,22.15,-100.983,false,abstemious,informal,solitary,car owner,widow,kids,1989,none,hard-worker,none,unemployed,yellow,118,medium,1.79
+U1074,18.917,-99.25,true,casual drinker,no preference,family,car owner,single,kids,1967,eco-friendly,hard-worker,Catholic,professional,black,68,medium,1.7
+U1075,22.167575,-100.960364,false,casual drinker,informal,family,car owner,single,independent,1991,technology,thrifty-protector,Catholic,student,white,68,medium,1.6
+U1076,22.156469,-100.98554,false,social drinker,elegant,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,65,medium,1.71
+U1077,22.156469,-100.98554,false,social drinker,elegant,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,65,medium,1.71
+U1078,22.172109,-100.963199,true,social drinker,informal,solitary,car owner,single,independent,1983,variety,hard-worker,Catholic,professional,blue,69,medium,1.69
+U1079,18.917,-99.25,false,abstemious,formal,family,public,single,independent,1992,technology,thrifty-protector,Catholic,?,black,53,medium,1.55
+U1080,23.743793,-99.163397,true,social drinker,formal,friends,car owner,single,independent,1987,variety,hard-worker,Catholic,student,white,80,low,1.82
+U1081,22.207749,-100.942383,false,casual drinker,informal,family,public,single,independent,1991,variety,hard-worker,Catholic,student,green,52,low,1.54
+U1082,23.753061,-99.166095,true,abstemious,informal,friends,public,single,?,1989,variety,hard-worker,Catholic,student,black,63,medium,1.69
+U1083,22.13392,-101.028373,false,abstemious,?,?,?,?,?,1981,none,hard-worker,none,?,yellow,40,?,1.6
+U1084,22.172524,-101.005758,true,casual drinker,formal,family,public,single,independent,1991,variety,thrifty-protector,Catholic,student,red,65,medium,1.6
+U1085,22.196787,-100.936335,false,abstemious,no preference,solitary,car owner,single,independent,1988,technology,thrifty-protector,Catholic,student,black,84,?,1.7
+U1086,22.157281,-100.98444,false,social drinker,no preference,family,car owner,single,independent,1991,variety,hunter-ostentatious,Catholic,student,red,49,medium,1.59
+U1087,23.753336,-99.167984,false,abstemious,no preference,solitary,public,single,independent,1989,variety,thrifty-protector,Catholic,student,black,53,medium,1.55
+U1088,22.142748,-100.940664,false,social drinker,informal,family,on foot,single,independent,1991,none,hard-worker,Catholic,student,blue,62,medium,1.6
+U1089,22.162562,-100.99313,true,casual drinker,informal,family,public,single,independent,1990,variety,conformist,Catholic,student,white,54,low,1.6
+U1090,22.158473,-100.984268,false,social drinker,no preference,friends,car owner,single,independent,1988,variety,thrifty-protector,Catholic,student,blue,50,medium,1.54
+U1091,22.154677,-100.949013,false,casual drinker,no preference,family,car owner,single,independent,1989,eco-friendly,thrifty-protector,none,student,red,40,low,1.7
+U1092,22.125365,-100.947888,false,abstemious,formal,solitary,public,single,dependent,1990,variety,thrifty-protector,Catholic,?,red,70,medium,1.69
+U1093,18.871654,-99.183251,true,casual drinker,no preference,family,car owner,single,independent,1990,variety,thrifty-protector,Catholic,student,blue,80,medium,1.67
+U1094,23.73944,-99.160548,false,abstemious,informal,friends,public,single,independent,1991,variety,thrifty-protector,Catholic,student,green,59,medium,1.71
+U1095,22.179865,-101.018547,false,abstemious,formal,family,public,married,independent,1986,variety,thrifty-protector,Catholic,student,blue,65,medium,1.65
+U1096,22.1455,-100.939593,false,abstemious,formal,family,public,single,independent,1990,eco-friendly,hard-worker,Catholic,student,black,40,medium,1.2
+U1097,22.145471,-100.939588,false,abstemious,formal,family,public,single,independent,1990,variety,hard-worker,Catholic,student,black,58,medium,1.64
+U1098,22.182571,-100.963232,false,social drinker,formal,family,public,single,independent,1991,none,thrifty-protector,Catholic,student,green,68,medium,1.76
+U1099,22.184862,-100.970535,true,social drinker,informal,family,public,single,independent,1989,technology,conformist,Catholic,student,purple,70,high,2
+U1100,18.879729,-99.067106,false,casual drinker,formal,friends,public,single,independent,1990,eco-friendly,hard-worker,Christian,student,black,40,medium,1.65
+U1101,22.150891,-100.974891,false,casual drinker,no preference,friends,car owner,single,independent,1988,eco-friendly,hunter-ostentatious,Catholic,student,white,50,low,1.69
+U1102,22.137131,-100.941151,false,social drinker,no preference,friends,on foot,single,independent,1989,eco-friendly,conformist,none,student,black,90,low,1.78
+U1103,23.752265,-99.16859,false,abstemious,formal,friends,public,single,independent,1989,technology,hard-worker,Jewish,professional,green,120,medium,1.9
+U1104,22.149005,-100.978153,true,social drinker,no preference,family,car owner,single,independent,1991,technology,hunter-ostentatious,Catholic,student,blue,75,medium,1.71
+U1105,22.120019,-100.950991,false,social drinker,formal,family,public,single,independent,1991,variety,hard-worker,Christian,student,green,40,medium,1.74
+U1106,18.927072,-99.173584,false,casual drinker,informal,friends,car owner,single,independent,1930,technology,hard-worker,Catholic,professional,blue,65,medium,1.71
+U1107,23.742409,-99.171889,false,abstemious,no preference,friends,car owner,single,independent,1989,variety,hard-worker,Catholic,?,blue,87,high,1.79
+U1108,22.143524,-100.987562,false,abstemious,informal,solitary,public,single,independent,1983,technology,thrifty-protector,Catholic,student,blue,76,medium,1.81
+U1109,22.303308,-101.05468,false,abstemious,formal,solitary,public,single,independent,1989,eco-friendly,thrifty-protector,Catholic,student,blue,57,low,1.72
+U1110,18.871678,-99.183263,false,abstemious,no preference,family,car owner,single,independent,1993,variety,thrifty-protector,Catholic,student,red,85,medium,1.75
+U1111,22.143078,-100.908523,true,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69
+U1112,22.143078,-100.908523,true,casual drinker,formal,friends,car owner,single,independent,1991,none,hard-worker,Catholic,student,white,69,medium,1.69
+U1113,22.137343,-100.913935,false,casual drinker,formal,family,public,single,independent,1990,none,thrifty-protector,Catholic,student,blue,75,medium,1.73
+U1114,22.177726,-101.014094,false,abstemious,no preference,family,on foot,single,independent,1991,variety,hard-worker,Catholic,student,blue,58,medium,1.68
+U1115,22.138127,-100.920512,true,social drinker,elegant,friends,public,single,independent,1990,variety,hard-worker,Catholic,student,green,76,low,1.76
+U1116,22.156469,-100.98554,false,social drinker,formal,family,public,married,kids,1987,technology,thrifty-protector,Catholic,student,blue,40,medium,1.71
+U1117,18.875641,-99.220737,false,abstemious,no preference,friends,public,single,independent,1982,technology,thrifty-protector,Catholic,professional,blue,58,medium,1.6
+U1118,18.940062,-99.228172,true,casual drinker,informal,friends,public,single,independent,1987,technology,thrifty-protector,none,student,black,60,medium,1.68
+U1119,18.96479,-99.260017,false,abstemious,formal,family,public,single,independent,1992,eco-friendly,thrifty-protector,Catholic,student,blue,68,medium,1.68
+U1120,22.121857,-100.904279,false,abstemious,informal,friends,public,single,independent,1930,variety,hard-worker,none,student,green,47,low,1.57
+U1121,18.871674,-99.183253,false,social drinker,no preference,family,public,married,independent,1987,variety,thrifty-protector,Catholic,working-class,black,90,medium,1.6
+U1122,22.169601,-100.991821,?,abstemious,?,?,?,?,?,1930,none,hard-worker,none,?,yellow,40,?,1.2
+U1123,23.753112,-99.168567,false,abstemious,informal,family,?,single,independent,1987,technology,hard-worker,Catholic,student,green,110,medium,1.75
+U1124,22.137072,-100.918865,false,casual drinker,informal,friends,public,single,independent,1991,none,hard-worker,Catholic,student,blue,51,low,1.2
+U1125,22.19204,-100.956935,false,casual drinker,formal,friends,public,single,independent,1990,technology,hard-worker,Catholic,student,white,57,low,1.67
+U1126,22.15421,-100.942233,false,casual drinker,formal,friends,on foot,single,independent,1990,technology,hard-worker,Catholic,student,purple,65,low,1.63
+U1127,18.943935,-99.206532,false,abstemious,no preference,solitary,public,single,independent,1992,variety,hard-worker,Catholic,student,black,65,low,1.76
+U1128,22.187236,-100.994213,false,casual drinker,no preference,friends,public,single,independent,1986,variety,thrifty-protector,Catholic,student,red,66,low,1.72
+U1129,23.728798,-99.134047,false,casual drinker,no preference,friends,public,single,independent,1989,variety,thrifty-protector,none,student,purple,69,low,1.69
+U1130,23.733,-99.133,?,abstemious,?,?,?,?,?,1989,none,hard-worker,none,?,yellow,40,?,1.2
+U1131,22.138245,-100.910948,true,social drinker,no preference,friends,car owner,married,kids,1990,eco-friendly,hard-worker,none,student,black,90,medium,1.8
+U1132,22.15,-100.983,false,casual drinker,informal,solitary,public,single,?,1991,none,hard-worker,none,student,blue,55,?,1.6
+U1133,18.886698,-99.114979,false,abstemious,no preference,family,car owner,single,independent,1991,none,hard-worker,none,student,orange,60,medium,1.57
+U1134,22.149654,-100.99861,false,casual drinker,no preference,family,public,single,independent,1991,variety,hard-worker,Catholic,student,black,52,medium,1.65
+U1135,22.170396,-100.949936,false,casual drinker,informal,family,on foot,single,kids,1988,variety,hunter-ostentatious,Catholic,student,purple,66,low,1.54
+U1136,22.149607,-100.997235,true,social drinker,no preference,friends,car owner,single,independent,1990,retro,thrifty-protector,Catholic,student,black,50,low,1.6
+U1137,22.144803,-100.944623,false,social drinker,formal,family,public,single,independent,1989,eco-friendly,hard-worker,Catholic,student,blue,72,low,1.78
+U1138,22.152884,-100.939663,false,social drinker,formal,friends,public,single,independent,1991,variety,thrifty-protector,none,student,blue,54,medium,1.55
