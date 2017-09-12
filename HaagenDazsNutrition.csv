@@ -1,36 +1,36 @@
-HalfCup,Calories,Fat_g,Cholesterol_mg,Carbs_g,Sugars_g,Protein_g,Category
-Banana Split,270,15,70,30,26,4,Ice Cream
-Butter Pecan,300,22,80,20,17,5,Ice Cream
-Caramel Cone,320,20,70,30,25,5,Ice Cream
-Cherry Vanilla,230,14,70,22,20,4,Ice Cream
-Chocolate,260,17,90,22,19,5,Ice Cream
-Chocolate Chip Cookie Dough,300,18,75,30,23,4,Ice Cream
-Chocolate Chocolate Chip,300,19,85,26,22,5,Ice Cream
-Chocolate Peanut Butter,340,23,85,26,22,8,Ice Cream
-Coffee,250,17,85,20,19,4,Ice Cream
-Cookies & Cream,250,16,80,22,19,4,Ice Cream
-Dark Chocolate,260,17,90,21,16,5,Ice Cream
-Dulce De Leche,270,16,75,27,27,5,Ice Cream
-Green Tea,250,17,85,20,19,5,Ice Cream
-Java Chip,290,17,75,30,28,4,Ice Cream
-Mint Chip,280,18,80,25,22,4,Ice Cream
-Pistachio,280,19,85,22,19,5,Ice Cream
-Rocky Road,290,17,70,29,22,5,Ice Cream
-Strawberry,240,15,75,22,20,4,Ice Cream
-Vanilla,250,17,85,20,19,4,Ice Cream
-Vanilla Chocolate Chip,290,19,85,25,22,5,Ice Cream
-Vanilla Swiss Almond,290,19,80,24,20,5,Ice Cream
-Black Cherry Amaretto,240,9,80,35,26,4,Gelato
-Cappuccino,230,10,90,32,23,4,Gelato
-Dark Chocolate Chip,270,12,55,36,27,5,Gelato
-Limoncello,240,9,85,35,26,4,Gelato
-Sea Sat Caramel,270,11,85,38,29,4,Gelato
-Vanilla Bean,230,10,90,31,23,4,Gelato
-Chocolate,130,0,0,29,21,2,Sorbet
-Mango,150,0,0,38,34,0,Sorbet
-Raspberry,110,0,0,28,25,0,Sorbet
-Strawberry,130,0,0,31,28,0,Sorbet
-Zesty Lemon,120,0,0,30,27,0,Sorbet
-Coffee,180,2,45,31,21,8,Frozen Yogurt
-Vanilla,170,2,45,29,21,9,Frozen Yogurt
-Vanilla Raspberry Swirl,150,1,25,31,25,5,Frozen Yogurt
+Flavor,Calories,Fat_g,Cholesterol_mg,Carbs_g,Sugars_g,Protein_g,Category,Size_cup
+Banana Split,270,15,70,30,26,4,Ice Cream,0.5
+Butter Pecan,300,22,80,20,17,5,Ice Cream,0.5
+Caramel Cone,320,20,70,30,25,5,Ice Cream,0.5
+Cherry Vanilla,230,14,70,22,20,4,Ice Cream,0.5
+Chocolate,260,17,90,22,19,5,Ice Cream,0.5
+Chocolate Chip Cookie Dough,300,18,75,30,23,4,Ice Cream,0.5
+Chocolate Chocolate Chip,300,19,85,26,22,5,Ice Cream,0.5
+Chocolate Peanut Butter,340,23,85,26,22,8,Ice Cream,0.5
+Coffee,250,17,85,20,19,4,Ice Cream,0.5
+Cookies & Cream,250,16,80,22,19,4,Ice Cream,0.5
+Dark Chocolate,260,17,90,21,16,5,Ice Cream,0.5
+Dulce De Leche,270,16,75,27,27,5,Ice Cream,0.5
+Green Tea,250,17,85,20,19,5,Ice Cream,0.5
+Java Chip,290,17,75,30,28,4,Ice Cream,0.5
+Mint Chip,280,18,80,25,22,4,Ice Cream,0.5
+Pistachio,280,19,85,22,19,5,Ice Cream,0.5
+Rocky Road,290,17,70,29,22,5,Ice Cream,0.5
+Strawberry,240,15,75,22,20,4,Ice Cream,0.5
+Vanilla,250,17,85,20,19,4,Ice Cream,0.5
+Vanilla Chocolate Chip,290,19,85,25,22,5,Ice Cream,0.5
+Vanilla Swiss Almond,290,19,80,24,20,5,Ice Cream,0.5
+Black Cherry Amaretto,240,9,80,35,26,4,Gelato,0.5
+Cappuccino,230,10,90,32,23,4,Gelato,0.5
+Dark Chocolate Chip,270,12,55,36,27,5,Gelato,0.5
+Limoncello,240,9,85,35,26,4,Gelato,0.5
+Sea Sat Caramel,270,11,85,38,29,4,Gelato,0.5
+Vanilla Bean,230,10,90,31,23,4,Gelato,0.5
+Chocolate,130,0,0,29,21,2,Sorbet,0.5
+Mango,150,0,0,38,34,0,Sorbet,0.5
+Raspberry,110,0,0,28,25,0,Sorbet,0.5
+Strawberry,130,0,0,31,28,0,Sorbet,0.5
+Zesty Lemon,120,0,0,30,27,0,Sorbet,0.5
+Coffee,180,2,45,31,21,8,Frozen Yogurt,0.5
+Vanilla,170,2,45,29,21,9,Frozen Yogurt,0.5
+Vanilla Raspberry Swirl,150,1,25,31,25,5,Frozen Yogurt,0.5
