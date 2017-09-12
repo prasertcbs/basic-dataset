@@ -1,55 +1,55 @@
-Half_Cup,Calories,Fat_g,Cholesterol_mg,Carbs_g,Sugars_g,Protein_g
-Americone Dream,270,15,65,30,24,3
-Banana Split,250,15,65,27,25,3
-Boston Cream Pie,250,13,90,29,26,3
-Cake Batter,260,16,65,27,23,4
-Cannoli,280,16,65,28,23,4
-Cheesecake Brownie,250,14,70,27,24,3
-Cherry Garcia,240,13,60,28,23,4
-Chocolate,250,14,40,25,21,4
-Chocolate Chip Cookie Dough,270,14,65,33,25,4
-Chocolate Fudge Brownie,260,12,40,34,27,4
-Chocolate Nougat Crunch,260,14,60,30,30,4
-Chocolate Peppermint Crunch,290,16,45,33,28,4
-Chocolate Therapy,240,13,45,27,21,4
-Chubby Hubby,340,20,55,33,25,7
-Chunky Monkey,290,18,65,29,27,4
-Cinnamon Buns,290,15,60,36,28,4
-Coffee Caramel Buzz,280,14,60,33,25,4
-Coffee Coffee Buzz Buzz Buzz,260,16,65,27,24,4
-Coffee Heath Bar Crunch,280,16,60,30,27,4
-Crème Brulée,280,16,90,31,28,3
-Everything But the . . .,290,17,45,31,28,5
-Half Baked,270,13,55,35,27,4
-Imagine Whirled Peace,270,16,75,27,23,3
-Karamel Sutra,260,14,55,31,26,3
-Late Night Snack,270,15,60,31,21,4
-Milk & Cookies,270,15,60,30,23,4
-Mint Chocolate Cookie,260,14,65,28,22,4
-Mud Pie,270,16,55,28,23,4
-New York Super Fudge Chunk,300,20,50,29,25,4
-Oatmeal Cookie Chunk,260,14,55,30,23,4
-Peach Cobbler,220,11,50,28,26,3
-Peanut Brittle,260,15,60,29,23,4
-Peanut Butter Cup,360,26,70,27,24,6
-Phish Food,280,13,35,39,28,4
-Pistachio Pistachio,280,17,70,24,19,6
-Red Velvet Cake,250,13,60,23,23,4
-S'mores,280,16,35,35,26,3
-Strawberry Cheesecake,250,15,60,26,22,3
-Triple Caramel Chunk,280,16,65,32,25,3
-Vanilla,230,14,75,23,20,4
-Vanilla Caramel Fudge,280,14,70,34,27,4
-Vanilla Heath Bar Crunch,280,17,65,30,27,4
-What a Cluster,320,19,45,31,23,7
-Cherry Garcia Fro Yo,200,3,20,37,27,8
-Chocolate Fudge Brownie Fro Yo,180,2,15,35,25,5
-Half Baked Fro Yo,180,3,20,35,23,4
-Phish Food Fro Yo,240,6,20,41,27,4
-Banana Peanut Butter Greek Frozen Yogurt,210,8,25,30,26,6
-Blueberry Vanilla Graham Greek Frozen Yogurt,200,7,25,29,23,6
-Liz Lemon Greek Frozen Yogurt,180,4,30,29,21,6
-Pineapple Passionfruit Greek Frozen Yogurt,180,4,65,30,26,5
-Raspberry Fudge Chunk Greek Frozen Yogurt,200,7,25,29,25,6
-Strawberry Shortcake Greek Frozen Yogurt,180,6,35,28,21,6
-Vanilla Honey Caramel Greek Frozen Yogurt,190,5,35,30,22,6
+Flavor,Calories,Fat_g,Cholesterol_mg,Carbs_g,Sugars_g,Protein_g,Category,Size_cup
+Americone Dream,270,15,65,30,24,3,Ice Cream,0.5
+Banana Split,250,15,65,27,25,3,Ice Cream,0.5
+Boston Cream Pie,250,13,90,29,26,3,Ice Cream,0.5
+Cake Batter,260,16,65,27,23,4,Ice Cream,0.5
+Cannoli,280,16,65,28,23,4,Ice Cream,0.5
+Cheesecake Brownie,250,14,70,27,24,3,Ice Cream,0.5
+Cherry Garcia,240,13,60,28,23,4,Ice Cream,0.5
+Chocolate,250,14,40,25,21,4,Ice Cream,0.5
+Chocolate Chip Cookie Dough,270,14,65,33,25,4,Ice Cream,0.5
+Chocolate Fudge Brownie,260,12,40,34,27,4,Ice Cream,0.5
+Chocolate Nougat Crunch,260,14,60,30,30,4,Ice Cream,0.5
+Chocolate Peppermint Crunch,290,16,45,33,28,4,Ice Cream,0.5
+Chocolate Therapy,240,13,45,27,21,4,Ice Cream,0.5
+Chubby Hubby,340,20,55,33,25,7,Ice Cream,0.5
+Chunky Monkey,290,18,65,29,27,4,Ice Cream,0.5
+Cinnamon Buns,290,15,60,36,28,4,Ice Cream,0.5
+Coffee Caramel Buzz,280,14,60,33,25,4,Ice Cream,0.5
+Coffee Coffee Buzz Buzz Buzz,260,16,65,27,24,4,Ice Cream,0.5
+Coffee Heath Bar Crunch,280,16,60,30,27,4,Ice Cream,0.5
+Crème Brulée,280,16,90,31,28,3,Ice Cream,0.5
+Everything But the . . .,290,17,45,31,28,5,Ice Cream,0.5
+Half Baked,270,13,55,35,27,4,Ice Cream,0.5
+Imagine Whirled Peace,270,16,75,27,23,3,Ice Cream,0.5
+Karamel Sutra,260,14,55,31,26,3,Ice Cream,0.5
+Late Night Snack,270,15,60,31,21,4,Ice Cream,0.5
+Milk & Cookies,270,15,60,30,23,4,Ice Cream,0.5
+Mint Chocolate Cookie,260,14,65,28,22,4,Ice Cream,0.5
+Mud Pie,270,16,55,28,23,4,Ice Cream,0.5
+New York Super Fudge Chunk,300,20,50,29,25,4,Ice Cream,0.5
+Oatmeal Cookie Chunk,260,14,55,30,23,4,Ice Cream,0.5
+Peach Cobbler,220,11,50,28,26,3,Ice Cream,0.5
+Peanut Brittle,260,15,60,29,23,4,Ice Cream,0.5
+Peanut Butter Cup,360,26,70,27,24,6,Ice Cream,0.5
+Phish Food,280,13,35,39,28,4,Ice Cream,0.5
+Pistachio Pistachio,280,17,70,24,19,6,Ice Cream,0.5
+Red Velvet Cake,250,13,60,23,23,4,Ice Cream,0.5
+S'mores,280,16,35,35,26,3,Ice Cream,0.5
+Strawberry Cheesecake,250,15,60,26,22,3,Ice Cream,0.5
+Triple Caramel Chunk,280,16,65,32,25,3,Ice Cream,0.5
+Vanilla,230,14,75,23,20,4,Ice Cream,0.5
+Vanilla Caramel Fudge,280,14,70,34,27,4,Ice Cream,0.5
+Vanilla Heath Bar Crunch,280,17,65,30,27,4,Ice Cream,0.5
+What a Cluster,320,19,45,31,23,7,Ice Cream,0.5
+Cherry Garcia Fro Yo,200,3,20,37,27,8,Ice Cream,0.5
+Chocolate Fudge Brownie Fro Yo,180,2,15,35,25,5,Ice Cream,0.5
+Half Baked Fro Yo,180,3,20,35,23,4,Ice Cream,0.5
+Phish Food Fro Yo,240,6,20,41,27,4,Ice Cream,0.5
+Banana Peanut Butter Greek Frozen Yogurt,210,8,25,30,26,6,Ice Cream,0.5
+Blueberry Vanilla Graham Greek Frozen Yogurt,200,7,25,29,23,6,Ice Cream,0.5
+Liz Lemon Greek Frozen Yogurt,180,4,30,29,21,6,Ice Cream,0.5
+Pineapple Passionfruit Greek Frozen Yogurt,180,4,65,30,26,5,Ice Cream,0.5
+Raspberry Fudge Chunk Greek Frozen Yogurt,200,7,25,29,25,6,Ice Cream,0.5
+Strawberry Shortcake Greek Frozen Yogurt,180,6,35,28,21,6,Ice Cream,0.5
+Vanilla Honey Caramel Greek Frozen Yogurt,190,5,35,30,22,6,Ice Cream,0.5
