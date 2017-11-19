@@ -1,0 +1,298 @@
+academic.year,school,cost
+1985,Business (MBA),10000
+1986,Business (MBA),10750
+1987,Business (MBA),11900
+1988,Business (MBA),13300
+1989,Business (MBA),14250
+1990,Business (MBA),15350
+1991,Business (MBA),16400
+1992,Business (MBA),17500
+1993,Business (MBA),18550
+1994,Business (MBA),19750
+1995,Business (MBA),21000
+1996,Business (MBA),22700
+1997,Business (MBA),23840
+1998,Business (MBA),25000
+1999,Business (MBA),26260
+2000,Business (MBA),27250
+2001,Business (MBA),28500
+2002,Business (MBA),30050
+2003,Business (MBA),31800
+2004,Business (MBA),33650
+2005,Business (MBA),35600
+2006,Business (MBA),37500
+2007,Business (MBA),39600
+2008,Business (MBA),41900
+2009,Business (MBA),43800
+2010,Business (MBA),46150
+2011,Business (MBA),48600
+2012,Business (MBA),51200
+2013,Business (MBA),53500
+2014,Business (MBA),56175
+2015,Business (MBA),58875
+2016,Business (MBA),61225
+2017,Business (MBA),63675
+1985,Design,9500
+1986,Design,10165
+1987,Design,10850
+1988,Design,11500
+1989,Design,12250
+1990,Design,13110
+1991,Design,14300
+1992,Design,15450
+1993,Design,16650
+1994,Design,17483
+1995,Design,18360
+1996,Design,19276
+1997,Design,20240
+1998,Design,21252
+1999,Design,22208
+2000,Design,23163
+2001,Design,24159
+2002,Design,25195
+2003,Design,26330
+2004,Design,27910
+2005,Design,29500
+2006,Design,30916
+2007,Design,32152
+2008,Design,33438
+2009,Design,34608
+2010,Design,35992
+2011,Design,37432
+2012,Design,38880
+2013,Design,40440
+2014,Design,42056
+2015,Design,43700
+2016,Design,45440
+2017,Design,47240
+1985,Divinity,6200
+1986,Divinity,6640
+1987,Divinity,7100
+1988,Divinity,7600
+1989,Divinity,8100
+1990,Divinity,8630
+1991,Divinity,9200
+1992,Divinity,9940
+1993,Divinity,10540
+1994,Divinity,11070
+1995,Divinity,11630
+1996,Divinity,12220
+1997,Divinity,12830
+1998,Divinity,13480
+1999,Divinity,14160
+2000,Divinity,14870
+2001,Divinity,15620
+2002,Divinity,16400
+2003,Divinity,17220
+2004,Divinity,18080
+2005,Divinity,18984
+2006,Divinity,19920
+2007,Divinity,20712
+2008,Divinity,21544
+2009,Divinity,22080
+2010,Divinity,22856
+2011,Divinity,23544
+2012,Divinity,24250
+2013,Divinity,25000
+2014,Divinity,25504
+2015,Divinity,26272
+2016,Divinity,26792
+2017,Divinity,27408
+1985,Education,8928
+1986,Education,9552
+1987,Education,10176
+1988,Education,10752
+1989,Education,11440
+1990,Education,12232
+1991,Education,13152
+1992,Education,14192
+1993,Education,15044
+1994,Education,15796
+1995,Education,16664
+1996,Education,17581
+1997,Education,18460
+1998,Education,19476
+1999,Education,20430
+2000,Education,21410
+2001,Education,22600
+2002,Education,23720
+2003,Education,25144
+2004,Education,26628
+2005,Education,28092
+2006,Education,29360
+2007,Education,30544
+2008,Education,31696
+2009,Education,32896
+2010,Education,34208
+2011,Education,35568
+2012,Education,36992
+2013,Education,38480
+2014,Education,40016
+2015,Education,41616
+2016,Education,43280
+2017,Education,45008
+1985,GSAS,9500
+1986,GSAS,10266
+1987,GSAS,11040
+1988,GSAS,11645
+1989,GSAS,12310
+1990,GSAS,13085
+1991,GSAS,13960
+1992,GSAS,14860
+1993,GSAS,15870
+1994,GSAS,16856
+1995,GSAS,17851
+1996,GSAS,18838
+1997,GSAS,19770
+1998,GSAS,20600
+1999,GSAS,21342
+2000,GSAS,22054
+2001,GSAS,22694
+2002,GSAS,23370
+2003,GSAS,24630
+2004,GSAS,26066
+2005,GSAS,27448
+2006,GSAS,28752
+2007,GSAS,30275
+2008,GSAS,31456
+2009,GSAS,32556
+2010,GSAS,33696
+2011,GSAS,34976
+2012,GSAS,36304
+2013,GSAS,37576
+2014,GSAS,38888
+2015,GSAS,40416
+2016,GSAS,41832
+2017,GSAS,43296
+1985,Government,9200
+1986,Government,9840
+1987,Government,10440
+1988,Government,11075
+1989,Government,11800
+1990,Government,12570
+1991,Government,13390
+1992,Government,14662
+1993,Government,15690
+1994,Government,16631
+1995,Government,17710
+1996,Government,18650
+1997,Government,19770
+1998,Government,20720
+1999,Government,21656
+2000,Government,22520
+2001,Government,23400
+2002,Government,24320
+2003,Government,26488
+2004,Government,28580
+2005,Government,30272
+2006,Government,31752
+2007,Government,33276
+2008,Government,34807
+2009,Government,36168
+2010,Government,37576
+2011,Government,39041
+2012,Government,40017
+2013,Government,41418
+2014,Government,42868
+2015,Government,44323
+2016,Government,45697
+2017,Government,47068
+1985,Law,8800
+1986,Law,9650
+1987,Law,10700
+1988,Law,11400
+1989,Law,12307
+1990,Law,13400
+1991,Law,14475
+1992,Law,15560
+1993,Law,16730
+1994,Law,17750
+1995,Law,19080
+1996,Law,20500
+1997,Law,21700
+1998,Law,22800
+1999,Law,23900
+2000,Law,25000
+2001,Law,26000
+2002,Law,27500
+2003,Law,29500
+2004,Law,31250
+2005,Law,33120
+2006,Law,35100
+2007,Law,37100
+2008,Law,39325
+2009,Law,41500
+2010,Law,43900
+2011,Law,45450
+2012,Law,47600
+2013,Law,49950
+2014,Law,52350
+2015,Law,54850
+2016,Law,57200
+2017,Law,59550
+1985,Medical/Dental,12100
+1986,Medical/Dental,13100
+1987,Medical/Dental,14000
+1988,Medical/Dental,14850
+1989,Medical/Dental,15750
+1990,Medical/Dental,16850
+1991,Medical/Dental,18030
+1992,Medical/Dental,19110
+1993,Medical/Dental,20257
+1994,Medical/Dental,21260
+1995,Medical/Dental,22300
+1996,Medical/Dental,23192
+1997,Medical/Dental,24150
+1998,Medical/Dental,25200
+1999,Medical/Dental,26000
+2000,Medical/Dental,27000
+2001,Medical/Dental,28000
+2002,Medical/Dental,29000
+2003,Medical/Dental,30500
+2004,Medical/Dental,32000
+2005,Medical/Dental,34250
+2006,Medical/Dental,35800
+2007,Medical/Dental,37200
+2008,Medical/Dental,38600
+2009,Medical/Dental,39900
+2010,Medical/Dental,42500
+2011,Medical/Dental,45050
+2012,Medical/Dental,47500
+2013,Medical/Dental,49875
+2014,Medical/Dental,52100
+2015,Medical/Dental,54200
+2016,Medical/Dental,55850
+2017,Medical/Dental,58050
+1985,Public Health (1-Year MPH),8300
+1986,Public Health (1-Year MPH),8826
+1987,Public Health (1-Year MPH),9600
+1988,Public Health (1-Year MPH),10575
+1989,Public Health (1-Year MPH),11470
+1990,Public Health (1-Year MPH),12515
+1991,Public Health (1-Year MPH),13570
+1992,Public Health (1-Year MPH),14790
+1993,Public Health (1-Year MPH),15675
+1994,Public Health (1-Year MPH),16775
+1995,Public Health (1-Year MPH),17770
+1996,Public Health (1-Year MPH),18840
+1997,Public Health (1-Year MPH),19800
+1998,Public Health (1-Year MPH),20890
+1999,Public Health (1-Year MPH),21895
+2000,Public Health (1-Year MPH),22950
+2001,Public Health (1-Year MPH),23980
+2002,Public Health (1-Year MPH),25050
+2003,Public Health (1-Year MPH),26300
+2004,Public Health (1-Year MPH),27670
+2005,Public Health (1-Year MPH),29300
+2006,Public Health (1-Year MPH),30620
+2007,Public Health (1-Year MPH),31800
+2008,Public Health (1-Year MPH),34085
+2009,Public Health (1-Year MPH),35403
+2010,Public Health (1-Year MPH),36125
+2011,Public Health (1-Year MPH),37230
+2012,Public Health (1-Year MPH),38675
+2013,Public Health (1-Year MPH),42160
+2014,Public Health (1-Year MPH),45900
+2015,Public Health (1-Year MPH),50320
+2016,Public Health (1-Year MPH),55125
+2017,Public Health (1-Year MPH),56880
