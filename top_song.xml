@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hot Tracks</title>
+    <link>https://rss.itunes.apple.com/api/v1/us/apple-music/hot-tracks/all/10/explicit.rss</link>
+    <lastBuildDate>Mon, 28 May 2018 01:54:24 -0700</lastBuildDate>
+    <atom:link rel="self" type="application/rss+xml" href="https://rss.itunes.apple.com/api/v1/us/apple-music/hot-tracks/all/10/explicit.rss"/>
+    <atom:link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=978247996&amp;app=music"/>
+    <description>iTunes Store : Hot Tracks</description>
+    <category>iTunes Store</category>
+    <copyright>Copyright © 2018 Apple Inc. All rights reserved.</copyright>
+    <item>
+      <title>I'm Upset - Drake</title>
+      <category domain="https://itunes.apple.com/us/artist/drake/271256?app=music">Drake</category>
+      <link>https://itunes.apple.com/us/album/im-upset/1390342914?i=1390342916&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/im-upset/1390342914?i=1390342916&amp;app=music</guid>
+      <description>I'm Upset</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Sat, 26 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>What You Want (feat. The Weeknd) - Belly</title>
+      <category domain="https://itunes.apple.com/us/artist/belly/256052273?app=music">Belly</category>
+      <link>https://itunes.apple.com/us/album/what-you-want-feat-the-weeknd/1386313714?i=1386315156&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/what-you-want-feat-the-weeknd/1386313714?i=1386315156&amp;app=music</guid>
+      <description>What You Want (feat. The Weeknd)</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Power (feat. Nef The Pharaoh &amp; P-LO) - G-Eazy</title>
+      <category domain="https://itunes.apple.com/us/artist/g-eazy/275649746?app=music">G-Eazy</category>
+      <link>https://itunes.apple.com/us/album/power-feat-nef-the-pharaoh-p-lo/1388557946?i=1388557949&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/power-feat-nef-the-pharaoh-p-lo/1388557946?i=1388557949&amp;app=music</guid>
+      <description>Power (feat. Nef The Pharaoh &amp; P-LO)</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Big Bank (feat. 2 Chainz, Big Sean &amp; Nicki Minaj) - YG</title>
+      <category domain="https://itunes.apple.com/us/artist/yg/189792075?app=music">YG</category>
+      <link>https://itunes.apple.com/us/album/big-bank-feat-2-chainz-big-sean-nicki-minaj/1388851632?i=1388851636&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/big-bank-feat-2-chainz-big-sean-nicki-minaj/1388851632?i=1388851636&amp;app=music</guid>
+      <description>Big Bank (feat. 2 Chainz, Big Sean &amp; Nicki Minaj)</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bubblin - Anderson .Paak</title>
+      <category domain="https://itunes.apple.com/us/artist/anderson-paak/855484536?app=music">Anderson .Paak</category>
+      <link>https://itunes.apple.com/us/album/bubblin/1383381572?i=1383381915&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/bubblin/1383381572?i=1383381915&amp;app=music</guid>
+      <description>Bubblin</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Entertainer - ZAYN</title>
+      <category domain="https://itunes.apple.com/us/artist/zayn/973181994?app=music">ZAYN</category>
+      <link>https://itunes.apple.com/us/album/entertainer/1386880015?i=1386880017&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/entertainer/1386880015?i=1386880017&amp;app=music</guid>
+      <description>Entertainer</description>
+      <category>song</category>
+      <category>Pop</category>
+      <category>Music</category>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>I'd Rather Be Me - Barrett Wilbert Weed &amp; Original Broadway Cast of Mean Girls</title>
+      <category domain="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&amp;ids=887958586-1368034178&amp;app=music">Barrett Wilbert Weed &amp; Original Broadway Cast of Mean Girls</category>
+      <link>https://itunes.apple.com/us/album/id-rather-be-me/1372106911?i=1372107800&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/id-rather-be-me/1372106911?i=1372107800&amp;app=music</guid>
+      <description>I'd Rather Be Me</description>
+      <category>song</category>
+      <category>Soundtrack</category>
+      <category>Music</category>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>If You Know You Know - Pusha T</title>
+      <category domain="https://itunes.apple.com/us/artist/pusha-t/682277?app=music">Pusha T</category>
+      <link>https://itunes.apple.com/us/album/if-you-know-you-know/1388853738?i=1388854049&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/if-you-know-you-know/1388853738?i=1388854049&amp;app=music</guid>
+      <description>If You Know You Know</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Delicate (Sawyr and Ryan Tedder Mix) - Taylor Swift, Sawyr &amp; Ryan Tedder</title>
+      <category domain="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewCollaboration?cc=us&amp;ids=159260351-1389282176-156925809&amp;app=music">Taylor Swift, Sawyr &amp; Ryan Tedder</category>
+      <link>https://itunes.apple.com/us/album/delicate-sawyr-and-ryan-tedder-mix/1389281518?i=1389282179&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/delicate-sawyr-and-ryan-tedder-mix/1389281518?i=1389282179&amp;app=music</guid>
+      <description>Delicate (Sawyr and Ryan Tedder Mix)</description>
+      <category>song</category>
+      <category>Pop</category>
+      <category>Music</category>
+      <pubDate>Fri, 25 May 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Way Too Fly (feat. Davido) - A Boogie wit da Hoodie</title>
+      <category domain="https://itunes.apple.com/us/artist/a-boogie-wit-da-hoodie/1068300376?app=music">A Boogie wit da Hoodie</category>
+      <link>https://itunes.apple.com/us/album/way-too-fly-feat-davido/1386370063?i=1386370643&amp;app=music</link>
+      <guid>https://itunes.apple.com/us/album/way-too-fly-feat-davido/1386370063?i=1386370643&amp;app=music</guid>
+      <description>Way Too Fly (feat. Davido)</description>
+      <category>song</category>
+      <category>Hip-Hop/Rap</category>
+      <category>Music</category>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

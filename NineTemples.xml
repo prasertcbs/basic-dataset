@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <element>
+        <belief>เดินทางปลอดภัยดี มีมิตรไมตรีที่ดี</belief>
+        <lat>13.73981</lat>
+        <lon>100.48906</lon>
+        <watEn>Wat Kalayanamitr</watEn>
+        <watTh>วัดกัลยาณมิตรวรมหาวิหาร</watTh>
+    </element>
+    <element>
+        <belief>มีชัยชนะต่ออุปสรรคทั้งปวง</belief>
+        <lat>13.7604969</lat>
+        <lon>100.4928211</lon>
+        <watEn>Wat Chana Songkhram</watEn>
+        <watTh>วัดชนะสงครามราชวรมหาวิหาร</watTh>
+    </element>
+    <element>
+        <belief>ร่มเย็นเป็นสุข</belief>
+        <lat>13.746528</lat>
+        <lon>100.491104</lon>
+        <watEn>Wat Phra Chetuphon</watEn>
+        <watTh>วัดพระเชตุพนวิมลมังคลารามราชวรมหาวิหาร</watTh>
+    </element>
+    <element>
+        <belief>เพื่อจิตใจสะอาด ดุจรัตนตรัย</belief>
+        <lat>13.751502</lat>
+        <lon>100.49047</lon>
+        <watEn>Temple of the Emerald Buddha</watEn>
+        <watTh>วัดพระศรีรัตนศาสดาราม</watTh>
+    </element>
+    <element>
+        <belief>ชื่อเสียงโด่งดัง คนนิยมชมชอบ</belief>
+        <lat>13.75231</lat>
+        <lon>100.48313</lon>
+        <watEn>Wat Rakhang Khositaram</watEn>
+        <watTh>วัดระฆังโฆสิตารามวรมหาวิหาร</watTh>
+    </element>
+    <element>
+        <belief>วิสัยทัศน์กว้างไกล มีเสน่ห์แก่คนทั่วไป</belief>
+        <lat>13.750034</lat>
+        <lon>100.49867</lon>
+        <watEn>Wat Suthat Thepwararam</watEn>
+        <watTh>วัดสุทัศนเทพวรารามราชวรมหาวิหาร</watTh>
+    </element>
+    <element>
+        <belief>ชีวิตรุ่งโรจน์ทุกคืนวัน</belief>
+        <lat>13.7436905</lat>
+        <lon>100.48673</lon>
+        <watEn>Wat Arun</watEn>
+        <watTh>วัดอรุณราชวรารามราชวรมหาวิหาร</watTh>
+    </element>
+    <element>
+        <belief>พบแต่สิ่งดีงามในชีวิต</belief>
+        <lat>13.759537</lat>
+        <lon>100.49777</lon>
+        <watEn>Wat Bavorn Niwet</watEn>
+        <watTh>วัดบวรนิเวศวิหาร</watTh>
+    </element>
+    <element>
+        <belief>เสริมสร้างความคิดอันเป็นสิริมงคล</belief>
+        <lat>13.753805</lat>
+        <lon>100.50447</lon>
+        <watEn>Wat Sa Ket</watEn>
+        <watTh>วัดสระเกศราชวรมหาวิหาร</watTh>
+    </element>
+</root>
+
