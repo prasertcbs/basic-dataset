@@ -1,7 +1,7 @@
 team,id
 Boston Celtics,BOS
-Brooklyn Nets,BKN
-New York Knicks,NY
+Brooklyn Nets,BRK
+New York Knicks,NYK
 Philadelphia 76ers,PHI
 Toronto Raptors,TOR
 Golden State Warriors,GSW
@@ -20,7 +20,7 @@ Memphis Grizzlies,MEM
 New Orleans Hornets,NO
 San Antonio Spurs,SA
 Atlanta Hawks,ATL
-Charlotte Bobcats,CHA
+Charlotte Bobcats,CHO
 Miami Heat,MIA
 Orlando Magic,ORL
 Washington Wizards,WSH
@@ -29,3 +29,4 @@ Minnesota Timberwolves,MIN
 Oklahoma City Thunder,OKC
 Portland Trail Blazers,POR
 Utah Jazz,UTA
+New Orleans Pelicans,NOP
