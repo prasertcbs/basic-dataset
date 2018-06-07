@@ -1,0 +1,31 @@
+manufacturer,model,displ,year,cyl,trans,drv,cty,hwy,fl,class
+audi,a4 quattro,2,2008,4,manual(m6),4,20,28,p,compact
+audi,a4,3.1,2008,6,auto(av),f,18,27,p,compact
+chevrolet,c1500 suburban 2wd,6,2008,8,auto(l4),r,12,17,r,suv
+chevrolet,malibu,3.1,1999,6,auto(l4),f,18,26,r,midsize
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup
+dodge,dakota pickup 4wd,5.2,1999,8,auto(l4),4,11,15,r,pickup
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan
+dodge,caravan 2wd,3.8,1999,6,auto(l4),f,15,22,r,minivan
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv
+dodge,caravan 2wd,2.4,1999,4,auto(l3),f,18,24,r,minivan
+ford,explorer 4wd,4,1999,6,manual(m5),4,15,19,r,suv
+ford,explorer 4wd,4,1999,6,auto(l5),4,14,17,r,suv
+ford,mustang,4.6,2008,8,auto(l5),r,15,22,r,subcompact
+ford,f150 pickup 4wd,4.6,1999,8,manual(m5),4,13,16,r,pickup
+ford,mustang,4.6,2008,8,manual(m5),r,15,23,r,subcompact
+honda,civic,1.6,1999,4,auto(l4),f,24,32,r,subcompact
+honda,civic,1.8,2008,4,manual(m5),f,26,34,r,subcompact
+hyundai,tiburon,2,1999,4,auto(l4),f,19,26,r,subcompact
+jeep,grand cherokee 4wd,6.1,2008,8,auto(l5),4,11,14,p,suv
+land rover,range rover,4.4,2008,8,auto(s6),4,12,18,r,suv
+nissan,pathfinder 4wd,4,2008,6,auto(l5),4,14,20,p,suv
+pontiac,grand prix,3.8,2008,6,auto(l4),f,18,28,r,midsize
+subaru,forester awd,2.5,1999,4,manual(m5),4,18,25,r,suv
+subaru,impreza awd,2.2,1999,4,auto(l4),4,21,26,r,subcompact
+subaru,forester awd,2.5,1999,4,auto(l4),4,18,24,r,suv
+toyota,toyota tacoma 4wd,3.4,1999,6,manual(m5),4,15,17,r,pickup
+toyota,4runner 4wd,2.7,1999,4,manual(m5),4,15,20,r,suv
+volkswagen,passat,2.8,1999,6,auto(l5),f,16,26,p,midsize
+volkswagen,passat,2,2008,4,auto(s6),f,19,28,p,midsize
