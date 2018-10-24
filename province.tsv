@@ -1,0 +1,78 @@
+p_id	name	name_en	region	area_km2
+กจ	กาญจนบุรี	Kanchanaburi	C	19483.148
+กทม	กรุงเทพมหานคร	Bangkok	C	1568.737
+จบ	จันทบุรี	Chanthaburi	C	6338
+ฉช	ฉะเชิงเทรา	Chachoengsao	C	5351
+ชน	ชัยนาท	Chainat	C	2469.746
+ชบ	ชลบุรี	Chonburi	C	4611.829
+ตร	ตราด	Trat	C	2819
+นฐ	นครปฐม	Nakhon Pathom	C	2168.327
+นบ	นนทบุรี	Nonthaburi	C	622.303
+นย	นครนายก	Nakhon Nayok	C	2122
+ปข	ประจวบคีรีขันธ์	Prachuap Khiri Khan	C	6367.62
+ปจ	ปราจีนบุรี	Prachinburi	C	4762.362
+ปท	ปทุมธานี	Pathum Thani	C	1525.856
+พบ	เพชรบุรี	Phetchaburi	C	6225.138
+รบ	ราชบุรี	Ratchaburi	C	5196.462
+รย	ระยอง	Rayong	C	3552
+ลบ	ลพบุรี	Lopburi	C	6199.753
+สก	สระแก้ว	Sa Kaeo	C	7195.436
+สค	สมุทรสาคร	Samut Sakhon	C	872.347
+สบ	สระบุรี	Saraburi	C	3576.486
+สป	สมุทรปราการ	Samut Prakan	C	1004.092
+สพ	สุพรรณบุรี	Suphan Buri	C	5358.008
+สส	สมุทรสงคราม	Samut Songkhram	C	416.707
+สห	สิงห์บุรี	Sing Buri	C	822.478
+อท	อ่างทอง	Ang Thong	C	968.372
+อย	พระนครศรีอยุธยา	Phra Nakhon Si Ayutthaya	C	2556.64
+กพ	กำแพงเพชร	Kamphaeng Phet	N	8607.49
+ชม	เชียงใหม่	Chiang Mai	N	20107.057
+ชร	เชียงราย	Chiang Rai	N	11678.369
+ตก	ตาก	Tak	N	16406.65
+นน	น่าน	Nan	N	11472.072
+นว	นครสวรรค์	Nakhon Sawan	N	9597.677
+พจ	พิจิตร	Phichit	N	4531.013
+พช	เพชรบูรณ์	Phetchabun	N	12668.416
+พย	พะเยา	Phayao	N	6335.06
+พร	แพร่	Phrae	N	6538.598
+พล	พิษณุโลก	Phitsanulok	N	10815.854
+มส	แม่ฮ่องสอน	Mae Hong Son	N	12681.259
+ลป	ลำปาง	Lampang	N	12533.961
+ลพ	ลำพูน	Lamphun	N	4505.882
+สท	สุโขทัย	Sukhothai	N	6596.092
+อต	อุตรดิตถ์	Uttaradit	N	7838.592
+อน	อุทัยธานี	Uthai Thani	N	6730.246
+กส	กาฬสินธุ์	Kalasin	NE	6946.746
+ขก	ขอนแก่น	Khon Kaen	NE	10885.991
+ชย	ชัยภูมิ	Chaiyaphum	NE	12778.287
+นค	หนองคาย	Nong Khai	NE	3027.28
+นพ	นครพนม	Nakhon Phanom	NE	5512.668
+นภ	หนองบัวลำภู	Nong Bua Lamphu	NE	3859.086
+นม	นครราชสีมา	Nakhon Ratchasima	NE	20493.964
+บก	บึงกาฬ	Bueng Kan	NE	4305
+บร	บุรีรัมย์	Buriram	NE	10322.885
+มค	มหาสารคาม	Maha Sarakham	NE	5291.683
+มห	มุกดาหาร	Mukdahan	NE	4339.83
+ยส	ยโสธร	Yasothon	NE	4161.664
+รอ	ร้อยเอ็ด	Roi Et	NE	8299.449
+ลย	เลย	Loei	NE	11424.612
+ศก	ศรีสะเกษ	Sisaket	NE	8839.976
+สน	สกลนคร	Sakon Nakhon	NE	9605.764
+สร	สุรินทร์	Surin	NE	8124.056
+อจ	อำนาจเจริญ	Amnat Charoen	NE	3161.248
+อด	อุดรธานี	Udon Thani	NE	11730.302
+อบ	อุบลราชธานี	Ubon Ratchathani	NE	16112.65
+กบ	กระบี่	Krabi	S	4708.512
+ชพ	ชุมพร	Chumphon	S	6010.849
+ตง	ตรัง	Trang	S	4917.519
+นธ	นราธิวาส	Narathiwat	S	4475.43
+นศ	นครศรีธรรมราช	Nakhon Si Thammarat	S	9942.502
+ปน	ปัตตานี	Pattani	S	1940.356
+พง	พังงา	Phang Nga	S	4170.895
+พท	พัทลุง	Phattalung	S	3424.473
+ภก	ภูเก็ต	Phuket	S	543.034
+ยล	ยะลา	Yala	S	4521.078
+รน	ระนอง	Ranong	S	3298.045
+สข	สงขลา	Songkhla	S	7393.889
+สฎ	สุราษฎร์ธานี	Surat Thani	S	12891.469
+สต	สตูล	Satun	S	2478.977
