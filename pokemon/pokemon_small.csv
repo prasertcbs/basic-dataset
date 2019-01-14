@@ -1,0 +1,6 @@
+number,name,type,abilities,weakness,height,weight,detailPageURL,ThumbnailImage
+179,Mareep,['electric'],['Static'],['Ground'],24,17.2,/us/pokedex/mareep,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/179.png
+619,Mienfoo,['fighting'],"['Inner Focus', 'Regenerator']","['Flying', 'Psychic', 'Fairy']",35,44.1,/us/pokedex/mienfoo,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/619.png
+144,Articuno,"['ice', 'flying']",['Pressure'],"['Rock', 'Electric', 'Fire', 'Steel']",67,122.1,/us/pokedex/articuno,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/144.png
+646,Kyurem,"['dragon', 'ice']",['Teravolt'],"['Fighting', 'Rock', 'Dragon', 'Steel', 'Fairy']",130,716.5,/us/pokedex/kyurem,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/646.png
+37,Vulpix,['ice'],['Snow Cloak'],"['Fire', 'Steel', 'Fighting', 'Rock']",24,21.8,/us/pokedex/vulpix,https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png
