@@ -1,0 +1,136 @@
+Country,Region,Happiness Rank,Happiness Score,CPI Rank,Corruption Perceptions Index (CPI),GDP_per_capita
+Afghanistan,Southern Asia,154,3.36,169,15,561.7787463
+Albania,Central and Eastern Europe,109,4.655,83,39,4131.872340999999
+Algeria,Middle East and Northern Africa,38,6.355,108,34,3916.881571
+Angola,Sub-Saharan Africa,141,3.866,164,18,3308.772828
+Argentina,Latin America and Caribbean,26,6.65,95,36,12654.355
+Armenia,Central and Eastern Europe,121,4.36,113,33,3605.743117
+Australia,Australia and New Zealand,9,7.313,13,79,49896.6811
+Austria,Western Europe,12,7.119,17,75,44731.01086
+Azerbaijan,Central and Eastern Europe,81,5.291,123,30,3880.7387310000004
+Bahrain,Middle East and Northern Africa,42,6.218,70,43,22560.58127
+Bangladesh,Southern Asia,110,4.643,145,26,1358.7790289999998
+Belarus,Central and Eastern Europe,61,5.8020000000000005,79,40,5022.626643
+Belgium,Western Europe,18,6.928999999999999,15,77,41260.97755
+Benin,Sub-Saharan Africa,153,3.484,95,36,788.5324423999999
+Bhutan,Southern Asia,84,5.196000000000001,27,65,2773.5471350000003
+Bolivia,Latin America and Caribbean,59,5.822,113,33,3117.330459
+Bosnia and Herzegovina,Central and Eastern Europe,87,5.162999999999999,83,39,4808.6360429999995
+Botswana,Sub-Saharan Africa,137,3.9739999999999998,35,60,6954.174306
+Brazil,Latin America and Caribbean,17,6.952000000000001,79,40,8639.365743
+Bulgaria,Central and Eastern Europe,129,4.217,75,41,7469.447703
+Burkina Faso,Sub-Saharan Africa,145,3.739,72,42,613.9931275
+Burundi,Sub-Saharan Africa,157,2.905,159,20,285.7274421
+Cambodia,Southeastern Asia,140,3.907,156,21,1269.907238
+Cameroon,Sub-Saharan Africa,114,4.513,145,26,1374.515899
+Canada,North America,6,7.404,9,82,42348.94546
+Chad,Sub-Saharan Africa,144,3.763,159,20,651.2372437999999
+Chile,Latin America and Caribbean,24,6.705,24,66,13960.894209999999
+China,Eastern Asia,83,5.245,79,40,8117.267465000001
+Colombia,Latin America and Caribbean,31,6.481,90,37,5756.861602
+Comoros,Sub-Saharan Africa,138,3.9560000000000004,153,24,775.0800846
+Costa Rica,Latin America and Caribbean,14,7.087000000000001,41,58,11732.71055
+Croatia,Central and Eastern Europe,74,5.4879999999999995,55,49,12298.57035
+Cyprus,Western Europe,69,5.546,47,55,23541.48825
+Czech Republic,Central and Eastern Europe,27,6.596,47,55,18483.716480000003
+Denmark,Western Europe,1,7.526,1,90,53578.75657
+Dominican Republic,Latin America and Caribbean,89,5.155,120,31,6793.538125
+Ecuador,Latin America and Caribbean,51,5.976,120,31,6018.526868
+El Salvador,Latin America and Caribbean,46,6.068,95,36,3768.837705
+Estonia,Central and Eastern Europe,72,5.517,22,70,17736.8027
+Ethiopia,Sub-Saharan Africa,115,4.508,108,34,712.87795
+Finland,Western Europe,5,7.412999999999999,3,89,43433.03222
+France,Western Europe,32,6.478,23,69,36870.21913
+Gabon,Sub-Saharan Africa,134,4.121,101,35,7078.68326
+Georgia,Central and Eastern Europe,126,4.252,44,57,3865.7856939999997
+Germany,Western Europe,16,6.994,10,81,42232.57421
+Ghana,Sub-Saharan Africa,124,4.276,70,43,1517.495508
+Greece,Western Europe,99,5.033,69,44,17881.5267
+Guatemala,Latin America and Caribbean,39,6.324,136,28,4140.737635
+Guinea,Sub-Saharan Africa,151,3.6069999999999998,142,27,748.3013059
+Haiti,Latin America and Caribbean,136,4.0280000000000005,159,20,734.8025912
+Honduras,Latin America and Caribbean,104,4.871,123,30,2375.0963269999997
+Hungary,Central and Eastern Europe,91,5.145,57,48,12820.0882
+Iceland,Western Europe,3,7.501,14,78,60529.92676
+India,Southern Asia,118,4.404,79,40,1717.473878
+Indonesia,Southeastern Asia,79,5.314,90,37,3570.284615
+Iraq,Middle East and Northern Africa,112,4.575,166,17,4609.600694
+Ireland,Western Europe,19,6.907,19,73,64100.42995
+Israel,Middle East and Northern Africa,11,7.267,28,64,37180.84981
+Italy,Western Europe,50,5.977,60,47,30668.98143
+Jamaica,Latin America and Caribbean,73,5.51,83,39,4878.575790999999
+Japan,Eastern Asia,53,5.921,20,72,38972.340639999995
+Jordan,Middle East and Northern Africa,80,5.303,57,48,4087.9375170000003
+Kazakhstan,Central and Eastern Europe,54,5.919,131,29,7714.841844
+Kenya,Sub-Saharan Africa,122,4.356,145,26,1462.505115
+Kosovo,Central and Eastern Europe,77,5.401,95,36,3697.548026
+Kuwait,Middle East and Northern Africa,41,6.239,75,41,27368.28668
+Latvia,Central and Eastern Europe,68,5.56,44,57,14070.42265
+Lebanon,Middle East and Northern Africa,93,5.129,136,28,8257.294391
+Liberia,Sub-Saharan Africa,150,3.622,90,37,455.3707414
+Libya,Middle East and Northern Africa,67,5.615,170,14,5125.675283
+Lithuania,Central and Eastern Europe,60,5.813,38,59,14912.68654
+Luxembourg,Western Europe,20,6.871,10,81,100738.6842
+Madagascar,Sub-Saharan Africa,148,3.695,145,26,401.74226539999995
+Malawi,Sub-Saharan Africa,132,4.156000000000001,120,31,300.3076651
+Malaysia,Southeastern Asia,47,6.005,55,49,9508.23775
+Mali,Sub-Saharan Africa,135,4.073,116,32,779.9448438
+Malta,Western Europe,30,6.4879999999999995,47,55,24770.806569999997
+Mauritania,Sub-Saharan Africa,130,4.2010000000000005,142,27,1101.901529
+Mauritius,Sub-Saharan Africa,66,5.648,50,54,9681.618567
+Mexico,Latin America and Caribbean,21,6.778,123,30,8443.691923999999
+Moldova,Central and Eastern Europe,55,5.897,123,30,1913.240367
+Mongolia,Eastern Asia,101,4.907,87,38,3694.0825520000003
+Montenegro,Central and Eastern Europe,88,5.1610000000000005,64,45,7028.940132
+Morocco,Middle East and Northern Africa,90,5.151,90,37,2892.775561
+Myanmar,Southeastern Asia,119,4.395,136,28,1195.515372
+Namibia,Sub-Saharan Africa,113,4.574,53,52,4560.7020600000005
+Nepal,Southern Asia,107,4.793,131,29,729.1222515
+Netherlands,Western Europe,7,7.3389999999999995,8,83,45637.88675
+New Zealand,Australia and New Zealand,8,7.334,1,90,40331.9591
+Nicaragua,Latin America and Caribbean,48,5.992000000000001,145,26,2143.925893
+Niger,Sub-Saharan Africa,142,3.8560000000000003,101,35,367.9559859
+Nigeria,Sub-Saharan Africa,103,4.875,136,28,2175.6734420000003
+Norway,Western Europe,4,7.497999999999999,6,85,70890.03557000001
+Pakistan,Southern Asia,92,5.132000000000001,116,32,1442.28584
+Panama,Latin America and Caribbean,25,6.7010000000000005,87,38,14332.97248
+Paraguay,Latin America and Caribbean,70,5.537999999999999,123,30,4077.742071
+Peru,Latin America and Caribbean,64,5.742999999999999,101,35,6031.366091
+Philippines,Southeastern Asia,82,5.279,101,35,2950.913903
+Poland,Central and Eastern Europe,57,5.835,29,62,12415.043290000001
+Portugal,Western Europe,94,5.122999999999999,29,62,19871.718969999998
+Qatar,Middle East and Northern Africa,36,6.375,31,61,59324.33877
+Romania,Central and Eastern Europe,71,5.528,57,48,9532.167174
+Rwanda,Sub-Saharan Africa,152,3.515,50,54,711.1957913
+Saudi Arabia,Middle East and Northern Africa,34,6.379,62,46,19982.08563
+Senegal,Sub-Saharan Africa,128,4.218999999999999,64,45,952.7715367000001
+Serbia,Central and Eastern Europe,86,5.1770000000000005,72,42,5426.198279
+Sierra Leone,Sub-Saharan Africa,111,4.635,123,30,480.79302110000003
+Singapore,Southeastern Asia,22,6.739,7,84,55243.13288
+Slovenia,Central and Eastern Europe,63,5.768,31,61,21650.21276
+Somalia,Sub-Saharan Africa,76,5.44,176,10,471.61998780000005
+South Africa,Sub-Saharan Africa,116,4.459,64,45,5280.0176329999995
+South Sudan,Sub-Saharan Africa,143,3.832,175,11,237.4441185
+Spain,Western Europe,37,6.361000000000001,41,58,26616.7578
+Sri Lanka,Southern Asia,117,4.415,95,36,3857.3963630000003
+Sudan,Sub-Saharan Africa,133,4.138999999999999,170,14,2415.0381620000003
+Suriname,Latin America and Caribbean,40,6.269,64,45,5871.442003
+Sweden,Western Europe,10,7.291,4,88,51844.76126
+Switzerland,Western Europe,2,7.5089999999999995,5,86,79866.03187
+Tajikistan,Central and Eastern Europe,100,4.996,151,25,795.8438643999999
+Tanzania,Sub-Saharan Africa,149,3.6660000000000004,116,32,877.5076119999999
+Thailand,Southeastern Asia,33,6.474,101,35,5979.293546
+Togo,Sub-Saharan Africa,155,3.303,116,32,576.9594785
+Trinidad and Tobago,Latin America and Caribbean,43,6.167999999999999,101,35,16352.109730000002
+Tunisia,Middle East and Northern Africa,98,5.045,75,41,3688.646375
+Turkey,Middle East and Northern Africa,78,5.388999999999999,75,41,10862.72538
+Turkmenistan,Central and Eastern Europe,65,5.6579999999999995,154,22,6389.334143
+Uganda,Sub-Saharan Africa,145,3.739,151,25,580.3835339999999
+Ukraine,Central and Eastern Europe,123,4.324,131,29,2185.7280309999996
+United Arab Emirates,Middle East and Northern Africa,28,6.5729999999999995,24,66,38517.80039
+United Kingdom,Western Europe,23,6.725,10,81,40412.03362
+Uruguay,Latin America and Caribbean,29,6.545,21,71,15298.35089
+Uzbekistan,Central and Eastern Europe,49,5.987,156,21,2105.870905
+Vietnam,Southeastern Asia,96,5.061,113,33,2170.648054
+Zambia,Sub-Saharan Africa,106,4.795,87,38,1262.9896820000001
+Zimbabwe,Sub-Saharan Africa,131,4.1930000000000005,154,22,1029.076649
