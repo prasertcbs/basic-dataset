@@ -1,4 +1,4 @@
-movie_title,release_date,genre,MPAA_rating,total_gross,inflation_adjusted_gross
+movie_title,release_date,genre,mpaa_rating,total_gross,inflation_adjusted_gross
 Snow White and the Seven Dwarfs,1937-12-21,Musical,G,184925485,5228953251
 Pinocchio,1940-02-09,Adventure,G,84300000,2188229052
 Fantasia,1940-11-13,Musical,G,83320000,2187090808
