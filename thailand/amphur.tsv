@@ -1,0 +1,927 @@
+AMP_ID	AMP_NAME_TH	AMP_NAME_EN	PRV_ID
+0101	เมืองกระบี่	Muang krabi	01
+0102	เกาะลันตา	Ko lanta	01
+0103	เขาพนม	Khaong phanom	01
+0104	คลองท่อม	Khlong thom	01
+0105	ปลายพระยา	Plai phraya	01
+0106	ลำทับ	Lum tub	01
+0107	เหนือคลอง	Nua klong	01
+0108	อ่าวลึก	Ao Luk	01
+0201	คลองสาน	Klongsan	02
+0202	คลองเตย	Klongtoey	02
+0203	จอมทอง	Chomthong	02
+0204	จตุจักร	Jatujak	02
+0205	ดุสิต	Dusit	02
+0206	ดอนเมือง	Don muang	02
+0207	ตลิ่งชัน	Taling chan	02
+0208	ธนบุรี	Thon buri	02
+0209	บางกอกน้อย	Bangkok noi	02
+0210	บางกอกใหญ่	Bangkok yai	02
+0211	บางกะปิ	Bangkapi	02
+0212	บางขุนเทียน	Bangkuntien	02
+0213	บางเขน	Bang khen	02
+0214	บางคอแหลม	Bangkholam	02
+0215	บางซื่อ	Bangsue	02
+0216	บางพลัด	Bangplad	02
+0217	บางรัก	Bangrak	02
+0218	บึงกุ่ม	Bung kum	02
+0219	ประเวศ	Prawet	02
+0220	ปทุมวัน	Patumwan	02
+0221	ป้อมปราบศัตรูพ่าย	Pom prap	02
+0222	พญาไท	Payathai	02
+0223	พระโขนง	Prakanong	02
+0224	พระนคร	Phranakhon	02
+0225	ภาษีเจริญ	Pasricharoen	02
+0226	มีนบุรี	Minburi	02
+0227	ยานนาวา	Yannawa	02
+0228	ราชเทวี	Ratchathervi	02
+0229	ราษฎร์บูรณะ	Radburana	02
+0230	ลาดกระบัง	Lat Krabang 	02
+0231	ลาดพร้าว	Lat Phrao	02
+0232	สาทร	Sathorn	02
+0233	สัมพันธวงศ์	Samphanthawongse	02
+0234	หนองแขม	Nongkhaem	02
+0235	หนองจอก	Nong chokn	02
+0236	ห้วยขวาง	Huai khwang	02
+0237	สวนหลวง	Suanluang	02
+0238	ดินแดง	Dindaeng	02
+0239	หลักสี่	Laksi	02
+0240	สายไหม	Saimai	02
+0241	คันนายาว	Kannayao	02
+0242	สะพานสูง	Saphansung	02
+0243	วังทองหลาง	Wang thonglang	02
+0244	คลองสามวา	Klongsamwa	02
+0245	วัฒนา	Watthana	02
+0246	บางนา	Bangna	02
+0247	ทวีวัฒนา	Thawiwatthana	02
+0248	บางแค	Bangkhae	02
+0249	ทุ่งครุ	Thung khru	02
+0250	บางบอน	Bangbon	02
+0301	เมืองกาญจนบุรี	Muang kanchanaburi	03
+0302	ด่านมะขามเตี้ย	Dan makham tia	03
+0303	ทองผาภูมิ	Thong pha phum	03
+0304	ท่าม่วง	Tha muang	03
+0305	ท่ามะกา	Tha maka	03
+0306	ไทรโยค	Sai yok	03
+0307	บ่อพลอย	Bo phloi	03
+0308	พนมทวน	Phanom thoan	03
+0309	เลาขวัญ	Lao khwan	03
+0310	ศรีสวัสดิ์	Si sawat	03
+0311	สังขละบุรี	Sangkhla buri	03
+0312	หนองปรือ	Nongprue	03
+0313	ห้วยกระเจา	Huai krajao	03
+0401	เมืองกาฬสินธุ์	Muang Kalasin	04
+0402	กมลาไสย	Kamalasai	04
+0403	กุฉินารายณ์	Kuchinarat	04
+0404	เขาวง	Khao wong	04
+0405	คำม่วง	Kham muang	04
+0406	ท่าคันโท	Tha khantho	04
+0407	นามน	Na mon	04
+0408	ยางตลาด	Yang talad	04
+0409	ร่องคำ	Rong kham	04
+0410	สมเด็จ	Somdet	04
+0411	สหัสขันธ์	Sahasakan	04
+0412	หนองกุงศรี	Nong kung srin	04
+0413	ห้วยผึ้ง	Huai phung	04
+0414	ห้วยเม็ก	Huai mek	04
+0415	นาคู	Na ku	04
+0416	สามชัย	Sam chai	04
+0417	ดอนจาน	Don jan	04
+0418	ฆ้องชัย	Khong chai	04
+0501	เมืองกำแพงเพชร	Muang kamphaeng phet	05
+0502	ขาณุวรลักษบุรี	Khanu waralaksaburi	05
+0503	คลองขลุง	Khlong khlung	05
+0504	คลองลาน	Khlong lan	05
+0505	ทรายทองวัฒนา	Saithong wattana	05
+0506	ไทรงาม	Sai ngam	05
+0507	ปางศิลาทอง	Pang silathong	05
+0508	พรานกระต่าย	Phran kratai	05
+0509	ลานกระบือ	Lan krabu	05
+0510	บึงสามัคคี		05
+0511	โกสัมพีนคร		05
+0601	เมืองขอนแก่น	Muang khonkean	06
+0602	กระนวน	kranuan	06
+0603	เขาสวนกวาง	Khao suan kwang	06
+0604	โคกโพธิ์ไชย	Khok pho chai	06
+0605	ชำสูง	Some sung	06
+0606	ชนบท	Chonnabot	06
+0607	ชุมแพ	Chum phae	06
+0608	น้ำพอง	Nam phong	06
+0609	บ้านไผ่	Ban phai	06
+0610	บ้านฝาง	Ban fang	06
+0611	เปือยน้อย	Puai noi	06
+0612	พล	Phon	06
+0613	พระยืน	Phra yun	06
+0614	ภูเวียง	Phu wiang	06
+0615	ภูผาม่าน	Phu pha man	06
+0616	มัญจาคีรี	Mancha khiri	06
+0617	แวงน้อย	Wang noi	06
+0618	แวงใหญ่	Wang yai	06
+0619	สีชมพู	Si chomphu	06
+0620	หนองสองห้อง	Nong song hong	06
+0621	หนองเรือ	Nong rua	06
+0622	หนองนาคำ	Nong na kham	06
+0623	อุบลรัตน์	Ubol rat	06
+0624	โนนศิลา	Non sila	06
+0625	บ้านแฮด	Ban haak	06
+0701	เมืองจันทบุรี	Muang chanthaburi	07
+0702	แก่งหางแมว	Kaeng hang maeo	07
+0703	ขลุง	Khlung	07
+0704	ท่าใหม่	Tha mai	07
+0705	นายายอาม	Na yai am	07
+0706	โป่งน้ำร้อน	Pong nam ron	07
+0707	มะขาม	Makham	07
+0708	สอยดาว	Soi dao	07
+0709	แหลมสิงห์	Laem sing	07
+0710	เขาคิชฌกูฏ		07
+0801	เมืองฉะเชิงเทรา	Muang Chachoengsao	08
+0802	บางคล้า	Bang khla	08
+0803	บางน้ำเปรี้ยว	Bang nam prieo	08
+0804	บางปะกง	Bangprakong	08
+0805	บ้านโพธิ์	Ban pho	08
+0806	แปลงยาว	Piaeng yao	08
+0807	พนมสารคาม	Phanom sarakham	08
+0808	ราชสาส์น	Ratchasan	08
+0809	สนามชัยเขต	Sanam chai khet	08
+0810	ท่าตะเกียบ	Tha takep	08
+0811	คลองเขื่อน		08
+0901	เมืองชลบุรี	Muang chon buri	09
+0902	เกาะสีชัง	Ko sichang	09
+0903	บ่อทอง	Bo thong	09
+0904	บางละมุง	Bang lamung	09
+0905	บ้านบึง	Ban bung	09
+0906	พานทอง	Phan thong	09
+0907	พนัสนิคม	Phanat nikhom	09
+0908	ศรีราชา	Siracha	09
+0909	สัตหีบ	Sattahip	09
+0910	หนองใหญ่	Nong Yai	09
+0911	เกาะจันทร์	Ko chan	09
+1001	เมืองชัยนาท	Muang chai nat	10
+1002	มโนรมย์	Manorom	10
+1003	วัดสิงห์	Wat singh	10
+1004	สรรคบุรี	Sankhaburi	10
+1005	สรรพยา	Sappraya	10
+1006	หันคา	Hankha	10
+1007	หนองมะโมง	Nongmanong	10
+1008	เนินขาม	Noen kham	10
+1101	เมืองชัยภูมิ	Muang chai yaphum	11
+1102	เกษตรสมบูรณ์	Kaset sombun	11
+1103	แก้งคร้อ	Kaeng khro	11
+1104	คอนสวรรค์	Khon sawan	11
+1105	คอนสาร	Khon san	11
+1106	จัตุรัส	Chatturat	11
+1107	เทพสถิต	Thep sathit	11
+1108	เนินสง่า	Noen sanga	11
+1109	บ้านเขว้า	Ban klwao	11
+1110	บ้านแท่น	Ban thaen	11
+1111	บำเหน็จณรงค์	Bamnet narong	11
+1112	ภูเขียว	Phu khieo	11
+1113	ภักดีชุมพล	Phakdi chum phon	11
+1114	หนองบัวแดง	Nong bua daeng	11
+1115	หนองบัวระเหว	Nong bua rawe	11
+1116	ซับใหญ่	Sap yai	11
+1201	เมืองชุมพร	Muang chum phon	12
+1202	ท่าแซะ	tha sae	12
+1203	ทุ่งตะโก	Thung tako	12
+1204	ปะทิว	Pathiu	12
+1205	พะโต๊ะ	Phato	12
+1206	ละแม	Lamae	12
+1207	สวี	Sawi	12
+1208	หลังสวน	Lang suan	12
+1301	เมืองเชียงราย	Muang chiang rai	13
+1302	ขุนตาล	Khun tan	13
+1303	เชียงของ	Chiang khong	13
+1304	เชียงแสน	Chiang saen	13
+1305	เทิง	Thoeng	13
+1306	ป่าแดด	Pa daet	13
+1307	พาน	Phan	13
+1308	แม่จัน	Mae chan	13
+1309	แม่ฟ้าหลวง	Mae fa luang	13
+1310	แม่สรวย	Mae suai	13
+1311	แม่สาย	Mae sai	13
+1312	เวียงแก่น	Wiang Kaen	13
+1313	เวียงชัย	Wiang chai	13
+1314	เวียงป่าเป้า	Wiang pa pao	13
+1315	พญาเม็งราย	Phaya mengrai	13
+1316	แม่ลาว	Mae lao	13
+1317	ดอยหลวง	Doi Luang	13
+1318	เวียงเชียงรุ้ง	Wiang chiang rung	13
+1401	เมืองเชียงใหม่	Muang chiang mai	14
+1402	จอมทอง	chom thaon	14
+1403	เชียงดาว	Chiang dao	14
+1404	ไชยปราการ	Chai prakan	14
+1405	ดอยเต่า	Doi tao	14
+1406	ดอยหล่อ	Doi lo	14
+1407	ดอยสะเก็ด	Doi saket	14
+1408	ฝาง	Fang	14
+1409	พร้าว	Phrao	14
+1410	แม่แจ่ม	Mae chaem	14
+1411	แม่แตง	Mae taeng	14
+1412	แม่ริม	Mae rim	14
+1413	แม่วาง	Mae wang	14
+1414	แม่อาย	Mae ai	14
+1415	แม่ออน	Mae on	14
+1416	เวียงแหง	Wiang haeng	14
+1417	สะเมิง	Samoeng	14
+1418	สันกำแพง	Sankamphaeng	14
+1419	สันทราย	San sai	14
+1420	สันป่าตอง	San pa tong	14
+1421	สารภี	Saraphi	14
+1422	หางดง	Hang dong	14
+1423	อมก๋อย	Omkoi	14
+1424	ฮอด	Hot	14
+1501	เมืองตรัง	Muang trang	15
+1502	กันตัง	Kantang	15
+1503	ปะเหลียน	Palian	15
+1504	ย่านตาขาว	Yan ta khao	15
+1505	รัษฎา	Ratsada	15
+1506	สิเกา	Sikao	15
+1507	ห้วยยอด	Huai Yot	15
+1508	วังวิเศษ	Wang wiset	15
+1509	หาดสำราญ	Had someran	15
+1510	นาโยง	Na yong	15
+1601	เมืองตราด	Muang trat	16
+1602	เกาะช้าง	Chang island	16
+1603	เขาสมิง	Khao saming	16
+1604	คลองใหญ่	Khlong yai	16
+1605	บ่อไร่	Bo rai	16
+1606	แหลมงอบ	Laem ngob	16
+1607	เกาะกูด	Kut island	16
+1701	เมืองตาก	Muang tak	17
+1702	ท่าสองยาง	Tha song yang	17
+1703	บ้านตาก	Ban Tak	17
+1704	พบพระ	Prop phra	17
+1705	แม่ระมาด	Mae ramat	17
+1706	แม่สอด	Mae sot	17
+1707	สามเงา	Sam ngao	17
+1708	อุ้มผาง	Um phang	17
+1709	วังเจ้า	Wang jao	17
+1801	เมืองนครนายก	Muang nakhon nayok	18
+1802	บ้านนา	Ban na	18
+1803	ปากพลี	Pak phli	18
+1804	องครักษ์	Ongkharak	18
+1901	เมืองนครปฐม	Muang nakhon pathom	19
+1902	กำแพงแสน	Kampheng saen	19
+1903	ดอนตูม	Don tom	19
+1904	นครชัยศรี	INakhon chaisi	19
+1905	บางเลน	Bang len	19
+1906	พุทธมณฑล	Bukkha monthon	19
+1907	สามพราน	Sam phran	19
+2001	เมืองนครพนม	Muang nakhon phanom	20
+2002	ท่าอุเทน	Tha uthen	20
+2003	ธาตุพนม	That phanom	20
+2004	นาแก	Na kae	20
+2005	นาหว้า	Na wa	20
+2006	บ้านแพง	Ban phaeng	20
+2007	ปลาปาก	Pla pak	20
+2008	โพนสวรรค์	Phon sawan	20
+2009	เรณูนคร	Ranu nakhon	20
+2010	ศรีสงคราม	Si songkhram	20
+2011	วังยาง	Wong yang	20
+2012	นาทม	Na thom	20
+2101	เมืองนครราชสีมา	Muang nakhon ratchasima	21
+2102	แก้งสนามนาง	Kaeng snam nang	21
+2103	ขามทะเลสอ	Kham thaie so	21
+2104	ขามสะแกแสง	Kham sakae saeng	21
+2105	คง	Khong	21
+2106	ครบุรี	Khon buri	21
+2107	จักราช	Chakarat	21
+2108	ชุมพวง	Chum phuang	21
+2109	โชคชัย	Chok chai	21
+2110	ด่านขุนทด	Dan khunthot	21
+2111	โนนแดง	Non daeng	21
+2112	โนนไทย	Non thai	21
+2113	โนนสูง	Non sung	21
+2114	บัวใหญ่	Bua yai	21
+2115	บ้านเหลื่อม	Ban luarm	21
+2116	ประทาย	Pra thai	21
+2117	ปักธงชัย	Pak thong chai	21
+2118	ปากช่อง	Pak chong	21
+2119	พิมาย	Phimai	21
+2120	วังน้ำเขียว	Wong namkhieo	21
+2121	สีคิ้ว	Sikhui	21
+2122	สูงเนิน	Sung noe	21
+2123	เสิงสาง	Soeng sang	21
+2124	ห้วยแถลง	Huai thalaeng	21
+2125	หนองบุนนาก	Nong bunnak	21
+2126	เทพารักษ์	Tepharak	21
+2127	เมืองยาง	Muang yang	21
+2128	พระทองคำ	Phra thorngkham	21
+2129	ลำทะเมนชัย	Lum thamen chai	21
+2130	เฉลิมพระเกียรติ	Chaloem phrakiat 	21
+2131	สีดา	Sida	21
+2132	บัวลาย	Bua lai	21
+2201	เมืองนครศรีธรรมราช	Muang nakhon si thammarat	22
+2202	ขนอม	Khanom	22
+2203	ฉวาง	Chawang	22
+2204	ชะอวด	Cha-uat	22
+2205	เชียรใหญ่	Chian yai	22
+2206	ท่าศาลา	Tha sala	22
+2207	ทุ่งใหญ่	Thung yai	22
+2208	ทุ่งสง	Thung song	22
+2209	พระพรหม	Phra phrom	22
+2210	นาบอน	Na bon	22
+2211	บางขัน	Bang chan	22
+2212	ปากพนัง	Pak phanang	22
+2213	พรหมคีรี	Phrommakhiri	22
+2214	พิปูน	Phipun	22
+2215	ร่อนพิบูลย์	Ron pipun	22
+2216	ลานสะกา	Lan saka	22
+2217	สิชล	Sichon	22
+2218	หัวไทร	Hua sai	22
+2219	จุฬาภรณ์	Chulaporn	22
+2220	นบพิตำ	Nop pitam	22
+2221	ช้างกลาง	Chang klang	22
+2222	ถ้ำพรรณรา	Tham phanara	22
+2223	เฉลิมพระเกียรติ	Chaloem phrakiat 	22
+2301	เมืองนครสวรรค์	Muang nakhon sawan	23
+2302	เก้าเลี้ยว	Kao lieo	23
+2303	โกรกพระ	Krok phra	23
+2304	ชุมแสง	Chumsaeng	23
+2305	ตากฟ้า	Tak fa	23
+2306	ตาคลี	Takeli	23
+2307	ท่าตะโก	Tha tako	23
+2308	บรรพตพิสัย	Banphot phisai	23
+2309	พยุหคีรี	Phayuha khiri	23
+2310	ไพศาลี	Phai Sali	23
+2311	แม่วงก์	Mae wong	23
+2312	ลาดยาว	Lao yao	23
+2313	หนองบัว	Nong bua	23
+2314	แม่เปิน		23
+2315	ชุมตาบง	Chum ta bong	23
+2401	เมืองนนทบุรี	Muang nonthaburi	24
+2402	ไทรน้อย	Sai noi	24
+2403	บางกรวย	Bang kruai	24
+2404	บางบัวทอง	Bang bua thong	24
+2405	บางใหญ่	Bang yai	24
+2406	ปากเกร็ด	Pakkred	24
+2501	เมืองนราธิวาส	Muang narathiwat	25
+2502	จะแนะ	Chanao	25
+2503	ตากใบ	Tak bai	25
+2504	บาเจาะ	Bacho	25
+2505	ยี่งอ	Yi-ngo	25
+2506	ระแงะ	Rangae	25
+2507	รือเสาะ	Ruso	25
+2508	แว้ง	Waeng	25
+2509	ศรีสาคร	Sisakhon	25
+2510	สุคิริน	Sukhirin	25
+2511	สุไหงโกลก	Sungai kolok	25
+2512	สุไหงปาดี	Sungai padi	25
+2513	เจาะไอร้อง		25
+2601	เมืองน่าน	Muang nan	26
+2602	เชียงกลาง	Cheang klang	26
+2603	ท่าวังผา	Tha wang pha	26
+2604	ทุ่งช้าง	Thung chang	26
+2605	นาน้อย	na noi	26
+2606	นาหมื่น	Na mun	26
+2607	บ้านหลวง	Ban luang	26
+2608	ปัว	Pua	26
+2609	แม่จริม	Mae chrim	26
+2610	เวียงสา	Wiang sa	26
+2611	สันติสุข	Suntisuk	26
+2612	บ่อเกลือ	Bo kluai	26
+2613	สองแคว	Song kwar	26
+2614	เฉลิมพระเกียรติ	Chaloem phrakiat 	26
+2615	ภูเพียง	Phu pieng	26
+2701	เมืองบุรีรัมย์	Muang buri ram	27
+2702	กระสัง	Krasang	27
+2703	คูเมือง	Khu Muang	27
+2704	ชำนิ	Cham ni	27
+2705	นาโพธิ์	Na pho	27
+2706	นางรอง	Nang rong	27
+2707	โนนดินแดง	Non din daeng	27
+2708	โนนสุวรรณ	Non suwan	27
+2709	บ้านกรวด	Ban kruat	27
+2710	พลับพลาชัย	Phlapphachai	27
+2711	บ้านใหม่ไชยพจน์	Ban mai chaiyapot	27
+2712	ประโคนชัย	Phakhon chai	27
+2713	ปะคำ	Pa kham	27
+2714	พุทไธสง	Phutthaisong	27
+2715	ละหานทราย	Lahan sai	27
+2716	ลำปลายมาศ	Lam plai mat	27
+2717	สตึก	Satuk	27
+2718	หนองกี่	Nong ki	27
+2719	หนองหงส์	Nong hong	27
+2720	ห้วยราช	Huai rat	27
+2721	บ้านด่าน	Ban dan	27
+2722	เฉลิมพระเกียรติ	Chaloem phrakiat 	27
+2723	แคนดง	Can dong	27
+2801	เมืองปทุมธานี	Mung pathum thani	28
+2802	คลองหลวง	Klongluang	28
+2803	ธัญบุรี	Thanyaburi	28
+2804	ลาดหลุมแก้ว	Lat lum kaeo	28
+2805	ลำลูกกา	Lam luk ka	28
+2806	สามโคก	Sam khok	28
+2807	หนองเสือ	Nong sua	28
+2901	เมืองประจวบคีรีขันธ์	Mung prachuap khiri khan	29
+2902	กุยบุรี	Kui buri	29
+2903	ทับสะแก	Thap sakae	29
+2904	บางสะพาน	Bang saphan	29
+2905	บางสะพานน้อย	Bang saphan noi	29
+2906	ปราณบุรี	Pran buri	29
+2907	หัวหิน	Hua hin	29
+2908	สามร้อยยอด	Sam roi yot	29
+3001	เมืองปราจีนบุรี	Muang prachinburi	30
+3002	กบินทร์บุรี	Kabin buri	30
+3003	ศรีมโหสถ	Sri maho sot	30
+3004	นาดี	Nadi	30
+3005	บ้านสร้าง	Ban Sang	30
+3006	ประจันตคาม	Prachantakham	30
+3007	ศรีมหาโพธิ	Si maha phot	30
+3101	เมืองปัตตานี	Muang pattani	31
+3102	กะพ้อ	Kapho	31
+3103	โคกโพธิ์	Khok pho	31
+3104	ทุ่งยางแดง	Thung yang daeng	31
+3105	ปะนาเระ	Panara	31
+3106	มายอ	Mayo	31
+3107	ไม้แก่น	Mai kaen	31
+3108	ยะรัง	Yarang	31
+3109	ยะหริ่ง	Yaring	31
+3110	สายบุรี	Sai buri	31
+3111	หนองจิก	Nong chik	31
+3112	แม่ลาน	Mae lan	31
+3201	พระนครศรีอยุธยา	Phranakhon si ayutthaya 	32
+3202	ท่าเรือ	Tha rua	32
+3203	นครหลวง	Nakhon luang	32
+3204	บางซ้าย	Bang sai	32
+3205	บางไทร	Bang sai	32
+3206	บางบาล	Bang ban	32
+3207	บางปะหัน	Bang pahan	32
+3208	บางปะอิน	Bang pa-in	32
+3209	บ้านแพรก	Ban phraek	32
+3210	ผักไห่	Phak hai	32
+3211	ภาชี	Phachi	32
+3212	มหาราช	Maharat	32
+3213	ลาดบัวหลวง	Lat bua luang	32
+3214	วังน้อย	Wang noi	32
+3215	เสนา	Sena	32
+3216	อุทัย	Uthai	32
+3301	เมืองพะเยา	Muang Phayao	33
+3302	จุน	Chun	33
+3303	เชียงคำ	Chiang kham	33
+3304	เชียงม่วน	Chiang muan	33
+3305	ดอกคำใต้	Dok kham tai	33
+3306	ปง	Pong	33
+3307	แม่ใจ	Mae chai	33
+3308	ภูซาง	Phu sang	33
+3309	ภูกามยาว	Phu kam yao	33
+3401	เมืองพังงา	Muang phangnga	34
+3402	กะปง	ka pong	34
+3403	เกาะยาว	ko yao	34
+3404	คุระบุรี	Khura buri	34
+3405	ตะกั่วทุ่ง	Takua thung	34
+3406	ตะกั่วป่า	Takua pa	34
+3407	ทับปุด	Thap put	34
+3408	ท้ายเหมือง	Thai muang	34
+3501	เมืองพัทลุง	Muang phatthalung	35
+3502	กงหรา	kong ra	35
+3503	เขาชัยสน	Khao chaison	35
+3504	ควนขนุน	Khuan khanon	35
+3505	ตะโหมด	Tamot	35
+3506	ปากพะยูน	Pak phayun	35
+3507	ป่าบอน	Pa bon	35
+3508	ป่าพะยอม	Pa phayom	35
+3509	ศรีบรรพต	Si banphot	35
+3510	บางแก้ว	Bang kaeo	35
+3511	ศรีนครินทร์		35
+3601	เมืองพิจิตร	Muang phichit	36
+3602	ตะพานหิน	Taphan hin	36
+3603	ทับคล้อ	Thao khlo	36
+3604	บางมูลนาก	Bang munnak	36
+3605	โพทะเล	Pho thale	36
+3606	โพธิ์ประทับช้าง		36
+3607	สามง่าม	Sam ngam	36
+3608	วังทรายพูน	Wang sai phun	36
+3609	สากเหล็ก	Sak lek	36
+3610	บึงนาราง	Bung narang	36
+3611	ดงเจริญ	Dong charoen	36
+3612	วชิรบารมี		36
+3701	เมืองพิษณุโลก	Muang phitsanulok	37
+3702	นครไทย	Nakhon thai	37
+3703	ชาติตระการ	Chat trakan	37
+3704	เนินมะปราง	Noen maprang	37
+3705	บางกระทุ่ม	Bangkrathum	37
+3706	บางระกำ	Bangrakam	37
+3707	พรหมพิราม	Phrom phiram	37
+3708	วังทอง	Wang thong	37
+3709	วัดโบสถ์	Wat bot	37
+3801	เมืองเพชรบุรี	muang phetchaburi	38
+3802	แก่งกระจาน	Kaeng kachan	38
+3803	เขาย้อย	khao yoi	38
+3804	ชะอำ	Cha-am	38
+3805	ท่ายาง	Tha yang	38
+3806	บ้านลาด	Ban lat	38
+3807	บ้านแหลม	Ban laerm	38
+3808	หนองหญ้าปล้อง	Nong ya plong	38
+3901	เมืองเพชรบูรณ์	Muang phetchabun	39
+3902	เขาค้อ	Khao Kho	39
+3903	ชนแดน	Chon daen	39
+3904	น้ำหนาว	Nam nao	39
+3905	บึงสามพัน	Bung sam phan	39
+3906	วิเชียรบุรี	Wichian buri	39
+3907	ศรีเทพ	Si thep	39
+3908	หนองไผ่	Nong Phai	39
+3909	หล่มเก่า	Lom kao	39
+3910	หล่มสัก	Lom sak	39
+3911	วังโป่ง	Wang pong	39
+4001	เมืองแพร่	Muangphrae	40
+4002	เด่นชัย	Den chai	40
+4003	ร้องกวาง	Rong kwang	40
+4004	ลอง	Long	40
+4005	วังชิ้น	Wang chin	40
+4006	สอง	Song	40
+4007	หนองม่วงไข่	Nong muang kai	40
+4008	สูงเม่น	Sung men	40
+4101	เมืองภูเก็ต	Muangphuket	41
+4102	กะทู้	Kathu	41
+4103	ถลาง	Thalang	41
+4201	เมืองมหาสารคาม	Muang mahasarakham	42
+4202	กันทรวิชัย	Kantharawichai	42
+4203	แกดำ	Kae dam	42
+4204	โกสุมพิสัย	Kosum phisai	42
+4205	เชียงยืน	Chiang yun	42
+4206	นาเชือก	Na chuak	42
+4207	นาดูน	Na dun	42
+4208	บรบือ	Borabu	42
+4209	พยัคฆภูมิพิสัย	Phayakhaphum phisai	42
+4210	วาปีปทุม	Wapi pathum	42
+4211	กุดรัง	Kut rang	42
+4212	ยางสีสุราช	Yang si surat	42
+4213	ชื่นชม	Chuenchom	42
+4301	เมืองมุกดาหาร	Muang mukdahan	43
+4302	คำชะอี	Khamcha-i	43
+4303	ดงหลวง	Dong luang	43
+4304	ดอนตาล	Don tan	43
+4305	นิคมคำสร้อย	Nikhom kham soi	43
+4306	หนองสูง	Nong sung	43
+4307	หว้านใหญ่	Wan yai	43
+4401	เมืองแม่ฮ่องสอน	Muang mae hong son	44
+4402	ขุนยวม	Khun yuam	44
+4403	ปางมะผ้า	Pang mapha	44
+4404	ปาย	Pai	44
+4405	แม่ลาน้อย	Mae la noi	44
+4406	แม่สะเรียง	Mae sariang	44
+4407	สบเมย	Sop moei	44
+4501	เมืองยโสธร	Muang yasothon	45
+4502	กุดชุม	Kut chum	45
+4503	ค้อวัง	Kho wang	45
+4504	คำเขื่อนแก้ว	Kham khuan kaeo	45
+4505	ไทยเจริญ	Thai charoen	45
+4506	ทรายมูล	Sai mun	45
+4507	ป่าติ้ว	Pa tiu	45
+4508	มหาชนะชัย	Maha chana chai	45
+4509	เลิงนกทา	Loeng nok tha	45
+4601	เมืองยะลา	Muang yala	46
+4602	กาบัง	Kabang	46
+4603	กรงปินัง		46
+4604	ธารโต	Than to	46
+4605	บันนังสตา	Bannang sata	46
+4606	เบตง	Betong	46
+4607	ยะหา	Yaha	46
+4608	รามัน	Raman	46
+4701	เมืองร้อยเอ็ด	Muang roi et	47
+4702	เกษตรวิสัย	Kaset visai	47
+4703	จตุรพักตร์พิมาน	Chaturaphak phiman	47
+4704	จังหาร	Jung han	47
+4705	ธวัชบุรี	Thawatshaburi	47
+4706	ปทุมรัตน์	Pathum rat	47
+4707	พนมไพร	Phanom phrai	47
+4708	โพธิ์ชัย	IPho chai	47
+4709	โพนทราย	Phon sai	47
+4710	โพนทอง	Phon thong	47
+4711	เมยวดี	Moeiwadi	47
+4712	เมืองสรวง	Muangsuang	47
+4713	ศรีสมเด็จ	Srisomdet	47
+4714	เสลภูมิ	Sela phum	47
+4715	สุวรรณภูมิ	Suwannaphum	47
+4716	หนองพอก	Nong phok	47
+4717	อาจสามารถ	At samat	47
+4718	เชียงขวัญ	Chiang khwan	47
+4719	หนองฮี	Nong hi	47
+4720	ทุ่งเขาหลวง	Thung kao luang	47
+4801	เมืองระนอง	Muang ranong	48
+4802	กระบุรี	Kra buri	48
+4803	กะเปอร์	Kapoe	48
+4804	ละอุ่น	La-un	48
+4805	สุขสำราญ	Sook samran	48
+4901	เมืองระยอง	Muang rayong	49
+4902	แกลง	Klaeng	49
+4903	บ้านค่าย	Ban khai	49
+4904	บ้านฉาง	Ban chang	49
+4905	ปลวกแดง	Pluak daeng	49
+4906	วังจันทร์	Wang chan	49
+4907	เขาชะเมา	khao chamao	49
+4908	นิคมพัฒนา	Nikhom phathana	49
+5001	เมืองราชบุรี	Muang rachaburi	50
+5002	จอมบึง	Chom bung	50
+5003	ดำเนินสะดวก	Damnoen saduak	50
+5004	บางแพ	Bang phae	50
+5005	บ้านโป่ง	Bang phong	50
+5006	ปากท่อ	Pak tho	50
+5007	โพธาราม	Photharam	50
+5008	วัดเพลง	Wat phleng	50
+5009	สวนผึ้ง	Suan phung	50
+5010	บ้านคา	Bang kha	50
+5101	เมืองลพบุรี	Muang lopburi	51
+5102	โคกเจริญ	Khok charoen	51
+5103	โคกสำโรง	Khok samrong	51
+5104	ชัยบาดาล	Chai badan	51
+5105	ท่าวุ้ง	Tha wong	51
+5106	ท่าหลวง	Tha luang	51
+5107	บ้านหมี่	Ban mi	51
+5108	พัฒนานิคม	Phatthana nikhom	51
+5109	ลำสนธิ		51
+5110	สระโบถส์		51
+5111	หนองม่วง	Nong muang kai	51
+5201	เมืองเลย	Muang loei	52
+5202	เชียงคาน	Chiang khan	52
+5203	ด่านซ้าย	Dan sai	52
+5204	ท่าลี่	Tha li	52
+5205	นาด้วง	Na duang	52
+5206	นาแห้ว	Na haeo	52
+5207	ปากชม	Pak chom	52
+5208	ผาขาว		52
+5209	ภูกระดึง	Phu kadung	52
+5210	ภูเรือ	Phu rua	52
+5211	ภูหลวง	Phu luang	52
+5212	วังสะพุง	Wang saphung	52
+5213	เอราวัณ	Erawan	52
+5214	หนองหิน	Nong hin	52
+5301	เมืองลำปาง	Muang lampang	53
+5302	เกาะคา	Ko kha	53
+5303	งาว	Nhao	53
+5304	แจ้ห่ม	Chae hom	53
+5305	เถิน	Thoen	53
+5306	แม่ทะ	Mea tha	53
+5307	แม่พริก	Mea phrik	53
+5308	เมืองปาน	Muang pan	53
+5309	แม่เมาะ	Mea mo	53
+5310	วังเหนือ	Wang nua	53
+5311	สบปราบ	Sop prap	53
+5312	เสริมงาม	Some ngam	53
+5313	ห้างฉัตร		53
+5401	เมืองลำพูน	Muang lamphun	54
+5402	ทุ่งหัวช้าง	Thung hua chang	54
+5403	บ้านโฮ่ง	Ban hong	54
+5404	ป่าซาง	Pa sang	54
+5405	แม่ทา	Mea ta	54
+5406	ลี้	Li	54
+5407	บ้านธิ	Ban thi	54
+5408	เวียงหนองล่อง		54
+5501	เมืองศีรสะเกษ	Muang srisaket	55
+5502	กันทรลักษ์	Kantharalak	55
+5503	กันทรารมย์	Kanthararom	55
+5504	ขุขันธ์	Khokhon	55
+5505	ขุนหาญ	Khun han	55
+5506	น้ำเกลี้ยง	Nam kliang	55
+5507	โนนคูณ	Non khan	55
+5508	บึงบูรพ์	Bang bun	55
+5509	เบญจลักษณ์	Benjalak	55
+5510	ปรางค์กู่	Prang ku	55
+5511	พยุห์	Phayu	55
+5512	ไพรบึง	Phai bung	55
+5513	โพธิ์ศรีสุวรรณ	Pho si suwan	55
+5514	ภูสิงห์	Phu sing	55
+5515	เมืองจันทร์	Muang chan	55
+5516	ยางชุมน้อย	Yang chumnoi	55
+5517	ราษีไศล	Rasi sala	55
+5518	วังหิน	Wang hin	55
+5519	ศรีรัตนะ	Sirattana	55
+5520	ห้วยทับทัน	Huai thap than	55
+5521	อุทุมพรพิสัย	Uthum phon phisai	55
+5522	ศิลาลาด	Silalat	55
+5601	เมืองสกลนคร	Muang sakonnakhon	56
+5602	กุดบาก	Kot bak	56
+5603	กุสุมาลย์	Kusuman	56
+5604	คำตากล้า	Kham ta kla	56
+5605	เจริญศิลป์	Charoen silp	56
+5606	เต่างอย	Tao ngoi	56
+5607	นิคมน้ำอูน	Nikhomnamun	56
+5608	บ้านม่วง	Ban muang	56
+5609	พรรณานิคม	Phanna nikhom	56
+5610	พังโคน	Phang khon	56
+5611	วานรนิวาส	Wanon niwat	56
+5612	วาริชภูมิ	Warit chaphum	56
+5613	โคกศรีสุพรรณ	Khok si suphan	56
+5614	สว่างแดนดิน	Sawang daen din	56
+5615	ส่องดาว	Song dao	56
+5616	อากาศอำนวย		56
+5617	ภูพาน	Phu phan	56
+5618	โพนนาแก้ว	Phon na kaeo	56
+5701	เมืองสงขลา	Muang songkhla	57
+5702	กระแสสินธุ์	Kasae sin	57
+5703	ควนเนียง	Khuan niang	57
+5704	จะนะ	Chana	57
+5705	เทพา	The pha	57
+5706	นาทวี	Na thawi	57
+5707	นาหม่อม	Na mom	57
+5708	บางกล่ำ	Bang khum	57
+5709	ระโนด	Ranot	57
+5710	รัตภูมิ	Rattaphom	57
+5711	สทิงพระ	Sathing phra	57
+5712	สะเดา	Sadao	57
+5713	สะบ้าย้อย	Saba yoi	57
+5714	สิงหนคร	Singha nakhon	57
+5715	หาดใหญ่	Hat yai	57
+5716	คลองหอยโข่ง		57
+5801	เมืองสตูล	Muang satun	58
+5802	ควนกาหลง	Khuan ka long	58
+5803	ควนโดน	Khuan don	58
+5804	ท่าแพ	Tha phae	58
+5805	ทุ่งหว้า	Thung wa	58
+5806	ละงู	Langu	58
+5807	มะนัง	Manang	58
+5901	เมืองสมุทรปราการ	Muang samutprakan	59
+5902	บางบ่อ	Bang bo	59
+5903	บางพลี	Bang phle	59
+5904	พระประแดง	Phra pradaeng	59
+5905	พระสมุทรเจดีย์	Phra samutjede	59
+5906	บางเสาธง	Bang sao thong	59
+6001	เมืองสมุทรสงคราม	Muang samut songkhram	60
+6002	บางคณที		60
+6003	อัมพวา		60
+6101	เมืองสมุทรสาคร	Muang samut sakhon	61
+6102	กระทุ่มแบน	Kratumban	61
+6103	บ้านแพ้ว	Ban phaeo	61
+6201	เมืองสระแก้ว	Muang sra kaeo	62
+6202	เขาฉกรรจ์		62
+6203	คลองหาด	Khlong hat	62
+6204	ตาพระยา	Ta phraya	62
+6205	วังน้ำเย็น	Wang namyen	62
+6206	วัฒนานคร	Wattana nakhon	62
+6207	อรัญประเทศ	Aranyaprathat	62
+6208	โคกสูง	Khok sung	62
+6209	วังสมบูรณ์	Wang somboon	62
+6301	เมืองสระบุรี	Muang saraburi	63
+6302	แก่งคอย	Kaeng khoy	63
+6303	ดอนพุด	Don phut	63
+6304	บ้านหมอ	Ban mo	63
+6305	พระพุทธบาท	Phra phutthabat	63
+6306	มวกเหล็ก	Muak lek	63
+6307	วิหารแดง	Wihan daeng	63
+6308	เสาไห้		63
+6309	หนองแค	Nong khae	63
+6310	หนองแซง	Nong saeng	63
+6311	หนองโดน	Nong don	63
+6312	วังม่วง	Wang muang	63
+6313	เฉลิมพระเกียรติ	Chalermprakiat	63
+6401	เมืองสิงห์บุรี	Muang singburi	64
+6402	ค่ายบางระจัน	Khai bang rachan	64
+6403	ท่าช้าง	Tha chang	64
+6404	บางระจัน	Bangrachan	64
+6405	พรหมบุรี	Phrom buri	64
+6406	อินทร์บุรี	In buri	64
+6501	เมืองสุโขทัย	Muang sukhothai	65
+6502	กงไกรลาศ	Kong kralilat	65
+6503	คีรีมาศ	Khiri mat	65
+6504	ทุ่งเสลี่ยม	Thung saliam	65
+6505	บ้านด่านลานหอย	Ban dan lan hoi	65
+6506	ศรีนคร	Si nakhon	65
+6507	ศรีสัชนาลัย	Satchanalai	65
+6508	ศรีสำโรง	Si samrong	65
+6509	สวรรคโลก	Sawan khalok	65
+6601	เมืองสุพรรณบุรี	Muang suphanburi	66
+6602	ดอนเจดีย์	Don chedi	66
+6603	ด่านช้าง	Dan chang	66
+6604	เดิมบางนางบวช	Doembang nangbuat	66
+6605	บางปลาม้า	Bang plama	66
+6606	ศรีประจันต์	Si prachan	66
+6607	สองพี่น้อง	Song phi nong	66
+6608	สามชุก	Sam chuk	66
+6609	อู่ทอง	U thong	66
+6610	หนองหญ้าไซ	Nong yasai	66
+6701	เมืองสุราษฎร์ธานี	Muang surat thani	67
+6702	กาญจนดิษฐ์	Kanchanadit	67
+6703	เกาะพะงัน	ko phangan	67
+6704	เกาะสมุย	Ko samut	67
+6705	คีรีรัฐนิคม	Khiri ratthanikhem	67
+6706	เคียนซา	Khian sa	67
+6707	ชัยบุรี	Chat buri	67
+6708	ไชยา	Chai ya	67
+6709	ดอนสัก	Don sak	67
+6710	ท่าฉาง	Tha chang	67
+6711	ท่าชนะ	Tha chana	67
+6712	บ้านตาขุน	Ban ta khun	67
+6713	บ้านนาเดิม	Ban na doem	67
+6714	บ้านนาสาร	Ban na san	67
+6715	พนม	Phanom	67
+6716	พระแสง	Phrasaeng	67
+6717	พุนพิน	Phunphin	67
+6718	วิภาวดี		67
+6719	เวียงสระ	Weang sa	67
+6801	เมืองสุรินทร์	Muang surin	68
+6802	กาบเชิง	Kap choeng	68
+6803	จอมพระ	Chom phra	68
+6804	ชุมพลบุรี	Chumphon buri	68
+6805	ท่าตูม	Tha tum	68
+6806	บัวเชด		68
+6807	ปราสาท	Pra sat	68
+6808	รัตนบุรี	Rattana buri	68
+6809	ลำดวน	Lam duon	68
+6810	ศีขรภูมิ	Sikhoraphum	68
+6811	สนม	sanom	68
+6812	สังขะ	Sang kha	68
+6813	สำโรงทาบ	Samrong thap	68
+6814	ศรีณรงค์	Sri narong	68
+6815	พนมดงรัก	Phanom dong rak	68
+6816	เขวาสินรินทร์		68
+6817	โนนนารายณ์	Nhon narai	68
+6901	เมืองหนองคาย	Muang nongkhai	69
+6902	เซกา	Seka	69
+6903	โซ่พิสัย	So phisai	69
+6904	ท่าบ่อ	Tha bo	69
+6905	บึงกาฬ	Bung khla	69
+6906	บึงโขลงหลง	Bung khom long	69
+6907	ปากคาด	Pak khat	69
+6908	พรเจริญ	Porncharoen	69
+6909	โพนพิสัย	Phon phisai	69
+6910	ศรีเชียงใหม่	Si chiang mai	69
+6911	ศรีวิไล	Si wilai	69
+6912	สังคม	Sang kom	69
+6913	สระใคร่		69
+6914	บุ่งคล้า	Bung khla	69
+6915	รัตนวาปี	Ratana wapi	69
+6916	เฝ้าไร่		69
+6917	โพธิ์ตาก	Pho tak	69
+7001	เมืองหนองบัวลำภู	Muang nongbualamphu	70
+7002	นากลาง	Na klang	70
+7003	โนนสัง	Non sang	70
+7004	ศรีบุญเรือง	Si bun ruang	70
+7005	สุวรรณคูหา	Suwannakhuha	70
+7006	นาวัง	Na wang	70
+7101	เมืองอ่างทอง	Muang angthong	71
+7102	ไชโย	Chai yo	71
+7103	ป่าโมก	Pamok	71
+7104	โพธิ์ทอง	Po thong	71
+7105	วิเศษชัยชาญ	Wiset chai chan	71
+7106	สามโก้	Sam ko	71
+7107	แสวงหา	Sawaengha	71
+7201	เมืองอำนาจเจริญ	Muang amnatcharoen	72
+7202	ชานุมาน	Chanu man	72
+7203	ปทุมราชวงศา	Pathum rachawongsa	72
+7204	พนา	Phana	72
+7205	เสนางคนิคม	Senangkhanikhom	72
+7206	หัวตะพาน	Hua taphan	72
+7207	ลืออำนาจ	Lu amnat	72
+7301	เมืองอุดรธานี	Muang udonthani	73
+7302	กู่แก้ว	Ku kaeo	73
+7303	กุดจับ	kut chap	73
+7304	กุมภวาปี	Kumphawapi	73
+7305	ไชยวาน	Chai wan	73
+7306	ทุ่งฝน	Thung fon	73
+7307	นายูง	Na yung	73
+7308	น้ำโสม	Nam som	73
+7309	โนนสะอาด	Non sa-at	73
+7310	บ้านดุง	Bang dung	73
+7311	บ้านผือ	Ban phu	73
+7312	พิบูลย์รักษ์	Pibunrak	73
+7313	เพ็ญ	Phen	73
+7314	วังสามหมอ	Wang sam mo	73
+7315	ศรีธาตุ	Si that	73
+7316	สร้างคอม	Sang khom	73
+7317	หนองวัวซอ	Nong wua so	73
+7318	หนองหาน	Nong han	73
+7319	หนองแสง	Nong saeng	73
+7320	ประจักษ์ศิลปาคาม		73
+7401	เมืองอุตรดิตถ์	Muang uttaradit	74
+7402	ตรอน	Tron	74
+7403	ทองแสนขัน	Thong saen khan	74
+7404	ท่าปลา	Tha pla	74
+7405	น้ำปาด	Nam pat	74
+7406	บ้านโคก	Ban khok	74
+7407	พิชัย	Phichai	74
+7408	ฟากท่า	Pak tha	74
+7409	ลับแล	laplae	74
+7501	เมืองอุทัยธานี	Muang uthaithani	75
+7502	ทัพทัน	Thap than	75
+7503	บ้านไร่	Ban rai	75
+7504	ลานสัก	Lan sak	75
+7505	สว่างอารมณ์	Sawang arom	75
+7506	หนองขาหย่าง	Nong khayang	75
+7507	หนองฉาง	Nong chang	75
+7508	ห้วยคต	Huai khot	75
+7601	เมืองอุบลราชธานี	Muang uboratchathani	76
+7602	กุดข้าวปุ้น	Kut khao pun	76
+7603	เขมราฐ	Khemarat	76
+7604	เขื่องใน	Khuang nai	76
+7605	โขงเจียม	Khong chiam	76
+7606	เดชอุดม	Deti udom	76
+7607	ตระการพืชผล	Trakan phut phon	76
+7608	ตาลสุม	Tan sum	76
+7609	ทุ่งศรีอุดม	Thung si udom	76
+7610	นาจะหลวย	No chaluai	76
+7611	น้ำยืน	Nam yun	76
+7612	บุณฑริก	Bun tharik	76
+7613	พิบูลมังสาหาร	Phibun mangsahan	76
+7614	โพธิ์ไทร	Pho sai	76
+7615	ม่วงสามสิบ	muang samsip	76
+7616	เหล่าเสือโก้ก		76
+7617	วารินชำราบ	Warin shamrap	76
+7618	ศรีเมืองใหม่	Si muang mai	76
+7619	สำโรง	sam rong	76
+7620	สิรินธร	Sirinthon	76
+7621	นาเยีย		76
+7622	นาตาล	Natan	76
+7623	สว่างวีระวงศ์	Swang weerawong	76
+7624	น้ำขุ่น		76
+7625	ดอนมดแดง	Don mot daeng	76
