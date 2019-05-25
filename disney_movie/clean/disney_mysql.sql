@@ -1,5 +1,3 @@
-CREATE DATABASE  IF NOT EXISTS `disney` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */;
-USE `disney`;
 -- MySQL dump 10.13  Distrib 8.0.13, for Win64 (x86_64)
 --
 -- Host: localhost    Database: disney
@@ -25,8 +23,8 @@ DROP TABLE IF EXISTS `director`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
  SET character_set_client = utf8mb4 ;
 CREATE TABLE `director` (
-  `movie_title` text,
-  `director` text
+  `movie_title` varchar(255) DEFAULT NULL,
+  `director` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -48,11 +46,11 @@ DROP TABLE IF EXISTS `disney_char`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
  SET character_set_client = utf8mb4 ;
 CREATE TABLE `disney_char` (
-  `movie_title` text,
+  `movie_title` varchar(255) DEFAULT NULL,
   `release_date` date DEFAULT NULL,
-  `hero` text,
-  `villian` text,
-  `song` text
+  `hero` varchar(255) DEFAULT NULL,
+  `villian` varchar(255) DEFAULT NULL,
+  `song` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -74,10 +72,10 @@ DROP TABLE IF EXISTS `movie_gross`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
  SET character_set_client = utf8mb4 ;
 CREATE TABLE `movie_gross` (
-  `movie_title` text,
+  `movie_title` varchar(255) DEFAULT NULL,
   `release_date` date DEFAULT NULL,
-  `genre` text,
-  `mpaa_rating` text,
+  `genre` varchar(255) DEFAULT NULL,
+  `mpaa_rating` varchar(255) DEFAULT NULL,
   `total_gross` bigint(20) DEFAULT NULL,
   `inflation_adjusted_gross` bigint(20) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
@@ -129,9 +127,9 @@ DROP TABLE IF EXISTS `voice_actor`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
  SET character_set_client = utf8mb4 ;
 CREATE TABLE `voice_actor` (
-  `character` text,
-  `voice_actor` text,
-  `movie_title` text
+  `character` varchar(255) DEFAULT NULL,
+  `voice_actor` varchar(255) DEFAULT NULL,
+  `movie_title` varchar(255) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
@@ -154,4 +152,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2019-05-19  8:00:32
+-- Dump completed on 2019-05-25  9:21:04
