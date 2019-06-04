@@ -1,0 +1,78 @@
+id,ChangwatTH,ChangwatEN,Region,MajorHospital,Longitude,Latitude,Capitol,Population,Area,PopDensity,LargestCity,AbbrevCH,ISO
+10,กรุงเทพมหานคร,Bangkok,BKK,โรงพยาบาลกลาง,100.50992009999999,13.746853,Bangkok,5692284,1565,3637.0,Bangkok Metropolitan Area,BKK,TH-10
+11,สมุทรปราการ,Samut Prakan,BKK,โรงพยาบาลสมุทรปราการ,100.59738552,13.583642858,Samut Prakan,1261530,1004,1257.0,Bangkok Metropolitan Area,SPK,TH-11
+12,นนทบุรี,Nonthaburi,BKK,โรงพยาบาลพระนั่งเกล้า,100.48187031,13.865312852999999,Nonthaburi,1173870,622,1887.0,Bangkok Metropolitan Area,NBI,TH-12
+13,ปทุมธานี,Pathum Thani,BKK,โรงพยาบาลปทุมธานี,100.52401668,14.021052342,Pathum Thani,1075058,1526,704.0,Bangkok Metropolitan Area,PTE,TH-13
+14,พระนครศรีอยุธยา,Phra Nakhon Si Ayutthaya,Central,โรงพยาบาลพระนครศรีอยุธยา,100.56027309999999,14.343753892999999,Ayothaya,803599,2557,314.0,Phra Nakhon Si Ayutthaya,AYA,TH-14
+15,อ่างทอง,Ang Thong,Central,โรงพยาบาลอ่างทอง,100.44995365,14.585101865999999,Ang Thong,283568,968,293.0,Ang Thong,ATG,TH-15
+16,ลพบุรี,Lop Buri,Central,โรงพยาบาลพระนารายณ์มหาราช,100.65244632,14.804839813,Lopburi,754406,6200,122.0,Lopburi,LRI,TH-16
+17,สิงห์บุรี,Sing Buri,Central,โรงพยาบาลสิงห์บุรี,100.39757209999999,14.897205959,Sing Buri,212158,822,258.0,Sing Buri,SBR,TH-17
+18,ชัยนาท,Chai Nat,Central,โรงพยาบาลชัยนาทนเรนทร,100.12774506,15.191912584,Chai Nat,332283,2470,135.0,Chai Nat,CNT,TH-18
+19,สระบุรี,Saraburi,Central,โรงพยาบาลสระบุรี,100.91689294,14.535864245,Saraburi,633460,3576,177.0,Saraburi,SRI,TH-19
+20,ชลบุรี,Chon Buri,Central,โรงพยาบาลชลบุรี,100.98177316,13.351737184000001,Chonburi,1421425,4363,326.0,Pattaya,CBI,TH-20
+21,ระยอง,Rayong,Central,โรงพยาบาลระยอง,101.27648827,12.682203899000001,Map Ta Phut,674393,3552,190.0,Rayong,RYG,TH-21
+22,จันทบุรี,Chanthaburi,Central,โรงพยาบาลพระปกเกล้า,102.10315665,12.604328872,Chanthaburi,527350,6338,83.2,Chanthaburi,CTI,TH-22
+23,ตราด,Trat,Central,โรงพยาบาลตราด,102.51154059,12.245307564,Trat,224730,2819,80.0,Trat,TRT,TH-23
+24,ฉะเชิงเทรา,Chachoengsao,Central,โรงพยาบาลพุทธโสธร,101.07403685,13.686444287,Chachoengsao,695478,5351,129.9,Chachoengsao,CCO,TH-24
+25,ปราจีนบุรี,Prachin Buri,Central,โรงพยาบาลเจ้าพระยาอภัยภูเบศร,101.39617,14.054379999999998,Mai Khet,479314,4762,101.0,Prachinburi,PRI,TH-25
+26,นครนายก,Nakhon Nayok,Central,โรงพยาบาลนครนายก,101.2133503,14.20783137,Nakhon Nayok,257300,2122,121.3,Nakhon Nayok,NYK,TH-26
+27,สระแก้ว,Sa kaeo,Central,โรงพยาบาลสมเด็จพระยุพราชสระแก้ว,102.07191788,13.816560189,Sa Kaeo,552187,7195,77.0,Sa Kaeo,SKW,TH-27
+30,นครราชสีมา,Nakhon Ratchasima,Northeastern,โรงพยาบาลหาราชนครราชสีมา,102.10201532,14.982571135999999,Nakhon Ratchasima,2620517,20494,128.0,Nakhon Ratchasima,NMA,TH-30
+31,บุรีรัมย์,Buri Ram,Northeastern,โรงพยาบาลบุรีรัมย์,103.102655,15.005685999999999,Samet,1579248,10322,153.0,Buriram,BRM,TH-31
+32,สุรินทร์,Surin,Northeastern,โรงพยาบาลสุรินทร์,103.50322074,14.876423243,Surin,1391636,8124,171.0,Surin,SRN,TH-32
+33,ศรีสะเกษ,Si Sa Ket,Northeastern,โรงพยาบาลศรีสะเกษ,104.32027102,15.11552649,Sisaket,1465213,8840,166.0,Sisaket,SSK,TH-33
+34,อุบลราชธานี,Ubon Ratchathani,Northeastern,โรงพยาบาลสรรพสิทธิประสงค์,104.86496715,15.236095812,Chaeramae,1844669,15745,117.0,Ubon Ratchathani,UBN,TH-34
+35,ยโสธร,Yasothon,Northeastern,โรงพยาบาลยโสธร,104.16209056,15.780976967,Yasothon,540211,4162,130.0,Yasothon,YST,TH-35
+36,ชัยภูมิ,Chaiyaphum,Northeastern,โรงพยาบาลชัยภูมิ,102.03470707,15.80552964,Chaiyaphum,1137049,12778,89.0,Chaiyaphum,CPM,TH-36
+37,อำนาจเจริญ,Amnat Charoen,Northeastern,โรงพยาบาลอำนาจเจริญ,104.6236825,15.86374409,Non Nam Thaeng,375380,3161,119.0,Amnat Charoen,ACR,TH-37
+38,บึงกาฬ,Bueng Kan,Northeastern,โรงพยาบาลบึงกาฬ,103.6517787,18.36381219,Bueng Kan SAO Area,418566,4306,97.0,Bueng Kan,BKN,TH-38
+39,หนองบัวลำภู,Nong Bua Lam Phu,Northeastern,โรงพยาบาลหนองบัวลำภู,102.45721339,17.198945988,Nong Bua Lam Phu,508864,3859,132.0,Nong Bua Lam Phu,NBP,TH-39
+40,ขอนแก่น,Khon Kaen,Northeastern,โรงพยาบาลขอนแก่น,102.84854561,16.42909271,Khon Kaen,1790049,10886,164.0,Khon Kaen,KKN,TH-40
+41,อุดรธานี,Udon Thani,Northeastern,โรงพยาบาลอุดรธานี,102.78017879,17.41520452,Udon Thani,1570300,11730,134.0,Udon Thani,UDN,TH-41
+42,เลย,Loei,Northeastern,โรงพยาบาลเลย,101.72120182,17.487413062,Loei,634513,11425,56.0,Loei,LEI,TH-42
+43,หนองคาย,Nong Khai,Northeastern,โรงพยาบาลหนองคาย,102.74192281319999,17.881901186700002,Nong Khai,517260,3027,171.0,Nong Khai,NKI,TH-43
+44,มหาสารคาม,Maha Sarakham,Northeastern,โรงพยาบาลมหาสารคาม,103.29937019,16.181232524000002,Waeng Nang Township,960588,5292,182.0,Maha Sarakham,MKM,TH-44
+45,ร้อยเอ็ด,Roi Et,Northeastern,โรงพยาบาลร้อยเอ็ด,103.65455052,16.048314438,Roi Et,1308318,8299,158.0,Roi Et,RET,TH-45
+46,กาฬสินธุ์,Kalasin,Northeastern,สำนักงานสาธารณสุขจังหวัดกาฬสินธุ์,103.51467770000001,16.424658465,Kalasin,984907,6947,142.0,Kalasin,KSN,TH-46
+47,สกลนคร,Sakon Nakhon,Northeastern,โรงพยาบาลสกลนคร,104.15784773,17.161424543,Sakon Nakhon,1138609,9606,119.0,Sakon Nakhon,SNK,TH-47
+48,นครพนม,Nakhon Phanom,Northeastern,โรงพยาบาลนครพนม,104.77827233,17.414213737,Nakhon Phanom,713351,5513,129.0,Nakhon Phanom,NPM,TH-48
+49,มุกดาหาร,Mukdahan,Northeastern,โรงพยาบาลมุกดาหาร,104.72702131,16.54172283,Mukdahan,346016,4340,80.0,Mukdahan,MDH,TH-49
+50,เชียงใหม่,Chiang Mai,Northern,โรงพยาบาลนครพิงค์,98.967648363,18.852270955999998,Chiang Mai,1678284,20107,83.5,Chiang Mai,CMI,TH-50
+51,ลำพูน,Lamphun,Northern,โรงพยาบาลลำพูน,98.99494,18.582512,Lamphun,405468,4506,90.0,Lamphun,LPN,TH-51
+52,ลำปาง,Lampang,Northern,โรงพยาบาลลำปาง,99.50660408600001,18.285609435999998,Khelang Nakhon,753013,12534,60.0,Lampang,LPG,TH-52
+53,อุตรดิตถ์,Uttaradit,Northern,โรงพยาบาลอุตรดิตถ์,100.08699906,17.618754611,Uttaradit,460400,7839,59.0,Uttaradit,UTD,TH-53
+54,แพร่,Phrae,Northern,โรงพยาบาลแพร่,100.15417814,18.13443271,Phrae,454083,6539,69.0,Phrae,PRE,TH-54
+55,น่าน,Nan,Northern,โรงพยาบาลน่าน,100.78845219,18.794668883,Chai Sathan,478264,11472,42.0,Nan,NAN,TH-55
+56,พะเยา,Phayao,Northern,โรงพยาบาลพะเยา,99.87797499,19.19048654,Ban Tom,484454,6335,76.0,Phayao,PYO,TH-56
+57,เชียงราย,Chiang Rai,Northern,โรงพยาบาลเชียงรายประชานุเคราะห์,99.829288,19.901104,Chiang Rai,1207699,11678,103.0,Chiang Rai,CRI,TH-57
+58,แม่ฮ่องสอน,Mae Hong Son,Northern,โรงพยาบาลศรีสังวาลย์,97.971867831,19.299939647000002,Mae Hong Son,248178,12681,20.0,Mae Hong Son,MSN,TH-58
+60,นครสวรรค์,Nakhon Sawan,Northern,โรงพยาบาลสวรรค์ประชารักษ์,100.13863423,15.707189677,Nakhon Sawan,1072756,9598,112.0,Nakhon Sawan,NSN,TH-60
+61,อุทัยธานี,Uthai Thani,Northern,โรงพยาบาลอุทัยธานี,100.01997812,15.380417464,Uthai Thani,330179,6730,49.0,Uthai Thani,UTI,TH-61
+62,กำแพงเพชร,Kamphaeng Phet,Northern,โรงพยาบาลกำแพงเพชร,99.527538925,16.463285347,Nong Pling,729522,8607,85.0,Kamphaeng Phet,KPT,TH-62
+63,ตาก,Tak,Northern,โรงพยาบาลแม่สอด,98.575519807,16.707058145999998,Tak,539553,16407,33.0,Mae Sot,TAK,TH-63
+64,สุโขทัย,Sukhothai,Northern,โรงพยาบาลสุโขทัย,99.79596376,17.01082282,Sukhothai Thani,602460,6596,91.0,Sukhothai Thani,STI,TH-64
+65,พิษณุโลก,Phitsanulok,Northern,โรงพยาบาลพุทธชินราช,100.26401454,16.809708992,Phitsanulok,858988,10816,79.0,Phitsanulok,PLK,TH-65
+66,พิจิตร,Phichit,Northern,โรงพยาบาลพิจิตร,100.34761129,16.43253793,Phichit,547543,4531,120.8,Phichit,PCT,TH-66
+67,เพชรบูรณ์,Phetchabun,Northern,โรงพยาบาลเพชรบูรณ์,101.1536012,16.427223057,Sadiang,995807,12668,79.0,Phetchabun,PNB,TH-67
+70,ราชบุรี,Ratchaburi,Central,โรงพยาบาลราชบุรี,99.81522531200001,13.531243502999999,Ratchaburi,853217,5196,164.0,Ratchaburi,RBR,TH-70
+71,กาญจนบุรี,Kanchanaburi,Central,โรงพยาบาลพหลพลพยุหเสนา,99.547104902,14.004235543,Kanchanaburi,848198,19483,44.0,Kanchanaburi,KRI,TH-71
+72,สุพรรณบุรี,Suphan Buri,Central,โรงพยาบาลเจ้าพระยายมราช,100.11618465,14.46639779,Sanam Chai,849053,5358,158.0,Suphan Buri,SPB,TH-72
+73,นครปฐม,Nakhon Pathom,Central,โรงพยาบาลนครปฐม,100.07499873,13.819631775,Thanon Khat,891071,2168,411.0,Nakhon Pathom,NPT,TH-73
+74,สมุทรสาคร,Samut Sakhon,Central,โรงพยาบาลสมุทรสาคร,100.279308,13.551748000000002,Samut Sakhon,531887,872,610.0,Samut Sakhon,SKN,TH-74
+75,สมุทรสงคราม,Samut Songkhram,Central,โรงพยาบาลสมเด็จพระพุทธเลิศหล้า,99.99819904299999,13.406707723,Samut Songkhram,194189,417,466.0,Samut Songkhram,SKM,TH-75
+76,เพชรบุรี,Phetchaburi,Central,โรงพยาบาลพระจอมเกล้า,99.938405626,13.117511571,Phetchaburi,474192,6225,76.0,Phetchaburi,PBI,TH-76
+77,ประจวบคีรีขันธ์,Prachuap Khiri Khan,Central,โรงพยาบาลประจวบคีรีขันธ์,99.79529858,11.80127993,Prachuap Khiri Khan,525107,6368,82.0,Hua Hin,PKN,TH-77
+80,นครศรีธรรมราช,Nakhon Si Thammarat,Southern,โรงพยาบาลมหาราชนครศรีธรรมราช,99.971581983,8.3909884349,Nakhon Si Thammarat,1544028,9943,155.0,Nakhon Si Thammarat,NRT,TH-80
+81,กระบี่,Krabi,Southern,โรงพยาบาลกระบี่,98.863831099,8.073935014,Krabi,456811,4709,97.0,Krabi,KBI,TH-81
+82,พังงา,Phang-nga,Southern,โรงพยาบาลพังงา,98.52714924700001,8.447031779400001,Phang Nga,261370,4171,63.0,Thai Mueang,PNA,TH-82
+83,ภูเก็ต,Phuket,Southern,โรงพยาบาลวชิระภูเก็ต,98.383881552,7.8967083834,Phuket,378364,543,697.0,Phuket,PKT,TH-83
+84,สุราษฎร์ธานี,Surat Thani,Southern,โรงพยาบาลสุราษฎร์ธานี,99.310401645,9.1234123737,Surat Thani,1040230,12891,81.0,Surat Thani,SNI,TH-84
+85,ระนอง,Ranong,Southern,โรงพยาบาลระนอง,98.64272118,9.96339807,Bang Rin,177089,3298,54.0,Ranong,RNG,TH-85
+86,ชุมพร,Chumphon,Southern,โรงพยาบาลชุมพรเขตรอุดมศักดิ์,99.186156398,10.499655192,Chumphon,500575,6009,83.3,Chumphon,CPN,TH-86
+90,สงขลา,Songkhla,Southern,โรงพยาบาลหาดใหญ่,100.46691925,7.017455796599999,Songkhla,1401303,7394,190.0,Hat Yai,SKA,TH-90
+91,สตูล,Satun,Southern,โรงพยาบาลสตูล,100.07043101,6.6191272765999996,Satun,312673,2479,126.0,Satun,STN,TH-91
+92,ตรัง,Trang,Southern,โรงพยาบาลตรัง,99.619563,7.568708999999999,Trang,638746,4918,129.8,Trang,TRG,TH-92
+93,พัทลุง,Phatthalung,Southern,โรงพยาบาลพัทลุง,100.07324862,7.6155621852,Phatthalung,520419,3424,152.0,Phatthalung,PLG,TH-93
+94,ปัตตานี,Pattani,Southern,โรงพยาบาลปัตตานี,101.25037304,6.8675027999000005,Pattani,686186,1940,354.0,Pattani,PTN,TH-94
+95,ยะลา,Yala,Southern,โรงพยาบาลยะลา,101.276365,6.547672,Yala,511911,4521,113.0,Yala,YLA,TH-95
+96,นราธิวาส,Narathiwat,Southern,โรงพยาบาลนราธิวาสราชนครินทร์,101.8241036,6.414424244,Narathiwat,775799,4475,173.0,Su-ngai Kolok,NWT,TH-96
