@@ -1,4 +1,4 @@
-Symbol,Company,Market,SET50,SET100,SETHD,Industry,Sector,Address,Zip code,Tel.,Fax,Website
+Symbol,Company,Market,SET50,SET100,SETHD,Industry,Sector,Address,Zip code,Tel,Fax,Website
 2S,2S METAL PUBLIC COMPANY LIMITED,mai,False,False,False,Industrial,-,"8/5 Moo 14, Tha-change, Bangklam District Songkhla",90110,0-7480-0111,0-7480-1286,www.ss.co.th
 7UP,SEVEN UTILITIES AND POWER PUBLIC COMPANY LIMITED,SET,False,False,False,Technology,Information & Communication Technology,"73 Mahachol Building, Soi Sukhumvit 62, Sukhumvit Road, Phrakhanong Tai, Phrakhanong Bangkok",10260,0-2741-5700,0-2741-5724,www.sevenup.co.th
 A,AREEYA PROPERTY PUBLIC COMPANY LIMITED,SET,False,False,False,Property & Construction,Property Development,"999 Praditmanutham road, Saphansong, Wangthonglang Bangkok",10310,"0-2798-9999, 1797",0-2798-9990,http://www.areeya.co.th
