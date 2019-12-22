@@ -1,0 +1,14 @@
+Websites	Popularity (unique visitors per month)	Front-end (Client-side)	Back-end (Server-side)	Database	Notes
+Google.com	1600000000	JavaScript, TypeScript	C, C++, Go, Java, Python	Bigtable, MariaDB	The most used search engine in the world
+Facebook.com	1100000000	JavaScript	Hack, PHP (HHVM), Python, C++, Java, Erlang, D, XHP, Haskell	MariaDB, MySQL, HBase, Cassandra	The most visited social networking site
+YouTube.com	1100000000	JavaScript	C, C++, Python, Java, Go	Vitess, BigTable, MariaDB	The most visited video sharing site
+Yahoo	750000000	JavaScript	PHP	PostgreSQL, HBase, Cassandra, MongoDB,	
+Amazon.com	500000000	JavaScript	Java, C++, Perl	Oracle Database	Popular internet shopping site
+Wikipedia.org	475000000	JavaScript	PHP, Hack	MariaDB	"MediaWiki" is programmed in PHP, runs on HHVM; free online encyclopedia
+Twitter.com	290000000	JavaScript	C++, Java, Scala, Ruby	MySQL	Popular social network.
+Bing	285000000	JavaScript	C++, C#	Microsoft SQL Server, Cosmos	Search engine from Microsoft.
+eBay.com	285000000	JavaScript	Java, JavaScript, Scala	Oracle Database	Online auction house.
+MSN.com	280000000	JavaScript	C#	Microsoft SQL Server	An email client, for simple use. Previously known as "messenger", not to be confused with Facebook's messaging platform.
+Linkedin.com	260000000	JavaScript	Java, JavaScript, Scala	Voldemort	World's largest professional network.
+Pinterest	250000000	JavaScript	Python (Django), Erlang	MySQL, Redis	Search engine for ideas.
+WordPress.com	240000000	JavaScript	PHP	PostgreSQL, HBase, Cassandra, MongoDB,	Website manager software.
