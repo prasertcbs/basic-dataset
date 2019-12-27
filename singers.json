@@ -1,0 +1,110 @@
+[
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "followers": {
+            "href": null,
+            "total": 56373726
+        },
+        "genres": [
+            "pop",
+            "uk pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/f55cab0739390cf3b2c2f773b9c779b2f0ae8a99",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/31e1cfee4ec3849bf3036a037cbbf57239f5c7a2",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/f2e3eb4c81da6cd2f32036ab0946c6bbfe4a86b7",
+                "width": 160
+            }
+        ],
+        "name": "Ed Sheeran",
+        "popularity": 98,
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "followers": {
+            "href": null,
+            "total": 25341024
+        },
+        "genres": [
+            "pop",
+            "post-teen pop"
+        ],
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/62b33d12e2b9a033cf77585f6e3d4b2c6b3a63a1",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/9ab124f3323d161f87fc9b7f8b82ab1717483b3a",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/d28b46cd7e1b7336d1688d462085535963a77311",
+                "width": 160
+            }
+        ],
+        "name": "Taylor Swift",
+        "popularity": 95,
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+        "external_urls": {
+            "spotify": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        "followers": {
+            "href": null,
+            "total": 10089125
+        },
+        "genres": [
+            "k-pop",
+            "k-pop girl group"
+        ],
+        "href": "https://api.spotify.com/v1/artists/41MozSoPIsD1dJM0CLPjZF",
+        "id": "41MozSoPIsD1dJM0CLPjZF",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/254b0e0fc1d4cf39de56960ed983c1ff7e3dff00",
+                "width": 640
+            },
+            {
+                "height": 320,
+                "url": "https://i.scdn.co/image/5f52e025177c168da1dd61dc3f264e37588831d7",
+                "width": 320
+            },
+            {
+                "height": 160,
+                "url": "https://i.scdn.co/image/6d088fb12fc7a71315edccf87a02c3d3b13952a7",
+                "width": 160
+            }
+        ],
+        "name": "BLACKPINK",
+        "popularity": 83,
+        "type": "artist",
+        "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF"
+    }
+]
