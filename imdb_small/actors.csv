@@ -1,0 +1,1001 @@
+id,first_name,last_name,gender,film_count
+933,Lewis,Abernathy,M,1
+2547,Andrew,Adamson,M,1
+2700,William,Addy,M,1
+2898,"Seth (I)",Adkins,M,1
+2925,"Charles (I)",Adler,M,1
+3226,Casey,Affleck,M,1
+4306,Shigekazu,Aida,M,1
+4856,Julliet,Akinyi,M,1
+6005,Henri,Alciatore,M,1
+6990,Dean,Alexandrou,M,1
+7124,Jim,Alfonso,M,1
+7817,"Carl (I)",Allen,M,1
+7979,"Ivan (I)",Allen,M,1
+8161,"Richard (XV)",Allen,M,1
+8409,Anthony,Allison,M,1
+8412,"Bill (I)",Allison,M,1
+8426,"Frankie J.",Allison,M,1
+9184,Steve,Altes,M,1
+9275,Walter,Altman,M,1
+11489,Dion,Anderson,M,1
+11547,"George (IV)",Anderson,M,1
+11590,"J. Todd",Anderson,M,1
+11865,"Scott G.",Anderson,M,1
+12043,Kris,Andersson,M,1
+12508,"David (I)",Andrews,M,2
+12987,"Jack (I)",Angel,M,1
+13553,Joey,Ansah,M,1
+14741,"Royce D.",Applegate,M,1
+14973,Julian,Arahanga,M,1
+15068,Raul,Aranas,M,1
+15854,Geoffrey,Arend,M,1
+15921,"Guillaume (II)",Aretos,M,1
+16669,Alun,Armstrong,M,1
+16791,"Neil (I)",Armstrong,M,1
+16844,"William (I)",Armstrong,M,1
+17326,Abraham,Aronofsky,M,1
+17433,Alexis,Arquette,M,1
+17438,Richmond,Arquette,M,1
+17946,Michael,Arturo,M,1
+18534,Graham,Ashley,M,1
+18638,"Richard (II)",Ashton,M,1
+18826,Edward,Asner,M,1
+19123,"David (I)",Aston,M,1
+19873,Rene,Auberjonois,M,1
+20565,"Mark (III)",Austin,M,1
+21959,Ryuichiro,Baba,M,1
+22188,James,Babson,M,1
+22262,Mike,Bacarella,M,1
+22489,Joe,Bacino,M,1
+22591,Kevin,Bacon,M,9
+22669,Michael,Badalucco,M,1
+22723,Diedrich,Bader,M,1
+23488,Eion,Bailey,M,1
+24164,"Dylan (I)",Baker,M,1
+24298,"Kenny (I)",Baker,M,1
+24389,"Rick (I)",Baker,M,1
+24660,Matthew,Balaban,M,1
+25103,Christian,Bale,M,1
+25293,Jeremy,Ball,M,1
+25743,Kirk,Baltz,M,1
+26018,John,Bandemer,M,1
+26409,Ian,Bannen,M,1
+28218,"Christopher Daniel",Barnes,M,1
+28510,Roy,Barnitt,M,1
+29603,Jason,Barry,M,1
+29686,Thom,Barry,M,1
+30298,Billy,Barty,M,1
+31092,Dean,Batchelor,M,1
+32474,Joe,Bays,M,1
+32648,Scott,Beach,M,1
+32842,Lightning,Bear,M,1
+32884,"Kevin (I)",Beard,M,1
+33024,Lou,"Beatty Jr.",M,1
+33582,"William (II)",Beck,M,1
+33865,Andy,Beckwith,M,1
+35463,Ned,Bellamy,M,1
+35741,Gil,Bellows,M,1
+36005,John,Belushi,M,1
+36390,Nat,Benchley,M,1
+36472,Lawrence,Bender,M,2
+36641,"Jay (I)",Benedict,M,2
+37040,"David (I)",Benn,M,1
+38306,"Jon (I)",Berg,M,1
+38626,"Loys T.",Bergeron,M,1
+38779,Jules,Bergman,M,1
+38973,"Scott Clark",Beringer,M,1
+39044,Xander,Berkeley,M,2
+39553,Jay,Bernard,M,1
+39860,Steve,Bernie,M,1
+41012,Doug,Beswick,M,1
+41156,Val,Bettin,M,1
+41200,Jack,Betts,M,1
+42278,Michael,Biehn,M,1
+42960,Stephen,Billington,M,1
+43791,"John (I)",Bishop,M,2
+43802,Larry,Bishop,M,1
+43842,"Stephen (I)",Bishop,M,1
+43899,John,Bisom,M,1
+43926,"Richard (II)",Bissell,M,1
+43967,Joel,Bissonnette,M,1
+44737,Abdul,Blackmanwest,M,1
+45134,Geoffrey,Blake,M,1
+45176,Matty,Blake,M,1
+45193,"Paul (II)",Blake,M,1
+45243,Don,Blakely,M,1
+46035,Andrew,Blesser,M,1
+46276,Bobby,Block,M,1
+46793,Stuart,Blumberg,M,1
+47366,Ben,Bode,M,1
+47448,Wolfgang,Bodison,M,1
+47548,Bain,Boehlke,M,1
+47858,Hale,Boggs,M,1
+48064,Bruce,Bohne,M,1
+48468,Bill,Bolender,M,2
+48630,Diedrich,Bollman,M,1
+49086,Josh,Bond,M,1
+49108,Rudy,Bond,M,1
+49661,Bruce,Bonnheim,M,1
+49922,Mark,"Boone Junior",M,2
+50085,"Tim (I)",Booth,M,1
+50561,"Eric Bruno",Borgman,M,1
+51588,Morne,Botes,M,1
+52396,Anderson,Bourell,M,1
+52913,David,Bowe,M,2
+52927,Douglass,"Bowen Flynn",M,1
+52941,Cameron,Bowen,M,1
+52978,"Michael (I)",Bowen,M,1
+53441,Cayden,Boyd,M,1
+54608,Eric,Braeden,M,1
+54620,Zach,Braff,M,1
+54814,Richard,Brake,M,1
+54888,Mark,Bramhall,M,1
+55108,Larry,Brandenburg,M,2
+55174,Marlon,Brando,M,1
+55263,Barry,Brandt,M,1
+55349,"Willy (I)",Brandt,M,1
+55702,Chuck,Brauchler,M,1
+55975,Garrett,Brawith,M,1
+56160,Walter,Breaux,M,1
+56369,Charles,Brehm,M,1
+56513,Ewen,Bremner,M,1
+57184,Leonid,Brezhnev,M,1
+57333,I.D.,Brickman,M,1
+57631,Richard,Bright,M,1
+57665,Paul,Brightwell,M,1
+57830,Johnny,Brink,M,1
+58327,"J. Paul",Broadhead,M,1
+58481,Stanley,Brock,M,1
+58566,Charley,Broderick,M,1
+58775,Josh,Brolin,M,1
+58871,Paul,Bronk,M,1
+59227,"Randy (I)",Brooks,M,1
+59323,Brian,Brophy,M,1
+59824,Clancy,Brown,M,1
+60384,"Phil (I)",Brown,M,1
+60612,"W. Earl",Brown,M,1
+61441,Jon,Bruno,M,1
+62520,Raymond,Buck,M,1
+62556,Jason,Buckham,M,1
+63432,Kim,Bullard,M,1
+63521,"Tom (V)",Bullock,M,1
+63695,Edward,Bunker,M,1
+63813,Cliff,Bura,M,1
+64724,Ted,Burnett,M,1
+64793,Alex,Burns,M,1
+65536,Steve,Buscemi,M,3
+65966,Michael,Butcher,M,1
+66328,Mike,Butters,M,1
+66495,Ezra,Buzzington,M,1
+66776,"Chris (I)",Byrne,M,1
+66791,Eddie,Byrne,M,1
+66825,"Michael (I)",Byrne,M,1
+67492,James,Caan,M,1
+67493,Scott,Caan,M,1
+67598,Charles,Cabell,M,1
+67599,Earle,Cabell,M,1
+67954,"John (I)",Cadenhead,M,1
+68048,Harry,Caesar,M,1
+68424,"Michael (I)",Caine,M,1
+68754,Paul,Calderon,M,1
+68858,Philip,Caldwell,M,1
+69186,Roger,Callard,M,1
+69902,Cody,Cameron,M,1
+69940,"James (I)",Cameron,M,1
+70137,Hamilton,Camp,M,1
+70282,"Bruce (I)",Campbell,M,1
+70588,Sol,Campbell,M,1
+70744,Bruno,Campolo,M,1
+71116,John,Candy,M,2
+71699,Mickey,Cantwell,M,1
+71767,"Jason Ninh",Cao,M,1
+72215,Mark,Capri,M,1
+72356,Paul,Carafotes,M,1
+73209,Chris,Carley,M,1
+73473,"Francis M.",Carlson,M,1
+73950,Liam,Carney,M,1
+74449,David,Carradine,M,2
+75195,Price,Carson,M,1
+75369,"Gary (I)",Carter,M,1
+76228,Nicholas,Cascone,M,1
+76443,"Aaron James",Cash,M,1
+76653,Marc,Cass,M,1
+76739,Vincent,Cassel,M,1
+77118,"Richard S.",Castellano,M,1
+77617,"Fidel (I)",Castro,M,1
+78467,Frank,Cavestani,M,2
+78574,John,Cazale,M,1
+80345,Barry,Chambers,M,1
+81479,"John (V)",Chapman,M,1
+81486,"Kevin (I)",Chapman,M,1
+81499,"Mark Lindsay",Chapman,M,1
+82770,Don,Cheadle,M,1
+82887,Ken,Cheeseman,M,1
+84019,Peter,Cheyenne,M,1
+84199,Sonny,Chiba,M,1
+84795,Jimmy,Chisholm,M,1
+84902,Fred,Chiverton,M,1
+85253,Arnold,Chon,M,1
+85282,Marcus,Chong,M,1
+86167,Tory,Christopher,M,1
+86866,Carl,Ciarfalio,M,1
+86916,Jude,Ciccolella,M,1
+87502,Franco,Citti,M,1
+87969,"Eric (I)",Clark,M,1
+88262,"Spencer Treat",Clark,M,1
+88326,"William Paul",Clark,M,1
+88336,"Adam (I)",Clarke,M,1
+89087,Christian,Clemenson,M,1
+89558,George,Clooney,M,2
+90307,Hugo,Codaro,M,1
+91369,"Gary (I)",Cole,M,1
+91695,"Michael (XIII)",Coleman,M,1
+91835,Daniel,Coli,M,1
+92394,"Marty (II)",Collins,M,1
+92556,Frank,Collison,M,1
+92815,"Sydney 'Big Dawg'",Colston,M,1
+92907,Vance,"Colvig Jr.",M,1
+92931,Steven,Colvin,M,1
+93441,Tim,Condren,M,1
+93623,Jack,Conley,M,1
+93689,"John (I)",Connally,M,1
+93883,Brendan,Connolly,M,1
+93916,"Michael S.",Connolly,M,1
+94387,Richard,Conte,M,1
+94668,"Kevin (I)",Conway,M,1
+95037,"Gregory (I)",Cooke,M,1
+95298,"Christopher E.",Cooper,M,1
+95420,"John Sherman",Cooper,M,1
+95602,"Harold E.","Cope Jr.",M,1
+95622,"Zachary David",Cope,M,1
+95766,Barry,Copping,M,1
+95789,Carmine,Coppola,M,1
+95799,Gian-Carlo,Coppola,M,1
+96353,Charles,Cork,M,1
+96438,Roger,Corman,M,1
+97090,Salvatore,Corsitto,M,1
+97507,Ralph,Cosham,M,1
+97563,James,Cosmo,M,1
+97566,Tony,Cosmo,M,1
+98021,Kevin,Costner,M,1
+98103,Richard,Cotovsky,M,1
+99156,"Brian (I)",Cox,M,1
+99184,Darryl,Cox,M,1
+99325,Sidney,Cox,M,1
+99351,Willard,Cox,M,1
+99401,"Joe (I)",Coyle,M,1
+99597,Chris,Cragnotti,M,1
+99685,"John D.",Craig,M,1
+99941,"Simon (I)",Crane,M,1
+100044,"Matt (I)",Craven,M,1
+100230,"Thomas (I)",Crawford,M,1
+100257,Robert,Cray,M,1
+101230,Walter,Cronkite,M,2
+101233,David,Cronnelly,M,1
+101557,Trevor,Crouch,M,1
+101879,Tom,Cruise,M,2
+102758,Brett,Cullen,M,1
+102882,Joseph,Culp,M,1
+103007,Jim,Cummings,M,2
+103244,"James (I)",Cunningham,M,1
+103411,James,Curatola,M,1
+103548,Phill,Curr,M,1
+103728,"Tim (I)",Curry,M,1
+103769,Alfie,Curtis,M,1
+103985,Peter,Cushing,M,1
+105163,"Vincent (I)",D'Onofrio,M,1
+106131,Goro,Daimon,M,1
+106703,"Sam (I)",Dalton,M,1
+107068,Matt,Damon,M,1
+107285,Benjamin,Dane,M,1
+107524,Joshua,Daniel,M,1
+107609,Anthony,Daniels,M,1
+107687,J.D.,Daniels,M,1
+108006,Cesare,Danova,M,1
+109023,James,Daughton,M,1
+109357,"Elwin 'Chopper'",David,M,1
+109823,"John (IV)",Davies,M,1
+109892,"Robert (V)",Davies,M,1
+110268,"Gary Lee",Davis,M,1
+110563,Norman,Davis,M,1
+111129,J.C.,Day,M,1
+112303,Charles,"de Gaulle",M,1
+113187,Jesse,"De Luna",M,1
+114701,Tim,"De Zarn",M,1
+114899,Loren,Dean,M,1
+114951,Robertson,Dean,M,1
+115036,Dalton,Dearborn,M,1
+115652,Mickey,Dee,M,1
+116634,Benicio,"Del Toro",M,1
+116901,Michael,Delano,M,1
+116949,Brian,Delate,M,1
+117395,Charlie,Dell,M,1
+117653,Michael,DeLorenzo,M,1
+118247,"Martin (I)",Dempsey,M,1
+118282,Jeffrey,DeMunn,M,1
+118428,"Robert A.",Denham,M,1
+118548,Tony,Denman,M,1
+118569,Barry,Dennen,M,1
+118681,Peter,Dennis,M,1
+118957,"Eugene C.",DePasquale,M,1
+119276,Thomas,Derrah,M,1
+120124,William,Devane,M,1
+121418,Fraser,Diamond,M,1
+121453,"Peter (I)",Diamond,M,1
+121475,Warwick,Diamond,M,1
+121758,Leonardo,DiCaprio,M,1
+122803,"Paul (I)",Dillon,M,1
+123513,Douglas,Dirkson,M,1
+124607,Steve,Dodd,M,1
+124961,"Sean Patrick",Doherty,M,1
+125323,John,Doman,M,1
+125676,Ron,Donachie,M,1
+125700,Liam,Donaghy,M,1
+126086,Ray,Donn,M,1
+126469,Richard,Doone,M,1
+126550,Matt,Doran,M,1
+127373,"Al Manuel",Douglas,M,1
+127395,"Brad R.",Douglas,M,1
+127498,"Jerry (I)",Douglas,M,1
+127499,"Jerry (III)",Douglas,M,1
+127583,"Sam (I)",Douglas,M,1
+127836,Scott,Dow,M,1
+127881,Barry,Dowden,M,1
+128274,Brian,Doyle-Murray,M,1
+128379,Austin,Drage,M,1
+129545,François,"du Bois",M,1
+130410,Todd,Duffey,M,1
+130426,Shay,Duffin,M,1
+130918,"John (I)",Dullaghan,M,1
+130922,Allen,Dulles,M,1
+130991,"Jebidiah R.",Dumas,M,1
+131649,"Kevin (I)",Dunn,M,1
+131774,Martin,Dunne,M,1
+132506,Charles,Durning,M,1
+132963,"Robert (I)",Duvall,M,1
+132969,Wayne,Duvall,M,2
+133243,Dale,Dye,M,1
+134352,Martin,East,M,1
+134737,Rick,Eby,M,1
+134784,Freedom,Eche,M,1
+134973,James,Ecklund,M,1
+135144,"Steve (III)",Edelman,M,1
+135628,"Charles (VI)",Edwards,M,1
+136754,"Dwight D.",Eisenhower,M,1
+138172,"R. Bruce",Elliott,M,1
+138178,"Robert (II)",Elliott,M,1
+138258,"Chris (I)",Ellis,M,1
+138312,"Greg (II)",Ellis,M,1
+138351,"Jonathan D.",Ellis,M,1
+138982,James,Embree,M,1
+140049,Michael,Ensign,M,1
+140494,Ludwig,Erhard,M,1
+141094,Bill,Erwin,M,1
+141251,"Georg O.P.",Eschert,M,1
+141692,"Pablo (I)",Espinosa,M,1
+141883,Ato,Essandoh,M,1
+142943,Troy,Evans,M,1
+142962,Jonathan,Evans-Jones,M,1
+143022,"Wayne A.",Evenson,M,1
+144260,Blain,Fairman,M,1
+144555,"Anders (I)",Falk,M,1
+145053,Tim,Faraday,M,1
+145321,Dennis,Farina,M,1
+145529,Lonnie,Farmer,M,1
+145540,Reginald,Farmer,M,1
+145563,John,Farnell,M,1
+146642,Hugh,Feagin,M,1
+146792,John,Fedevich,M,1
+146916,Russ,Fega,M,1
+147343,José,Feliciano,M,1
+148581,"Jorge (II)",Fernández,M,1
+149274,Martin,Ferrero,M,1
+149545,John,Ferus,M,1
+150046,"Christopher John",Fields,M,2
+151186,"John (I)",Finnegan,M,1
+151200,"Michael W.",Finnell,M,1
+151331,"John C.",Fiore,M,1
+151533,Siegfried,Fischbacher,M,1
+151786,Laurence,Fishburne,M,2
+151893,"George (III)",Fisher,M,1
+152175,"Mark (I)",Fite,M,1
+152366,Shawn,Fitzgibbon,M,1
+152725,"Tommy (I)",Flanagan,M,1
+153139,Jason,Flemyng,M,1
+153207,Edward,Fletcher,M,1
+154245,Shawn,Fogarty,M,1
+154269,Adam,Fogerty,M,1
+154514,Gabriel,Folse,M,1
+154923,Jon,Foo,M,1
+155121,"Alan (I)",Ford,M,1
+155223,"Harrison (I)",Ford,M,1
+155472,Terry,Forestal,M,1
+155704,"Anthony (I)",Forrest,M,1
+155804,Grant,Forsberg,M,1
+155930,"Edmund Alan",Forsyth,M,1
+156020,Millford,Fortenberry,M,1
+156523,V.J.,Foster,M,1
+156939,"Bernard (I)",Fox,M,1
+157096,"Richard (I)",Fox,M,1
+157570,Christopher,Francis,M,1
+157680,Romeo,Francis,M,1
+158111,"Robert (IV)",Frank,M,1
+158125,Tony,Frank,M,1
+158347,Scott,Franklin,M,1
+159225,Alfonso,Freeman,M,1
+159290,Issac,Freeman,M,1
+159310,"John (III)",Freeman,M,1
+159346,"Morgan (I)",Freeman,M,2
+160178,Barry,Friedman,M,1
+161529,"Takashi (I)",Fujii,M,1
+162318,Stephen,Furst,M,1
+162721,Thomas,Füri,M,1
+163352,Ted,Gagliano,M,1
+163629,Corrado,Gaipa,M,1
+163807,Michael,Galasso,M,1
+163893,Ed,Gale,M,1
+163948,Johnny,Galecki,M,1
+164729,"John William",Galt,M,1
+165472,"David (I)",Gant,M,1
+165505,Mark,Gantt,M,1
+165721,Victor,Garber,M,1
+165825,"Andy (I)",Garcia,M,1
+166835,Jay,Gardner,M,1
+166901,Salo,Gardner,M,1
+167114,"Dave Zee",Garison,M,1
+167468,"James (IV)",Garrett,M,1
+167625,"Jim (I)",Garrison,M,1
+167973,Quinn,Gasaway,M,1
+168574,James,Gaulke,M,1
+168906,Steve,Gawley,M,1
+169238,Anthony,Geary,M,1
+169408,Robbie,Gee,M,1
+169704,Bruce,Gelb,M,1
+171349,Leo,Geter,M,1
+171524,John,Ghaly,M,1
+171937,Sam,Giancana,M,1
+172359,Donal,Gibson,M,1
+172424,"Mel (I)",Gibson,M,1
+172617,Alec,Gifford,M,1
+172669,Werner,Giger,M,1
+172814,Peter,Gil,M,1
+172915,Ed,Gilbert,M,1
+172927,"Gary (I)",Gilbert,M,1
+173008,"Ron (I)",Gilbert,M,1
+173104,Michael,Gilden,M,1
+173761,Roswell,Gilpatric,M,1
+174206,"Tony (I)",Giorgio,M,1
+174382,Michael,Girardin,M,1
+174704,Neil,Giuntoli,M,1
+175000,Gil,Glasgow,M,1
+175268,Brendan,Gleeson,M,1
+175696,Herbert,Glucksman,M,1
+175853,Barry,Gnome,M,1
+176042,"Paul (I)",Goddard,M,1
+176421,Rusty,Goffe,M,1
+176918,Erwin,Goldi,M,1
+177746,Matthew,Gonder,M,1
+178678,"Matthew Michael",Goodall,M,1
+178682,Taylor,Goodall,M,1
+178720,Dwight,Gooden,M,1
+178761,Cuba,"Gooding Jr.",M,1
+178861,"John (I)",Goodman,M,1
+180149,Thom,"Gossom Jr.",M,1
+180448,Jim,Gough,M,1
+180512,Bill,Gould,M,1
+180540,Elliott,Gould,M,1
+180543,Geoffrey,Gould,M,1
+180650,Anthony,Gounaris,M,1
+181071,Topher,Grace,M,1
+181392,Gerrit,Graham,M,1
+181486,"Richard (I)",Graham,M,1
+181512,"Stephen (I)",Graham,M,1
+181749,Isaac,Grand,M,1
+182820,Marc,Gray,M,1
+182947,Kenneth,Graymez,M,1
+183405,Ivan,Green,M,1
+183829,Gordon,Greene,M,1
+183894,"Peter (I)",Greene,M,1
+184031,Rick,Greenough,M,1
+184173,"Kevin Scott",Greer,M,1
+184188,"William (II)",Greer,M,1
+184634,Zach,Grenier,M,1
+184670,Googy,Gress,M,1
+184753,Duane,Grey,M,1
+185071,"Laurence R.",Griffin,M,1
+185657,"Joe Lo",Grippo,M,1
+185823,"Robert J.",Groden,M,1
+185836,Max,Grodénchik,M,1
+185960,Andrei,Gromyko,M,1
+186293,Sonny,Grosso,M,1
+186528,Gary,Grubbs,M,1
+186652,Ioan,Gruffudd,M,1
+186688,Greg,Grunberg,M,1
+187811,Christopher,Guest,M,1
+188411,Alec,Guinness,M,1
+188463,Tom,Guiry,M,1
+188640,Sean,Gullette,M,1
+189012,Bob,Gunton,M,2
+189147,Michael,Gurievsky,M,1
+189341,Louis,Guss,M,1
+191424,Buddy,Hackett,M,1
+192018,Paul,Haggar,M,1
+192106,Nik,Hagler,M,1
+192139,Garrick,Hagon,M,1
+192290,Sid,Haig,M,1
+192874,Robert,Haley,M,1
+193175,"Jack (V)",Hall,M,1
+193293,"Nelson (I)",Hall,M,1
+193682,"Todd (I)",Hallowell,M,1
+193699,"Eldon G.",Hallum,M,1
+193995,Craig,Hamann,M,1
+194181,"Mark (I)",Hamill,M,2
+194465,Robert,Hamlett,M,1
+195126,Ari,Handel,M,1
+195384,Larry,Hankin,M,1
+195428,Tom,Hanks,M,1
+195497,Peter,Hanly,M,1
+195778,"Barry (II)",Hansen,M,1
+196459,Nigel,Harbach,M,1
+196754,Reg,Harding,M,1
+197019,Bobby,Hargis,M,1
+197172,John,Harlan,M,1
+197630,"James N.",Harrell,M,1
+197798,"Alan (III)",Harris,M,1
+197824,Baxter,Harris,M,1
+197929,"Ed (I)",Harris,M,1
+198505,"Robert F.",Harrison,M,1
+198544,Todd,Harrison,M,1
+199768,Lorenz,Hasler,M,1
+199843,Tamer,Hassan,M,1
+200155,"John (I)",Hathaway,M,1
+200269,Yasuhiko,Hattori,M,1
+200331,Ben,Hauck,M,1
+200362,Rutger,Hauer,M,1
+200375,Alan,Haufrect,M,1
+200896,Jakob,Hawkins,M,1
+201013,Phil,Hawn,M,1
+201146,Fumihiro,Hayashi,M,1
+201256,Sterling,Hayden,M,1
+202366,David,Hecht,M,1
+202412,"Gary A.",Hecker,M,1
+204119,"Don (II)",Henderson,M,1
+204475,Drewe,Henley,M,1
+204493,Christopher,Henn,M,1
+204719,Lance,Henriksen,M,1
+205055,Frank,Henson,M,1
+205106,"Andrew J.",Hentz,M,1
+205287,"Paul (IV)",Herbert,M,1
+205392,"Richard (I)",Herd,M,1
+205567,"David (I)",Herman,M,1
+205634,Stanley,Herman,M,1
+205863,"Jorge R.",Hernandez,M,1
+206644,Miles,Herter,M,1
+206648,"Harold G.",Herthum,M,1
+207426,Stephen,Hibbert,M,1
+208287,Bernard,Hill,M,1
+208323,Clint,Hill,M,1
+209006,Scott,Hinds,M,1
+209729,Scott,Hislop,M,1
+210144,Sid,Hoare,M,1
+210153,"Jerome Patrick",Hoban,M,1
+210799,Jimmy,Hoffa,M,1
+210962,"Robert (X)",Hoffman,M,1
+211557,"Larry (I)",Holden,M,2
+211741,Ryan,Holihan,M,1
+211832,Erik,Holland,M,1
+212283,Ian,Holm,M,1
+212771,"David (III)",Holt,M,1
+213555,William,Hootkins,M,1
+213580,"J. Edgar",Hoover,M,1
+213646,William,Hope,M,1
+213832,Tim,Hopper,M,1
+214094,Roy,Horn,M,1
+214150,J.R.,Horne,M,1
+214412,Bernard,Horsfall,M,1
+214502,"John (II)",Horton,M,1
+214973,Andrew,Houghton,M,1
+215190,Gary,Houston,M,1
+215312,Michael,Hovinga,M,1
+215331,Keith,How,M,1
+215405,Clint,Howard,M,1
+215493,"Jeff (VII)",Howard,M,1
+215595,Rance,Howard,M,1
+215640,"Tom (II)",Howard,M,1
+215780,"Arthur (II)",Howell,M,1
+216347,Xiaohui,Hu,M,1
+216473,Martin,Hub,M,1
+216951,Zach,Hudson,M,1
+217399,"Michael (VII)",Hughes,M,1
+217405,Miko,Hughes,M,1
+217663,Tom,Hulce,M,1
+217669,Endre,Hules,M,1
+217950,"Hubert H.",Humphrey,M,1
+218133,Bob,Hungerford,M,1
+219643,Jonathan,Hyde,M,1
+220339,Peter,Iacangelo,M,1
+220634,Luis,Icaza,M,1
+221162,Yumi,Ikeda,M,1
+221431,Tommy,Ilsley,M,1
+221889,Angelo,Infanti,M,1
+222947,Ronald,Isaac,M,1
+223383,J.C.,Islander,M,1
+224034,George,Ivey,M,1
+224682,"Doug (I)",Jackson,M,1
+224799,"Jesse (I)",Jackson,M,1
+224819,"John M.",Jackson,M,1
+224828,Joshua,Jackson,M,1
+224852,"Kyle Scott",Jackson,M,1
+224998,"Ron (I)",Jackson,M,1
+225014,"Samuel L.",Jackson,M,2
+226351,Emmett,James,M,1
+226391,"Grant (I)",James,M,1
+226488,Lennie,James,M,1
+227732,Gabriel,Jarret,M,1
+227836,Martin,Jarvis,M,1
+228167,Steve,Jay,M,1
+228435,Herb,"Jefferson Jr.",M,1
+228721,Eddie,Jemison,M,1
+229140,"David (II)",Jensen,M,1
+229667,DeWayne,Jessie,M,1
+230490,Darren,Joel,M,1
+230528,Rudy,Joffroy,M,1
+231223,"Chris (IV)",Johnson,M,1
+231719,"Lyndon (I)",Johnson,M,1
+232111,"William (I)",Johnson,M,1
+232212,J.J.,Johnston,M,1
+232234,"Joe (I)",Johnston,M,1
+233082,"James Earl",Jones,M,1
+233163,"John Randolph",Jones,M,1
+233402,Orlando,Jones,M,1
+233574,"Seth Adam",Jones,M,1
+233656,"Tommy Lee",Jones,M,1
+233693,Vinnie,Jones,M,1
+234067,Oscar,Jordan,M,1
+234872,"John (IX)",Joyce,M,1
+235073,"John (III)",Judd,M,1
+235110,"Mike (I)",Judge,M,1
+235260,Chuck,Julian,M,1
+240277,Daniel,Kash,M,1
+241342,"John (I)",Kavanagh,M,1
+241542,"Hiroshi (I)",Kawashima,M,1
+241719,Joe,Kaye,M,1
+241906,John,Kazek,M,1
+242102,Charlie,Kearns,M,1
+242176,Ryan,Keating,M,1
+242646,Michael,Kehoe,M,1
+242760,Harvey,Keitel,M,2
+242845,"Warren (I)",Keith,M,1
+242968,J.D.,Kelleher,M,1
+243104,Roy,Kellerman,M,1
+243306,"Craig (II)",Kelly,M,1
+243383,"George (II)",Kelly,M,1
+243428,"Jason (III)",Kelly,M,1
+243490,M.G.,Kelly,M,1
+243553,"Phil (I)",Kelly,M,1
+243869,Ken,Kemp,M,1
+243897,"Tom (I)",Kemp,M,1
+243963,Victor,Kempster,M,1
+244175,John,"Kennedy Jr.",M,1
+244292,"John F.",Kennedy,M,1
+244298,"Joseph P.",Kennedy,M,1
+244351,"Mike (VI)",Kennedy,M,1
+244368,"Paul (I)",Kennedy,M,1
+244402,"Robert F.",Kennedy,M,1
+244421,T.J.,Kennedy,M,1
+244423,"Ted (I)",Kennedy,M,1
+244497,Douglas,Kenney,M,1
+244575,"Tony (I)",Kenny,M,1
+244787,Jimmy,Keogh,M,1
+244826,John,Kepley,M,1
+245499,"Alan R.",Kessler,M,1
+246659,Nikita,Khrushchev,M,1
+247608,"Joon B.",Kim,M,1
+248284,"Chris Thomas",King,M,1
+248525,"Martin Luther",King,M,1
+248904,"Jari (I)",Kinnunen,M,1
+249760,James,Kisicki,M,1
+249940,Kazuki,Kitamura,M,1
+249944,Nobuhiko,Kitamura,M,1
+250001,"Colin Michael",Kitchens,M,1
+250025,Nao,Kitman,M,1
+250281,Jack,Klaff,M,1
+251175,Vladimir,Klitschko,M,1
+251351,Jeffrey,Kluger,M,1
+251881,"Travis (I)",Knight,M,1
+251891,"Wayne (I)",Knight,M,1
+251911,Christopher,Knights,M,1
+253952,Ryo,Kondo,M,1
+254667,Tommy,Kordick,M,1
+255239,Christopher,Kosiciuk,M,1
+256240,"Edward (I)",Kowalczyk,M,1
+256402,Mark,Kozelek,M,1
+256972,Charlie,Kranz,M,1
+258441,Scott,Krueger,M,1
+259004,Mark,Kubiak,M,1
+260069,Jun,Kunimura,M,1
+260427,Michael,Kuroiwa,M,1
+260737,Naomi,Kusumi,M,1
+261960,Joe,"La Due",M,1
+262141,Charles,"La Russa",M,1
+263645,"Martin (I)",Laing,M,1
+264162,Phil,LaMarr,M,1
+264716,Jim,Lampley,M,1
+264813,James,Lancaster,M,1
+265558,Anthony,Lang,M,1
+265918,"Odin K.",Langford,M,1
+266236,"Edward G.",Lansdale,M,1
+266368,Rob,Lanza,M,1
+267122,John,Larroquette,M,1
+267297,William,Larsen,M,1
+268301,"John (I)",Laughlin,M,1
+269124,Peter,Lawford,M,1
+269196,Sean,Lawlor,M,1
+269326,"Harry (I)",Lawrence,M,1
+269401,"Matthew (I)",Lawrence,M,1
+269453,"Steve (I)",Lawrence,M,1
+269536,Denis,Lawson,M,1
+270444,Derek,Lea,M,1
+270527,Richard,Leaf,M,1
+271316,Bernard,Ledger,M,1
+271396,Nathaniel,"Lee Jr.",M,1
+271849,"Jason (I)",Lee,M,1
+272379,"Tommy (VI)",Lee,M,1
+272456,Zachary,Lee,M,1
+272557,John,Lees,M,1
+272703,Tim,Leffman,M,1
+272853,David,Legeno,M,2
+272971,Adam,LeGrant,M,1
+273276,Ron,Leibman,M,1
+273506,David,Leitch,M,1
+273819,Curtis,LeMay,M,1
+273956,Jack,Lemmon,M,1
+274282,"Thomas (III)",Lennon,M,1
+274881,Richard,LeParmentier,M,1
+274897,Ray,LePere,M,1
+275713,Jared,Leto,M,1
+275761,Al,Lettieri,M,1
+275842,"Ken (I)",Leung,M,1
+276083,Jay,Levey,M,1
+276920,Gus,Lewis,M,1
+277029,Lennox,Lewis,M,1
+277250,David,Lewison,M,1
+277813,Brian,Libby,M,1
+278406,Richard,Lifschutz,M,1
+278501,Michael,Lightsey,M,1
+279222,Chandler,Lindauer,M,1
+279903,Van,Ling,M,1
+280303,Jeff,Lipman,M,1
+280383,Andrew,Lipschultz,M,1
+280540,Gaetano,Lisi,M,1
+280561,Laine,Liska,M,1
+280713,John,Lithgow,M,2
+280984,"Chia Hui",Liu,M,2
+281238,Ron,Livingston,M,1
+281243,"Tyrone R.",Livingston,M,1
+282065,"John (II)",Locke,M,1
+282244,"Henry Cabot",Lodge,M,1
+282610,Spain,Logue,M,1
+282845,"David S.",Lomax,M,1
+283456,Mike,Longman,M,1
+283561,Shep,Lonsdale,M,1
+283663,Dean,Lopata,M,1
+284337,"Scotch Ellis",Loring,M,2
+284742,Jonathan,Loughran,M,1
+284829,Todd,Louiso,M,1
+285134,Jim,Lovell,M,1
+285368,Lawrence,Lowe,M,1
+287087,Patrice,Lumumba,M,1
+287224,Morgan,Lund,M,1
+287321,"Jacob Neal",Lunders,M,1
+288254,Will,Lyman,M,1
+288312,"Don (II)",Lynch,M,1
+288354,"John Carroll",Lynch,M,1
+288752,Austin,Lysy,M,1
+288772,"K. Todd",Lytle,M,1
+289830,Bernie,Mac,M,1
+289909,"James (I)",MacArthur,M,1
+290194,"Ryan (I)",MacDonald,M,1
+290329,Frank,Macetta,M,1
+290341,Angus,Macfadyen,M,1
+290708,Angus,MacInnes,M,1
+290848,"Kevin Scott",Mack,M,1
+291110,Andrew,Mackin,M,1
+291564,"William H.",Macy,M,1
+292028,"Michael (I)",Madsen,M,3
+292379,Ken,Magee,M,1
+292742,Augusto,Magoni,M,1
+292815,George,Maguire,M,1
+293066,Kabir,Mahjoori,M,1
+293993,Jun,Maki,M,1
+294667,Joshua,Malina,M,1
+295164,"Peter (I)",Maloney,M,1
+295515,Method,Man,M,1
+296048,Alf,Mangan,M,1
+296549,"Scott (I)",Mann,M,1
+296907,J.P.,Manoux,M,1
+296955,Clint,Mansell,M,1
+297105,Paul,Mantee,M,1
+297473,William,Mapother,M,1
+297612,Adam,Maras,M,1
+297613,Bob,Maras,M,1
+298555,Noah,Margetts,M,1
+298615,Mark,Margolis,M,1
+298874,Jason,Marin,M,1
+299076,Nicholas,Marino,M,1
+299436,Brian,Markinson,M,1
+299756,Ben,Marley,M,1
+299764,John,Marley,M,1
+299922,Akaji,Maro,M,1
+300405,Kenneth,Mars,M,1
+300498,"Charles (II)",Marsh,M,1
+300701,"James (I)",Marshall,M,1
+300784,"Robert (II)",Marshall,M,1
+301208,B.J.,Martin,M,1
+301244,"Brad (I)",Martin,M,1
+301555,"John C.",Martin,M,1
+301563,"Johnny (I)",Martin,M,1
+301810,"Steve (I)",Martin,M,1
+302252,Lou,"Martini Jr.",M,1
+302307,Al,Martino,M,1
+302319,"John (I)",Martino,M,1
+304444,Owen,Masterson,M,1
+304920,"Tim (I)",Matheson,M,1
+304966,"John M.",Mathews,M,2
+305678,Walter,Matthau,M,1
+305705,Al,Matthews,M,1
+306573,Brad,Mavis,M,1
+306623,James,Mawhinney,M,1
+306790,"Paul (I)",Maxwell,M,1
+306942,"Seth Michael",May,M,1
+307200,"Peter (II)",Mayhew,M,1
+307236,"Jeff (I)",Maynard,M,1
+307547,Stan,Mazin,M,1
+308329,Holt,McCallany,M,1
+308366,"Rick (I)",McCallum,M,1
+308540,"Eugene (III)",McCarthy,M,1
+308572,"Kevin (I)",McCarthy,M,1
+308631,"Sean (I)",McCartin,M,1
+308971,"John J.",McCloy,M,1
+309010,"Marc (I)",McClure,M,1
+309156,"John (I)",McConnell,M,1
+309251,"J. Patrick",McCormack,M,1
+309501,Paul,McCrane,M,1
+309571,Alex,McCrindle,M,1
+309697,Grant,McCune,M,1
+310030,"Mac (I)",McDonald,M,1
+310474,"Colin (I)",McFarlane,M,1
+310708,Bruce,McGill,M,1
+310765,"John C.",McGinley,M,1
+310769,Sean,McGinley,M,1
+310781,Russ,McGinn,M,1
+310868,Patrick,McGoohan,M,1
+310883,Barry,McGovern,M,1
+310903,"Michael (I)",McGovern,M,1
+311597,Tim,McIntyre,M,1
+311663,"David (II)",McKay,M,1
+311756,Michael,McKean,M,1
+311828,Mark,McKeel,M,1
+312231,Ray,McKinnon,M,2
+312299,Rod,McKuen,M,1
+312623,Errol,McLendon,M,1
+312773,Liam,McMahon,M,1
+312806,"Don (I)",McManus,M,1
+312961,Patrick,McMullen,M,1
+313126,"Pat (I)",McNamara,M,1
+313131,"Robert (I)",McNamara,M,1
+313569,"Michael (I)",McShane,M,1
+313583,Gerard,McSorley,M,1
+313916,Nick,Meaney,M,1
+313930,Randy,Means,M,1
+313969,Dean,Measor,M,1
+314365,Frank,Medrano,M,1
+315810,Larry,Melton,M,1
+316965,Larry,Merchant,M,1
+317829,Jim,Meskimen,M,1
+318099,Mark,Metcalf,M,1
+318673,"Eric (II)",Meyers,M,1
+318718,Rusty,Meyers,M,1
+318797,Lou,Meza,M,1
+319724,Patrick,Mickler,M,1
+319795,Clark,Middleton,M,1
+319868,Hikaru,Midorikawa,M,1
+320748,Andy,Milder,M,1
+320846,Mack,Miles,M,1
+320960,Tomas,Milian,M,1
+321300,"Chris (III)",Miller,M,1
+321301,"Chris (VII)",Miller,M,1
+321383,"Dick (I)",Miller,M,1
+321731,"Matt (II)",Miller,M,1
+322384,Zeke,Mills,M,1
+322781,Kazuyoshi,Minamimagoe,M,1
+323181,Willie,Minor,M,1
+323403,Evan,Mirand,M,1
+324334,"Red (II)",Mitchell,M,1
+325101,"Robert (I)",Mobbs,M,1
+325748,John,Moio,M,1
+327340,Lenny,Montana,M,1
+327456,Sal,Monte,M,1
+328248,Jeff,Moon,M,1
+328405,Bennie,Moore,M,1
+330833,Yoshiyuki,Morishita,M,1
+332260,"Ryan B.",Moschetti,M,1
+332724,Mohammed,Mossadegh,M,1
+332893,Akira,Motomura,M,1
+334370,Peter,Mullan,M,1
+335034,Jan,Munroe,M,2
+335368,Bill,Murdoch,M,1
+335617,Cillian,Murphy,M,1
+335657,"Eddie (I)",Murphy,M,1
+335689,"Gerard (II)",Murphy,M,1
+335791,"Martin (I)",Murphy,M,1
+335829,"Patrick (IV)",Murphy,M,1
+335955,"Bill (I)",Murray,M,1
+336279,John,Murtagh,M,1
+336283,James,Murtaugh,M,1
+337097,Mike,Myers,M,1
+338314,Joseph,Nadell,M,1
+338797,Ajay,Naidu,M,2
+338938,Tetsuro,Naka,M,1
+339292,Kanako,Nakazato,M,1
+339994,Akimitsu,Naruyama,M,1
+340538,Geoffrey,Nauffts,M,1
+341012,Larry,Nazimek,M,1
+341134,Edwin,Neal,M,1
+341480,Liam,Neeson,M,1
+341916,"Adam (I)",Nelson,M,1
+341985,"Christopher Allen",Nelson,M,2
+341991,Clifford,Nelson,M,1
+342248,"Sandy (II)",Nelson,M,1
+342280,"Tim Blake",Nelson,M,1
+342443,Sean,Nepita,M,1
+342939,Larry,"Neumann Jr.",M,1
+343346,"Ron (I)",Newell,M,1
+343482,"John M.",Newman,M,1
+343502,"Mark D.",Newman,M,1
+343714,Wayne,Newton,M,1
+343930,"Dinh Diem",Ngo,M,1
+344454,Jack,Nicholson,M,1
+346233,Daniel,Niswander,M,1
+346397,Richard,Nixon,M,1
+346988,"Paul L.",Nolan,M,1
+347118,Kunichi,Nomura,M,1
+347754,Lance,Norris,M,1
+347922,Alex,Norton,M,1
+347943,"Edward (I)",Norton,M,1
+348858,Danny,Nucci,M,1
+349878,Paul,O'Boyle,M,1
+349905,"Patrick (I)",O'Brian,M,1
+349915,Austin,O'Brien,M,1
+349941,Conan,O'Brien,M,1
+350069,Niall,O'Brien,M,1
+350285,Ruary,O'Connell,M,1
+350358,"David (I)",O'Connor,M,1
+350741,Conor,O'Farrell,M,1
+350889,"David (I)",O'Hara,M,1
+350939,Denis,O'Hare,M,1
+350997,Ed,O'Keefe,M,1
+351075,Jer,O'Leary,M,1
+351253,"Mike (II)",O'Neal,M,1
+351274,Stephen,"O'Neil Martin",M,1
+352931,Kenji,Ohba,M,1
+353175,Yuji,Okabe,M,1
+353656,Gary,Oldman,M,2
+354484,"Bjørn (I)",Olsen,M,1
+354791,Willem,Oltmans,M,1
+356562,Louis,Ortiz,M,1
+356699,Bob,Orwig,M,1
+357320,Ron,Ostrow,M,1
+358426,Kevin,Owers,M,1
+358535,Michael,Ozag,M,1
+358555,Robert,Ozasky,M,1
+358968,Al,Pacino,M,1
+358984,Gene,Pack,M,1
+359448,Oliver,Page,M,1
+359477,"T. Bruce",Page,M,1
+359632,"Shah Mohammed Reza",Pahlavi,M,1
+360502,"Gary (I)",Palmer,M,1
+360793,Lew,Palter,M,1
+361482,Joe,Pantoliano,M,2
+361582,Connor,Paolo,M,1

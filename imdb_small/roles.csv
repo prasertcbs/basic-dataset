@@ -1,0 +1,1001 @@
+actor_id,movie_id,role
+933,333856,"Lewis Bodine"
+2547,300229,"Duloc Mascot"
+2700,306032,Tyrone
+2898,333856,"Slovakian three-year-old boy"
+2925,192017,"Additional Voices"
+3226,238072,"Virgil Malloy"
+4306,194874,"Mr. Valentine"
+4856,194874,Hans
+6005,167324,"Maitre D'"
+6990,30959,"Shadow Warrior"
+7124,238072,"Police Officer"
+7817,267038,"Dead Floyd Wilson"
+7979,18979,Anchor
+8161,194874,"American Businessman #2"
+8409,238072,"French High Roller"
+8412,238072,Guard
+8426,238072,"Eddie, the High Roller Pit Bo"
+9184,147603,Dad
+9275,18979,"Mission Controller"
+11489,297838,"Haig (head bull)"
+11547,167324,"Himself (glances at Maxwell T"
+11590,109093,"Victim in the Field"
+11865,333856,"Lookout Fredrick Fleet"
+12043,333856,"Steerage dancer"
+12508,18979,"Pete Conrad"
+12508,112290,Thomas
+12987,192017,"Additional Voices"
+13553,30959,"Shadow Warrior"
+14741,237431,"Man with Bullhorn"
+14973,207992,Apoc
+15068,167324,Angelo
+15854,124110,"Karl Benson"
+15921,300229,"Merry Man"
+16669,46169,Mornay
+16791,18979,Himself
+16844,10920,Lydecker
+17326,254943,"Man Delivering Suitcase"
+17433,267038,"Man #4"
+17438,112290,Intern
+17946,112290,"BMW Salesman"
+18534,313459,"Gold Five"
+18638,333856,"Carpenter John Hutchinson"
+18826,167324,"Guy Bannister"
+19123,207992,Rhineheart
+19873,192017,Louis
+20565,313459,"Boba Fett (special edition)"
+21959,194874,Concierge
+22188,297838,Con
+22262,314965,"Train Station Cop #1"
+22489,124110,"Man Having Sex"
+22591,17173,"Chip Diller"
+22591,18979,"Jack Swigert"
+22591,111813,"Capt. Jack Ross"
+22591,116907,"Ren McCormack"
+22591,147603,"Sebastian Caine"
+22591,167324,"Willie O'Keefe"
+22591,224842,"Sean Devine"
+22591,257264,"Taxi racer"
+22591,314965,"Tom Witzky"
+22669,237431,"George "Babyface" Nelson"
+22723,238695,Lawrence
+23488,112290,Ricky
+24164,257264,Owen
+24298,313459,R2-D2
+24389,313459,"Cantina alien"
+24660,192017,Atina
+25103,30959,"Bruce Wayne/Batman"
+25293,207992,Businessman
+25743,276217,"Marvin Nash"
+26018,109093,"Bismarck Cop #2"
+26409,46169,"The Leper, Robert Bruce Sr."
+28218,192017,Eric
+28510,167324,"Irvin F. Dymond"
+29603,333856,"Tommy Ryan"
+29686,18979,Orderly
+30298,344203,"Noodles MacIntosh"
+31092,306032,Waterboy
+32474,238695,"Dom Portwood"
+32648,313459,Stormtrooper
+32842,313459,Stormtrooper
+32884,167324,
+33024,112290,"Cop at Marla's Building"
+33582,306032,Neil
+33865,306032,Errol
+35463,297838,"Youngblood (guard)"
+35741,297838,"Tommy Williams, Inmate 46419"
+36005,17173,"John 'Bluto' Blutarsky"
+36390,256630,"Townspeople 4"
+36472,267038,"Long-Hair Yuppie Scum/"Zorro""
+36472,276217,"Young cop (also radio play ba"
+36641,10920,"Russ Jorden"
+36641,313459,Deak
+37040,167324,"Kenny O'Donnell (credited on "
+38306,313459,"Cantina alien"
+38626,167324,"Jury Foreman"
+38779,18979,"Himself - ABC News"
+38973,238072,"Head Goon"
+39044,18979,"Henry Hurt"
+39044,111813,"Capt. Whitaker"
+39553,116907,Harvey
+39860,18979,"Virgil Grissom"
+41012,313459,"Cantina alien"
+41156,300229,Bishop
+41200,238695,Judge
+42278,10920,"Cpl. Dwayne Hicks"
+42960,46169,Phillip
+43791,18979,Protester
+43791,116907,Elvis
+43802,176712,"Larry Gomez"
+43842,17173,"Charming guy with guitar"
+43899,300229,"Merry Man"
+43926,167324,"HImself (CIA)"
+43967,112290,"Food Court Maitre'd"
+44737,30959,"Court Reporter"
+45134,18979,"GUIDO Gold"
+45176,224842,"Cop in park"
+45193,313459,Greedo
+45243,267038,"Wilson's trainer"
+46035,224842,Sibling
+46276,300229,"Baby Bear"
+46793,112290,"Car Salesman"
+47366,18979,"INCO Gold"
+47448,111813,"Lance Cpl. Harold W. Dawson"
+47548,109093,"Mr. Mohra"
+47858,167324,"Himself (Warren Commission)"
+48064,109093,Lou
+48468,167324,"Prisoner Powell"
+48468,297838,"Elmo Blatch"
+48630,194874,"German Hotel Guest"
+49086,238695,"Initech Security Guard"
+49108,130128,"Ottilio Cuneo"
+49661,17173,B.B.
+49922,30959,
+49922,210511,"Burt Hadley"
+50085,30959,Thug
+50561,224842,"Murder scene spectator"
+51588,30959,Clubber
+52396,112290,"Bruised Bar Patron #1"
+52913,111813,"Cdr. Gibbs"
+52913,344203,Bob
+52927,224842,"Cop at barricade"
+52941,224842,"Young Dave"
+52978,176711,Buck
+53441,224842,"Michael Boyle"
+54608,333856,"Col. John Jacob Astor IV"
+54620,124110,"Andrew Largeman"
+54814,30959,"Joe Chill"
+54888,350424,Sneezy
+55108,109093,"Stan Grossman"
+55108,297838,Skeet
+55174,130128,"Don Vito Corleone"
+55263,238072,"Technician #1"
+55349,167324,"Himself (with JFK in Berlin)"
+55702,297838,"Man missing guard"
+55975,256630,Marine
+56160,167324,"Vernon Bundy"
+56369,167324,"Himself (in Zapruder, Muchmor"
+56513,306032,Mullet
+57184,167324,"Himself (behind Khrushchev)"
+57333,167324,"Dr. Peters"
+57631,130128,"Al Neri"
+57665,333856,"Quartermaster Robert Hitchens"
+57830,167324,"Roy Truly (credited on Direct"
+58327,116907,"Mayor Dooley"
+58481,344203,"Uncle Harvey"
+58566,224842,"Medical Examiner"
+58775,147603,"Matthew Kensington"
+58871,224842,Detective
+59227,276217,Holdaway
+59323,297838,"Parole hearings man (1967)"
+59824,297838,"Capt. Byron Hadley"
+60384,313459,"Uncle Owen"
+60612,350424,Barman
+61441,18979,Anchor
+62520,167324,"HImself (with JFK in Fort Wor"
+62556,306032,Gary
+63432,344203,"Band: Keyboard"
+63521,167324,"Pathologist #2"
+63695,276217,"Mr. Blue"
+63813,30959,"Shadow Warrior"
+64724,313459,Wuher
+64793,124110,Dave
+65536,109093,"Carl Showalter"
+65536,267038,"Buddy Holly"
+65536,276217,"Mr. Pink"
+65966,207992,"Cop Who Captures Neo"
+66328,333856,Musician/baker
+66495,112290,"Inspector Dent"
+66776,333856,"Stairwell steward"
+66791,313459,"General Willard"
+66825,46169,Smythe
+67492,130128,"Santino 'Sonny' Corleone"
+67493,238072,"Turk Malloy"
+67598,167324,"Himself (Deputy Director, CIA"
+67599,167324,"Himself (Dallas mayor)"
+67954,344203,"Crazy Ernie"
+68048,111813,Luther
+68424,30959,"Alfred Pennyworth"
+68754,267038,Paul
+68858,238072,"Man in Casino"
+69186,344203,"Conan the Librarian"
+69902,300229,"Pinocchio/Three Pigs"
+69940,333856,"Cameo appearance (steerage da"
+70137,192017,"Additional Voices"
+70282,109093,"Soap Opera Actor"
+70588,306032,Bouncer
+70744,333856,"Second-class man"
+71116,167324,"Dean Andrews"
+71116,257264,"Del Griffith"
+71699,306032,Liam
+71767,306032,Charlie
+72215,333856,"Steward #4"
+72356,112290,"Salvator - Winking Bartender"
+73209,124110,"Gleason Party Drunk"
+73473,344203,"Blind Man"
+73950,46169,Sean
+74449,176711,Bill
+74449,176712,"Bill AKA Snake Charmer"
+75195,167324,"Officer J.D. Tippet"
+75369,167324,"Bill Williams"
+76228,333856,"Bobby Buell"
+76443,333856,"Steerage dancer"
+76653,333856,"Hold steward #1"
+76739,300229,"Monsieur Hood"
+77118,130128,"Pete Clemenza"
+77617,167324,Himself
+78467,18979,Reporter
+78467,111813,"Agent #1"
+78574,130128,Fredo
+80345,167324,"Man at firing range"
+81479,313459,"Drifter (Red 12)"
+81486,224842,"Val Savage"
+81499,333856,"Chief Officer Henry T. Wilde"
+82770,238072,"Basher Tarr"
+82887,224842,"Dave's friend in bar"
+84019,254943,Brad
+84199,176711,"Hattori Hanzo"
+84795,46169,Faudron
+84902,46169,"The Leper's Caretaker"
+85253,256630,"Jack's crew member"
+85282,207992,Tank
+86167,18979,"Nasa Technician"
+86866,112290,"Lou's Body Guard"
+86916,297838,"Mert (guard)"
+87502,130128,Calo
+87969,267038,"James Dean"
+88262,224842,"Silent Ray Harris"
+88326,176712,"Soda Jerk"
+88336,344203,"Kid In Audience"
+89087,18979,"Dr. Chuck"
+89558,237431,Everett
+89558,238072,"Danny Ocean"
+90307,194874,"Aerobics Instructor"
+91369,238695,"Bill Lumbergh"
+91695,30959,Patron
+91835,46169,"York Captain"
+92394,350424,"Martini Waiter"
+92556,237431,"Wash Hogwallop"
+92815,112290,Speaker
+92907,344203,Bum
+92931,350424,Himself
+93441,313459,Stormtrooper
+93623,18979,"Science Reporter"
+93689,167324,Himself
+93883,333856,"Scotland Road steward"
+93916,18979,Reporter
+94387,130128,"Emilio Barzini"
+94668,224842,Theo
+95037,333856,"Chief Marconi Officer Jack Ph"
+95298,167324,"Bobby Fischer"
+95420,167324,"Himself (Warren Commission, b"
+95602,297838,"Hole guard"
+95622,314965,"Jake Witzky"
+95766,313459,Wioslea
+95789,130128,"Piano player in montage scene"
+95799,130128,"Baptism observer"
+96353,306032,Kestral
+96438,18979,Congressman
+97090,130128,"Amerigo Bonasera"
+97507,256630,"Townspeople 3"
+97563,46169,Campbell
+97566,276217,"Sheriff #3"
+98021,167324,"Jim Garrison"
+98103,314965,"Neighborhood Man"
+99156,46169,"Argyle Wallace"
+99184,167324,"FBI agent #2 with Hill"
+99325,237431,"Cox Family"
+99351,237431,"Cox Family"
+99401,238072,"Joseph Coyle, Security Office"
+99597,333856,"Victor Giglio"
+99685,297838,"Parole hearings ma (1957)"
+99941,333856,"Fourth Officer Joseph Boxhall"
+100044,111813,"Lt. Dave Spradling"
+100230,18979,Reporter
+100257,17173,"Bandmember, Otis Day and the "
+101230,18979,Himself
+101230,167324,"Himself (interviews JFK, anno"
+101233,333856,Crewman
+101557,306032,Doorman
+101879,111813,"Lt. Daniel Kaffee"
+101879,350424,"David Aames"
+102758,18979,"William 'Bill' Pogue, CAPCOM"
+102882,18979,"TELMU Gold"
+103007,192017,"Additional Voices"
+103007,300229,"Captain of Guards"
+103244,306032,"Horrible Man"
+103411,238072,"Baccarat Dealer"
+103548,30959,"Transit Cop"
+103728,192017,"Additional Voices"
+103769,313459,"Dr. Evazan"
+103985,313459,"Grand Moff Tarkin"
+105163,167324,"Bill Newman"
+106131,176711,"Boss Honda"
+106703,116907,"Mr. Gurntz"
+107068,238072,"Linus Caldwell"
+107285,167324,"Cop in Yellow Slicker"
+107524,17173,Mothball
+107609,313459,C-3PO
+107687,192017,"Additional Voices"
+108006,17173,"Mayor Carmine DePasto"
+109023,17173,"Greg Marmalard"
+109357,306032,Boxer
+109823,167324,"Hobo #2"
+109892,313459,"Cantina patron"
+110268,297838,Rooster
+110563,167324,"Col. Reich"
+111129,167324,"Himself (holds rifle aloft)"
+112303,167324,"Himself (leads dignitaries at"
+113187,238695,"Cop at Fire"
+114701,112290,"Inspector Bird"
+114899,18979,"John Aaron, EECOM Arthur"
+114951,350424,"Third Doctor"
+115036,167324,"Army General"
+115652,306032,"One Eyed Jack"
+116634,306032,"Franky Four Fingers"
+116901,238072,"Frank Walsh"
+116949,297838,"Dekins (guard)"
+117395,112290,Doorman
+117653,111813,"Pfc. William T. Santiago"
+118247,46169,"Drinker #1"
+118282,297838,"District Attorney (1946)"
+118428,313459,"Hrchek Kal Fas"
+118548,109093,"Scotty Lundegaard"
+118569,333856,"Praying man"
+118681,300229,"Ogre Hunter"
+118957,297838,"Mail caller"
+119276,224842,"Headstone salesman"
+120124,147603,"Dr. Howard Kramer"
+121418,313459,Jawa
+121453,313459,"Stormtrooper/Tusken Raider/De"
+121475,313459,Jawa
+121758,333856,"Jack Dawson"
+122803,112290,Irvin
+123513,116907,"Burlington Cranston"
+124607,207992,"Blind Man"
+124961,224842,"Boston cop"
+125323,224842,Driver
+125676,333856,"Master at Arms Joseph Bailey"
+125700,306032,"Pikey Kid #2"
+126086,30959,
+126469,297838,Convict
+126550,207992,Mouse
+127373,176712,"Marty Kitrosser"
+127395,224842,"Boston cop"
+127498,167324,"Board Room Man"
+127499,237431,"Dobro Player"
+127583,306032,Rosebud
+127836,224842,"Man at bar"
+127881,30959,"Det. Flass"
+128274,167324,"Jack Ruby"
+128379,306032,"Pikey Kid #1"
+129545,194874,"Sausalito Piano"
+130410,238695,"Brian, Chotchkie's Waiter"
+130426,333856,Pubkeeper
+130918,18979,Reporter
+130922,167324,"Himself (Director, CIA)"
+130991,17173,"Gigantic dude"
+131649,314965,"Frank McCarthy"
+131774,46169,"Lord Dolecroft"
+132506,237431,"Pappy O'Daniel"
+132963,130128,"Tom Hagen"
+132969,18979,"LEM Controller White"
+132969,237431,"Homer Stokes"
+133243,167324,"Gen. Y"
+134352,333856,"Lookout Reginald Lee"
+134737,17173,Omega
+134784,30959,Policeman
+134973,124110,"Bored Actor"
+135144,109093,"Morning Show Host"
+135628,30959,"Wayne Enterprises executive"
+136754,167324,"Himself (farewell address)"
+138172,167324,"Bolton Ford dealer"
+138178,17173,"Meaner dude"
+138258,18979,"Deke Slayton"
+138312,333856,"Carpathia steward"
+138351,30959,"Courthouse reporter"
+138982,30959,"League Of Shadows warrior"
+140049,333856,"Benjamin Guggenheim"
+140494,167324,"Himself (behind Haile Selassi"
+141094,257264,"Man on plane"
+141251,194874,"German Hotel Guest"
+141692,147603,"Warehouse Guard"
+141883,124110,Titembay
+142943,257264,Trucker
+142962,333856,"Wallace Hartley"
+143022,109093,Customer
+144260,10920,Doctor
+144555,333856,"Olaus Gunderson"
+145053,306032,Policeman
+145321,306032,"Cousin Abraham 'Avi' Denovitz"
+145529,224842,"Lab technician"
+145540,17173,"Meanest dude"
+145563,306032,"Bricktop's Henchman"
+146642,167324,"Dr. Rose (credited on Directo"
+146792,350424,"Silent Ed Vallencourt"
+146916,210511,Waiter
+147343,109093,Himself
+148581,167324,"Miguel Torres"
+149274,257264,"Motel clerk"
+149545,224842,Pedestrian
+150046,18979,"Booster White"
+150046,112290,"Proprietor of Dry Cleaners"
+151186,167324,"Judge Haggerty"
+151200,237431,Interrogator
+151331,238072,"Hotel Security"
+151533,238072,Himself
+151786,207992,Morpheus
+151786,224842,"Sgt. Whitey Powers"
+151893,344203,"Thug #4"
+152175,112290,"Second Man at Auto Shop"
+152366,224842,"Funeral director"
+152725,46169,Morrison
+153139,306032,Darren
+153207,333856,"Sixth Officer James Moody"
+154245,224842,"Murder scene spectator"
+154269,306032,"Gorgeous George"
+154514,238695,"Swanson's Patient #2"
+154923,30959,"Shadow Warrior"
+155121,306032,"Brick Top Polford"
+155223,313459,"Han Solo"
+155472,333856,"Chief Engineer Joseph Bell"
+155704,313459,Fixer
+155804,257264,"Brand manager"
+155930,333856,"Steerage dancer"
+156020,237431,"Pomade Vendor"
+156523,297838,"Hungry fish con"
+156939,333856,"Col. Archibald Gracie"
+157096,333856,"Steward #1"
+157570,237431,"KKK Member"
+157680,333856,"Syrian man"
+158111,344203,"Timid Man"
+158125,344203,"Teri's Father"
+158347,254943,"Transit Cop"
+159225,297838,"Fresh fish con"
+159290,237431,Gravedigger
+159310,17173,"Man on Street"
+159346,30959,"Lucius Fox"
+159346,297838,"Ellis Boyd 'Red' Redding"
+160178,344203,"Fletcher Cronie #1"
+161529,194874,"TV Host"
+162318,17173,"Kent 'Flounder' Dorfman"
+162721,333856,"Orchestra member"
+163352,313459,"Stormtrooper with Binoculars"
+163629,130128,"Don Tommasino"
+163807,300229,"Peter Pan"
+163893,237431,"The Little Man"
+163948,350424,"Peter Brown"
+164729,167324,"LBJ voice"
+165472,46169,"Royal Magistrate"
+165505,238072,Bartender
+165721,333856,"Thomas Andrews"
+165825,238072,"Terry Benedict"
+166835,344203,"Promo Announcer"
+166901,313459,"Cantina patron"
+167114,224842,"'75 police officer"
+167468,333856,"Titanic porter"
+167625,167324,"Chief Justice Earl Warren"
+167973,237431,"Boy Hogwallop"
+168574,109093,"State Trooper"
+168906,313459,"Death Star trooper"
+169238,344203,Philo
+169408,306032,Vincent
+169704,167324,"Board Room Man"
+171349,116907,Rich
+171524,30959,Cop
+171937,167324,"Himself (with sunglasses, whi"
+172359,46169,Stewart
+172424,46169,"William Wallace"
+172617,167324,"TV newsman #2"
+172669,333856,"Orchestra member"
+172814,256630,"Townspeople 2"
+172915,192017,"Additional Voices"
+172927,124110,"Young Hollywood Guy"
+173008,130128,"Usher in bridal party"
+173104,267038,"Phillip Morris page"
+173761,167324,"Himself (with LBJ and McNamar"
+174206,130128,"Bruno Tattaglia"
+174382,112290,"Detective Walker"
+174704,297838,"Jigger, Inmate 33105"
+175000,167324,"Tippet Shooter"
+175268,46169,"Hamish Campbell"
+175696,344203,Gorbachev
+175853,313459,Kabe
+176042,207992,"Agent Brown"
+176421,313459,"Kabe/Jawa/GONK Droid"
+176918,306032,"Bad Boy Lincoln"
+177746,300229,"Merry Man"
+178678,18979,"Stephen Haise"
+178682,18979,"Fred Haise, Jr."
+178720,30959,"Gotham City Police Officer"
+178761,111813,"Cpl. Carl Hammaker"
+178861,237431,"Big Dan Teague"
+180149,112290,"Detective Stern"
+180448,167324,"Plaza witness #3"
+180512,224842,"Man in bar"
+180540,238072,"Reuben Tishkoff"
+180543,237431,"Head of Mob"
+180650,130128,"Anthony Vito Corleone"
+181071,238072,Himself
+181392,192017,"Additional Voices"
+181486,333856,"Quartermaster George Rowe"
+181512,306032,Tommy
+181749,313459,"Cantina patron"
+182820,207992,Choi
+182947,124110,Busboy
+183405,344203,"Earl Ramsey"
+183829,297838,"Parole hearings man (1947)"
+183894,267038,Zed
+184031,17173,Mongol
+184173,314965,"Party Goer (featured bit)"
+184188,167324,"Himself (Secret Service agent"
+184634,112290,"Richard Chesler"
+184670,18979,"RETRO White"
+184753,167324,"Board Room Man"
+185071,238072,"Sports Book Patron"
+185657,130128,"Sonny's bodyguard"
+185823,167324,"Courtroom projectionist"
+185836,18979,"FIDO Gold"
+185960,167324,"Himself (behind Khrushchev)"
+186293,130128,"Cop with Capt. McCluskey outs"
+186528,167324,"Al Oser"
+186652,333856,"Fifth Officer Harold Godfrey "
+186688,147603,"Carter Abbey"
+187811,111813,"Dr. Stone"
+188411,313459,"Ben Obi-Wan Kenobi"
+188463,224842,"Brendan Harris"
+188640,254943,"Maximillian Cohen"
+189012,167324,"TV newsman #2"
+189012,297838,"Warden Samuel Norton"
+189147,167324,"Russian reporter"
+189341,130128,"Don Zaluchi (outspoken Don at"
+191424,192017,Scuttle
+192018,350424,"Frozen Risktaker"
+192106,344203,"FCC Man"
+192139,313459,"Red Three (Biggs)"
+192290,176712,Jay
+192874,297838,"Food-Way manager (1954)"
+193175,350424,Bashful
+193293,313459,"Stormtrooper (special edition"
+193682,18979,"Noisy Civilian"
+193699,344203,"Spatula Husband"
+193995,276217,"Radio play background voice"
+194181,192017,"Additional Voices"
+194181,313459,"Luke Skywalker"
+194465,237431,Gravedigger
+195126,254943,"Kabbala Scholar"
+195384,257264,Doobie
+195428,18979,"Jim Lovell"
+195497,46169,"Edward, Prince of Wales"
+195778,344203,"Whipped Cream Eater"
+196459,207992,"Parking Cop"
+196754,313459,Stormtrooper
+197019,167324,"Himself (Dallas police)"
+197172,344203,"Promo Announcer"
+197630,167324,"Sam Holland"
+197798,313459,"Leia's rebel escort"
+197824,167324,"White House Man"
+197929,18979,"Gene Kranz"
+198505,350424,"Laughing Guy"
+198544,350424,"Skyscraper Guy"
+199768,333856,"Orchestra member"
+199843,30959,
+200155,306032,"Bricktop's Barman"
+200269,194874,"Charlie's Friend"
+200331,124110,"Sleeping Actor"
+200362,30959,"Richard Earle"
+200375,116907,"Coach Roger Dunbar"
+200896,124110,Waiter
+201013,112290,"Banquet Guest"
+201146,194874,Charlie
+201256,130128,"Capt. Mark McCluskey"
+202366,297838,"Bank teller"
+202412,147603,"Gorilla Vocals"
+204119,313459,"General Taggi"
+204475,313459,"Red Leader"
+204493,10920,"Timmy Jorden"
+204719,10920,Bishop
+205055,313459,Stormtrooper
+205106,257264,"Bus lover"
+205287,333856,"Hold steward #2"
+205392,257264,Walt
+205567,238695,"Michael Bolton"
+205634,254943,"Moustacheless Man"
+205863,238072,"FBI Man #1"
+206644,224842,"Sean's father"
+206648,167324,Coroner
+207426,267038,"The Gimp"
+208287,333856,"Capt. Edward J. Smith"
+208323,167324,"Himself (Secret Service agent"
+209006,30959,"Shadow Warrior"
+209729,333856,"Steerage dancer"
+210144,306032,Reuben
+210153,267038,"Ed Sullivan"
+210799,167324,"Himself (questioned by RFK)"
+210962,256630,Skeleton
+211557,30959,"District Attorney Carlton Fin"
+211557,210511,"Jimmy Grantz"
+211741,18979,"SIM Tech"
+211832,333856,"Olaf Dahl"
+212283,124110,"Gideon Largeman"
+212771,237431,"Village Idiot"
+213555,313459,"Red Six (Porkins)"
+213580,167324,"Himself (with JFK)"
+213646,10920,"Lt. Gorman"
+213832,350424,"Man in Blue Coat"
+214094,238072,Himself
+214150,237431,"Pappy's Staff"
+214412,46169,Balliol
+214502,297838,"Judge (1946)"
+214973,30959,Waiter
+215190,109093,"Irate Customer"
+215312,30959,"Swat team member"
+215331,30959,Tramp
+215405,18979,"Sy Liebergot, EECOM White"
+215493,344203,"Donor at Telethon"
+215595,18979,Reverend
+215640,167324,"Lyndon B. Johnson"
+215780,313459,Stormtrooper
+216347,176711,"Young 88 (Spanked Boy)"
+216473,333856,"Slovakian father"
+216951,350424,"Life Extension security guard"
+217399,306032,"Gypsy Man"
+217405,18979,"Jeffrey Lovell"
+217663,17173,"Larry 'Pinto' Kroger"
+217669,18979,"Gunther Wendt"
+217950,167324,"Himself (behind LBJ)"
+218133,344203,"Sy Greenblum"
+219643,333856,"J. Bruce Ismay"
+220339,112290,Lou
+220634,124110,
+221162,194874,"Politician's Aide"
+221431,313459,"Ponda Baba"
+221889,130128,Fabrizio
+222947,306032,Referee
+223383,254943,"Man Presenting Suitcase"
+224034,314965,"Security Guard"
+224682,167324,"FBI Agent at airpot (credited"
+224799,167324,"Himself (after assassination "
+224819,111813,"Capt. West"
+224828,238072,Himself
+224852,238695,"Rob Newhouse, Smykowski's Law"
+224998,167324,"FBI spokesman"
+225014,176712,Rufus
+225014,267038,"Jules Winnfield"
+226351,333856,"First-class steward"
+226391,344203,"Killer Thug"
+226488,306032,Sol
+227732,18979,"GNC White"
+227836,333856,"Sir Cosmo Duff-Gordon"
+228167,344203,"Band: Bass Guitar"
+228435,18979,Reporter
+228721,238072,"Livingston Dell"
+229140,238072,"Eye-in-the-Sky Technician #2"
+229667,17173,"Otis Day"
+230490,256630,"Featured British Marine"
+230528,333856,"'Safe' Bellboy"
+231223,254943,"Limo Driver"
+231719,167324,Himself
+232111,238072,"Technician #2"
+232212,167324,"Joe (mobster with Broussard)"
+232234,313459,"Death Star trooper"
+233082,313459,"Darth Vader"
+233163,257264,"Cab dispatcher"
+233402,238695,"Steve, Magazine Salesman"
+233574,256630,Marine
+233656,167324,"Clay Shaw aka Clay Bertrand"
+233693,306032,"Bullet Tooth Tony"
+234067,111813,Steward
+234872,224842,"Fight scene"
+235073,30959,"Narrows Bridge Cop"
+235110,238695,"Stan, Chotchkie's Manager"
+235260,306032,"Micheal (Diamond Man)"
+240277,10920,"Pvt. Spunkmeyer"
+241342,46169,Craig
+241542,194874,"Bartender, Nightclub"
+241719,313459,Solomohal
+241906,30959,
+242102,297838,"District Attorney (1966)"
+242176,350424,"SWAT team officer #3"
+242646,350424,Chef
+242760,267038,"Winston 'The Wolf' Wolfe"
+242760,276217,"Mr. White/Larry Dimmick"
+242845,109093,"Reilly Diefenbach"
+242968,30959,"Narrows Rioter"
+243104,167324,"Himself (Secret Service agent"
+243306,333856,"Assistant Marconi Wireless Op"
+243383,167324,"Jerry Johnson's sidekick (cre"
+243428,224842,"Young Jimmy"
+243490,344203,"Promo Announcer"
+243553,46169,Farmer
+243869,116907,Jeff
+243897,224842,"CSS tech"
+243963,167324,"Samuel (credited on Director'"
+244175,167324,Himself
+244292,167324,"Himself in Zapruder film"
+244298,167324,"Himself (with family)"
+244351,167324,Interrogator
+244368,297838,"Tom Briggs, Food-Way Manager "
+244402,167324,Himself
+244421,167324,"Hill interrogator"
+244423,167324,"Himself (at funeral of JFK)"
+244497,17173,Stork
+244575,333856,Deckhand
+244787,46169,"Drinker #2"
+244826,350424,Dopey
+245499,297838,"Laundry Bob"
+246659,167324,"Himself (with JFK)"
+247608,112290,"Raymond K. Hessel"
+248284,237431,"Tommy Johnson"
+248525,167324,Himself
+248904,333856,"Bjorn Gunderson"
+249760,297838,"Portland National Bank Manage"
+249940,176711,"Crazy 88 #2"
+249944,194874,Nobu
+250001,313459,Stormtrooper
+250025,194874,Nao
+250281,313459,"Red Four (John D.)"
+251175,238072,Himself
+251351,18979,"Science Reporter"
+251881,344203,Billy
+251891,167324,"Numa Bertel"
+251911,300229,"Blind Mouse/Thelonious"
+253952,194874,Politician
+254667,238072,"Hotel Bellman"
+255239,167324,"FBI agent at autopsy"
+256240,112290,"Waiter at Clifton's"
+256402,350424,"Dude, Fix Your Face Guy"
+256972,30959,
+258441,167324,"Snapper Garrison"
+259004,238695,"Initech Employee"
+260069,176711,"Boss Tanaka"
+260427,176711,"Crazy 88 Fighter"
+260737,176711,"Boss Matsumoto (anime sequenc"
+261960,238072,"Billy Tim Denham"
+262141,238072,"Italian High Roller"
+263645,333856,"Promenade Deck steward"
+264162,267038,Marvin
+264716,238072,Himself
+264813,333856,"Father Thomas Byles"
+265558,313459,BoShek
+265918,167324,"Officer Habighorst"
+266236,167324,"Himself (with LeMay, McNamara"
+266368,112290,"Man in Suit"
+267122,167324,"Jerry Johnson"
+267297,167324,"Will Fritz"
+268301,116907,Woody
+269124,167324,"Himself (at funeral of JFK, b"
+269196,46169,"Malcolm Wallace"
+269326,207992,"Old Man"
+269401,257264,"Little Neal"
+269453,238072,Himself
+269536,313459,"Red Two (Wedge)"
+270444,333856,"Leading Fireman Fredrick Barr"
+270527,46169,"Governor of York"
+271316,207992,"Big Cop"
+271396,237431,"Ice Boy on The Right (Straw H"
+271849,350424,"Brian Shelby"
+272379,350424,"Frozen Vintage Car Man"
+272456,350424,Joshua
+272557,10920,"Power Loader Operator"
+272703,194874,"Sausalito Guitar"
+272853,30959,
+272853,306032,John
+272971,350424,Doc
+273276,124110,"Dr. Cohen"
+273506,238072,"X-Bag Man #1/Security Guard"
+273819,167324,"Himself (in front of map, and"
+273956,167324,"Jack Martin"
+274282,210511,Doctor
+274881,313459,"General Motti"
+274897,167324,Zapruder
+275713,112290,"Angel Face"
+275761,130128,"Virgil Sollozzo"
+275842,350424,"Art Editor"
+276083,344203,Gandhi
+276920,30959,"Young Bruce Wayne"
+277029,238072,Himself
+277250,350424,Sleepy
+277813,297838,"Floyd, Inmate"
+278406,254943,"Kabbala Scholar"
+278501,297838,Con
+279222,267038,"Young Butch"
+279903,333856,"Chinese man"
+280303,30959,
+280383,18979,"Launch Director"
+280540,257264,"New York cab driver"
+280561,313459,"Muftak/Cantina band member"
+280713,116907,"Reverend Shaw Moore"
+280713,300229,"Lord Farquaad of Duloc"
+280984,176711,"Johnny Mo"
+280984,176712,"Pai Mei"
+281238,238695,"Peter Gibbons"
+281243,112290,"Banquet Speaker"
+282065,237431,"Mr. French"
+282244,167324,"Himself (with LBJ)"
+282610,167324,"FBI agent #1 with Hill"
+282845,109093,"Man in Hallway"
+283456,167324,"TV newsman #1"
+283561,333856,"Steerage band member"
+283663,46169,Madbaker/Flagman
+284337,112290,"Bruised Bar Patron #2"
+284337,350424,"L.E. Building Guard"
+284742,176711,Trucker
+284829,18979,"FAO White"
+285134,18979,"Iwo-Jima Captain"
+285368,111813,Bailiff
+287087,167324,"Himself (with white shirt, ha"
+287224,297838,"Laundry truck driver"
+287321,350424,"The Writer"
+288254,224842,"FBI Agent Birden"
+288312,333856,"Frederick Spedden"
+288354,109093,"Norm Gunderson"
+288752,124110,Waiter
+288772,238695,"Rush Hour Driver"
+289830,238072,"Frank Catton"
+289909,167324,"David McVey (in film Cry of B"
+290194,167324,"Board Room Man"
+290329,130128,
+290341,46169,"Robert the Bruce"
+290708,313459,"Gold Leader"
+290848,112290,"Passenger Clutching Armrest"
+291110,224842,"John O'Shea"
+291564,109093,"Jerry Lundegaard"
+292028,176711,Budd
+292028,176712,"Budd (Sidewinder)"
+292028,276217,"Mr. Blonde/Vic Vega"
+292379,297838,"Ned Grimes, Corrupt Contracto"
+292742,124110,"Masturbating Dog"
+292815,112290,"Group Leader"
+293066,313459,Jawa
+293993,194874,"Suntory Client"
+294667,111813,Orderly
+295164,167324,"Col. Finck"
+295515,124110,Diego
+296048,313459,Takeel
+296549,297838,"Glenn Quentin"
+296907,238072,Aide-de-Camp
+296955,254943,Photographer
+297105,18979,Reporter
+297473,350424,Clubgoer
+297612,344203,"Joel Miller"
+297613,344203,"Thug #3"
+298555,30959,"Arkham thug"
+298615,254943,"Sol Robeson"
+298874,192017,Flounder
+299076,30959,"Wayne Enterprises Employee"
+299436,18979,"Pad Rat"
+299756,18979,"John Young"
+299764,130128,"Jack Woltz"
+299922,176711,"Boss Ozawah"
+300405,192017,Triton
+300498,344203,Yodeler
+300701,111813,"Pfc. Louden Downey"
+300784,167324,"Warren Commission Attorney"
+301208,167324,"Himself (Dallas police)"
+301244,238072,"X-Bag Man #3/Security Guard"
+301555,167324,"Prison guard"
+301563,333856,"Rescue boat crewman"
+301810,257264,"Neal Page"
+302252,130128,"Boy at wedding"
+302307,130128,"Johnny Fontane"
+302319,130128,"Paulie Gatto"
+304444,112290,"Airport Valet"
+304920,17173,"Eric 'Otter' Stratton"
+304966,18979,Reporter
+304966,111813,"Guard #1"
+305678,167324,"Sen. Long"
+305705,10920,"Sgt. Apone"
+306573,297838,"New fish con"
+306623,30959,
+306790,10920,"Van Leuwen"
+306942,124110,"Peeping Tom"
+307200,313459,Chewbacca
+307236,344203,"Boy with Books"
+307547,333856,"Steerage dancer"
+308329,112290,"The Mechanic"
+308366,313459,"Stormtrooper (special edition"
+308540,167324,"Himself (campaigns)"
+308572,344203,"R.J. Fletcher"
+308631,17173,"Lucky Boy"
+308971,167324,"Himself (Warren Commission, b"
+309010,18979,"Glynn Lunney"
+309156,237431,"Woolworths Manager"
+309251,147603,"General Caster"
+309501,297838,"Trout (guard)"
+309571,313459,"General Dodonna"
+309697,313459,"Death Star gunner"
+310030,10920,"Al Simpson, Colony Officer"
+310474,30959,"Commissioner Gillian B. Loeb"
+310708,17173,"Daniel Simpson 'D-Day' Day"
+310765,238695,"Bob Slydell"
+310769,46169,MacClannough
+310781,116907,Herb
+310868,46169,"Longshanks, King Edward I"
+310883,46169,"King's Advisor"
+310903,224842,"'75 reporter"
+311597,167324,"Himself (Secret Service agent"
+311663,46169,"Young Soldier"
+311756,257264,"State Trooper"
+311828,18979,"Suit Room Assistant"
+312231,18979,"Jerry Bostick, FIDO White"
+312231,237431,"Vernon T. Waldrip"
+312299,192017,"Additional Voices"
+312623,167324,"Man with umbrella"
+312773,306032,"Gypsy Man"
+312806,297838,"Wiley (guard)"
+312961,350424,Himself
+313126,112290,"Commissioner Jacobs"
+313131,167324,"Himself (in Vietnam)"
+313569,238695,"Dr. Swanson"
+313583,46169,Cheltham
+313916,333856,"Steward #2"
+313930,167324,"Gov. Connally - Double"
+313969,112290,"Robert 'Bob' Paulson"
+314365,297838,"Fat Ass"
+315810,167324,"Patrolman Joe Smith"
+316965,238072,Himself
+317829,18979,"TELMU White"
+318099,17173,"Doug Neidermeyer"
+318673,306032,"Avi's Colleague"
+318718,238072,"Security Officer #1"
+318797,314965,"Gothic Street Punk"
+319724,18979,"RETRO Gold"
+319795,176712,Ernie
+319868,176711,"Pretty Riki (anime sequence)"
+320748,18979,"GUIDO White"
+320846,297838,"Tyrell, Inmate"
+320960,167324,Leopoldo
+321300,17173,Hardbar
+321301,300229,"Geppetto/Magic Mirror"
+321383,267038,"Monster Joe"
+321731,30959,"Gotham City Cop"
+322384,167324,"J.C. Price"
+322781,194874,"Press Agent"
+323181,167324,"Bonnie Ray Williams"
+323403,112290,Steph
+324334,167324,"Sgt. Frank Harkness"
+325101,167324,"Courtroom Spectator"
+325748,257264,"Screaming driver"
+327340,130128,"Luca Brasi"
+327456,254943,"King Neptune"
+328248,313459,"Cantina Patron"
+328405,112290,"Bus Driver with Broken Nose"
+330833,176711,"Tokyo Business Man"
+332260,124110,"Teen in Hallway"
+332724,167324,"Himself (with the Shah)"
+332893,194874,"Old Man"
+334370,46169,Veteran
+335034,111813,"Jury Foreman"
+335034,350424,"Older Editor"
+335368,46169,Villager
+335617,30959,"Dr. Jonathan Crane/The Scarec"
+335657,300229,Donkey
+335689,30959,"Judge Faden"
+335791,46169,"Lord Talmadge"
+335829,333856,"Steerage band member"
+335955,194874,"Bob Harris"
+336279,46169,Lochlan
+336283,350424,"Benny's Owner"
+337097,300229,"Shrek/Blind Mouse/Narrator"
+338314,167324,"Dr. McClelland"
+338797,238695,"Samir Nagheenanajar"
+338797,254943,Farroukh
+338938,194874,"Stills Photographer"
+339292,194874,"Make-Up Person"
+339994,194874,"French Japanese Nightclub Pat"
+340538,111813,"Lt. Sherby"
+341012,314965,"Block Party Participant"
+341134,167324,"Mercer interrogator"
+341480,30959,Ducard
+341916,224842,"Nick Savage"
+341985,176711,"The Groom"
+341985,176712,"Tommy Plympton"
+341991,109093,"Heavyset Man In Bar"
+342248,46169,"John Wallace"
+342280,237431,Delmar
+342443,333856,"Elevator operator"
+342939,314965,Lenny
+343346,297838,"Elderly hole guard"
+343482,167324,"Officer with Top Secret docum"
