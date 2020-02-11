@@ -1,118 +1,118 @@
-manufacturer,model,displ,year,cyl,trans,drv,cty,hwy,fl,class,city,cty_hwy
-audi,a4,2.0,2008,4,manual(m6),f,20,31,p,compact,20.00 mpg/8.50 kml,20/31 mpg
-audi,a4,2.0,2008,4,auto(av),f,21,30,p,compact,21.00 mpg/8.93 kml,21/30 mpg
-audi,a4,3.1,2008,6,auto(av),f,18,27,p,compact,18.00 mpg/7.65 kml,18/27 mpg
-audi,a4 quattro,2.0,2008,4,manual(m6),4,20,28,p,compact,20.00 mpg/8.50 kml,20/28 mpg
-audi,a4 quattro,2.0,2008,4,auto(s6),4,19,27,p,compact,19.00 mpg/8.08 kml,19/27 mpg
-audi,a4 quattro,3.1,2008,6,auto(s6),4,17,25,p,compact,17.00 mpg/7.23 kml,17/25 mpg
-audi,a4 quattro,3.1,2008,6,manual(m6),4,15,25,p,compact,15.00 mpg/6.38 kml,15/25 mpg
-audi,a6 quattro,3.1,2008,6,auto(s6),4,17,25,p,midsize,17.00 mpg/7.23 kml,17/25 mpg
-audi,a6 quattro,4.2,2008,8,auto(s6),4,16,23,p,midsize,16.00 mpg/6.80 kml,16/23 mpg
-chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv,14.00 mpg/5.95 kml,14/20 mpg
-chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,11,15,e,suv,11.00 mpg/4.68 kml,11/15 mpg
-chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv,14.00 mpg/5.95 kml,14/20 mpg
-chevrolet,c1500 suburban 2wd,6.0,2008,8,auto(l4),r,12,17,r,suv,12.00 mpg/5.10 kml,12/17 mpg
-chevrolet,corvette,6.2,2008,8,manual(m6),r,16,26,p,2seater,16.00 mpg/6.80 kml,16/26 mpg
-chevrolet,corvette,6.2,2008,8,auto(s6),r,15,25,p,2seater,15.00 mpg/6.38 kml,15/25 mpg
-chevrolet,corvette,7.0,2008,8,manual(m6),r,15,24,p,2seater,15.00 mpg/6.38 kml,15/24 mpg
-chevrolet,k1500 tahoe 4wd,5.3,2008,8,auto(l4),4,14,19,r,suv,14.00 mpg/5.95 kml,14/19 mpg
-chevrolet,k1500 tahoe 4wd,5.3,2008,8,auto(l4),4,11,14,e,suv,11.00 mpg/4.68 kml,11/14 mpg
-chevrolet,malibu,2.4,2008,4,auto(l4),f,22,30,r,midsize,22.00 mpg/9.35 kml,22/30 mpg
-chevrolet,malibu,3.5,2008,6,auto(l4),f,18,29,r,midsize,18.00 mpg/7.65 kml,18/29 mpg
-chevrolet,malibu,3.6,2008,6,auto(s6),f,17,26,r,midsize,17.00 mpg/7.23 kml,17/26 mpg
-dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan,17.00 mpg/7.23 kml,17/24 mpg
-dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan,17.00 mpg/7.23 kml,17/24 mpg
-dodge,caravan 2wd,3.3,2008,6,auto(l4),f,11,17,e,minivan,11.00 mpg/4.68 kml,11/17 mpg
-dodge,caravan 2wd,3.8,2008,6,auto(l6),f,16,23,r,minivan,16.00 mpg/6.80 kml,16/23 mpg
-dodge,caravan 2wd,4.0,2008,6,auto(l6),f,16,23,r,minivan,16.00 mpg/6.80 kml,16/23 mpg
-dodge,dakota pickup 4wd,3.7,2008,6,manual(m6),4,15,19,r,pickup,15.00 mpg/6.38 kml,15/19 mpg
-dodge,dakota pickup 4wd,3.7,2008,6,auto(l4),4,14,18,r,pickup,14.00 mpg/5.95 kml,14/18 mpg
-dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,14,19,r,pickup,14.00 mpg/5.95 kml,14/19 mpg
-dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,14,19,r,pickup,14.00 mpg/5.95 kml,14/19 mpg
-dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup,9.00 mpg/3.83 kml,9/12 mpg
-dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv,13.00 mpg/5.53 kml,13/17 mpg
-dodge,durango 4wd,4.7,2008,8,auto(l5),4,9,12,e,suv,9.00 mpg/3.83 kml,9/12 mpg
-dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv,13.00 mpg/5.53 kml,13/17 mpg
-dodge,durango 4wd,5.7,2008,8,auto(l5),4,13,18,r,suv,13.00 mpg/5.53 kml,13/18 mpg
-dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,12,16,r,pickup,12.00 mpg/5.10 kml,12/16 mpg
-dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup,9.00 mpg/3.83 kml,9/12 mpg
-dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,13,17,r,pickup,13.00 mpg/5.53 kml,13/17 mpg
-dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,13,17,r,pickup,13.00 mpg/5.53 kml,13/17 mpg
-dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,12,16,r,pickup,12.00 mpg/5.10 kml,12/16 mpg
-dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,9,12,e,pickup,9.00 mpg/3.83 kml,9/12 mpg
-dodge,ram 1500 pickup 4wd,5.7,2008,8,auto(l5),4,13,17,r,pickup,13.00 mpg/5.53 kml,13/17 mpg
-ford,expedition 2wd,5.4,2008,8,auto(l6),r,12,18,r,suv,12.00 mpg/5.10 kml,12/18 mpg
-ford,explorer 4wd,4.0,2008,6,auto(l5),4,13,19,r,suv,13.00 mpg/5.53 kml,13/19 mpg
-ford,explorer 4wd,4.6,2008,8,auto(l6),4,13,19,r,suv,13.00 mpg/5.53 kml,13/19 mpg
-ford,f150 pickup 4wd,4.6,2008,8,auto(l4),4,13,17,r,pickup,13.00 mpg/5.53 kml,13/17 mpg
-ford,f150 pickup 4wd,5.4,2008,8,auto(l4),4,13,17,r,pickup,13.00 mpg/5.53 kml,13/17 mpg
-ford,mustang,4.0,2008,6,manual(m5),r,17,26,r,subcompact,17.00 mpg/7.23 kml,17/26 mpg
-ford,mustang,4.0,2008,6,auto(l5),r,16,24,r,subcompact,16.00 mpg/6.80 kml,16/24 mpg
-ford,mustang,4.6,2008,8,manual(m5),r,15,23,r,subcompact,15.00 mpg/6.38 kml,15/23 mpg
-ford,mustang,4.6,2008,8,auto(l5),r,15,22,r,subcompact,15.00 mpg/6.38 kml,15/22 mpg
-ford,mustang,5.4,2008,8,manual(m6),r,14,20,p,subcompact,14.00 mpg/5.95 kml,14/20 mpg
-honda,civic,1.8,2008,4,manual(m5),f,26,34,r,subcompact,26.00 mpg/11.05 kml,26/34 mpg
-honda,civic,1.8,2008,4,auto(l5),f,25,36,r,subcompact,25.00 mpg/10.63 kml,25/36 mpg
-honda,civic,1.8,2008,4,auto(l5),f,24,36,c,subcompact,24.00 mpg/10.20 kml,24/36 mpg
-honda,civic,2.0,2008,4,manual(m6),f,21,29,p,subcompact,21.00 mpg/8.93 kml,21/29 mpg
-hyundai,sonata,2.4,2008,4,auto(l4),f,21,30,r,midsize,21.00 mpg/8.93 kml,21/30 mpg
-hyundai,sonata,2.4,2008,4,manual(m5),f,21,31,r,midsize,21.00 mpg/8.93 kml,21/31 mpg
-hyundai,sonata,3.3,2008,6,auto(l5),f,19,28,r,midsize,19.00 mpg/8.08 kml,19/28 mpg
-hyundai,tiburon,2.0,2008,4,manual(m5),f,20,28,r,subcompact,20.00 mpg/8.50 kml,20/28 mpg
-hyundai,tiburon,2.0,2008,4,auto(l4),f,20,27,r,subcompact,20.00 mpg/8.50 kml,20/27 mpg
-hyundai,tiburon,2.7,2008,6,auto(l4),f,17,24,r,subcompact,17.00 mpg/7.23 kml,17/24 mpg
-hyundai,tiburon,2.7,2008,6,manual(m6),f,16,24,r,subcompact,16.00 mpg/6.80 kml,16/24 mpg
-hyundai,tiburon,2.7,2008,6,manual(m5),f,17,24,r,subcompact,17.00 mpg/7.23 kml,17/24 mpg
-jeep,grand cherokee 4wd,3.0,2008,6,auto(l5),4,17,22,d,suv,17.00 mpg/7.23 kml,17/22 mpg
-jeep,grand cherokee 4wd,3.7,2008,6,auto(l5),4,15,19,r,suv,15.00 mpg/6.38 kml,15/19 mpg
-jeep,grand cherokee 4wd,4.7,2008,8,auto(l5),4,9,12,e,suv,9.00 mpg/3.83 kml,9/12 mpg
-jeep,grand cherokee 4wd,4.7,2008,8,auto(l5),4,14,19,r,suv,14.00 mpg/5.95 kml,14/19 mpg
-jeep,grand cherokee 4wd,5.7,2008,8,auto(l5),4,13,18,r,suv,13.00 mpg/5.53 kml,13/18 mpg
-jeep,grand cherokee 4wd,6.1,2008,8,auto(l5),4,11,14,p,suv,11.00 mpg/4.68 kml,11/14 mpg
-land rover,range rover,4.2,2008,8,auto(s6),4,12,18,r,suv,12.00 mpg/5.10 kml,12/18 mpg
-land rover,range rover,4.4,2008,8,auto(s6),4,12,18,r,suv,12.00 mpg/5.10 kml,12/18 mpg
-lincoln,navigator 2wd,5.4,2008,8,auto(l6),r,12,18,r,suv,12.00 mpg/5.10 kml,12/18 mpg
-mercury,mountaineer 4wd,4.0,2008,6,auto(l5),4,13,19,r,suv,13.00 mpg/5.53 kml,13/19 mpg
-mercury,mountaineer 4wd,4.6,2008,8,auto(l6),4,13,19,r,suv,13.00 mpg/5.53 kml,13/19 mpg
-nissan,altima,2.5,2008,4,auto(av),f,23,31,r,midsize,23.00 mpg/9.78 kml,23/31 mpg
-nissan,altima,2.5,2008,4,manual(m6),f,23,32,r,midsize,23.00 mpg/9.78 kml,23/32 mpg
-nissan,altima,3.5,2008,6,manual(m6),f,19,27,p,midsize,19.00 mpg/8.08 kml,19/27 mpg
-nissan,altima,3.5,2008,6,auto(av),f,19,26,p,midsize,19.00 mpg/8.08 kml,19/26 mpg
-nissan,maxima,3.5,2008,6,auto(av),f,19,25,p,midsize,19.00 mpg/8.08 kml,19/25 mpg
-nissan,pathfinder 4wd,4.0,2008,6,auto(l5),4,14,20,p,suv,14.00 mpg/5.95 kml,14/20 mpg
-nissan,pathfinder 4wd,5.6,2008,8,auto(s5),4,12,18,p,suv,12.00 mpg/5.10 kml,12/18 mpg
-pontiac,grand prix,3.8,2008,6,auto(l4),f,18,28,r,midsize,18.00 mpg/7.65 kml,18/28 mpg
-pontiac,grand prix,5.3,2008,8,auto(s4),f,16,25,p,midsize,16.00 mpg/6.80 kml,16/25 mpg
-subaru,forester awd,2.5,2008,4,manual(m5),4,20,27,r,suv,20.00 mpg/8.50 kml,20/27 mpg
-subaru,forester awd,2.5,2008,4,manual(m5),4,19,25,p,suv,19.00 mpg/8.08 kml,19/25 mpg
-subaru,forester awd,2.5,2008,4,auto(l4),4,20,26,r,suv,20.00 mpg/8.50 kml,20/26 mpg
-subaru,forester awd,2.5,2008,4,auto(l4),4,18,23,p,suv,18.00 mpg/7.65 kml,18/23 mpg
-subaru,impreza awd,2.5,2008,4,auto(s4),4,20,25,p,compact,20.00 mpg/8.50 kml,20/25 mpg
-subaru,impreza awd,2.5,2008,4,auto(s4),4,20,27,r,compact,20.00 mpg/8.50 kml,20/27 mpg
-subaru,impreza awd,2.5,2008,4,manual(m5),4,19,25,p,compact,19.00 mpg/8.08 kml,19/25 mpg
-subaru,impreza awd,2.5,2008,4,manual(m5),4,20,27,r,compact,20.00 mpg/8.50 kml,20/27 mpg
-toyota,4runner 4wd,4.0,2008,6,auto(l5),4,16,20,r,suv,16.00 mpg/6.80 kml,16/20 mpg
-toyota,4runner 4wd,4.7,2008,8,auto(l5),4,14,17,r,suv,14.00 mpg/5.95 kml,14/17 mpg
-toyota,camry,2.4,2008,4,manual(m5),f,21,31,r,midsize,21.00 mpg/8.93 kml,21/31 mpg
-toyota,camry,2.4,2008,4,auto(l5),f,21,31,r,midsize,21.00 mpg/8.93 kml,21/31 mpg
-toyota,camry,3.5,2008,6,auto(s6),f,19,28,r,midsize,19.00 mpg/8.08 kml,19/28 mpg
-toyota,camry solara,2.4,2008,4,manual(m5),f,21,31,r,compact,21.00 mpg/8.93 kml,21/31 mpg
-toyota,camry solara,2.4,2008,4,auto(s5),f,22,31,r,compact,22.00 mpg/9.35 kml,22/31 mpg
-toyota,camry solara,3.3,2008,6,auto(s5),f,18,27,r,compact,18.00 mpg/7.65 kml,18/27 mpg
-toyota,corolla,1.8,2008,4,manual(m5),f,28,37,r,compact,28.00 mpg/11.90 kml,28/37 mpg
-toyota,corolla,1.8,2008,4,auto(l4),f,26,35,r,compact,26.00 mpg/11.05 kml,26/35 mpg
-toyota,land cruiser wagon 4wd,5.7,2008,8,auto(s6),4,13,18,r,suv,13.00 mpg/5.53 kml,13/18 mpg
-toyota,toyota tacoma 4wd,2.7,2008,4,manual(m5),4,17,22,r,pickup,17.00 mpg/7.23 kml,17/22 mpg
-toyota,toyota tacoma 4wd,4.0,2008,6,manual(m6),4,15,18,r,pickup,15.00 mpg/6.38 kml,15/18 mpg
-toyota,toyota tacoma 4wd,4.0,2008,6,auto(l5),4,16,20,r,pickup,16.00 mpg/6.80 kml,16/20 mpg
-volkswagen,gti,2.0,2008,4,manual(m6),f,21,29,p,compact,21.00 mpg/8.93 kml,21/29 mpg
-volkswagen,gti,2.0,2008,4,auto(s6),f,22,29,p,compact,22.00 mpg/9.35 kml,22/29 mpg
-volkswagen,jetta,2.0,2008,4,auto(s6),f,22,29,p,compact,22.00 mpg/9.35 kml,22/29 mpg
-volkswagen,jetta,2.0,2008,4,manual(m6),f,21,29,p,compact,21.00 mpg/8.93 kml,21/29 mpg
-volkswagen,jetta,2.5,2008,5,auto(s6),f,21,29,r,compact,21.00 mpg/8.93 kml,21/29 mpg
-volkswagen,jetta,2.5,2008,5,manual(m5),f,21,29,r,compact,21.00 mpg/8.93 kml,21/29 mpg
-volkswagen,new beetle,2.5,2008,5,manual(m5),f,20,28,r,subcompact,20.00 mpg/8.50 kml,20/28 mpg
-volkswagen,new beetle,2.5,2008,5,auto(s6),f,20,29,r,subcompact,20.00 mpg/8.50 kml,20/29 mpg
-volkswagen,passat,2.0,2008,4,auto(s6),f,19,28,p,midsize,19.00 mpg/8.08 kml,19/28 mpg
-volkswagen,passat,2.0,2008,4,manual(m6),f,21,29,p,midsize,21.00 mpg/8.93 kml,21/29 mpg
-volkswagen,passat,3.6,2008,6,auto(s6),f,17,26,p,midsize,17.00 mpg/7.23 kml,17/26 mpg
+manufacturer,model,displ,year,cyl,trans,drv,cty,hwy,fl,class,cty_hwy,city
+audi,a4,2.0,2008,4,manual(m6),f,20,31,p,compact,20/31 mpg,20.00 mpg/8.50 kml
+audi,a4,2.0,2008,4,auto(av),f,21,30,p,compact,21/30 mpg,21.00 mpg/8.93 kml
+audi,a4,3.1,2008,6,auto(av),f,18,27,p,compact,18/27 mpg,18.00 mpg/7.65 kml
+audi,a4 quattro,2.0,2008,4,manual(m6),4,20,28,p,compact,20/28 mpg,20.00 mpg/8.50 kml
+audi,a4 quattro,2.0,2008,4,auto(s6),4,19,27,p,compact,19/27 mpg,19.00 mpg/8.08 kml
+audi,a4 quattro,3.1,2008,6,auto(s6),4,17,25,p,compact,17/25 mpg,17.00 mpg/7.23 kml
+audi,a4 quattro,3.1,2008,6,manual(m6),4,15,25,p,compact,15/25 mpg,15.00 mpg/6.38 kml
+audi,a6 quattro,3.1,2008,6,auto(s6),4,17,25,p,midsize,17/25 mpg,17.00 mpg/7.23 kml
+audi,a6 quattro,4.2,2008,8,auto(s6),4,16,23,p,midsize,16/23 mpg,16.00 mpg/6.80 kml
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv,14/20 mpg,14.00 mpg/5.95 kml
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,11,15,e,suv,11/15 mpg,11.00 mpg/4.68 kml
+chevrolet,c1500 suburban 2wd,5.3,2008,8,auto(l4),r,14,20,r,suv,14/20 mpg,14.00 mpg/5.95 kml
+chevrolet,c1500 suburban 2wd,6.0,2008,8,auto(l4),r,12,17,r,suv,12/17 mpg,12.00 mpg/5.10 kml
+chevrolet,corvette,6.2,2008,8,manual(m6),r,16,26,p,2seater,16/26 mpg,16.00 mpg/6.80 kml
+chevrolet,corvette,6.2,2008,8,auto(s6),r,15,25,p,2seater,15/25 mpg,15.00 mpg/6.38 kml
+chevrolet,corvette,7.0,2008,8,manual(m6),r,15,24,p,2seater,15/24 mpg,15.00 mpg/6.38 kml
+chevrolet,k1500 tahoe 4wd,5.3,2008,8,auto(l4),4,14,19,r,suv,14/19 mpg,14.00 mpg/5.95 kml
+chevrolet,k1500 tahoe 4wd,5.3,2008,8,auto(l4),4,11,14,e,suv,11/14 mpg,11.00 mpg/4.68 kml
+chevrolet,malibu,2.4,2008,4,auto(l4),f,22,30,r,midsize,22/30 mpg,22.00 mpg/9.35 kml
+chevrolet,malibu,3.5,2008,6,auto(l4),f,18,29,r,midsize,18/29 mpg,18.00 mpg/7.65 kml
+chevrolet,malibu,3.6,2008,6,auto(s6),f,17,26,r,midsize,17/26 mpg,17.00 mpg/7.23 kml
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan,17/24 mpg,17.00 mpg/7.23 kml
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,17,24,r,minivan,17/24 mpg,17.00 mpg/7.23 kml
+dodge,caravan 2wd,3.3,2008,6,auto(l4),f,11,17,e,minivan,11/17 mpg,11.00 mpg/4.68 kml
+dodge,caravan 2wd,3.8,2008,6,auto(l6),f,16,23,r,minivan,16/23 mpg,16.00 mpg/6.80 kml
+dodge,caravan 2wd,4.0,2008,6,auto(l6),f,16,23,r,minivan,16/23 mpg,16.00 mpg/6.80 kml
+dodge,dakota pickup 4wd,3.7,2008,6,manual(m6),4,15,19,r,pickup,15/19 mpg,15.00 mpg/6.38 kml
+dodge,dakota pickup 4wd,3.7,2008,6,auto(l4),4,14,18,r,pickup,14/18 mpg,14.00 mpg/5.95 kml
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,14,19,r,pickup,14/19 mpg,14.00 mpg/5.95 kml
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,14,19,r,pickup,14/19 mpg,14.00 mpg/5.95 kml
+dodge,dakota pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup,9/12 mpg,9.00 mpg/3.83 kml
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv,13/17 mpg,13.00 mpg/5.53 kml
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,9,12,e,suv,9/12 mpg,9.00 mpg/3.83 kml
+dodge,durango 4wd,4.7,2008,8,auto(l5),4,13,17,r,suv,13/17 mpg,13.00 mpg/5.53 kml
+dodge,durango 4wd,5.7,2008,8,auto(l5),4,13,18,r,suv,13/18 mpg,13.00 mpg/5.53 kml
+dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,12,16,r,pickup,12/16 mpg,12.00 mpg/5.10 kml
+dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,9,12,e,pickup,9/12 mpg,9.00 mpg/3.83 kml
+dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,13,17,r,pickup,13/17 mpg,13.00 mpg/5.53 kml
+dodge,ram 1500 pickup 4wd,4.7,2008,8,auto(l5),4,13,17,r,pickup,13/17 mpg,13.00 mpg/5.53 kml
+dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,12,16,r,pickup,12/16 mpg,12.00 mpg/5.10 kml
+dodge,ram 1500 pickup 4wd,4.7,2008,8,manual(m6),4,9,12,e,pickup,9/12 mpg,9.00 mpg/3.83 kml
+dodge,ram 1500 pickup 4wd,5.7,2008,8,auto(l5),4,13,17,r,pickup,13/17 mpg,13.00 mpg/5.53 kml
+ford,expedition 2wd,5.4,2008,8,auto(l6),r,12,18,r,suv,12/18 mpg,12.00 mpg/5.10 kml
+ford,explorer 4wd,4.0,2008,6,auto(l5),4,13,19,r,suv,13/19 mpg,13.00 mpg/5.53 kml
+ford,explorer 4wd,4.6,2008,8,auto(l6),4,13,19,r,suv,13/19 mpg,13.00 mpg/5.53 kml
+ford,f150 pickup 4wd,4.6,2008,8,auto(l4),4,13,17,r,pickup,13/17 mpg,13.00 mpg/5.53 kml
+ford,f150 pickup 4wd,5.4,2008,8,auto(l4),4,13,17,r,pickup,13/17 mpg,13.00 mpg/5.53 kml
+ford,mustang,4.0,2008,6,manual(m5),r,17,26,r,subcompact,17/26 mpg,17.00 mpg/7.23 kml
+ford,mustang,4.0,2008,6,auto(l5),r,16,24,r,subcompact,16/24 mpg,16.00 mpg/6.80 kml
+ford,mustang,4.6,2008,8,manual(m5),r,15,23,r,subcompact,15/23 mpg,15.00 mpg/6.38 kml
+ford,mustang,4.6,2008,8,auto(l5),r,15,22,r,subcompact,15/22 mpg,15.00 mpg/6.38 kml
+ford,mustang,5.4,2008,8,manual(m6),r,14,20,p,subcompact,14/20 mpg,14.00 mpg/5.95 kml
+honda,civic,1.8,2008,4,manual(m5),f,26,34,r,subcompact,26/34 mpg,26.00 mpg/11.05 kml
+honda,civic,1.8,2008,4,auto(l5),f,25,36,r,subcompact,25/36 mpg,25.00 mpg/10.63 kml
+honda,civic,1.8,2008,4,auto(l5),f,24,36,c,subcompact,24/36 mpg,24.00 mpg/10.20 kml
+honda,civic,2.0,2008,4,manual(m6),f,21,29,p,subcompact,21/29 mpg,21.00 mpg/8.93 kml
+hyundai,sonata,2.4,2008,4,auto(l4),f,21,30,r,midsize,21/30 mpg,21.00 mpg/8.93 kml
+hyundai,sonata,2.4,2008,4,manual(m5),f,21,31,r,midsize,21/31 mpg,21.00 mpg/8.93 kml
+hyundai,sonata,3.3,2008,6,auto(l5),f,19,28,r,midsize,19/28 mpg,19.00 mpg/8.08 kml
+hyundai,tiburon,2.0,2008,4,manual(m5),f,20,28,r,subcompact,20/28 mpg,20.00 mpg/8.50 kml
+hyundai,tiburon,2.0,2008,4,auto(l4),f,20,27,r,subcompact,20/27 mpg,20.00 mpg/8.50 kml
+hyundai,tiburon,2.7,2008,6,auto(l4),f,17,24,r,subcompact,17/24 mpg,17.00 mpg/7.23 kml
+hyundai,tiburon,2.7,2008,6,manual(m6),f,16,24,r,subcompact,16/24 mpg,16.00 mpg/6.80 kml
+hyundai,tiburon,2.7,2008,6,manual(m5),f,17,24,r,subcompact,17/24 mpg,17.00 mpg/7.23 kml
+jeep,grand cherokee 4wd,3.0,2008,6,auto(l5),4,17,22,d,suv,17/22 mpg,17.00 mpg/7.23 kml
+jeep,grand cherokee 4wd,3.7,2008,6,auto(l5),4,15,19,r,suv,15/19 mpg,15.00 mpg/6.38 kml
+jeep,grand cherokee 4wd,4.7,2008,8,auto(l5),4,9,12,e,suv,9/12 mpg,9.00 mpg/3.83 kml
+jeep,grand cherokee 4wd,4.7,2008,8,auto(l5),4,14,19,r,suv,14/19 mpg,14.00 mpg/5.95 kml
+jeep,grand cherokee 4wd,5.7,2008,8,auto(l5),4,13,18,r,suv,13/18 mpg,13.00 mpg/5.53 kml
+jeep,grand cherokee 4wd,6.1,2008,8,auto(l5),4,11,14,p,suv,11/14 mpg,11.00 mpg/4.68 kml
+land rover,range rover,4.2,2008,8,auto(s6),4,12,18,r,suv,12/18 mpg,12.00 mpg/5.10 kml
+land rover,range rover,4.4,2008,8,auto(s6),4,12,18,r,suv,12/18 mpg,12.00 mpg/5.10 kml
+lincoln,navigator 2wd,5.4,2008,8,auto(l6),r,12,18,r,suv,12/18 mpg,12.00 mpg/5.10 kml
+mercury,mountaineer 4wd,4.0,2008,6,auto(l5),4,13,19,r,suv,13/19 mpg,13.00 mpg/5.53 kml
+mercury,mountaineer 4wd,4.6,2008,8,auto(l6),4,13,19,r,suv,13/19 mpg,13.00 mpg/5.53 kml
+nissan,altima,2.5,2008,4,auto(av),f,23,31,r,midsize,23/31 mpg,23.00 mpg/9.78 kml
+nissan,altima,2.5,2008,4,manual(m6),f,23,32,r,midsize,23/32 mpg,23.00 mpg/9.78 kml
+nissan,altima,3.5,2008,6,manual(m6),f,19,27,p,midsize,19/27 mpg,19.00 mpg/8.08 kml
+nissan,altima,3.5,2008,6,auto(av),f,19,26,p,midsize,19/26 mpg,19.00 mpg/8.08 kml
+nissan,maxima,3.5,2008,6,auto(av),f,19,25,p,midsize,19/25 mpg,19.00 mpg/8.08 kml
+nissan,pathfinder 4wd,4.0,2008,6,auto(l5),4,14,20,p,suv,14/20 mpg,14.00 mpg/5.95 kml
+nissan,pathfinder 4wd,5.6,2008,8,auto(s5),4,12,18,p,suv,12/18 mpg,12.00 mpg/5.10 kml
+pontiac,grand prix,3.8,2008,6,auto(l4),f,18,28,r,midsize,18/28 mpg,18.00 mpg/7.65 kml
+pontiac,grand prix,5.3,2008,8,auto(s4),f,16,25,p,midsize,16/25 mpg,16.00 mpg/6.80 kml
+subaru,forester awd,2.5,2008,4,manual(m5),4,20,27,r,suv,20/27 mpg,20.00 mpg/8.50 kml
+subaru,forester awd,2.5,2008,4,manual(m5),4,19,25,p,suv,19/25 mpg,19.00 mpg/8.08 kml
+subaru,forester awd,2.5,2008,4,auto(l4),4,20,26,r,suv,20/26 mpg,20.00 mpg/8.50 kml
+subaru,forester awd,2.5,2008,4,auto(l4),4,18,23,p,suv,18/23 mpg,18.00 mpg/7.65 kml
+subaru,impreza awd,2.5,2008,4,auto(s4),4,20,25,p,compact,20/25 mpg,20.00 mpg/8.50 kml
+subaru,impreza awd,2.5,2008,4,auto(s4),4,20,27,r,compact,20/27 mpg,20.00 mpg/8.50 kml
+subaru,impreza awd,2.5,2008,4,manual(m5),4,19,25,p,compact,19/25 mpg,19.00 mpg/8.08 kml
+subaru,impreza awd,2.5,2008,4,manual(m5),4,20,27,r,compact,20/27 mpg,20.00 mpg/8.50 kml
+toyota,4runner 4wd,4.0,2008,6,auto(l5),4,16,20,r,suv,16/20 mpg,16.00 mpg/6.80 kml
+toyota,4runner 4wd,4.7,2008,8,auto(l5),4,14,17,r,suv,14/17 mpg,14.00 mpg/5.95 kml
+toyota,camry,2.4,2008,4,manual(m5),f,21,31,r,midsize,21/31 mpg,21.00 mpg/8.93 kml
+toyota,camry,2.4,2008,4,auto(l5),f,21,31,r,midsize,21/31 mpg,21.00 mpg/8.93 kml
+toyota,camry,3.5,2008,6,auto(s6),f,19,28,r,midsize,19/28 mpg,19.00 mpg/8.08 kml
+toyota,camry solara,2.4,2008,4,manual(m5),f,21,31,r,compact,21/31 mpg,21.00 mpg/8.93 kml
+toyota,camry solara,2.4,2008,4,auto(s5),f,22,31,r,compact,22/31 mpg,22.00 mpg/9.35 kml
+toyota,camry solara,3.3,2008,6,auto(s5),f,18,27,r,compact,18/27 mpg,18.00 mpg/7.65 kml
+toyota,corolla,1.8,2008,4,manual(m5),f,28,37,r,compact,28/37 mpg,28.00 mpg/11.90 kml
+toyota,corolla,1.8,2008,4,auto(l4),f,26,35,r,compact,26/35 mpg,26.00 mpg/11.05 kml
+toyota,land cruiser wagon 4wd,5.7,2008,8,auto(s6),4,13,18,r,suv,13/18 mpg,13.00 mpg/5.53 kml
+toyota,toyota tacoma 4wd,2.7,2008,4,manual(m5),4,17,22,r,pickup,17/22 mpg,17.00 mpg/7.23 kml
+toyota,toyota tacoma 4wd,4.0,2008,6,manual(m6),4,15,18,r,pickup,15/18 mpg,15.00 mpg/6.38 kml
+toyota,toyota tacoma 4wd,4.0,2008,6,auto(l5),4,16,20,r,pickup,16/20 mpg,16.00 mpg/6.80 kml
+volkswagen,gti,2.0,2008,4,manual(m6),f,21,29,p,compact,21/29 mpg,21.00 mpg/8.93 kml
+volkswagen,gti,2.0,2008,4,auto(s6),f,22,29,p,compact,22/29 mpg,22.00 mpg/9.35 kml
+volkswagen,jetta,2.0,2008,4,auto(s6),f,22,29,p,compact,22/29 mpg,22.00 mpg/9.35 kml
+volkswagen,jetta,2.0,2008,4,manual(m6),f,21,29,p,compact,21/29 mpg,21.00 mpg/8.93 kml
+volkswagen,jetta,2.5,2008,5,auto(s6),f,21,29,r,compact,21/29 mpg,21.00 mpg/8.93 kml
+volkswagen,jetta,2.5,2008,5,manual(m5),f,21,29,r,compact,21/29 mpg,21.00 mpg/8.93 kml
+volkswagen,new beetle,2.5,2008,5,manual(m5),f,20,28,r,subcompact,20/28 mpg,20.00 mpg/8.50 kml
+volkswagen,new beetle,2.5,2008,5,auto(s6),f,20,29,r,subcompact,20/29 mpg,20.00 mpg/8.50 kml
+volkswagen,passat,2.0,2008,4,auto(s6),f,19,28,p,midsize,19/28 mpg,19.00 mpg/8.08 kml
+volkswagen,passat,2.0,2008,4,manual(m6),f,21,29,p,midsize,21/29 mpg,21.00 mpg/8.93 kml
+volkswagen,passat,3.6,2008,6,auto(s6),f,17,26,p,midsize,17/26 mpg,17.00 mpg/7.23 kml
