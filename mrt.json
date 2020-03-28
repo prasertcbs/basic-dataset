@@ -1,0 +1,15 @@
+{
+    "BL01": {"name": "Tha Phra",
+             "exit": {"1": "Soi Phet Kasem 10/2",
+                      "2A": "Soi Phet Kasem 11",
+                      "2B": "Bangkokyai District Office, Soi Phet Kasem 15",
+                      "3": "Soi Phet Kasem 12",
+                      "D": "Soi Krittachak"}},
+    "BL27": {"name": "Sam Yan",
+             "exit": {"1": "Wat Hua Lamphong",
+                      "2": "Chamchuri Square"}},
+    "BL22": {"name": "Sukhumvit", 
+             "exit": {"1": "Asokmontri Road",
+                      "2": "Interchange 21",
+                      "3": "Sukhumvit Road"}}
+}
