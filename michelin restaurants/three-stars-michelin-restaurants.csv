@@ -1,0 +1,37 @@
+name,year,latitude,longitude,city,region,zipCode,cuisine,price,url
+Amador,2019,48.25406,16.35915,Wien,Austria,1190,Creative,$$$$$,https://guide.michelin.com/at/en/vienna/wien/restaurant/amador
+Manresa,2019,37.22761,-121.98071,South San Francisco,California,95030,Contemporary,$$$$,https://guide.michelin.com/us/en/california/south-san-francisco/restaurant/manresa
+Benu,2019,37.78521,-122.39876,San Francisco,California,94105,Asian,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/benu
+Quince,2019,37.79762,-122.40337,San Francisco,California,94133,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/quince
+Atelier Crenn,2019,37.79835,-122.43586,San Francisco,California,94123,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/atelier-crenn
+The French Laundry,2019,38.40443,-122.36474,San Francisco,California,94599,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-french-laundry
+The Restaurant at Meadowood,2019,38.52025,-122.46479,San Francisco,California,94574,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/the-restaurant-at-meadowood
+SingleThread,2019,38.612164,-122.869705,San Francisco,California,95448,Contemporary,$$$$,https://guide.michelin.com/us/en/california/san-francisco/restaurant/singlethread
+Alinea,2019,41.91328,-87.64798,Chicago,Chicago,60614,Contemporary,$$$$,https://guide.michelin.com/us/en/illinois/chicago/restaurant/alinea
+Geranium,2019,55.70393,12.57197,København,Denmark,2100 Ø,Creative,$$$$,https://guide.michelin.com/dk/en/capital-region/kobenhavn/restaurant/geranium
+T'ang Court,2019,22.296572,114.1698,Hong Kong,Hong Kong,N/A,Cantonese,$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/t-ang-court
+Bo Innovation,2019,22.27614,114.171,Hong Kong,Hong Kong,N/A,Innovative,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/bo-innovation
+Lung King Heen,2019,22.28665,114.15674,Hong Kong,Hong Kong,N/A,Cantonese,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/lung-king-heen
+Caprice,2019,22.286646,114.15662,Hong Kong,Hong Kong,N/A,French,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/caprice
+8½ Otto e Mezzo - Bombana,2019,22.28189,114.15839,Hong Kong,Hong Kong,N/A,Italian,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/8%C2%BD-otto-e-mezzo-bombana
+L'Atelier de Joël Robuchon,2019,22.281199,114.15816,Hong Kong,Hong Kong,N/A,French contemporary,$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/l-atelier-de-joel-robuchon
+Sushi Shikon,2019,22.28511,114.15208,Hong Kong,Hong Kong,N/A,Sushi,$$$$$,https://guide.michelin.com/hk/en/hong-kong-region/hong-kong/restaurant/sushi-shikon
+The Eight,2019,22.190475,113.54341,Macau,Macau,N/A,Chinese,$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/the-eight
+Robuchon au Dôme,2019,22.189949,113.54395,Macau,Macau,N/A,French contemporary,$$$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/robuchon-au-dome
+Jade Dragon,2019,22.149137,113.56715,Macau,Macau,N/A,Cantonese,$$,https://guide.michelin.com/mo/en/macau-region/macau/restaurant/jade-dragon
+Maaemo,2019,59.910477,10.760408,Oslo,Norway,0191,Modern cuisine,$$$$,https://guide.michelin.com/no/en/oslo-region/oslo/restaurant/maaemo
+Masa,2019,40.76855,-73.98335,New York,New York City,10019,Japanese,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/masa
+Per Se,2019,40.76828,-73.98292,New York,New York City,10019,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/per-se
+Le Bernardin,2019,40.76177,-73.98223,New York,New York City,10019,Seafood,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/le-bernardin
+Eleven Madison Park,2019,40.7417,-73.98712,New York,New York City,10010,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/eleven-madison-park
+Chef's Table at Brooklyn Fare,2019,40.68872,-73.98581,New York,New York City,10018,Contemporary,$$$$,https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/chef-s-table-at-brooklyn-fare
+La Yeon,2019,37.555813,127.00517,Seoul,South Korea,N/A,Korean,$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/la-yeon
+Gaon,2019,37.52265,127.03595,Seoul,South Korea,N/A,Korean,$$$$$,https://guide.michelin.com/kr/en/seoul-capital-area/kr-seoul/restaurant/gaon
+Frantzén,2019,59.33418,18.05812,Stockholm,Sweden,111 22,Modern cuisine,$$$$,https://guide.michelin.com/se/en/stockholm-region/stockholm/restaurant/frantzen
+Le Palais,2019,25.049496,121.51674,Taipei,Taipei,110,Cantonese,$$,https://guide.michelin.com/tw/en/taipei-region/taipei/restaurant/le-palais
+The Inn at Little Washington,2019,38.713623,-78.16208,"Washington, D.C.",Washington DC,22747,American,$$$$,https://guide.michelin.com/us/en/washington/washington-dc/restaurant/the-inn-at-little-washington
+Fat Duck,2019,51.50828,-0.70232,Bray,United Kingdom,SL6 2AQ,Creative,N/A,https://guide.michelin.com/gb/en/buckinghamshire/bray/restaurant/fat-duck
+Waterside Inn,2019,51.50773,-0.70121,Bray,United Kingdom,SL6 2AT,Classic French,N/A,https://guide.michelin.com/gb/en/buckinghamshire/bray/restaurant/waterside-inn
+Alain Ducasse at The Dorchester,2019,51.50712,-0.1525201,Mayfair,United Kingdom,W1K 1QA,French,N/A,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/alain-ducasse-at-the-dorchester
+The Araki,2019,51.511826,-0.140389,Mayfair,United Kingdom,W1S 3BF,Japanese,N/A,https://guide.michelin.com/gb/en/greater-london/mayfair/restaurant/the-araki
+Gordon Ramsay,2019,51.48546,-0.1620201,Chelsea,United Kingdom,SW3 4HP,French,N/A,https://guide.michelin.com/gb/en/greater-london/chelsea/restaurant/gordon-ramsay
