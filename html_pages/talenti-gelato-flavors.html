@@ -1,0 +1,1094 @@
+
+<!doctype html>
+<!--[if IE 7 ]> <html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie7" dir='ltr'> <![endif]-->
+<!--[if IE 8 ]> <html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie8" dir='ltr'> <![endif]-->
+<!--[if IE 9 ]> <html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" class="no-js ie9" dir='ltr'> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" class="no-js adobe-dtm-enabled" dir='ltr'>
+<!--<![endif]-->
+<head>
+<link rel="preconnect" href="wa-uat.unileversolutions.com">
+<meta charset="UTF-8"/>
+<script type="text/javascript">
+    
+window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(3),u=e(4),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}catch(e){throw f.emit("fn-err",[arguments,this,e],t),e}finally{f.emit("fn-end",[c.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){if(!o)return!1;if(e!==o)return!1;if(!n)return!0;if(!i)return!1;for(var t=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var u=navigator.userAgent,f=u.match(a);f&&u.indexOf("Chrome")===-1&&u.indexOf("Chromium")===-1&&(o="Safari",i=f[1])}n.exports={agent:o,version:i,match:r}},{}],3:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],4:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],5:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=v(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||o(t)}function w(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:l,addEventListener:l,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(3),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!E++){var e=x.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+x.offset],null,"api");var t=l.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===l.readyState&&i()}function i(){f("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-x.offset}var u=(new Date).getTime(),f=e("handle"),c=e(3),s=e("ee"),p=e(2),d=window,l=d.document,m="addEventListener",v="attachEvent",g=d.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:g,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1130.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:u,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),l[m]?(l[m]("DOMContentLoaded",i,!1),d[m]("load",r,!1)):(l[v]("onreadystatechange",o),d[v]("onload",r)),f("mark",["firstbyte",u],null,"api");var E=0,O=e(5)},{}]},{},["loader"]);
+;NREUM.loader_config={accountID:"1999784",trustKey:"93570",agentID:"147898224",licenseKey:"e4cdc4fe41",applicationID:"148662751"}
+;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"e4cdc4fe41",applicationID:"148662751",sa:1}
+</script>
+<title>Recommended Just For You! Explore Talenti Gelato Flavors</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Explore all of Talenti's sorbetto and gelato flavors - we have more than 40 to choose from! Made with the finest ingredients from all over the world.">
+<meta name="keywords" content="">
+<meta name="robots" content="noydir,noodp"/>
+<meta property="og:url" content="https://www.talentigelato.com/product-category/talenti-gelato-flavors"/>
+<meta property="og:title" content="All Sorbetto and Gelato Flavors"/>
+<meta property="og:image" content="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/09/Talenti_Logo_horizontal-1.png"/>
+<meta property="og:site_name" content="talentigelato"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Explore all of Talenti's sorbetto and gelato flavors - we have more than 40 to choose from! Made with the finest ingredients from all over the world."/>
+<link rel="apple-touch-icon" sizes="114x114" href="https://www.talentigelato.com/wp-content/uploads/sites/61/2015/09/xapple-touch-icon-precomposed.png,qx22157.pagespeed.ic.6xg2qth5tv.png"/>
+<link rel="apple-touch-icon" sizes="114x114" href=""/>
+<link rel="apple-touch-icon" sizes="72x72" href=""/>
+<link rel="shortcut icon" href="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/04/xTalentiSpoonIconWhite.png,qx22157.pagespeed.ic.LdNk1BGCy5.png">
+<!--[if lt IE 9]>
+            <script src="https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/libs/html5shiv.js?x22157"></script>
+                <![endif]-->
+<script type="text/javascript">
+            var genericFormServiceUrl = 'https://data.unileversolutions.com/v2/genericformservice/api/forms';
+                        document.addEventListener('DOMContentLoaded', function() {
+					
+					function AddTypekit(){
+						var config = {
+							kitId: 'gcx8ipr'
+						};
+						var d = false;
+						var tk = document.createElement('script');
+						tk.src = '//use.typekit.net/' + config.kitId + '.js';
+						tk.type = 'text/javascript';
+						tk.async = 'true';
+						tk.onload = tk.onreadystatechange = function () {
+							var rs = this.readyState;
+							if (d || rs && rs != 'complete' && rs != 'loaded')
+								return;
+							d = true;
+							try {
+								Typekit.load(config);
+							} catch (e) {
+							}
+						};
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(tk, s);
+					}
+					try{
+						bwsliteLiberary.App.onWindowLoadTrigger(AddTypekit,[]);
+					}catch(error){
+						console.log('Header.php says:'+error)
+					}
+				})
+              
+        </script>
+<script>
+        //UDM declaration for adobe analytics
+       function isMobile() {
+		var check = false;
+		(function(a) {if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.		(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a)|| /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)		|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi		(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)		|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-|		|o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)		|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po		(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa		(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm		(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)		|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)		|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4))) {
+		check = true;}})(navigator.userAgent || navigator.vendor || window.opera);
+		return check;
+		}
+
+		var channelVal;
+		if (isMobile()) {
+		channelVal = "Mobile Site";
+		} else {
+		channelVal = "Brand site";
+		}
+		digitalData = {
+			siteInfo : {
+				channel : '',
+				sitetype : 'Digital 2.0 Lite'
+			},
+			page : {
+				pageInfo : {
+					pageURL : "https://www.talentigelato.com/product-category/talenti-gelato-flavors"
+				},
+				category : {
+					pageType : "Product Category page"
+				}
+			},
+			video : [],
+			campaign: [],
+			product : [],
+			privacy : {
+				accessCategories : [ {
+					domains : []
+				} ]
+			},
+			component : [],
+			trackingInfo : {
+					GID : '',
+					"un" : "",
+					tool : [ {
+					ids : ""
+					} ]
+			},
+			promotion : []
+		}
+		digitalData.siteInfo.channel = channelVal;
+		digitalData.page.category.primaryCategory = channelVal;
+		digitalData.trackingInfo = {};
+		digitalData.trackingInfo.tool = [ {} ];
+		digitalData.privacy = {};
+		digitalData.page.attributes = {};
+                digitalData.page.entity = {};
+		digitalData.privacy.accessCategories = [ {} ];
+		digitalData.privacy.accessCategories[0].domains = [];
+		digitalData.event = [];
+		digitalData.page.pageInfo.pageName = "Recommended Just For You! Explore Talenti Gelato Flavors"; //To be set on each page change
+		digitalData.page.pageInfo.language = "en_US";
+		                digitalData.page.category.subCategory1 = "Products";
+                                digitalData.page.category.subCategory2 = "ALL FLAVORS";
+                		digitalData.page.attributes.contentType = "Recommended Just For You! Explore Talenti Gelato Flavors";
+		digitalData.page.attributes.articleName = "";
+		digitalData.page.attributes.brandCategory = 'Food';
+		digitalData.page.attributes.country = 'US';
+		digitalData.page.attributes.globalBrand = 'Talenti';
+		digitalData.page.attributes.localBrand = 'Talenti';
+		//digitalData.user[n].profile[n].profileInfo.crmID = 'CRM ID'; //Optional
+		digitalData.trackingInfo.tool[0].id = "UA-49882637-1";
+                //new
+                digitalData.sitespeed = {};
+                digitalData.sitespeed.applicationID ="148662751";
+                digitalData.sitespeed.licenseKey = "e4cdc4fe41";
+                digitalData.sitespeed.locale = "";
+                digitalData.trackingInfo.tool[1] = {};
+                digitalData.trackingInfo.tool[1].id = "unileverna-talenti-us-uat,unileverna-allbrands-uat";
+                digitalData.siteInfo.internalDomain = "www.talentigelato.com"
+
+        		
+        </script>
+<script>
+		
+			document.addEventListener('DOMContentLoaded', function(){
+				   
+				function loadAdobe(url){
+					
+                    var launch = document.createElement('script');
+                    launch.src = url;
+                    launch.type = 'text/javascript';
+                    launch.async = 'true';                  
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(launch, s);
+				}
+				try{
+				bwsliteLiberary.App.onWindowLoadTrigger(loadAdobe,['//assets.adobedtm.com/launch-EN0ed0003810f9435a8566fef4c9d7b320.min.js']);
+				}catch(error){
+					console.log('Header.php says:'+error)
+				}
+			});
+			
+		
+		</script>
+<link rel='canonical' href='https://www.talentigelato.com/product-category/talenti-gelato-flavors'/>
+<link rel='dns-prefetch' href='//s.w.org'/>
+<link rel='stylesheet' id='smarlabel_style-css' href='https://www.talentigelato.com/wp-content/lib/extensions/smartlabel/css/custom.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='bootstrapcss-css' href='https://www.talentigelato.com/wp-content/themes/bwslite_r1/css/framework/bootstrap.min.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='bootstrap-responsive-css' href='https://www.talentigelato.com/wp-content/themes/bwslite_r1/css/framework/bootstrap-responsive.min.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='bwslite-css' href='https://www.talentigelato.com/wp-content/themes/bwslite_r1/css/custom/bwslite.min.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='style-css' href='https://www.talentigelato.com/wp-content/themes/www.talentigelato.com_theme/style.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='custom-modal-popup-css' href='https://www.talentigelato.com/wp-content/themes/bwslite_r1/css/custom/custom-modal-popup.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='wcag-css' href='https://www.talentigelato.com/wp-content/lib/extensions/wcag/css/wcag.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<link rel='stylesheet' id='custom-style-css' href='https://www.talentigelato.com/wp-content/themes/www.talentigelato.com_theme/custom.css?x22157&amp;ver=1606152513' type='text/css' media='all'/>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.talentigelato.com/wp-includes/css/dist/block-library/style.min.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-includes/js/jquery/jquery.js?x22157&amp;ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-includes/js/jquery/jquery-migrate.min.js?x22157&amp;ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/lib/extensions/smartlabel/js/custom.js?x22157&amp;ver=5.1.1'></script>
+<link rel='https://api.w.org/' href='https://www.talentigelato.com/wp-json/'/>
+<script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https:\/\/www.talentigelato.com","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https:\/\/www.talentigelato.com\/product-category\/talenti-gelato-flavors","name":"ALL FLAVORS"}}]}</script><script type="application/ld+json">{"@context":"http://schema.org/","@type":"itemList","url":"https://www.talentigelato.com/product-category/talenti-gelato-flavors","name":"ALL FLAVORS","description":"","numberOfItems":45,"itemListElement":[{"@type":"ListItem","position":1,"url":"https://www.talentigelato.com/products/coffee-cookie-crumble"},{"@type":"ListItem","position":2,"url":"https://www.talentigelato.com/products/lemon-berry-pie"},{"@type":"ListItem","position":3,"url":"https://www.talentigelato.com/products/coconut-chocolate-cookie"},{"@type":"ListItem","position":4,"url":"https://www.talentigelato.com/products/banana-caramel-crunch"},{"@type":"ListItem","position":5,"url":"https://www.talentigelato.com/products/strawberry-hibiscus-sorbetto"},{"@type":"ListItem","position":6,"url":"https://www.talentigelato.com/products/dark-chocolate-sorbetto"},{"@type":"ListItem","position":7,"url":"https://www.talentigelato.com/products/mediterranean-mint"},{"@type":"ListItem","position":8,"url":"https://www.talentigelato.com/products/double-dark-chocolate"},{"@type":"ListItem","position":9,"url":"https://www.talentigelato.com/products/layers-chocolate-cherry-cheesecake"},{"@type":"ListItem","position":10,"url":"https://www.talentigelato.com/products/belgian-chocolate"},{"@type":"ListItem","position":11,"url":"https://www.talentigelato.com/products/layers-dark-chocolate-cherry"},{"@type":"ListItem","position":12,"url":"https://www.talentigelato.com/products/layers-mint-fudge-cookie"},{"@type":"ListItem","position":13,"url":"https://www.talentigelato.com/products/layers-vanilla-fudge-cookie"},{"@type":"ListItem","position":14,"url":"https://www.talentigelato.com/products/layers-peanut-butter-vanilla-fudge"},{"@type":"ListItem","position":15,"url":"https://www.talentigelato.com/products/chocolate-peanut-butter-cup"},{"@type":"ListItem","position":16,"url":"https://www.talentigelato.com/products/organic-chocolate-mousse"},{"@type":"ListItem","position":17,"url":"https://www.talentigelato.com/products/organic-ginger-matcha"},{"@type":"ListItem","position":18,"url":"https://www.talentigelato.com/products/vanilla-bean-gelato"},{"@type":"ListItem","position":19,"url":"https://www.talentigelato.com/products/southern-butter-pecan"},{"@type":"ListItem","position":20,"url":"https://www.talentigelato.com/products/organic-oak-aged-vanilla-gelato"},{"@type":"ListItem","position":21,"url":"https://www.talentigelato.com/products/peanut-butter-fudge-sorbetto"},{"@type":"ListItem","position":22,"url":"https://www.talentigelato.com/products/vanilla-blueberry-crumble-gelato"},{"@type":"ListItem","position":23,"url":"https://www.talentigelato.com/products/caramel-cookie-crunch"},{"@type":"ListItem","position":24,"url":"https://www.talentigelato.com/products/sea-salt-caramel"},{"@type":"ListItem","position":25,"url":"https://www.talentigelato.com/products/coconut-almond-chocolate"},{"@type":"ListItem","position":26,"url":"https://www.talentigelato.com/products/layers-salted-caramel-truffle"},{"@type":"ListItem","position":27,"url":"https://www.talentigelato.com/products/key-lime-pie"},{"@type":"ListItem","position":28,"url":"https://www.talentigelato.com/products/organic-brown-butter-caramel"},{"@type":"ListItem","position":29,"url":"https://www.talentigelato.com/products/coffee-chocolate-chip"},{"@type":"ListItem","position":30,"url":"https://www.talentigelato.com/products/vanilla-caramel-swirl"},{"@type":"ListItem","position":31,"url":"https://www.talentigelato.com/products/cold-brew-sorbetto"},{"@type":"ListItem","position":32,"url":"https://www.talentigelato.com/products/roman-raspberry"},{"@type":"ListItem","position":33,"url":"https://www.talentigelato.com/products/layers-black-raspberry-vanilla-parfait"},{"@type":"ListItem","position":34,"url":"https://www.talentigelato.com/products/black-raspberry-chocolate-chip"},{"@type":"ListItem","position":35,"url":"https://www.talentigelato.com/products/alphonso-mango-2"},{"@type":"ListItem","position":36,"url":"https://www.talentigelato.com/products/sicilian-pistachio"},{"@type":"ListItem","position":37,"url":"https://www.talentigelato.com/products/raspberry-cheesecake"},{"@type":"ListItem","position":38,"url":"https://www.talentigelato.com/products/pumpkin-pie"},{"@type":"ListItem","position":39,"url":"https://www.talentigelato.com/products/peppermint-bark"},{"@type":"ListItem","position":40,"url":"https://www.talentigelato.com/products/old-world-eggnog"},{"@type":"ListItem","position":41,"url":"https://www.talentigelato.com/products/hazelnut-chocolate-chip"},{"@type":"ListItem","position":42,"url":"https://www.talentigelato.com/products/fudge-brownie"},{"@type":"ListItem","position":43,"url":"https://www.talentigelato.com/products/chocolate-chip-cookie-dough"},{"@type":"ListItem","position":44,"url":"https://www.talentigelato.com/products/caribbean-coconut"},{"@type":"ListItem","position":45,"url":"https://www.talentigelato.com/products/caramel-apple-pie-gelato"}]}</script> <script>
+			document.addEventListener("DOMContentLoaded", function(){
+					function bv_api(){
+						
+						var tk = document.createElement("script");
+						tk.src = "https://apps.bazaarvoice.com/deployments/talenti/main_site/staging/en_US/bv.js";
+						tk.id="bv_js";
+						tk.type = "text/javascript";
+						
+						
+						var s = document.getElementsByTagName("script")[0];
+						s.parentNode.insertBefore(tk, s);
+					};
+					try{
+							bwsliteLiberary.App.onWindowLoadTrigger(bv_api,[]);
+						}catch(error){
+							console.log("bv-render-html.php says:"+ error)
+						}
+			});
+		
+		</script>
+<meta name="ps-key" content="1750-5dadbdd1c1e02d0013a1ae8e"/><meta name="ps-country" content="US"><meta name="ps-language" content="en"> <script>
+            var is_epsilon_cookie_required = 1;
+            var epsilon_cookie_name = 'unileverid';
+            var epsilon_cookie_expiry = 180;            
+            var epsilon_cookie_path = '';
+            var epsilon_signup_post = '3199';
+            //var source_cookie = _satellite.getVisitorId().getMarketingCloudVisitorID();
+            var ajaxurl = "https://www.talentigelato.com/wp-admin/admin-ajax.php";
+        </script>
+<script>
+            jQuery(document).ready(function () {
+                bwsliteLiberary.App.onWindowLoadTrigger(conversant_api);
+            });
+            function conversant_api(){
+                jQuery.getScript("https://s-usweb.dotomi.com/renderer/spd/global/spd.js", function (data, textStatus, jqxhr) {
+                    if (sessionStorage.getItem("conversant_request_sent") === null) {
+                        function getCookie(cname) {
+                            var name = cname + "=";
+                            var ca = document.cookie.split(';');
+                            for (var i = 0; i < ca.length; i++) {
+                                var c = ca[i];
+                                while (c.charAt(0) == ' ') {
+                                    c = c.substring(1);
+                                }
+                                if (c.indexOf(name) == 0) {
+                                    return c.substring(name.length, c.length);
+                                }
+                            }
+                            return "";
+                        }
+                        var createConvesantCookie = function (name, value, days, path) {
+                            if (days != '') {
+                                var date = new Date();
+                                date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                                var expires = "; expires=" + date.toGMTString();
+                            } else
+                                var expires = "";
+                            if (path != '') {
+                                document.cookie = name + "=" + value + expires + "; path=" + path;
+                            } else {
+                                document.cookie = name + "=" + value + expires + "; path=/";
+                            }
+                        }
+                        var config = {
+                            comId: 80143, msgCampId: 2306, tid: 2317                        };
+
+                        var callback = function (response) {
+                            var responseType = response.ResponseType;
+                            var culid = response.culid;
+                            var amvc = 'AMCV_128981DD59DFA4DA0A495DB2%40AdobeOrg';
+                            if (responseType === 'Decision') {
+                                var conv_data = {
+                                    'action': 'send_data_to_conversant',
+                                    'url': window.location.href.split('?')[0],
+                                    'culid': culid,
+                                    'source_cookie': decodeURI(getCookie(amvc)).split('|')[4]
+                                };
+                                jQuery.ajax({"url": ajaxurl, async: false, "type": "POST", "data": conv_data, "success": function (resp) {
+                                        if (resp.status == 1) {
+                                            if (!jQuery("body").hasClass("page-template-signup")) {
+                                                sessionStorage.setItem("conversant_request_sent", true);
+                                                createConvesantCookie(epsilon_cookie_name, culid, epsilon_cookie_expiry, epsilon_cookie_path);
+                                            }
+                                        } else {
+                                            console.log('Conversant Cookie is not getting created');
+                                        }
+                                    },
+                                    error: function (error) {
+                                        console.log(error);
+                                    }
+                                });
+                            } else if (responseType === 'Error') {
+                                console.log("Conversant responseType: " + responseType);
+                            } else if (responseType === 'Empty') {
+                                console.log("Conversant responseType: " + responseType);
+                            }
+                        }
+                        CNVR.fetchUserDecision(config, callback);
+                        console.log( jqxhr.status );
+                        
+                    }
+                });
+            }
+        </script>
+<script data-pagespeed-no-defer>//<![CDATA[
+(function(){function f(a,b,d){if(a.addEventListener)a.addEventListener(b,d,!1);else if(a.attachEvent)a.attachEvent("on"+b,d);else{var c=a["on"+b];a["on"+b]=function(){d.call(this);c&&c.call(this)}}};window.pagespeed=window.pagespeed||{};var g=window.pagespeed;function k(a){this.g=[];this.f=0;this.h=!1;this.j=a;this.i=null;this.l=0;this.b=!1;this.a=0}function l(a,b){var d=b.getAttribute("data-pagespeed-lazy-position");if(d)return parseInt(d,0);var d=b.offsetTop,c=b.offsetParent;c&&(d+=l(a,c));d=Math.max(d,0);b.setAttribute("data-pagespeed-lazy-position",d);return d}
+function m(a,b){var d,c,e;if(!a.b&&(0==b.offsetHeight||0==b.offsetWidth))return!1;a:if(b.currentStyle)c=b.currentStyle.position;else{if(document.defaultView&&document.defaultView.getComputedStyle&&(c=document.defaultView.getComputedStyle(b,null))){c=c.getPropertyValue("position");break a}c=b.style&&b.style.position?b.style.position:""}if("relative"==c)return!0;e=0;"number"==typeof window.pageYOffset?e=window.pageYOffset:document.body&&document.body.scrollTop?e=document.body.scrollTop:document.documentElement&&
+document.documentElement.scrollTop&&(e=document.documentElement.scrollTop);d=window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight;c=e;e+=d;var h=b.getBoundingClientRect();h?(e=h.top-d,c=h.bottom):(h=l(a,b),d=h+b.offsetHeight,e=h-e,c=d-c);return e<=a.f&&0<=c+a.f}
+k.prototype.m=function(a){p(a);var b=this;window.setTimeout(function(){var d=a.getAttribute("data-pagespeed-lazy-src");if(d)if((b.h||m(b,a))&&-1!=a.src.indexOf(b.j)){var c=a.parentNode,e=a.nextSibling;c&&c.removeChild(a);a.c&&(a.getAttribute=a.c);a.removeAttribute("onload");a.tagName&&"IMG"==a.tagName&&g.CriticalImages&&f(a,"load",function(){g.CriticalImages.checkImageForCriticality(this);b.b&&(b.a--,b.a||g.CriticalImages.checkCriticalImages())});a.removeAttribute("data-pagespeed-lazy-src");a.removeAttribute("data-pagespeed-lazy-replaced-functions");
+c&&c.insertBefore(a,e);if(c=a.getAttribute("data-pagespeed-lazy-srcset"))a.srcset=c,a.removeAttribute("data-pagespeed-lazy-srcset");a.src=d}else b.g.push(a)},0)};k.prototype.loadIfVisibleAndMaybeBeacon=k.prototype.m;k.prototype.s=function(){this.h=!0;q(this)};k.prototype.loadAllImages=k.prototype.s;function q(a){var b=a.g,d=b.length;a.g=[];for(var c=0;c<d;++c)a.m(b[c])}function t(a,b){return a.a?null!=a.a(b):null!=a.getAttribute(b)}
+k.prototype.u=function(){for(var a=document.getElementsByTagName("img"),b=0,d;d=a[b];b++)t(d,"data-pagespeed-lazy-src")&&p(d)};k.prototype.overrideAttributeFunctions=k.prototype.u;function p(a){t(a,"data-pagespeed-lazy-replaced-functions")||(a.c=a.getAttribute,a.getAttribute=function(a){"src"==a.toLowerCase()&&t(this,"data-pagespeed-lazy-src")&&(a="data-pagespeed-lazy-src");return this.c(a)},a.setAttribute("data-pagespeed-lazy-replaced-functions","1"))}
+g.o=function(a,b){function d(){if(!(c.b&&a||c.i)){var b=200;200<(new Date).getTime()-c.l&&(b=0);c.i=window.setTimeout(function(){c.l=(new Date).getTime();q(c);c.i=null},b)}}var c=new k(b);g.lazyLoadImages=c;f(window,"load",function(){c.b=!0;c.h=a;c.f=200;if(g.CriticalImages){for(var b=0,d=document.getElementsByTagName("img"),r=0,n;n=d[r];r++)-1!=n.src.indexOf(c.j)&&t(n,"data-pagespeed-lazy-src")&&b++;c.a=b;c.a||g.CriticalImages.checkCriticalImages()}q(c)});b.indexOf("data")&&((new Image).src=b);f(window,
+"scroll",d);f(window,"resize",d)};g.lazyLoadInit=g.o;})();
+
+pagespeed.lazyLoadInit(false, "https://www.talentigelato.com/wp-content/1.gif");
+
+//]]></script></head>
+<body id="product" class="archive tax-product-category term-talenti-gelato-flavors term-244 product-landing">
+<script>
+		(function() {
+			function f(a, b, d) {
+					if (a.addEventListener)
+							a.addEventListener(b, d, !1);
+					else if (a.attachEvent)
+							a.attachEvent("on" + b, d);
+					else {
+							var c = a["on" + b];
+							a["on" + b] = function() {
+									d.call(this);
+									c && c.call(this)
+							}
+					}
+			}
+			;window.pagespeed = window.pagespeed || {};
+			var g = window.pagespeed;
+			function k(a) {
+					this.g = [];
+					this.f = 0;
+					this.h = !1;
+					this.j = a;
+					this.i = null;
+					this.l = 0;
+					this.b = !1;
+					this.a = 0
+			}
+			function l(a, b) {
+					var d = b.getAttribute("data-pagespeed-lazy-position");
+					if (d)
+							return parseInt(d, 0);
+					var d = b.offsetTop
+					  , c = b.offsetParent;
+					c && (d += l(a, c));
+					d = Math.max(d, 0);
+					b.setAttribute("data-pagespeed-lazy-position", d);
+					return d
+			}
+			function m(a, b) {
+					var d, c, e;
+					if (!a.b && (0 == b.offsetHeight || 0 == b.offsetWidth))
+							return !1;
+						
+					if (0 == b.getBoundingClientRect().height && 0 == b.getBoundingClientRect().bottom)
+							return !1;
+					a: if (b.currentStyle)
+							c = b.currentStyle.position;
+					else {
+							if (document.defaultView && document.defaultView.getComputedStyle && (c = document.defaultView.getComputedStyle(b, null))) {
+									c = c.getPropertyValue("position");
+									break a
+							}
+							c = b.style && b.style.position ? b.style.position : ""
+					}
+					/* if ("relative" == c)
+							return !0; */
+					e = 0;
+					"number" == typeof window.pageYOffset ? e = window.pageYOffset : document.body && document.body.scrollTop ? e = document.body.scrollTop : document.documentElement && document.documentElement.scrollTop && (e = document.documentElement.scrollTop);
+					d = window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight;
+					c = e;
+					e += d;
+					var h = b.getBoundingClientRect();
+					h ? (e = h.top - d,
+					c = h.bottom) : (h = l(a, b),
+					d = h + b.offsetHeight,
+					e = h - e,
+					c = d - c);
+					return e <= a.f && 0 <= c + a.f
+			}
+			k.prototype.m = function(a) {
+					p(a);
+					var b = this;
+					window.setTimeout(function() {
+							var d = a.getAttribute("data-pagespeed-lazy-src");
+							if (d)
+									if ((b.h || m(b, a)) && -1 != a.src.indexOf(b.j)) {
+											var c = a.parentNode
+											  , e = a.nextSibling;
+											c && c.removeChild(a);
+											a.c && (a.getAttribute = a.c);
+											a.removeAttribute("onload");
+											a.tagName && "IMG" == a.tagName && g.CriticalImages && f(a, "load", function() {
+													g.CriticalImages.checkImageForCriticality(this);
+													b.b && (b.a--,
+													b.a || g.CriticalImages.checkCriticalImages())
+											});
+											a.removeAttribute("data-pagespeed-lazy-src");
+											a.removeAttribute("data-pagespeed-lazy-replaced-functions");
+											c && c.insertBefore(a, e);
+											if (c = a.getAttribute("data-pagespeed-lazy-srcset"))
+													a.srcset = c,
+													a.removeAttribute("data-pagespeed-lazy-srcset");
+											a.src = d
+									} else
+											b.g.push(a)
+					}, 0)
+			}
+			;
+			k.prototype.loadIfVisibleAndMaybeBeacon = k.prototype.m;
+			k.prototype.s = function() {
+					this.h = !0;
+					q(this)
+			}
+			;
+			k.prototype.loadAllImages = k.prototype.s;
+			function q(a) {
+					var b = a.g
+					  , d = b.length;
+					a.g = [];
+					for (var c = 0; c < d; ++c)
+							a.m(b[c])
+			}
+			function t(a, b) {
+					return a.a ? null != a.a(b) : null != a.getAttribute(b)
+			}
+			k.prototype.u = function() {
+					for (var a = document.getElementsByTagName("img"), b = 0, d; d = a[b]; b++)
+							t(d, "data-pagespeed-lazy-src") && p(d)
+			}
+			;
+			k.prototype.overrideAttributeFunctions = k.prototype.u;
+			function p(a) {
+					t(a, "data-pagespeed-lazy-replaced-functions") || (a.c = a.getAttribute,
+					a.getAttribute = function(a) {
+							"src" == a.toLowerCase() && t(this, "data-pagespeed-lazy-src") && (a = "data-pagespeed-lazy-src");
+							return this.c(a)
+					}
+					,
+					a.setAttribute("data-pagespeed-lazy-replaced-functions", "1"))
+			}
+			g.o = function(a, b) {
+					function d() {
+							if (!(c.b && a || c.i)) {
+									var b = 200;
+									200 < (new Date).getTime() - c.l && (b = 0);
+									c.i = window.setTimeout(function() {
+											c.l = (new Date).getTime();
+											q(c);
+											c.i = null
+									}, b)
+							}
+					}
+					var c = new k(b);
+					g.lazyLoadImages = c;
+					f(window, "load", function() {
+							c.b = !0;
+							c.h = a;
+							c.f = 5;
+							if (g.CriticalImages) {
+									for (var b = 0, d = document.getElementsByTagName("img"), r = 0, n; n = d[r]; r++)
+											-1 != n.src.indexOf(c.j) && t(n, "data-pagespeed-lazy-src") && b++;
+									c.a = b;
+									c.a || g.CriticalImages.checkCriticalImages()
+							}
+							q(c)
+					});
+					b.indexOf("data") && ((new Image).src = b);
+					f(window, "scroll", d);
+					f(window, "resize", d);
+					f(window, "click", d);
+					//slider event trigger event
+					jQuery('document').ready(function(){
+						if(jQuery('#time_interval').val()){
+							jQuery('.carousel').each(function () {							 
+								jQuery(this).on("slid",d); 	
+							});
+						};				
+					});
+				
+			}
+			;
+			g.lazyLoadInit = g.o;
+		}
+		)();
+		pagespeed.lazyLoadInit(false, "https://www.talentigelato.com/wp-content/1.gif");
+        </script>
+<div class="hidden"><a href="#main">Skip to main content</a></div>
+<header id="header" class="modern-header">
+<section class="banner clearfix">
+<div class="container">
+<a class="logo pull-left" data-ct-attr="Header_Logo_Click" data-ct-identifier="Header_Logo_Click" data-ct-category="Engagement" data-ct-action="Click To Action" data-ct-information="D2 Lite - Logo Click - https://www.talentigelato.com" href="https://www.talentigelato.com" title="talentigelato">
+<img alt="talentigelato" data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/09/xTalenti_Logo_horizontal-1.png,qx22157.pagespeed.ic.ThzVpGvsPN.png" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);">
+</a>
+<div class='menuWrapper'>
+<div class="social-icons pull-right social-button follow-icon">
+<a aria-label='Open Link in New Window' DATA-CT-ACTION="Clicks to Social Platforms" DATA-CT-CATEGORY="Advocacy" DATA-CT-IDENTIFIER="Body - Facebook -https://www.facebook.com/love.talenti" DATA-CT-INFORMATION="Body - Facebook -https://www.facebook.com/love.talenti" class="social-facebook" href="https://www.facebook.com/love.talenti" target="_blank" title="facebook">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAACB1BMVEVAHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh0AAAAVAAAdAAAfAAAgAAAiAAAjAAAkAAAmAAAmAQEnAAAnAQAoAgAoBAQrDQwtBwYtCAcuCQgwDQwxDAsyGxk1ERA1ERE3ExI3FBM4FBM5FRQ5FhU7GRg8GRg8GRk9Gxo+HBs/Gxo/HRxAHRxAHR1AHh1BHx5CIB5CIB9CICBDISBEISBEIiFFIyFGIiFGJSNIJiVJKCdKKShLKilXODZZOTdcPjxdPz5fQ0FjR0ZrUE9sT01xV1V5X159ZGF/Z2aEbGuIcnCIcnGLdXWLdnWOeHaOeXiTf36hkJCjkY+tnp2xoaDd1dTd19fi3dvj3t3l4eDm4eDn4uLr5+bu6+r++fn//v7///7///+P2MQmAAAAVHRSTlMAAgMECxMUGBkbKSovMjc5O0NHSU5SVFVXW11iY2Vsb3N0dnh5foKDhIiJi4yOj5WanaClp6irrq+yu8DBx8jJyszNztLU1dbX3uDn6ezt7vH6/P7F/VY/AAABcklEQVQoz2NggAMeZRMbO3trI3luBgzAJONRCQeOEmiygt6VKMCdF1lWsxIDKCBkjSuxAF2YrH4lVqACkZVGiNTmxUaGpzVAecIgWQ4/uGxDauaE6bN6cssgXDdmoLQOXLYqvWXBmjVr5sWUQAUUGRjYfODSxQnzgbJr5sbBpN0ZGaQQNuflL1yzZkZpcwlcRJDBEG50ZVj8ojUrM0KSmuDSWgwOcKPL+6asWLN65sTenDKYmAWDP4yZXbJkDRjMiYDrdmUIwJCeGgWX9kRIl1R29C9fs3pSZ1sBkrQvwmmRyYvXrGoNza+DS7sw2CI8llW/dM3qrlSkYDdjMMAnrcYghk9agIHFC7e0EzBK1OG8zMZla9Z0pyCkZYHSLJ4wXmH15NnT2vPhsrbg5CAC49ZUJEZEFyG8xQdJLqrYE5MMLLHpYZNVQiRVOQzJIHHkhM7ljCprxYmWT4SsgmFygeb8mLmMgV1S29TS0kRDlBUhBgAtlEoRCxXvvQAAAABJRU5ErkJggg==" alt="facebook icon">
+</a>
+<a aria-label='Open Link in New Window' DATA-CT-ACTION="Clicks to Social Platforms" DATA-CT-CATEGORY="Advocacy" DATA-CT-IDENTIFIER="Body - Follow on Twitter - https://www.twitter.com/TalentiGelato" DATA-CT-INFORMATION="Body - Follow on Twitter - https://www.twitter.com/TalentiGelato" class="social-twitter" href="https://www.twitter.com/TalentiGelato" target="_blank" title="twitter">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAACW1BMVEVAHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh0XAAAeAAAgAAAhAAAiAAAjAAAlAAAmAAAnAAAnAQAoAQAoAgApAwMpBAMqBQQrBgUsBwYsCActCAguCAcvCQcvCgkvDAswCwowDAsyDQszDw4zEBA0Dw01EA81EQ81ERA1EhE2ExI3ExI4FRQ5FhU5FxY6GBc7GBc8GRg8GRk8Ghk9Ghk+Gxo+HBs/HBs/HBw/HRxAHRxAHhxAHh1AHx5BHh1BHx5CIB5CIB9DISBDIiBDIiFEIyFFIyJFJCNIJyZKKSdKKShLKihQMC5WNzVXODZXODdgQ0JjRkVyWFZ0WVd2XFt2XVt3Xlx8YmF9ZWOFbm2TfnyVf32WgoGZhoShjoyhjo2hkI+ikI6llJOomJetnZuvn563qai5qqjBs7HBtrbCtbPDt7bKvrzOxcTPxcTQxsXUzMvWzszd1dTd1tTg2djn4uHq5eXv6ujx7u3x7u728/L7+fn8/Pz//v7////zHHyaAAAAU3RSTlMABwwNERIeICEkKi8wMjQ1ODw/QUJERUZHSFFSWl1iY2ZpdHd5fX6Dh42UlZaXmZqcn6KjpKWmrK6xsrO3vL3CyMnMztHU197g4ebq7PL09ff8/Xb3HawAAAG3SURBVCjPY2CAA055fVtHB3sjZX4GTCBmGdQGA86KaJIcNm0owEUcWVbKtw0dqCBkZduwAD2YrHAbVqAGkWX1xy7dJgKWNkcVbIazvECyXBB2ZWM7kOyujYmOyqjObugEiYH8ZwyW7SzI6gbKViQt2rBmevrsCfUgQQ8GBiY/EKOqbsuC4KrupoSVJ06cOLRz0+QSsCZBBgkwXdpw4viCyNCQ6SfAYNvEYrCwBoMKmK5N2XzixNb5mXPBskdmxXeDha0YtCHSxUuOAsUP7wdL78kphwY+gwmYLqvbewIBtqfVQaQ9GEwhjMjFxxDSq8M6IKLuDFpgur0mdiNCemYqNGCcGJSgrJilcNn1oa1QQXMGIUioNOTFLdwNkd1XmNsJlVZlYPQB0Q1TpnXN2AGW3dWS0AsLdV4GBh2wy6euOAiWPLA8P7EPJusKDHN2MKt80pxla9etmtcfXtQDjzIZUJTpgljdNclhEZFhMUWdnXBZN3B8M3rBYroBNea5IcmFB3tiUYAlNnFsssqIpCrgiS4ZKIec0JkNUGXteNDyCZ+eN0wuwEIUSy5jkVQ3tLQ205RmQ4gBAPKrc7le/dBzAAAAAElFTkSuQmCC" alt="twitter icon">
+</a>
+<a aria-label='Open Link in New Window' DATA-CT-ACTION="Clicks to Social Platforms" DATA-CT-CATEGORY="Advocacy" DATA-CT-IDENTIFIER="Body - Link To Instagram - https://www.instagram.com/talenti/?hl=en" DATA-CT-INFORMATION="Body - Link To Instagram - https://www.instagram.com/talenti/?hl=en" class="social-instagram" href="https://www.instagram.com/talenti/?hl=en" target="_blank" title="instagram">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAACiFBMVEVAHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh0EAAAIAAAPAAAQAAARAAAUAAAVAAAWAAAXAAAYAAAZAAAcAAAdAAAiAAAjAAAkAAAlAAAlAQAmAAAnAAAnAQApAwIqAwIqBAMqBAQrBwcsBQMsBwYtBQMtCActCQguCQguCgkvCggvCgkxDQ01ERE3FBI4FBM4FRM4FRQ5FRQ5FhU8GRg9GRg9Ghk+HBs/HBs/HRxAHh1BHx5BIB9CHx5CIB5CISBDIR9DISBEIiFHJiRLKilMKylUNTNVNTNWNzVXNzVXODZYOTdYPTxZOjhZOjlaPDpbPjxcPDpeQD9fQkBgQT9gQkFiRUNkR0VlR0ZlSEdlSEhmSklsUU9tUlFuUlBzWVd0W1p3Xl2BamqDbGyFcG+FcHCGcHCGcXCLdnWMdnWNd3aQenmVgX+Wg4GfjYypmJeqmZisnJuvn56woJ+7razBtLPBtrXCt7bDuLfEuLfFurjFurnLwcDUzMvVzcza0dDb09Ld19ff2tri3t7m4eDr5ubs5+fs6Ofs6Ojv7Ovw7u7x7ezz8O/08O/18vH9+/v+/v7///+Ow0NUAAAAT3RSTlMACQoPERIVHigpKiwwMzQ3Oz1DREZHSElNUFNWXl9jaHJzdXd9goWHi5qdnp+goaOoqqutr7Gys7W6vMLDxMfIyc3O0NfY2uHl6uvx9/j5x2x22wAAAdlJREFUKM9jYIADHmVda3sHK015DgZMIGvXAAfm4miSQo4NKMAKxQSlBnTgI42QVW/AAuRhssoNWIEYRFYAzGmqKoyLBYOsykawiB8bWNodxO7IK5iyYu2qVavWrJpbkdwIVmABkpUDsdrTuw5fh4EzixObwfr5gNIuIEZxxenr6ydMmNw/eXr3/FPXp2WAtRsyMPCC1cVuur4wMC86NDrcf8b2RRcOxdWCRH2ZGVRAdH3igYtpVYl9e84dmbTk+qwtVysqwbokGIzB0inHj2YmzLx+fd/l6xsKYrZdrysFS6sy2EKkTx5NKLpyriwsfv/1zuCd12rKwdK6DG4Q6RPHIuZcXx7eGt9yfXPADpi0KYMrqnRiG7K0CYMNkuFnS8Lidl/vCYFLazMYwJyWnTD7+vW9l65vjI3fCnOaCoMixGMHL6ZWJU3ce+7I0qTa6F0wj4kwcMOCZUFQbhQwWMJzIquvQ4PFm4mBwQkWqOvAgTq5d9l5WKDqAsNcEiNKzsKihBMUZc7QCJ26Ehyhq+fBIlQPHN9c0OSQH4uaHLwYIclFBnti4oclNgVssiKIpCrjhy7pIYic0LksUWX1WNHyibCRD0zOU4sPSy5jl9LQNzPVURNlQYgBAALSZ13fKqtaAAAAAElFTkSuQmCC" alt="instagram icon">
+</a>
+</div>
+<a href="https://www.talentigelato.com/sign-up" class="sign-up" data-ct-category="Engagement" data-ct-action="SignUp Start" data-ct-information="https://www.talentigelato.com/sign-up" data-ct-attr="SIGN UP-Home-Click">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAACtVBMVEVAHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh1AHh0HAAAMAAAOAAAPAAAQAAARAAAXAAAYAAAbAAAcAAAfBgYjAAAkAAAlAAAnAAAnAQAoAQAoAgEoAgIpAwIrBQUsAgEtBwUtBwYtCAcuCQguCgkvCQcwCggwDAsxDQwyDQwyDw4zDw4zEA80Dw40EA80ERA1ERA2ERE2EhE3ExI3FBM4FRQ5FhU6FxY9GRg9Ghk+Gxo/Gxk/HRs/HRxAHRtAHRxAHhtAHh1BHx5CIB9CISBDISBDIiBDIiFFIyJGJCNHJiRJKCZKKidLKihLKilOLSxPLi1QLy5UNDNUNTNVNjVWNzVXOThaOzlhREJhRENjR0VkRkVqTkxsUU9tUlFvU1FwVlR1Wlh2W1l2XVt4Xlx4X115YWB8Y2GBaWeCa2mFbm6GcG6Jc3KNd3WRfHuTfnuejIuhkI+mlJOxoqG3qai7rq2+srC/srHFurjKv73PxsXQw8LSysjVzMza0M/d0tHe19Xe19bm4ODo4+Hp4+Lr5uTt5+bt6ejw6+rw7e3x7+/08O/38/L49PP49fX59vX5+Pn6+Pj7+Pf7+fj8+Pf8+vn9+vn9+/n9/Pv++/n//Pv//fv//v3///+K7/tJAAAAU3RSTlMABwwNERIeICEkKi8wMjQ1ODw/QUJERUZHSFFSWl1iY2ZpdHd5fX6Dh42UlZaXmZqcn6KjpKWmrK6xsrO3vL3CyMnMztHU197g4ebq7PL09ff8/Xb3HawAAAHjSURBVCjPY2CAA055fVtHB3sjZX4GTCBmGdQFA86KaJIcNl0owEUcWVbKtwsdqCBkZbuwAD2YrHAXVqAGkWX1xy7dJQKWNu/q6mlLT01DAinZXd1dXV4gWS6guqb+FavWbdoIBZvWrl7a0QwUBvnPGEgXT7377M75Z08eA8GTZ+fuPTvTWAsU9mBgYPID0qXTLjx7uKBq3uzZs+fMLVry7NnJxjqQ7YIMEiCqdObFHScut0ZUlJSUhE++eWT32XawtAaDCkT66bLYS8/mx3R3xSx8djpy8zWItBWDNkT6/tawslPPFkdHrXx2LDN01xWItDODCVR6S0Za/tFni5Y/O5ick7gTKu3BYAqTTpmQm3Dg2bM98QV98TBpdwYtuHRXX2Hivr1xJX1dcGknBiWEdFdfXV5WQ28XQtqcQQgsPevxmpCkpKSU+PgUIBW8/WonWFqVgdEHFGoznu3fsA0O1h++1QIKtS5eBgYdIFUx5fiNB7fh4NH1Q031QGFXYJizA+m27knTp0+Dg+nTJ4JjVAYUZbpdXd1t1eWVSKC8BhShbuD4ZvTCkRy4IcmFB7usAiyxiWOTVUYkVQFPdMlAOeSEzmyAKmvHg5ZP+PS8YXIBFqJYchmLpLqhpbWZpjQbQgwAxXp8gXwE/ysAAAAASUVORK5CYII=" alt="newsletter sign-up" title="newsletter sign-up">
+</a>
+</div>
+</div>
+</section>
+<section class="navbar navbar-static-top">
+<section class="navbar-inner">
+<button id="left-nav-btn" data-target="#second" data-toggle="collapse" class="btn-navbar" type="button"></button>
+<button data-target="#first" data-toggle="collapse" class="btn-navbar collapsed" type="button" data-ct-category="Engagement" data-ct-action="Click To Action" data-ct-information="Drawer Menu" data-ct-attr="ctDrawerMenu"></button>
+<div class="container">
+<nav id="first" class="nav-collapse" role="navigation">
+<div class="menu-header-navigation-container"><ul id="menu-header-navigation" class="nav"><li class="menu-item-89"><a href="https://www.talentigelato.com/our-craft" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-89" data-ct-information="Top Navigation-HOW TALENTI IS MADE-https://www.talentigelato.com/our-craft">HOW TALENTI IS MADE</a></li>
+<li class="menu-item-1587 active"><a href="javascript:void(0)" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-1587" data-ct-information="Top Navigation-TALENTI FLAVORS-">TALENTI FLAVORS<span class="arrow">X</span><span class="top-desktop">X</span></a>
+<ul class="nav">
+<li class="menu-item-911 active"><a href="https://www.talentigelato.com/product-category/talenti-gelato-flavors" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-911" data-ct-information="Top Navigation-ALL FLAVORS-https://www.talentigelato.com/product-category/talenti-gelato-flavors">ALL FLAVORS</a></li>
+<li class="menu-item-2302"><a href="https://www.talentigelato.com/product-category/new-flavors" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-2302" data-ct-information="Top Navigation-NEW!-https://www.talentigelato.com/product-category/new-flavors">NEW!</a></li>
+<li class="menu-item-2832"><a href="https://www.talentigelato.com/product-category/gelato-layers" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-2832" data-ct-information="Top Navigation-LAYERS-https://www.talentigelato.com/product-category/gelato-layers">LAYERS</a></li>
+<li class="menu-item-2576"><a href="https://www.talentigelato.com/product-category/organic-gelato" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-2576" data-ct-information="Top Navigation-ORGANIC GELATO-https://www.talentigelato.com/product-category/organic-gelato">ORGANIC GELATO</a></li>
+<li class="menu-item-104"><a href="https://www.talentigelato.com/product-category/dairy-free-sorbetto" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-104" data-ct-information="Top Navigation-DAIRY-FREE SORBETTOS-https://www.talentigelato.com/product-category/dairy-free-sorbetto">DAIRY-FREE SORBETTOS</a></li>
+<li class="menu-item-88"><a href="https://www.talentigelato.com/product-category/gluten-free-gelato" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-88" data-ct-information="Top Navigation-GLUTEN-FREE-https://www.talentigelato.com/product-category/gluten-free-gelato">GLUTEN-FREE</a></li>
+<li class="menu-item-105"><a href="https://www.talentigelato.com/product-category/fat-free-gelato-and-sorbetto" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-105" data-ct-information="Top Navigation-FAT-FREE-https://www.talentigelato.com/product-category/fat-free-gelato-and-sorbetto">FAT-FREE</a></li>
+<li class="menu-item-1035"><a href="https://www.talentigelato.com/product-category/vegan-gelato" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-1035" data-ct-information="Top Navigation-VEGAN-https://www.talentigelato.com/product-category/vegan-gelato">VEGAN</a></li>
+<li class="menu-item-1406"><a href="https://www.talentigelato.com/product-category/retired-talenti-recipes" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-1406" data-ct-information="Top Navigation-RETIRED RECIPES-https://www.talentigelato.com/product-category/retired-talenti-recipes">RETIRED RECIPES</a></li>
+</ul>
+</li>
+<li class="menu-item-2950"><a href="https://www.talentigelato.com/pintcycling" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-2950" data-ct-information="Top Navigation-SUSTAINABILITY-https://www.talentigelato.com/pintcycling">SUSTAINABILITY</a></li>
+<li class="menu-item-144"><a href="https://www.talentigelato.com/faq" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-144" data-ct-information="Top Navigation-FAQs-https://www.talentigelato.com/faq">FAQs</a></li>
+<li class="menu-item-146"><a href="https://www.talentigelato.com/findtalenti" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-146" data-ct-information="Top Navigation-WHERE TO BUY-https://www.talentigelato.com/findtalenti">WHERE TO BUY<span class="arrow">X</span><span class="top-desktop">X</span></a>
+<ul class="nav">
+<li class="menu-item-3322"><a href="https://www.talentigelato.com/findtalenti" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-3322" data-ct-information="Top Navigation-FIND A STORE-https://www.talentigelato.com/findtalenti">FIND A STORE</a></li>
+<li class="menu-item-3323"><a href="https://www.talentigelato.com/get-talenti-delivered-now" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-3323" data-ct-information="Top Navigation-DELIVERY NOW-https://www.talentigelato.com/get-talenti-delivered-now">DELIVERY NOW</a></li>
+</ul>
+</li>
+<li class="menu-item-3350"><a href="https://www.talentigelato.com/sign-up" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-3350" data-ct-information="Top Navigation-SIGN UP-https://www.talentigelato.com/sign-up">SIGN UP</a></li>
+<li class="menu-item-3354"><a href="http://onelink.to/79jxb3" data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="top_nav-3354" data-ct-information="Top Navigation-SMARTLABEL APP-http://onelink.to/79jxb3">SMARTLABEL APP</a></li>
+</ul></div> <form class="navbar-form form-search pull-right" method="get" action="https://www.talentigelato.com/">
+<input class="input-medium" title="Please fill out the field" type="text" name="s" placeholder="What are you searching for?">
+<button class="btn-search" type="submit" value="search" name="submit">search</button>
+</form>
+</nav>
+</div>
+</section>
+</section>
+</header>
+<section id="breadcrumb" class="visible-desktop visible-tablet">
+<div class="container">
+<ul class="breadcrumb">
+<li role="listitem"><a data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="breadcrumb_item-home" data-ct-information="Breadcrumb-Home-https://www.talentigelato.com" href="https://www.talentigelato.com">Home</a> <span class="divider"> / </span></li>
+<li role="listitem" class="active">ALL FLAVORS</li>
+</ul>
+</div>
+</section>
+<section id="main" role="main">
+<div class="container">
+<section class="row">
+<h1 class="sr-only">COFFEE COOKIE CRUMBLE</h1>
+<h2 class="sr-only">COFFEE COOKIE CRUMBLE</h1>
+<section class="span12">
+<h3> <div class="row">
+<section class="span9">
+<div class='heading_h3'><span>ALL FLAVORS</span></div> </section>
+</div>
+</h3>
+<p class="sub-heading"></p>
+<div class="row">
+<section class="span9 full-width-section">
+<article class="teaser7">
+<ul class="thumbnails">
+<li class="span2" id="product-item-304">
+<div class="thumbnail">
+<a data-product-id="186852000846" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_304" DATA-CT-INFORMATION="ALPHONSO MANGO SORBETTO" href="https://www.talentigelato.com/products/alphonso-mango-2">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xMango_Pint_259px-w-brighter-190x248.png,qx22157.pagespeed.ic.ic86ReFkSr.png" alt="ALPHONSO MANGO SORBETTO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="ALPHONSO MANGO SORBETTO">ALPHONSO MANGO SORBETTO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000846" data-bv-redirect-url="https://www.talentigelato.com/products/alphonso-mango-2" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000846"></div> </div>
+</li>
+<li class="span2" id="product-item-3194">
+<div class="thumbnail">
+<a data-product-id="186852001294" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_3194" DATA-CT-INFORMATION="BANANA CARAMEL CRUNCH" href="https://www.talentigelato.com/products/banana-caramel-crunch">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/02/xFlavor-Image_BCC_259px-w-190x244.png,qx22157.pagespeed.ic.MdXLizAPIO.png" alt="BANANA CARAMEL CRUNCH" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="BANANA CARAMEL CRUNCH">BANANA CARAMEL CRUNCH</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001294" data-bv-redirect-url="https://www.talentigelato.com/products/banana-caramel-crunch" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001294"></div> </div>
+</li>
+<li class="span2" id="product-item-149">
+<div class="thumbnail">
+<a data-product-id="186852000310" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_149" DATA-CT-INFORMATION="BELGIAN CHOCOLATE GELATO" href="https://www.talentigelato.com/products/belgian-chocolate">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xBelgian-Chocolate-_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.6S8CLYr3Gi.png" alt="Belgian Chocolate Gelato" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="BELGIAN CHOCOLATE GELATO">BELGIAN CHOCOLATE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000310" data-bv-redirect-url="https://www.talentigelato.com/products/belgian-chocolate" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000310"></div> </div>
+</li>
+<li class="span2" id="product-item-166">
+<div class="thumbnail">
+<a data-product-id="186852000617" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_166" DATA-CT-INFORMATION="BLACK RASPBERRY CHOCOLATE CHIP GELATO" href="https://www.talentigelato.com/products/black-raspberry-chocolate-chip">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xBlack-Raz-ChocChip_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.PoJFsgUy3l.png" alt="Black Raspberry Chocolate Chip" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="BLACK RASPBERRY CHOCOLATE CHIP GELATO">BLACK RASPBERRY CHOCOLATE CHIP GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000617" data-bv-redirect-url="https://www.talentigelato.com/products/black-raspberry-chocolate-chip" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000617"></div> </div>
+</li>
+<li class="span2" id="product-item-2730">
+<div class="thumbnail">
+<a data-product-id="186852001119" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2730" DATA-CT-INFORMATION="BLACK RASPBERRY VANILLA PARFAIT" href="https://www.talentigelato.com/products/layers-black-raspberry-vanilla-parfait">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xFlavor-Image_BRVP_259px-w-190x246.png,qx22157.pagespeed.ic.wRj_lWyDny.png" alt="BLACK RASPBERRY VANILLA PARFAIT" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="BLACK RASPBERRY VANILLA PARFAIT">BLACK RASPBERRY VANILLA PARFAIT</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001119" data-bv-redirect-url="https://www.talentigelato.com/products/layers-black-raspberry-vanilla-parfait" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001119"></div> </div>
+</li>
+<li class="span2" id="product-item-171">
+<div class="thumbnail">
+<a data-product-id="186852000860" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_171" DATA-CT-INFORMATION="CARAMEL APPLE PIE GELATO" href="https://www.talentigelato.com/products/caramel-apple-pie-gelato">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/Caramel-Apple-Pie-Pint-Shot-190x247.png?x22157" alt="CARAMEL APPLE PIE GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="CARAMEL APPLE PIE GELATO">CARAMEL APPLE PIE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000860" data-bv-redirect-url="https://www.talentigelato.com/products/caramel-apple-pie-gelato" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000860"></div> </div>
+</li>
+<li class="span2" id="product-item-175">
+<div class="thumbnail">
+<a data-product-id="186852000334" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_175" DATA-CT-INFORMATION="CARAMEL COOKIE CRUNCH GELATO" href="https://www.talentigelato.com/products/caramel-cookie-crunch">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/CCC-Pint_259px-w-190x250.png?x22157" alt="Caramel Cookie Crunch" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="CARAMEL COOKIE CRUNCH GELATO">CARAMEL COOKIE CRUNCH GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000334" data-bv-redirect-url="https://www.talentigelato.com/products/caramel-cookie-crunch" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000334"></div> </div>
+</li>
+<li class="span2" id="product-item-179">
+<div class="thumbnail">
+<a data-product-id="186852000327" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_179" DATA-CT-INFORMATION="CARIBBEAN COCONUT GELATO" href="https://www.talentigelato.com/products/caribbean-coconut">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xCarribean-Coconut_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic._-V2k2XAnU.png" alt="CARIBBEAN COCONUT GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="CARIBBEAN COCONUT GELATO">CARIBBEAN COCONUT GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000327" data-bv-redirect-url="https://www.talentigelato.com/products/caribbean-coconut" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000327"></div> </div>
+</li>
+<li class="span2" id="product-item-2726">
+<div class="thumbnail">
+<a data-product-id="186852001089" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2726" DATA-CT-INFORMATION="CHOCOLATE CHERRY CHEESECAKE" href="https://www.talentigelato.com/products/layers-chocolate-cherry-cheesecake">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xChocolate-Cherry-Cheesecake_Flavor-Image_259px-w-190x246.png,qx22157.pagespeed.ic.msZ4PPxp-m.png" alt="CHOCOLATE CHERRY CHEESECAKE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="CHOCOLATE CHERRY CHEESECAKE">CHOCOLATE CHERRY CHEESECAKE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001089" data-bv-redirect-url="https://www.talentigelato.com/products/layers-chocolate-cherry-cheesecake" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001089"></div> </div>
+</li>
+<li class="span2" id="product-item-189">
+<div class="thumbnail">
+<a data-product-id="816680010136" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_189" DATA-CT-INFORMATION="CHOCOLATE CHIP COOKIE DOUGH GELATO" href="https://www.talentigelato.com/products/chocolate-chip-cookie-dough">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/ChocolateChip-Cookie-Dough_Flavor-Image_259px-w-190x247.png?x22157" alt="CHOCOLATE CHIP COOKIE DOUGH GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="CHOCOLATE CHIP COOKIE DOUGH GELATO">CHOCOLATE CHIP COOKIE DOUGH GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010136" data-bv-redirect-url="https://www.talentigelato.com/products/chocolate-chip-cookie-dough" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010136"></div> </div>
+</li>
+<li class="span2" id="product-item-203">
+<div class="thumbnail">
+<a data-product-id="186852000945" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_203" DATA-CT-INFORMATION="CHOCOLATE PEANUT BUTTER CUP GELATO" href="https://www.talentigelato.com/products/chocolate-peanut-butter-cup">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xChocPeanutButterCup_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.NVBiaqHPgt.png" alt="CHOCOLATE PEANUT BUTTER CUP GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="CHOCOLATE PEANUT BUTTER CUP GELATO">CHOCOLATE PEANUT BUTTER CUP GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000945" data-bv-redirect-url="https://www.talentigelato.com/products/chocolate-peanut-butter-cup" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000945"></div> </div>
+</li>
+<li class="span2" id="product-item-1059">
+<div class="thumbnail">
+<a data-product-id="816680010280" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_1059" DATA-CT-INFORMATION="COCONUT ALMOND CHOCOLATE GELATO" href="https://www.talentigelato.com/products/coconut-almond-chocolate">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/Coconut-Chocolate-Almond_pint-259-px-w-190x247.png?x22157" alt="COCONUT ALMOND CHOCOLATE GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="COCONUT ALMOND CHOCOLATE GELATO">COCONUT ALMOND CHOCOLATE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010280" data-bv-redirect-url="https://www.talentigelato.com/products/coconut-almond-chocolate" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010280"></div> </div>
+</li>
+<li class="span2" id="product-item-3203">
+<div class="thumbnail">
+<a data-product-id="186852001300" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_3203" DATA-CT-INFORMATION="COCONUT CHOCOLATE COOKIE" href="https://www.talentigelato.com/products/coconut-chocolate-cookie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/02/xFlavor-Image_CoconutChocCookie_259w-190x246.png,qx22157.pagespeed.ic.Ow2LO32QK7.png" alt="COCONUT CHOCOLATE COOKIE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="COCONUT CHOCOLATE COOKIE">COCONUT CHOCOLATE COOKIE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001300" data-bv-redirect-url="https://www.talentigelato.com/products/coconut-chocolate-cookie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001300"></div> </div>
+</li>
+<li class="span2" id="product-item-198">
+<div class="thumbnail">
+<a data-product-id="186852000495" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_198" DATA-CT-INFORMATION="COFFEE CHOCOLATE CHIP GELATO" href="https://www.talentigelato.com/products/coffee-chocolate-chip">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xcoffee-choc-chip-pint-shot-259px-w-190x247.png,qx22157.pagespeed.ic.J7XFXLsgUI.png" alt="COFFEE CHOCOLATE CHIP GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="COFFEE CHOCOLATE CHIP GELATO">COFFEE CHOCOLATE CHIP GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000495" data-bv-redirect-url="https://www.talentigelato.com/products/coffee-chocolate-chip" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000495"></div> </div>
+</li>
+<li class="span2" id="product-item-3199">
+<div class="thumbnail">
+<a data-product-id="186852001287" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_3199" DATA-CT-INFORMATION="COFFEE COOKIE CRUMBLE" href="https://www.talentigelato.com/products/coffee-cookie-crumble">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/02/xFlavor-Image_coffeecookiecrumble_259px-w-190x246.png,qx22157.pagespeed.ic.VAkqiS-mAG.png" alt="COFFEE COOKIE CRUMBLE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="COFFEE COOKIE CRUMBLE">COFFEE COOKIE CRUMBLE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001287" data-bv-redirect-url="https://www.talentigelato.com/products/coffee-cookie-crumble" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001287"></div> </div>
+</li>
+<li class="span2" id="product-item-1818">
+<div class="thumbnail">
+<a data-product-id="076840000760" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_1818" DATA-CT-INFORMATION="COLD BREW COFFEE SORBETTO" href="https://www.talentigelato.com/products/cold-brew-sorbetto">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xColdBrew-Coffee_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.lPzA-7oc0K.png" alt="COLD BREW COFFEE SORBETTO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="COLD BREW COFFEE SORBETTO">COLD BREW COFFEE SORBETTO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="076840000760" data-bv-redirect-url="https://www.talentigelato.com/products/cold-brew-sorbetto" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="076840000760"></div> </div>
+</li>
+<li class="span2" id="product-item-2742">
+<div class="thumbnail">
+<a data-product-id="186852001218" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2742" DATA-CT-INFORMATION="DARK CHOCOLATE CHERRY" href="https://www.talentigelato.com/products/layers-dark-chocolate-cherry">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/09/xFlavor-Image_DarkChocCherry_259px-w-190x246.png,qx22157.pagespeed.ic.EKr5c7kiVj.png" alt="DARK CHOCOLATE CHERRY" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="DARK CHOCOLATE CHERRY">DARK CHOCOLATE CHERRY</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001218" data-bv-redirect-url="https://www.talentigelato.com/products/layers-dark-chocolate-cherry" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001218"></div> </div>
+</li>
+<li class="span2" id="product-item-3163">
+<div class="thumbnail">
+<a data-product-id="186852001263" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_3163" DATA-CT-INFORMATION="DARK CHOCOLATE SORBETTO" href="https://www.talentigelato.com/products/dark-chocolate-sorbetto">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/02/xDarkChocolate_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.2R9IoebpLs.png" alt="DARK CHOCOLATE SORBETTO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="DARK CHOCOLATE SORBETTO">DARK CHOCOLATE SORBETTO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001263" data-bv-redirect-url="https://www.talentigelato.com/products/dark-chocolate-sorbetto" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001263"></div> </div>
+</li>
+<li class="span2" id="product-item-213">
+<div class="thumbnail">
+<a data-product-id="186852000341" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_213" DATA-CT-INFORMATION="DOUBLE DARK CHOCOLATE GELATO" href="https://www.talentigelato.com/products/double-dark-chocolate">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xDouble-Dark-Chocolate_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.GAVklA3A8Z.png" alt="DOUBLE DARK CHOCOLATE GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="DOUBLE DARK CHOCOLATE GELATO">DOUBLE DARK CHOCOLATE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000341" data-bv-redirect-url="https://www.talentigelato.com/products/double-dark-chocolate" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000341"></div> </div>
+</li>
+<li class="span2" id="product-item-218">
+<div class="thumbnail">
+<a data-product-id="186852000006" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_218" DATA-CT-INFORMATION="FUDGE BROWNIE GELATO" href="https://www.talentigelato.com/products/fudge-brownie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/Fudge-Brownie-Pint-Shot_259px-w-190x247.png?x22157" alt="Fudge Brownie Pint Shot" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="FUDGE BROWNIE GELATO">FUDGE BROWNIE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000006" data-bv-redirect-url="https://www.talentigelato.com/products/fudge-brownie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000006"></div> </div>
+</li>
+<li class="span2" id="product-item-227">
+<div class="thumbnail">
+<a data-product-id="816680010198" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_227" DATA-CT-INFORMATION="HAZELNUT CHOCOLATE CHIP GELATO" href="https://www.talentigelato.com/products/hazelnut-chocolate-chip">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xHazelnut-Chocolate-Chip-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.2q86TsGcJh.png" alt="HAZELNUT CHOCOLATE CHIP GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="HAZELNUT CHOCOLATE CHIP GELATO">HAZELNUT CHOCOLATE CHIP GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010198" data-bv-redirect-url="https://www.talentigelato.com/products/hazelnut-chocolate-chip" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010198"></div> </div>
+</li>
+<li class="span2" id="product-item-1077">
+<div class="thumbnail">
+<a data-product-id="816680010297" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_1077" DATA-CT-INFORMATION="KEY LIME PIE GELATO" href="https://www.talentigelato.com/products/key-lime-pie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xKey-Lime-Pie-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.pj5ptEb9KI.png" alt="Key Lime Pie Gelato" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="KEY LIME PIE GELATO">KEY LIME PIE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010297" data-bv-redirect-url="https://www.talentigelato.com/products/key-lime-pie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010297"></div> </div>
+</li>
+<li class="span2" id="product-item-3208">
+<div class="thumbnail">
+<a data-product-id="186852001270" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_3208" DATA-CT-INFORMATION="LEMON BERRY PIE" href="https://www.talentigelato.com/products/lemon-berry-pie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/02/xFlavor-Image_Lemon-Berry-Pie_259px-w-190x246.png,qx22157.pagespeed.ic.IMdl7pr5Zn.png" alt="LEMON BERRY PIE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="LEMON BERRY PIE">LEMON BERRY PIE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001270" data-bv-redirect-url="https://www.talentigelato.com/products/lemon-berry-pie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001270"></div> </div>
+</li>
+<li class="span2" id="product-item-362">
+<div class="thumbnail">
+<a data-product-id="186852000389" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_362" DATA-CT-INFORMATION="MADAGASCAN VANILLA BEAN GELATO" href="https://www.talentigelato.com/products/vanilla-bean-gelato">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xMad-Vanilla-Bean_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.TsZw-MCnI0.png" alt="MADAGASCAN VANILLA BEAN GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="MADAGASCAN VANILLA BEAN GELATO">MADAGASCAN VANILLA BEAN GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000389" data-bv-redirect-url="https://www.talentigelato.com/products/vanilla-bean-gelato" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000389"></div> </div>
+</li>
+<li class="span2" id="product-item-232">
+<div class="thumbnail">
+<a data-product-id="816680010211" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_232" DATA-CT-INFORMATION="MEDITERRANEAN MINT GELATO" href="https://www.talentigelato.com/products/mediterranean-mint">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xMed-Mint-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.-anlPXecBY.png" alt="Mint Pint Shot" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="MEDITERRANEAN MINT GELATO">MEDITERRANEAN MINT GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010211" data-bv-redirect-url="https://www.talentigelato.com/products/mediterranean-mint" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010211"></div> </div>
+</li>
+<li class="span2" id="product-item-2738">
+<div class="thumbnail">
+<a data-product-id="186852001126" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2738" DATA-CT-INFORMATION="MINT FUDGE COOKIE" href="https://www.talentigelato.com/products/layers-mint-fudge-cookie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xFlavor-Image_mint-fudge-cookie-259px-w-190x246.png,qx22157.pagespeed.ic.D0ElMfN6j7.png" alt="MINT FUDGE COOKIE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="MINT FUDGE COOKIE">MINT FUDGE COOKIE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001126" data-bv-redirect-url="https://www.talentigelato.com/products/layers-mint-fudge-cookie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001126"></div> </div>
+</li>
+<li class="span2" id="product-item-237">
+<div class="thumbnail">
+<a data-product-id="186852000433" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_237" DATA-CT-INFORMATION="OLD WORLD EGGNOG GELATO" href="https://www.talentigelato.com/products/old-world-eggnog">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xOld-World-Egg-Nog-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.DloR_I9Qco.png" alt="OLD WORLD EGGNOG GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="OLD WORLD EGGNOG GELATO">OLD WORLD EGGNOG GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000433" data-bv-redirect-url="https://www.talentigelato.com/products/old-world-eggnog" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000433"></div> </div>
+</li>
+<li class="span2" id="product-item-2571">
+<div class="thumbnail">
+<a data-product-id="186852001171" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2571" DATA-CT-INFORMATION="ORGANIC BROWN BUTTER CARAMEL" href="https://www.talentigelato.com/products/organic-brown-butter-caramel">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/Organic-Brown-Butter-Caramel-Pint-Shot_259px-w-190x247.png?x22157" alt="Organic Brown Butter Caramel" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="ORGANIC BROWN BUTTER CARAMEL">ORGANIC BROWN BUTTER CARAMEL</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001171" data-bv-redirect-url="https://www.talentigelato.com/products/organic-brown-butter-caramel" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001171"></div> </div>
+</li>
+<li class="span2" id="product-item-2566">
+<div class="thumbnail">
+<a data-product-id="186852001164" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2566" DATA-CT-INFORMATION="ORGANIC CHOCOLATE MOUSSE GELATO" href="https://www.talentigelato.com/products/organic-chocolate-mousse">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xOrganic-Chocolate-Mousse-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.JGyIsZcksY.png" alt="Organic Chocolate Mousse Pint" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="ORGANIC CHOCOLATE MOUSSE GELATO">ORGANIC CHOCOLATE MOUSSE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001164" data-bv-redirect-url="https://www.talentigelato.com/products/organic-chocolate-mousse" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001164"></div> </div>
+</li>
+<li class="span2" id="product-item-2556">
+<div class="thumbnail">
+<a data-product-id="186852001157" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2556" DATA-CT-INFORMATION="ORGANIC GINGER MATCHA GELATO" href="https://www.talentigelato.com/products/organic-ginger-matcha">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xOrganic-Ginger-Matcha-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.b-MToKCkkT.png" alt="Organic Ginger Matcha Pint shot" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="ORGANIC GINGER MATCHA GELATO">ORGANIC GINGER MATCHA GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001157" data-bv-redirect-url="https://www.talentigelato.com/products/organic-ginger-matcha" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001157"></div> </div>
+</li>
+<li class="span2" id="product-item-2561">
+<div class="thumbnail">
+<a data-product-id="186852001140" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2561" DATA-CT-INFORMATION="ORGANIC OAK-AGED VANILLA GELATO" href="https://www.talentigelato.com/products/organic-oak-aged-vanilla-gelato">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xOrganic-Oak-Aged-Vanilla-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.3YrJ27J2NP.png" alt="Organic Oak Aged Vanilla Pint" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="ORGANIC OAK-AGED VANILLA GELATO">ORGANIC OAK-AGED VANILLA GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001140" data-bv-redirect-url="https://www.talentigelato.com/products/organic-oak-aged-vanilla-gelato" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001140"></div> </div>
+</li>
+<li class="span2" id="product-item-274">
+<div class="thumbnail">
+<a data-product-id="186852000372" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_274" DATA-CT-INFORMATION="PACIFIC COAST PISTACHIO GELATO" href="https://www.talentigelato.com/products/sicilian-pistachio">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xPistachio-Pint_259px-w-190x244.png,qx22157.pagespeed.ic.s5_cBfPY1q.png" alt="Pacific Coast Pistachio Gelato" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="PACIFIC COAST PISTACHIO GELATO">PACIFIC COAST PISTACHIO GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000372" data-bv-redirect-url="https://www.talentigelato.com/products/sicilian-pistachio" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000372"></div> </div>
+</li>
+<li class="span2" id="product-item-1303">
+<div class="thumbnail">
+<a data-product-id="816680010457" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_1303" DATA-CT-INFORMATION="PEANUT BUTTER FUDGE SORBETTO" href="https://www.talentigelato.com/products/peanut-butter-fudge-sorbetto">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xPB-Fudge_Flavor-Image_259px-w-190x247.png,qx22157.pagespeed.ic.Lj3ZE-WzRP.png" alt="PEANUT BUTTER FUDGE SORBETTO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="PEANUT BUTTER FUDGE SORBETTO">PEANUT BUTTER FUDGE SORBETTO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010457" data-bv-redirect-url="https://www.talentigelato.com/products/peanut-butter-fudge-sorbetto" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010457"></div> </div>
+</li>
+<li class="span2" id="product-item-2734">
+<div class="thumbnail">
+<a data-product-id="186852001102" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2734" DATA-CT-INFORMATION="PEANUT BUTTER VANILLA FUDGE" href="https://www.talentigelato.com/products/layers-peanut-butter-vanilla-fudge">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/xPBVF_Flavor-Image_259px-w-190x246.png,qx22157.pagespeed.ic.iUOY0-56lr.png" alt="PEANUT BUTTER VANILLA FUDGE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="PEANUT BUTTER VANILLA FUDGE">PEANUT BUTTER VANILLA FUDGE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001102" data-bv-redirect-url="https://www.talentigelato.com/products/layers-peanut-butter-vanilla-fudge" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001102"></div> </div>
+</li>
+<li class="span2" id="product-item-246">
+<div class="thumbnail">
+<a data-product-id="186852000679" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_246" DATA-CT-INFORMATION="PEPPERMINT BARK GELATO" href="https://www.talentigelato.com/products/peppermint-bark">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xPeppermint-Bark-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic._JvJ70_IDZ.png" alt="Peppermint Bark Pint Shot" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="PEPPERMINT BARK GELATO">PEPPERMINT BARK GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000679" data-bv-redirect-url="https://www.talentigelato.com/products/peppermint-bark" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000679"></div> </div>
+</li>
+<li class="span2" id="product-item-251">
+<div class="thumbnail">
+<a data-product-id="186852000914" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_251" DATA-CT-INFORMATION="PUMPKIN PIE" href="https://www.talentigelato.com/products/pumpkin-pie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xPumpkin-Pie-Flavor-Image_259px-w-190x246.png,qx22157.pagespeed.ic.eoO7d-7uqh.png" alt="PUMPKIN PIE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="PUMPKIN PIE">PUMPKIN PIE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000914" data-bv-redirect-url="https://www.talentigelato.com/products/pumpkin-pie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000914"></div> </div>
+</li>
+<li class="span2" id="product-item-260">
+<div class="thumbnail">
+<a data-product-id="816680010112" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_260" DATA-CT-INFORMATION="RASPBERRY CHEESECAKE GELATO" href="https://www.talentigelato.com/products/raspberry-cheesecake">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/01/xRaspberry-Cheesecake-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.vTbeDVZDoH.png" alt="RASPBERRY CHEESECAKE GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="RASPBERRY CHEESECAKE GELATO">RASPBERRY CHEESECAKE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010112" data-bv-redirect-url="https://www.talentigelato.com/products/raspberry-cheesecake" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010112"></div> </div>
+</li>
+<li class="span2" id="product-item-319">
+<div class="thumbnail">
+<a data-product-id="186852000822" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_319" DATA-CT-INFORMATION="ROMAN RASPBERRY SORBETTO" href="https://www.talentigelato.com/products/roman-raspberry">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xRR_Pint_259px-w-190x247.png,qx22157.pagespeed.ic.wxdGXhaGub.png" alt="Roman Raspberry" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="ROMAN RASPBERRY SORBETTO">ROMAN RASPBERRY SORBETTO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000822" data-bv-redirect-url="https://www.talentigelato.com/products/roman-raspberry" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000822"></div> </div>
+</li>
+<li class="span2" id="product-item-2722">
+<div class="thumbnail">
+<a data-product-id="186852001096" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2722" DATA-CT-INFORMATION="SALTED CARAMEL TRUFFLE" href="https://www.talentigelato.com/products/layers-salted-caramel-truffle">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xFlavor-Image_259px-w-190x244.png,qx22157.pagespeed.ic.jQC-zef5Rv.png" alt="Salted Caramel Truffle" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="SALTED CARAMEL TRUFFLE">SALTED CARAMEL TRUFFLE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001096" data-bv-redirect-url="https://www.talentigelato.com/products/layers-salted-caramel-truffle" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001096"></div> </div>
+</li>
+<li class="span2" id="product-item-269">
+<div class="thumbnail">
+<a data-product-id="186852000242" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_269" DATA-CT-INFORMATION="SEA SALT CARAMEL GELATO" href="https://www.talentigelato.com/products/sea-salt-caramel">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/09/xSeaSaltCaramel_Flavor-Image_259px-w-190x246.png,qx22157.pagespeed.ic.zQDFq9uhdh.png" alt="SEA SALT CARAMEL GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="SEA SALT CARAMEL GELATO">SEA SALT CARAMEL GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000242" data-bv-redirect-url="https://www.talentigelato.com/products/sea-salt-caramel" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000242"></div> </div>
+</li>
+<li class="span2" id="product-item-284">
+<div class="thumbnail">
+<a data-product-id="186852000600" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_284" DATA-CT-INFORMATION="SOUTHERN BUTTER PECAN GELATO" href="https://www.talentigelato.com/products/southern-butter-pecan">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xButterPecan_Flavor-Image_259px-w-190x250.png,qx22157.pagespeed.ic.ThnW42MT2V.png" alt="SOUTHERN BUTTER PECAN GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="SOUTHERN BUTTER PECAN GELATO">SOUTHERN BUTTER PECAN GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852000600" data-bv-redirect-url="https://www.talentigelato.com/products/southern-butter-pecan" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852000600"></div> </div>
+</li>
+<li class="span2" id="product-item-3183">
+<div class="thumbnail">
+<a data-product-id="186852001256" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_3183" DATA-CT-INFORMATION="STRAWBERRY HIBISCUS SORBETTO" href="https://www.talentigelato.com/products/strawberry-hibiscus-sorbetto">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2020/02/Strawberry-Hibiscus_Flavor-Image_259px-w-190x247.png?x22157" alt="STRAWBERRY HIBISCUS SORBETTO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="STRAWBERRY HIBISCUS SORBETTO">STRAWBERRY HIBISCUS SORBETTO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001256" data-bv-redirect-url="https://www.talentigelato.com/products/strawberry-hibiscus-sorbetto" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001256"></div> </div>
+</li>
+<li class="span2" id="product-item-1275">
+<div class="thumbnail">
+<a data-product-id="816680010440" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_1275" DATA-CT-INFORMATION="VANILLA BLUEBERRY CRUMBLE GELATO" href="https://www.talentigelato.com/products/vanilla-blueberry-crumble-gelato">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/xVanilla-Blueberry-Crumble-Pint-Shot_259px-w-190x247.png,qx22157.pagespeed.ic.32Dn476t3N.png" alt="VANILLA BLUEBERRY CRUMBLE GELATO" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="VANILLA BLUEBERRY CRUMBLE GELATO">VANILLA BLUEBERRY CRUMBLE GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010440" data-bv-redirect-url="https://www.talentigelato.com/products/vanilla-blueberry-crumble-gelato" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010440"></div> </div>
+</li>
+<li class="span2" id="product-item-1089">
+<div class="thumbnail">
+<a data-product-id="816680010310" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_1089" DATA-CT-INFORMATION="VANILLA CARAMEL SWIRL GELATO" href="https://www.talentigelato.com/products/vanilla-caramel-swirl">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/02/Vanilla-Caramel-Swirl-Pint-Shot_259-px-w-190x247.png?x22157" alt="Vanilla Caramel Swirl Gelato" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="VANILLA CARAMEL SWIRL GELATO">VANILLA CARAMEL SWIRL GELATO</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="816680010310" data-bv-redirect-url="https://www.talentigelato.com/products/vanilla-caramel-swirl" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="816680010310"></div> </div>
+</li>
+<li class="span2" id="product-item-2717">
+<div class="thumbnail">
+<a data-product-id="186852001072" DATA-CT-ACTION="productClick" DATA-CT-CATEGORY="Engagement" DATA-CT-IDENTIFIER="related_item_2717" DATA-CT-INFORMATION="VANILLA FUDGE COOKIE" href="https://www.talentigelato.com/products/layers-vanilla-fudge-cookie">
+<figure><img data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/03/Flavor-Image_VFC_259px-w-190x244.png?x22157" alt="VANILLA FUDGE COOKIE" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></figure>
+<span class="btn-link" title="VANILLA FUDGE COOKIE">VANILLA FUDGE COOKIE</span>
+</a>
+<div class="BVRRInlineRating" data-bv-show="inline_rating" data-bv-product-id="186852001072" data-bv-redirect-url="https://www.talentigelato.com/products/layers-vanilla-fudge-cookie" data-bv-seo="false"></div>
+<div class="ps-widget" ps-sku="186852001072"></div> </div>
+</li>
+</ul>
+</article>
+</section>
+<aside class="span3">
+</aside>
+</div>
+</section>
+</section>
+</div>
+</section>
+<footer id="footer" class="modern-footer">
+<div class="container">
+<div class="visible-phone clickCall">
+<p><div class="call_us visible-phone">Contact Us : <a href="tel:1-800-298-4020" data-ct-action="Click to Action" data-ct-category="Custom" data-ct-attr="Click-To-Call-ContactUs" data-ct-information="Call - Contact Us">1-800-298-4020</a></div></p>
+</div>
+<nav id="footer_nav">
+<ul class="inline"><li class="footer-item-8 "> <a data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="Footer_nav-2831" data-ct-information="Footer Navigation-Site Map-https://www.talentigelato.com/site-map" title="Site Map" href="https://www.talentigelato.com/site-map" class="navItemLink">Site Map</a></li><li class="footer-item-48 "> <a data-ct-category='Custom' data-ct-action='Navigation Click' data-ct-information='Footer Navigation-Terms of Use' data-ct-identifier='nav-id-48' data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="Footer_nav-48" data-ct-information="Footer Navigation-Terms of Use-http://www.unileverus.com/terms/termsofuse.html" aria-label='Link will open in new window' target="_blank" rel="nofollow" title="Terms of Use" href="http://www.unileverus.com/terms/termsofuse.html" class="navItemLink">Terms of Use</a></li><li class="footer-item-47 "> <a data-ct-category='Custom' data-ct-action='Navigation Click' data-ct-information='Footer Navigation-Privacy Policy' data-ct-identifier='nav-id-47' data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="Footer_nav-47" data-ct-information="Footer Navigation-Privacy Notice-https://www.unilevernotices.com/usa/english/privacy-notice/notice.html" aria-label='Link will open in new window' target="_blank" rel="nofollow" title="Privacy Notice" href="https://www.unilevernotices.com/usa/english/privacy-notice/notice.html" class="navItemLink">Privacy Notice</a></li><li class="footer-item-402 "> <a data-ct-category='Custom' data-ct-action='Navigation Click' data-ct-information='Footer Navigation-Join Our Newsletter' data-ct-identifier='nav-id-1783' data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="Footer_nav-1783" data-ct-information="Footer Navigation-Join Our Newsletter-https://www.talentigelato.com/sign-up" title="Join Our Newsletter" href="https://www.talentigelato.com/sign-up" class="navItemLink">Join Our Newsletter</a></li><li class="footer-item-2447 "> <a data-ct-category='Custom' data-ct-action='Navigation Click' data-ct-information='Footer Navigation-Contact Us' data-ct-identifier='nav-id-2473' data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="Footer_nav-2473" data-ct-information="Footer Navigation-Contact Us-https://www.talentigelato.com/contact-us-landing" title="Contact Us" href="https://www.talentigelato.com/contact-us-landing" class="navItemLink">Contact Us</a></li><li class="footer-item-2057 "> <a data-ct-category='Custom' data-ct-action='Navigation Click' data-ct-information='Footer Navigation-Accessibility' data-ct-identifier='nav-id-2057' data-ct-action="Click To Action" data-ct-category="Engagement" data-ct-identifier="Footer_nav-2057" data-ct-information="Footer Navigation-Accessibility-https://www.unileverusa.com/accessibility.html" aria-label='Link will open in new window' target="_blank" rel="nofollow" title="Accessibility" href="https://www.unileverusa.com/accessibility.html" class="navItemLink">Accessibility</a></li><li> <a aria-label="Open Link In New Window" id="_bapw-link" title="AdChoices–Do Not Sell" href="#" target="_blank" title="AdChoices–Do Not Sell"><img id="_bapw-icon" alt="AdChoices–Do Not Sell" title="AdChoices–Do Not Sell"/><span>AdChoices–Do Not Sell</span></a>
+</li></ul>
+</nav> <aside class="footer-banner clearfix">
+<p>© 2020 Unilever. All rights reserved.<span class="footer_sections"><span class="smart-label-footer visible_mobile"><a href="http://onelink.to/79jxb3" target="_blank" rel="noopener" title="Talenti Smart Label" aria-label="Open Link in New Window">Smartlabel</a></span><span class="smart-label-footer hide_mobile"><a href="https://www.unileverusa.com/brands/smartlabel/" target="_blank" rel="noopener" title="Talenti Smart Label" aria-label="Open Link in New Window">Smartlabel</a></span><span class="unilever_logo"><a href="https://www.unileverusa.com" target="_blank" rel="noopener" title="Unilever Logo" aria-label="Open Link in New Window"><img title="Unilever Logo" data-pagespeed-lazy-src="/wp-content/uploads/sites/61/2020/08/53xNxUnilever-logo_talenti-brown.png,qx22157.pagespeed.ic.0GCgAMC1Tr.png" width="53px" alt="Unilever Logo" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></a></span><span class="legal-disclaimer">This website is directed only to U.S. consumers for products and services of Unilever United States.<br> This website is not directed to consumers outside of the U.S.</span></span></p> </aside>
+</div>
+</footer>
+<input type="hidden" name="bws_global_brand_name" value="Talenti"/>
+<input type="hidden" name="bws_ct_server_url" value="wa-uat.unileversolutions.com"/>
+<input type="hidden" name="bws_local_brand_name" value="Talenti"/>
+<input type="hidden" name="bws_global_brand_category" value="Food"/>
+<input type="hidden" name="bws_global_tagging_channel" value="Brand site"/>
+<input type="hidden" name="bws_global_tagging_mobile_channel" value="Mobile Site"/>
+<input type="hidden" name="bws_tagging_gid" value="51ed52caf5eae4efa6cf144ccb29c7e4"/>
+<input type="hidden" name="bws_tagging_ga" value="UA-49882637-1"/>
+<input type="hidden" name="bws_global_brand_country" value="US"/>
+<input type="hidden" name="bws_domain" value=".www.talentigelato.com"/>
+<input type="hidden" name="bws_site_type" value="Digital 2.0 Lite"/>
+<input type="hidden" name="bws_google_webmaster_code" value=""/>
+<input type="hidden" name="bws_bing_webmaster_code" value=""/>
+<script type="text/javascript" data-pagespeed-no-defer>pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script>
+				document.addEventListener('DOMContentLoaded', function(){
+					function youtube(){
+						
+						var tk = document.createElement('script');
+						tk.src = 'https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/libs/youtube_player_api-3.8.3.js';
+						tk.type = 'text/javascript';
+						tk.id ='youtube';
+						tk.async = 'true';
+						
+						var s = document.getElementsByTagName('script')[0];
+						s.parentNode.insertBefore(tk, s);
+					};
+					try{
+							bwsliteLiberary.App.onWindowLoadTrigger(youtube,[]);
+						}catch(error){
+							console.log('footer.php says:'+ error)
+						}
+					
+					
+				});
+			</script>
+<script type="text/javascript">
+  (function() {
+		var ev = document.createElement('script');
+		ev.type = 'text/javascript';
+		ev.async = true; 
+		ev.setAttribute('data-ev-tag-pid', 21143);
+		ev.setAttribute('data-ev-tag-ocid', 2523); 
+		ev.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'c.betrad.com/pub/tag.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ev, s);
+	})();
+</script>
+<script type="text/javascript">
+    var popupconfig = '{"cookieBasedRender":"true","timer":{"enabled":"false","value":""}}';
+    console.log(popupconfig);
+</script>
+<div id="modalPopupCookie" class="modal hide fade" tabindex="-1" aria-hidden="true">
+<div class="modal-wrapper span4 center">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" data-target="#modalPopupCookie" aria-hidden="true">×</button>
+</div>
+<div class="modal-body">
+<p style="text-align: center;"><a href="https://www.talentigelato.com/sign-up"><img class="size-medium wp-image-2859 aligncenter" data-pagespeed-lazy-src="https://www.talentigelato.com/wp-content/uploads/sites/61/2019/04/400x400xTalenti_PopUp_Resize_2.jpg,qx22157.pagespeed.ic.mCRShROd8m.jpg" alt="Sign Up to Talenti Newsletter" width="400px" height="400px" data-ct-action="Click To Subscribe" data-ct-category="Custom" data-ct-identifier="Custom_010" data-ct-information="modal-subscribe" src="https://www.talentigelato.com/wp-content/1.gif" onload="pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);" onerror="this.onerror=null;pagespeed.lazyLoadImages.loadIfVisibleAndMaybeBeacon(this);"/></a></p>
+</div>
+</div>
+</div>
+<script type="text/javascript" data-pagespeed-no-defer>pagespeed.lazyLoadImages.overrideAttributeFunctions();</script><script>
+                    document.addEventListener('DOMContentLoaded', function(){
+                        function price_spider(url) {
+                            var tk = document.createElement('script');
+                            tk.src = url;
+                            tk.type = 'text/javascript';
+                            tk.id = 'price_spider';
+                            tk.async = 'true';
+                            var s = document.getElementsByTagName('script')[0];
+                            s.parentNode.insertBefore(tk, s);
+                        }
+                        try{
+                            if (document.querySelectorAll('.ps-widget').length > 0){
+                            bwsliteLiberary.App.onWindowLoadTrigger(price_spider, ['//cdn.pricespider.com/1/lib/ps-widget.js']);
+                            }
+                        } catch (error){
+                            console.error(error)
+                        }
+                    });
+                </script>
+<script type="text/javascript" src="https://www.talentigelato.com/wp-content/lib/extensions/price-spider/js/price-spider.js?x22157"></script>
+<link rel='stylesheet' id='bazaarvoice-css' href='https://www.talentigelato.com/wp-content/lib/extensions/bazaarvoice/css/bv_style.css?x22157&amp;ver=5.1.1' type='text/css' media='all'/>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/lib/extensions/prm-umc/js/epsilon-cookie.js?x22157&amp;ver=1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-includes/js/wp-embed.min.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/lib/extensions/bazaarvoice/js/postmessage.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var bv_productids = "{\"186852000846\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/alphonso-mango-2\"},\"186852001294\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/banana-caramel-crunch\"},\"186852000310\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/belgian-chocolate\"},\"186852000617\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/black-raspberry-chocolate-chip\"},\"186852001119\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-black-raspberry-vanilla-parfait\"},\"186852000860\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/caramel-apple-pie-gelato\"},\"186852000334\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/caramel-cookie-crunch\"},\"186852000327\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/caribbean-coconut\"},\"186852001089\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-chocolate-cherry-cheesecake\"},\"816680010136\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/chocolate-chip-cookie-dough\"},\"186852000945\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/chocolate-peanut-butter-cup\"},\"816680010280\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/coconut-almond-chocolate\"},\"186852001300\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/coconut-chocolate-cookie\"},\"186852000495\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/coffee-chocolate-chip\"},\"186852001287\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/coffee-cookie-crumble\"},\"076840000760\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/cold-brew-sorbetto\"},\"186852001218\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-dark-chocolate-cherry\"},\"186852001263\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/dark-chocolate-sorbetto\"},\"186852000341\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/double-dark-chocolate\"},\"186852000006\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/fudge-brownie\"},\"816680010198\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/hazelnut-chocolate-chip\"},\"816680010297\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/key-lime-pie\"},\"186852001270\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/lemon-berry-pie\"},\"186852000389\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/vanilla-bean-gelato\"},\"816680010211\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/mediterranean-mint\"},\"186852001126\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-mint-fudge-cookie\"},\"186852000433\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/old-world-eggnog\"},\"186852001171\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/organic-brown-butter-caramel\"},\"186852001164\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/organic-chocolate-mousse\"},\"186852001157\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/organic-ginger-matcha\"},\"186852001140\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/organic-oak-aged-vanilla-gelato\"},\"186852000372\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/sicilian-pistachio\"},\"816680010457\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/peanut-butter-fudge-sorbetto\"},\"186852001102\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-peanut-butter-vanilla-fudge\"},\"186852000679\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/peppermint-bark\"},\"186852000914\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/pumpkin-pie\"},\"816680010112\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/raspberry-cheesecake\"},\"186852000822\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/roman-raspberry\"},\"186852001096\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-salted-caramel-truffle\"},\"186852000242\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/sea-salt-caramel\"},\"186852000600\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/southern-butter-pecan\"},\"186852001256\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/strawberry-hibiscus-sorbetto\"},\"816680010440\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/vanilla-blueberry-crumble-gelato\"},\"816680010310\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/vanilla-caramel-swirl\"},\"186852001072\" : { \"url\" : \"https:\/\/www.talentigelato.com\/products\/layers-vanilla-fudge-cookie\"}}";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/lib/extensions/bazaarvoice/js/bv_loader_scripts.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/libs/bas.containertags-launch-1.2.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/libs/lazyload.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/libs/bootstrap.min.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/libs/swipe.min.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/custom/bwslite.js?x22157&amp;ver=5.1.1'></script>
+<script type='text/javascript' src='https://www.talentigelato.com/wp-content/themes/bwslite_r1/js/custom/custom-modal-popup.js?x22157&amp;ver=5.1.1'></script>
+</body>
+</html>
