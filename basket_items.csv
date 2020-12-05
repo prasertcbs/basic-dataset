@@ -1,6 +1,6 @@
 trans,items
-1,bread|coke|milk
-2,beer|bread
-3,beer|coke|diaper|milk
-4,beer|bread|diaper|milk
-5,coke|diaper|milk
+1,butter|bread|coke
+2,bread|butter
+3,beer|diaper|milk
+4,beer|bread|butter|diaper|milk
+5,coke|diaper|milk|bread
