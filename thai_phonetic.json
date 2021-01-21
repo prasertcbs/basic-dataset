@@ -1,0 +1,222 @@
+{
+    "ก": {
+        "Thai": "ก ไก่",
+        "RTGS": "ko kai",
+        "Meaning": "chicken"
+    },
+    "ข": {
+        "Thai": "ข ไข่",
+        "RTGS": "kho khai",
+        "Meaning": "egg"
+    },
+    "ฃ": {
+        "Thai": "ฃ ขวด",
+        "RTGS": "kho khuat",
+        "Meaning": "bottle"
+    },
+    "ค": {
+        "Thai": "ค ควาย",
+        "RTGS": "kho khwai",
+        "Meaning": "buffalo"
+    },
+    "ฅ": {
+        "Thai": "ฅ คน",
+        "RTGS": "kho khon",
+        "Meaning": "person"
+    },
+    "ฆ": {
+        "Thai": "ฆ ระฆัง",
+        "RTGS": "kho ra-khang",
+        "Meaning": "bell"
+    },
+    "ง": {
+        "Thai": "ง งู",
+        "RTGS": "ngo ngu",
+        "Meaning": "snake"
+    },
+    "จ": {
+        "Thai": "จ จาน",
+        "RTGS": "cho chan",
+        "Meaning": "plate"
+    },
+    "ฉ": {
+        "Thai": "ฉ ฉิ่ง",
+        "RTGS": "cho ching",
+        "Meaning": "cymbals"
+    },
+    "ช": {
+        "Thai": "ช ช้าง",
+        "RTGS": "cho chang",
+        "Meaning": "elephant"
+    },
+    "ซ": {
+        "Thai": "ซ โซ่",
+        "RTGS": "so so",
+        "Meaning": "chain"
+    },
+    "ฌ": {
+        "Thai": "ฌ เฌอ",
+        "RTGS": "cho choe",
+        "Meaning": "tree"
+    },
+    "ญ": {
+        "Thai": "ญ หญิง",
+        "RTGS": "yo ying",
+        "Meaning": "woman"
+    },
+    "ฎ": {
+        "Thai": "ฎ ชฎา",
+        "RTGS": "do cha-da",
+        "Meaning": "headdress"
+    },
+    "ฏ": {
+        "Thai": "ฏ ปฏัก",
+        "RTGS": "to pa-tak",
+        "Meaning": "goad, javelin"
+    },
+    "ฐ": {
+        "Thai": "ฐ ฐาน",
+        "RTGS": "tho than",
+        "Meaning": "pedestal"
+    },
+    "ฑ": {
+        "Thai": "ฑ มณโฑ",
+        "RTGS": "tho montho",
+        "Meaning": "Montho, character from Ramayana"
+    },
+    "ฒ": {
+        "Thai": "ฒ ผู้เฒ่า",
+        "RTGS": "tho phu-thao",
+        "Meaning": "elder"
+    },
+    "ณ": {
+        "Thai": "ณ เณร",
+        "RTGS": "no nen",
+        "Meaning": "samanera"
+    },
+    "ด": {
+        "Thai": "ด เด็ก",
+        "RTGS": "do dek",
+        "Meaning": "child"
+    },
+    "ต": {
+        "Thai": "ต เต่า",
+        "RTGS": "to tao",
+        "Meaning": "turtle"
+    },
+    "ถ": {
+        "Thai": "ถ ถุง",
+        "RTGS": "tho thung",
+        "Meaning": "sack"
+    },
+    "ท": {
+        "Thai": "ท ทหาร",
+        "RTGS": "tho thahan",
+        "Meaning": "soldier"
+    },
+    "ธ": {
+        "Thai": "ธ ธง",
+        "RTGS": "tho thong",
+        "Meaning": "flag"
+    },
+    "น": {
+        "Thai": "น หนู",
+        "RTGS": "no nu",
+        "Meaning": "mouse"
+    },
+    "บ": {
+        "Thai": "บ ใบไม้",
+        "RTGS": "bo baimai",
+        "Meaning": "leaf"
+    },
+    "ป": {
+        "Thai": "ป ปลา",
+        "RTGS": "po pla",
+        "Meaning": "fish"
+    },
+    "ผ": {
+        "Thai": "ผ ผึ้ง",
+        "RTGS": "pho phueng",
+        "Meaning": "bee"
+    },
+    "ฝ": {
+        "Thai": "ฝ ฝา",
+        "RTGS": "fo fa",
+        "Meaning": "lid"
+    },
+    "พ": {
+        "Thai": "พ พาน",
+        "RTGS": "pho phan",
+        "Meaning": "phan"
+    },
+    "ฟ": {
+        "Thai": "ฟ ฟัน",
+        "RTGS": "fo fan",
+        "Meaning": "teeth"
+    },
+    "ภ": {
+        "Thai": "ภ สำเภา",
+        "RTGS": "pho sam-phao",
+        "Meaning": "ship"
+    },
+    "ม": {
+        "Thai": "ม ม้า",
+        "RTGS": "mo ma",
+        "Meaning": "horse"
+    },
+    "ย": {
+        "Thai": "ย ยักษ์",
+        "RTGS": "yo yak",
+        "Meaning": "giant, yaksha"
+    },
+    "ร": {
+        "Thai": "ร เรือ",
+        "RTGS": "ro ruea",
+        "Meaning": "boat"
+    },
+    "ล": {
+        "Thai": "ล ลิง",
+        "RTGS": "lo ling",
+        "Meaning": "monkey"
+    },
+    "ว": {
+        "Thai": "ว แหวน",
+        "RTGS": "wo waen",
+        "Meaning": "ring"
+    },
+    "ศ": {
+        "Thai": "ศ ศาลา",
+        "RTGS": "so sala",
+        "Meaning": "pavilion, sala"
+    },
+    "ษ": {
+        "Thai": "ษ ฤๅษี",
+        "RTGS": "so rue-si",
+        "Meaning": "hermit"
+    },
+    "ส": {
+        "Thai": "ส เสือ",
+        "RTGS": "so suea",
+        "Meaning": "tiger"
+    },
+    "ห": {
+        "Thai": "ห หีบ",
+        "RTGS": "ho hip",
+        "Meaning": "chest, box"
+    },
+    "ฬ": {
+        "Thai": "ฬ จุฬา",
+        "RTGS": "lo chu-la",
+        "Meaning": "kite"
+    },
+    "อ": {
+        "Thai": "อ อ่าง",
+        "RTGS": "o ang",
+        "Meaning": "basin"
+    },
+    "ฮ": {
+        "Thai": "ฮ นกฮูก",
+        "RTGS": "ho nok-huk",
+        "Meaning": "owl"
+    }
+}
