@@ -1,4 +1,4 @@
-menu	price   price2	orders	orders2	serve	serve2
-mocha	{"S":40, "M":50, "L":60}    {'S':40, 'M':50, 'L':60}	70,10,100	[70,10,100]	['hot', 'cold', 'frappe']	hot,cold,frappe
-latte	{"S":45, "M":60, "L":70}    {'S':45, 'M':60, 'L':70}	40,20,80	[40,20,80]	['hot', 'cold']	hot,cold
-espresso	{"S":39, "M":49, "L":59}    {'S':39, 'M':49, 'L':59}	120,5,50	[120,5,50]	['hot']	hot
+menu	price	price2	orders	orders2	serve	serve2
+mocha	{"S":40, "M":50, "L":60}	{'S':40, 'M':50, 'L':60}	70,10,100	[70,10,100]	['hot', 'cold', 'frappe']	hot,cold,frappe
+latte	{"S":45, "M":60, "L":70}	{'S':45, 'M':60, 'L':70}	40,20,80	[40,20,80]	['hot', 'cold']	hot,cold
+espresso	{"S":39, "M":49, "L":59}	{'S':39, 'M':49, 'L':59}	120,5,50	[120,5,50]	['hot']	hot
