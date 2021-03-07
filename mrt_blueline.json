@@ -1,1 +1,883 @@
-[{"Code":"BL01-U","English":"Tha Phra","Thai":"\u0e17\u0e48\u0e32\u0e1e\u0e23\u0e30","Transfer":"MRT (South section)","Location":"Bangkok Yai","station_no":1,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 10\/2","2A":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 11","2B":"\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e43\u0e2b\u0e0d\u0e48, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 15","3":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 12","4":"\u0e0b\u0e2d\u0e22\u0e04\u0e23\u0e34\u0e2a\u0e08\u0e31\u0e01\u0e23"},"en":{"1":"Soi Phet Kasem 10\/2","2A":"Soi Phet Kasem 11","2B":"Bangkokyai District Office,\u00a0Soi Phet Kasem 15","3":"Soi Phet Kasem 12","D":"Soi Krittachak"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL01-w_1556274134_28671..jpg"},{"Code":"BL02","English":"Charan 13","Thai":"\u0e08\u0e23\u0e31\u0e0d\u0e2f 13","Transfer":null,"Location":"Bangkok Yai","station_no":2,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 11, \u0e27\u0e31\u0e14\u0e40\u0e08\u0e49\u0e32\u0e21\u0e39\u0e25","2":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 13, \u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e1e\u0e32\u0e13\u0e34\u0e0a\u0e22\u0e01\u0e32\u0e23\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35","3":"\u0e01\u0e32\u0e23\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e19\u0e04\u0e23\u0e2b\u0e25\u0e27\u0e07\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35,\u00a0\u0e27\u0e31\u0e14\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e40\u0e23\u0e35\u0e22\u0e07","4":"\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35\u0e2a\u0e22\u0e32\u0e21"},"en":{"1":"Soi Charansanitwong 11, Wat Chaomun","2":"Soi Charansanitwong 13, Thonburi Commercial College","3":"Metropolitan Electricity Authority Thonburi Branch Office,\u00a0Wat Phoreang","4":"Siam Technology College"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL02-w_1556274094_56851..jpg"},{"Code":"BL03","English":"Fai Chai","Thai":"\u0e44\u0e1f\u0e09\u0e32\u0e22","Transfer":null,"Location":"Bangkok Noi","station_no":3,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e1e\u0e23\u0e32\u0e19\u0e19\u0e01 1","2":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 31\/1","3":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 31\/2,\u00a0\u0e27\u0e31\u0e14\u0e23\u0e27\u0e01\u0e2a\u0e38\u0e17\u0e18\u0e32\u0e23\u0e32\u0e21,\u00a0\u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e28\u0e23\u0e35","4":"\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e27\u0e34\u0e0a\u0e31\u0e22\u0e40\u0e27\u0e0a"},"en":{"1":"Soi Pranok 1","2":"Soi Charansanitwong 31\/1","3":"Soi Charansanitwong 31\/2,\u00a0Wat Ruag Suttaram,\u00a0Bang Khunsri Market","4":"Vichaivej Hospital"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL03-w_1556274029_05376..jpg"},{"Code":"BL04","English":"Bang Khun Non","Thai":"\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e19\u0e19\u0e17\u0e4c","Transfer":"Commuter trains (Transfer at Charansanitwong Halt)","Location":"Bangkok Noi","station_no":4,"exits":{"th":{"1":"\u0e27\u0e31\u0e14\u0e2a\u0e38\u0e17\u0e18\u0e32\u0e27\u0e32\u0e2a,\u00a0\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35,\u00a0\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e1b\u0e32 \u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22,\u00a0\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22,\u00a0\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 30\/1","2":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 39","3":"\u0e41\u0e22\u0e01\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e19\u0e19\u0e17\u0e4c","4":"\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22,\u00a0 \u0e27\u0e31\u0e14\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e32\u0e23\u0e32\u0e21\u0e23\u0e32\u0e0a\u0e27\u0e23\u0e27\u0e34\u0e2b\u0e32\u0e23"},"en":{"1":"Wat Sutthawat,\u00a0Thonburi Railway Station,\u00a0Metropolitan waterworks Authority Bangkoknoi Branch Office,\u00a0 Bangkoknoi Police Station,\u00a0Soi Charansanitwong 30\/1","2":"Soi Charansanitwong 39","3":"Bang Khun Non Intersection","4":"Bangkoknoi District Office\u00a0Watsuwannaram"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL04-w_1556273946_61737..jpg"},{"Code":"BL05","English":"Bang Yi Khan","Thai":"\u0e1a\u0e32\u0e07\u0e22\u0e35\u0e48\u0e02\u0e31\u0e19","Transfer":null,"Location":"Bang Phlat","station_no":5,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 49\/1","2":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 55","3":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 42","4":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 40\/1"},"en":{"1":"Soi Charansanitwong 49\/1","2":"Soi Charansanitwong 55","3":"Soi Charansanitwong 42","4":"Soi Charansanitwong 40\/1"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL05-w_1556273842_27505..jpg"},{"Code":"BL06","English":"Sirindhorn","Thai":"\u0e2a\u0e34\u0e23\u0e34\u0e19\u0e18\u0e23","Transfer":null,"Location":"Bang Phlat","station_no":6,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 64, \u0e27\u0e31\u0e14\u0e2a\u0e34\u0e07\u0e2b\u0e4c","2A":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 62","2B":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 56","3A":"\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 \u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22, \u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 59","3C":"\u0e16\u0e19\u0e19\u0e2a\u0e34\u0e23\u0e34\u0e19\u0e18\u0e23","3D":"\u0e16\u0e19\u0e19\u0e23\u0e32\u0e0a\u0e27\u0e34\u0e16\u0e35"},"en":{"1":"Soi Charansanitwong 64, Wat Sing","2A":"Soi Charansanitwong 62","2B":"Soi Charansanitwong 56","3A":"Bangkok Noi Land Office, Soi Charansanitwong 59","3C":"Sirindhorn Road","3D":"Ratchawithi Road."}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL06-w_1556273823_63467..jpg"},{"Code":"BL07","English":"Bang Phlat","Thai":"\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14","Transfer":null,"Location":"Bang Phlat","station_no":7,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 81","2":"\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14, \u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 83\/1","3":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 76","4":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 72, \u0e27\u0e31\u0e14\u0e2d\u0e32\u0e27\u0e38\u0e18\u0e27\u0e34\u0e01\u0e2a\u0e34\u0e15\u0e32\u0e23\u0e32\u0e21"},"en":{"1":"Soi Charansanitwong 81","2":"Bangphlat District Office, Soi Charansanitwong 83\/1","3":"Soi Charansanitwong 76","4":"Soi Charansanitwong 72, Wat Awutvikasitaram"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL07-w_1556273810_80673..jpg"},{"Code":"BL08","English":"Bang O","Thai":"\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d","Transfer":null,"Location":"Bang Phlat","station_no":8,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 86\/2, \u0e28\u0e39\u0e19\u0e22\u0e4c\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e2a\u0e38\u0e02 31, \u0e21\u0e31\u0e2a\u0e22\u0e34\u0e14\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d","2":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 85, \u0e27\u0e31\u0e14\u0e2a\u0e32\u0e21\u0e31\u0e04\u0e04\u0e35\u0e2a\u0e38\u0e17\u0e18\u0e32\u0e27\u0e32\u0e2a","3":"\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 89\/2","4":"\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e22\u0e31\u0e19\u0e2e\u0e35, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d, \u0e27\u0e31\u0e14\u0e09\u0e31\u0e15\u0e23\u0e41\u0e01\u0e49\u0e27\u0e08\u0e07\u0e01\u0e25\u0e13\u0e35"},"en":{"1":"Soi Charansanitwong 86\/2, Health Center 31, Bang O Mosque","2":"Soi Charansanitwong 85, Wat Samakisutthawat","3":"Soi Charansanitwong 89\/2","4":"Yanhee Hospital, Bang O Fire Station, Wat Chatkaew Chongkolnee"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL08-w_1556273764_6355..jpg"},{"Code":"BL09","English":"Bang Pho","Thai":"\u0e1a\u0e32\u0e07\u0e42\u0e1e","Transfer":"Chao Phraya Express Boat","Location":"Bang Sue","station_no":9,"exits":{"th":{"1A":"\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e1a\u0e32\u0e07\u0e42\u0e1e","1B":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e17\u0e2b\u0e32\u0e23\u0e1e\u0e25\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23","1C":"\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e1a\u0e32\u0e07\u0e42\u0e1e","2A":"\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c \u0e2a\u0e32\u0e22 2, \u0e27\u0e31\u0e14\u0e1a\u0e32\u0e07\u0e42\u0e1e\u0e42\u0e2d\u0e21\u0e32\u0e27\u0e32\u0e2a","2B":"\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e1a\u0e32\u0e07\u0e42\u0e1e, \u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e42\u0e1e","3A":"\u0e17\u0e35\u0e48\u0e17\u0e33\u0e01\u0e32\u0e23\u0e44\u0e1b\u0e23\u0e29\u0e13\u0e35\u0e22\u0e4c\u0e1a\u0e32\u0e07\u0e42\u0e1e, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e1a\u0e32\u0e07\u0e42\u0e1e, \u0e17\u0e35\u0e48\u0e17\u0e33\u0e01\u0e32\u0e23\u0e14\u0e48\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e44\u0e21\u0e49\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e","3B":"\u0e0b\u0e2d\u0e22\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0f\u0e23\u0e4c\u0e2a\u0e32\u0e22 1 \u0e0b\u0e2d\u0e22 7"},"en":{"1A":"Bang Pho Pier","1B":"Quartermaster Department Royal Thai Army","1C":"Bang Pho Pier","2A":"Thanon Pracha Rat Sai 2, Wat Bangpho Omawat","2B":"Bangpho Hospital, Bangpho Market","3A":"Bang Pho Post Office, Bangpho Fire Station, Bangkok Forest Checkpoint Office","3B":"Soi Pracha Rat Sai 1 Soi 7"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL09-w_1556273857_96233..jpg"},{"Code":"BL10","English":"Tao Poon","Thai":"\u0e40\u0e15\u0e32\u0e1b\u0e39\u0e19","Transfer":"MRT","Location":"Bang Sue","station_no":10,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e19\u0e33\u0e0a\u0e31\u0e22","2":"\u0e0b\u0e2d\u0e22\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e-\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 1","3":"\u0e0b\u0e2d\u0e22\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e-\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 2","4":"\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c \u0e2a\u0e32\u0e22 2"},"en":{"1":"Soi Num Chai","2":"Soi Krungthep-Nonthaburi 1","3":"Soi Krungthep-Nonthaburi 2","4":"Pracharat Sai 2 Road"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL10-w_1560484998..jpg"},{"Code":"BL11","English":"Bang Sue","Thai":"\u0e1a\u0e32\u0e07\u0e0b\u0e37\u0e48\u0e2d","Transfer":"Intercity trains, commuter trains (Transfer at Bang Sue Junction railway station)","Location":"Chatuchak","station_no":11,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e40\u0e17\u0e2d\u0e14\u0e14\u0e33\u0e23\u0e34\u0e2b\u0e4c","2":"\u0e16\u0e19\u0e19\u0e23\u0e16\u0e44\u0e1f"},"en":{"1":"Thoet Damri Road","2":"Rot Fai Road"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/bangsue-01_76478542_1569492775..jpg"},{"Code":"BL12","English":"Kamphaeng Phet","Thai":"\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23","Transfer":null,"Location":"Chatuchak","station_no":12,"exits":{"th":{"1":"\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23","2":"\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23 \u0e16\u0e19\u0e19\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23 2","3":"\u0e15\u0e25\u0e32\u0e14 \u0e2d\u0e15\u0e01. \u0e16\u0e19\u0e19\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23"},"en":{"1":"Chatuchak Weekend Market","2":"Chatuchak Weekend Market, Kamphaeng Phet 2 Road, Chatuchak Weekend Market","3":"the Marketing Organization for Farmers, Kamphaeng Phet Road"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL12-01_4030447_1569492746..jpg"},{"Code":"BL13","English":"Chatuchak Park","Thai":"\u0e2a\u0e27\u0e19\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23","Transfer":"BTS (Transfer at Mo Chit station)","Location":"Chatuchak","station_no":13,"exits":{"th":{"1":"\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23","2":"\u0e2a\u0e27\u0e19\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23","3":"\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e2b\u0e21\u0e2d\u0e0a\u0e34\u0e15","4":"\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e01\u0e32\u0e23\u0e1a\u0e34\u0e19\u0e1e\u0e25\u0e40\u0e23\u0e37\u0e2d\u0e19"},"en":{"1":"Chatuchak Weekend Market","2":"Chatuchak Park","3":"Mo Chit BTS Station","4":"Civil Aviation Training Centre, Department of Land Transport"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/13-01_64451032_1569492675..jpg"},{"Code":"BL14","English":"Phahon Yothin","Thai":"\u0e1e\u0e2b\u0e25\u0e42\u0e22\u0e18\u0e34\u0e19","Transfer":"BTS (Transfer at Ha Yaek Lat Phrao station)","Location":"Chatuchak","station_no":14,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 4","2":"\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e08\u0e2d\u0e2b\u0e4c\u0e19","3":"\u0e2a\u0e27\u0e19\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08\u0e22\u0e48\u0e32 84","4":"\u0e40\u0e17\u0e2a\u0e42\u0e01\u0e49 \u0e42\u0e25\u0e15\u0e31\u0e2a","5":"\u0e22\u0e39\u0e40\u0e19\u0e35\u0e48\u0e22\u0e19\u0e21\u0e2d\u0e25\u0e25\u0e4c"},"en":{"1":"Soi Lat Phrao 4","2":"Saint John\u2019s University","3":"Somdejya 84 Park","4":"Tesco Lotus","5":"Union Mall"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL14edit-01_8237402_1569492639..jpg"},{"Code":"BL15","English":"Lat Phrao","Thai":"\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27","Transfer":null,"Location":"Chatuchak","station_no":15,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 26","2":"\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 24","3":"\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 17","4":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23"},"en":{"1":"Soi Lat Phrao 26, Ratchada-Lat Phrao Intersection","2":"Soi Lat Phrao 24","3":"Soi Lat Phrao 17","4":"MRTA Park and Ride Building"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL15-01_4588672_1569492602..jpg"},{"Code":"BL16","English":"Ratchadaphisek","Thai":"\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01","Transfer":null,"Location":"Din Daeng\/Huai Khwang","station_no":16,"exits":{"th":{"1":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e1b\u0e31\u0e0d\u0e08\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c","2":"\u0e0b\u0e2d\u0e22\u0e42\u0e0a\u0e04\u0e0a\u0e31\u0e22 29","3":"\u0e0b\u0e2d\u0e22\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 28","4":"\u0e0b\u0e2d\u0e22\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 24"},"en":{"1":"Panjasup School","2":"Soi Chokchai 29","3":"Soi Ratchadaphisek 28","4":"Soi Ratchadaphisek 24"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL16-01_85462119_1569492573..jpg"},{"Code":"BL17","English":"Sutthisan","Thai":"\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e2a\u0e32\u0e23","Transfer":null,"Location":"Din Daeng\/Huai Khwang","station_no":17,"exits":{"th":{"1":"\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e2a\u0e32\u0e23","2":"\u0e0b\u0e2d\u0e22\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 20","3":"\u0e16\u0e19\u0e19\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e2a\u0e32\u0e23\u0e27\u0e34\u0e19\u0e34\u0e08\u0e09\u0e31\u0e22","4":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e18\u0e19\u0e0a\u0e32\u0e15\u0e34"},"en":{"1":"Sutthisan Police Station","2":"Soi Ratchadaphisek 20","3":"Sutthisarn Winichai road","4":"Thanachart Building"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL17-01_5629549_1569492417..jpg"},{"Code":"BL18","English":"Huai Khwang","Thai":"\u0e2b\u0e49\u0e27\u0e22\u0e02\u0e27\u0e32\u0e07","Transfer":null,"Location":"Din Daeng\/Huai Khwang","station_no":18,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e33\u0e40\u0e1e\u0e47\u0e0d","2":"\u0e2a\u0e27\u0e34\u0e2a\u0e42\u0e0b\u0e40\u0e17\u0e25 \u0e40\u0e25\u0e2d\u0e04\u0e2d\u0e07\u0e04\u0e2d\u0e23\u0e4c\u0e14 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f","3":"\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e07\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c","4":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e01\u0e38\u0e19\u0e19\u0e17\u0e35\u0e23\u0e38\u0e17\u0e18\u0e32\u0e23\u0e32\u0e21\u0e27\u0e34\u0e17\u0e22\u0e32\u0e04\u0e21"},"en":{"1":"Pracharat Bamphen Road","2":"Swissotel Le Concorde Bangkok","3":"Prachasongkroa Road","4":"Kunnatee Ruttaram Wittayakom School"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL18-01_10610610_1569492391..jpg"},{"Code":"BL19","English":"Thailand Cultural Centre","Thai":"\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22","Transfer":null,"Location":"Din Daeng\/Huai Khwang","station_no":19,"exits":{"th":{"1":"\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22","2":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23","3":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e15\u0e25\u0e32\u0e14\u0e2b\u0e25\u0e31\u0e01\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22","4":"\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e2d\u0e2a\u0e17\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c"},"en":{"1":"Thailand Cultural Centre","2":"Park and Ride Building","3":"The tock Exchange of Thailand","4":"RS Tower"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL19-01_46558860_1569492287..jpg"},{"Code":"BL20","English":"Phra Ram 9","Thai":"\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 9","Transfer":null,"Location":"Din Daeng\/Huai Khwang","station_no":20,"exits":{"th":{"1":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e1f\u0e2d\u0e23\u0e4c\u0e08\u0e39\u0e19 \u0e17\u0e32\u0e27\u0e19\u0e4c","2":"\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e04\u0e49\u0e32\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25\u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32 \u0e41\u0e01\u0e23\u0e19\u0e14\u0e4c\u00a0\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 9","3":"\u0e41\u0e22\u0e01\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 9"},"en":{"1":"Fortune Town Building","2":"CentralPlaza Grand RAMA 9","3":"Rama 9 Intersection"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL20-01_91993907_1569492262..jpg"},{"Code":"BL21","English":"Phetchaburi","Thai":"\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35","Transfer":"ARL (Transfer at Makkasan Station), Eastern Lines","Location":"Ratchathewi","station_no":21,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e2d\u0e42\u0e28\u0e01-\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07, \u0e17\u0e32\u0e07\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21 \u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e40\u0e14\u0e34\u0e19\u0e25\u0e2d\u0e22\u0e1f\u0e49\u0e32 \u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e43\u0e15\u0e49\u0e14\u0e34\u0e19 - \u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e41\u0e2d\u0e23\u0e4c\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e25\u0e34\u0e07\u0e04\u0e4c \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e21\u0e31\u0e35\u0e01\u0e01\u0e30\u0e2a\u0e31\u0e19","2":"\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e2d\u0e42\u0e28\u0e01 \u0e04\u0e25\u0e2d\u0e07\u0e41\u0e2a\u0e19\u0e41\u0e2a\u0e1a","3":"\u0e1e\u0e35 \u0e40\u0e04 \u0e17\u0e32\u0e27\u0e19\u0e4c"},"en":{"1":"Makkasarn station (Airport Rail Link) - MRT skywalk","2":"Asoke Pier, Klong Saen Seap","3":"PK Town"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL21-01_78431430_1569492232..jpg"},{"Code":"BL22","English":"Sukhumvit","Thai":"\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17","Transfer":"BTS","Location":"Watthana","station_no":22,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e2d\u0e42\u0e28\u0e01\u0e21\u0e19\u0e15\u0e23\u0e35","2":"\u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e0a\u0e19\u0e08\u0e4c 21","3":"\u0e16\u0e19\u0e19\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17"},"en":{"1":"Asokmontri Road","2":"Interchange 21","3":"Sukhumvit Road"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL22-01_89062_1569492204..jpg"},{"Code":"BL23","English":"Queen Sirikit National Convention Centre","Thai":"\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e30\u0e0a\u0e38\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e01\u0e34\u0e15\u0e34\u0e4c","Transfer":null,"Location":"Khlong Toei","station_no":23,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e44\u0e1c\u0e48\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e42\u0e15","2":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22\u0e27\u0e34\u0e17\u0e22\u0e32","3":"\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e30\u0e0a\u0e38\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e01\u0e34\u0e15\u0e34\u0e4c","4":"\u0e0b\u0e2d\u0e22\u0e44\u0e1c\u0e48\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e42\u0e15"},"en":{"1":"Soi Phai Singto","2":"Khlong Toei School","3":"Queen Sirikit National Convention Centre","4":"Soi Phai Singto"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL23-01_88596188_1569492173..jpg"},{"Code":"BL24","English":"Khlong Toei","Thai":"\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22","Transfer":null,"Location":"Khlong Toei","station_no":24,"exits":{"th":{"1":"\u0e01\u0e32\u0e23\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e19\u0e04\u0e23\u0e2b\u0e25\u0e27\u0e07\u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22","2":"\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\u0e22\u0e32\u0e2a\u0e39\u0e1a"},"en":{"1":"MEA Khlong Toei","2":"Thailand Tobacco Monopoly"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL24-01_69703951_1569486509..jpg"},{"Code":"BL25","English":"Lumphini","Thai":"\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35","Transfer":null,"Location":"Sathon","station_no":25,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4","2":"\u0e16\u0e19\u0e19\u0e2a\u0e32\u0e17\u0e23\u0e43\u0e15\u0e49","3":"\u0e16\u0e19\u0e19\u0e27\u0e34\u0e17\u0e22\u0e38"},"en":{"1":"Rama 4 Road","2":"South Sathorn Road","3":"Wireless Road"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL25-01_59628116_1569486479..jpg"},{"Code":"BL26","English":"Si Lom","Thai":"\u0e2a\u0e35\u0e25\u0e21","Transfer":"BTS (Transfer at Sala Daeng station)","Location":"Bang Rak","station_no":26,"exits":{"th":{"1":"\u0e2a\u0e27\u0e19\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35","2":"\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e28\u0e32\u0e25\u0e32\u0e41\u0e14\u0e07"},"en":{"1":"Lumpini Park","2":"Sala Daeng BTS station"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL26-01_13229677_1569486445..jpg"},{"Code":"BL27","English":"Sam Yan","Thai":"\u0e2a\u0e32\u0e21\u0e22\u0e48\u0e32\u0e19","Transfer":null,"Location":"Pathum Wan","station_no":27,"exits":{"th":{"1":"\u0e27\u0e31\u0e14\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07","2":"\u0e08\u0e15\u0e38\u0e23\u0e31\u0e2a\u0e08\u0e32\u0e21\u0e08\u0e38\u0e23\u0e35"},"en":{"1":"Wat Hua Lamphong","2":"Chamchuri Square"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL27-01_73909707_1569486019..jpg"},{"Code":"BL28","English":"Hua Lamphong","Thai":"\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07","Transfer":"Intercity trains, commuter trains (Transfer at Bangkok railway station)","Location":"Pathum Wan","station_no":28,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e21\u0e2b\u0e32\u0e1e\u0e24\u0e12\u0e32\u0e23\u0e32\u0e21","2":"\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e(\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07)","3":"\u0e16\u0e19\u0e19\u0e23\u0e2d\u0e07\u0e40\u0e21\u0e37\u0e2d\u0e07","4":"\u0e42\u0e23\u0e07\u0e41\u0e23\u0e21\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c"},"en":{"1":"Mahapruetharam Road","2":"Hua Lamphong Railway station","3":"Rong Muang Road","4":"Bangkok Center Hotel"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL28-01_67596931_1569484805..jpg"},{"Code":"BL29","English":"Wat Mangkon","Thai":"\u0e27\u0e31\u0e14\u0e21\u0e31\u0e07\u0e01\u0e23","Transfer":null,"Location":"Samphanthawong","station_no":29,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e01\u0e23\u0e38\u0e07","2":"\u0e27\u0e31\u0e14\u0e01\u0e31\u0e19\u0e21\u0e32\u0e15\u0e38\u0e22\u0e32\u0e23\u0e32\u0e21","3":"\u0e27\u0e31\u0e14\u0e21\u0e31\u0e07\u0e01\u0e23\u0e01\u0e21\u0e25\u0e32\u0e27\u0e32\u0e2a"},"en":{"1":"Chareon Krung Road","2":"Wat Kanmatuyaram","3":"Wat Mangkon Kammalawat"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL29-w_1556273886_97756..jpg"},{"Code":"BL30","English":"Sam Yot","Thai":"\u0e2a\u0e32\u0e21\u0e22\u0e2d\u0e14","Transfer":null,"Location":"Phra Nakhon","station_no":30,"exits":{"th":{"1":"\u0e16\u0e19\u0e19\u0e21\u0e2b\u0e32\u0e44\u0e0a\u0e22 , \u0e40\u0e21\u0e01\u0e49\u0e32 \u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32","2":"\u0e16\u0e19\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e01\u0e23\u0e38\u0e07","3":"\u0e14\u0e34\u0e42\u0e2d\u0e25\u0e14\u0e4c\u0e2a\u0e22\u0e32\u0e21 \u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32"},"en":{"1":"Maha Chai Road , Mega Plaza","2":"Charoenkrung Road","3":"The Old Siam Plaza"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL30-w_1556273904_7117..jpg"},{"Code":"BL31","English":"Sanam Chai","Thai":"\u0e2a\u0e19\u0e32\u0e21\u0e44\u0e0a\u0e22","Transfer":"Chao Phraya Express Boat","Location":"Phra Nakhon","station_no":31,"exits":{"th":{"1":"\u0e21\u0e34\u0e27\u0e40\u0e0b\u0e35\u0e22\u0e21 \u0e2a\u0e22\u0e32\u0e21","2":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e1a\u0e1e\u0e34\u0e18","3":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e1a\u0e1e\u0e34\u0e18","4":"\u0e1b\u0e32\u0e01\u0e04\u0e25\u0e2d\u0e07\u0e15\u0e25\u0e32\u0e14","5":"\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25 \u0e1e\u0e23\u0e30\u0e23\u0e32\u0e0a\u0e27\u0e31\u0e07 , \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e32\u0e0a\u0e34\u0e19\u0e35"},"en":{"1":"Museum Siam","2":"Wat Rajabopit School","3":"Wat Rajabopit School","4":"Flower market","5":"Phra Ratchawang Police Station , Rajini School"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL31-w_1556273923_32086..jpg"},{"Code":"BL32","English":"Itsaraphap","Thai":"\u0e2d\u0e34\u0e2a\u0e23\u0e20\u0e32\u0e1e","Transfer":null,"Location":"Bangkok Yai","station_no":32,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e2d\u0e34\u0e2a\u0e23\u0e20\u0e32\u0e1e 34","2":"\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e2a\u0e34\u0e17\u0e18\u0e32\u0e23\u0e32\u0e21 , \u0e0b\u0e2d\u0e22\u0e2d\u0e34\u0e2a\u0e23\u0e20\u0e32\u0e1e 23"},"en":{"1":"Soi Itsaraphap 34","2":"Wat Ratchasittharam , Soi Itsaraphap 23"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL32-w_1556273968_42961..jpg"},{"Code":"BL01-L","English":"Tha Phra","Thai":"\u0e17\u0e48\u0e32\u0e1e\u0e23\u0e30","Transfer":"MRT (North section)","Location":"Bangkok Yai","station_no":1,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 10\/2","2A":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 11","2B":"\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e43\u0e2b\u0e0d\u0e48, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 15","3":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 12","4":"\u0e0b\u0e2d\u0e22\u0e04\u0e23\u0e34\u0e2a\u0e08\u0e31\u0e01\u0e23"},"en":{"1":"Soi Phet Kasem 10\/2","2A":"Soi Phet Kasem 11","2B":"Bangkokyai District Office,\u00a0Soi Phet Kasem 15","3":"Soi Phet Kasem 12","D":"Soi Krittachak"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL01-w_1556274134_28671..jpg"},{"Code":"BL33","English":"Bang Phai","Thai":"\u0e1a\u0e32\u0e07\u0e44\u0e1c\u0e48","Transfer":null,"Location":"Phasi Charoen","station_no":33,"exits":{"th":{"1":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e19\u0e27\u0e25\u0e19\u0e23\u0e14\u0e34\u0e28","2":"\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e1e\u0e0d\u0e32\u0e44\u0e17 3","3":"\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e1a\u0e32\u0e07\u0e44\u0e1c\u0e48 , \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 22","4":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e1c\u0e14\u0e34\u0e21\u0e28\u0e36\u0e01\u0e29\u0e32"},"en":{"1":"Wat Nuannoradit School","2":"Phayathai 3 Hospital","3":"Bangphai Hospital, Soi Petchkasem 22","4":"Phadermsuksa School"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL33-w_1556273985_35123..jpg"},{"Code":"BL34","English":"Bang Wa","Thai":"\u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32","Transfer":"BTS","Location":"Phasi Charoen","station_no":34,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 36,\u00a0 \u00a0\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e2a\u0e22\u0e32\u0e21 , \u0e27\u0e31\u0e14\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48\u0e1a\u0e32\u0e07\u0e08\u0e32\u0e01","2":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 25\/3","3":"\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32","4":"\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32"},"en":{"1":"Soi Petchkasem 36, Siam University, Wat Pradu Bang Chak","2":"Soi Petchkasem 25\/3","3":"BTS Bang Wa Station","4":"\u0e3aBTS\u00a0Bang Wa Station"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL34-w_1556273999_67915..jpg"},{"Code":"BL35","English":"Phetkasem 48","Thai":"\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 48","Transfer":null,"Location":"Phasi Charoen","station_no":35,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 46\/3, \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e32\u0e23\u0e32\u0e21, \u0e27\u0e31\u0e14\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e32\u0e23\u0e32\u0e21","2":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 46\/1, \u0e02\u0e38\u0e19\u0e14\u0e48\u0e32\u0e19\u0e28\u0e32\u0e25\u0e40\u0e08\u0e49\u0e32\u0e1e\u0e48\u0e2d\u0e40\u0e2a\u0e37\u0e2d","3":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 29\/1","4":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 31\/3, \u0e27\u0e31\u0e14\u0e23\u0e32\u0e07\u0e1a\u0e31\u0e27"},"en":{"1":"Soi Petchkasem 46\/3, Wat Chanpradittharam School, Wat Chanpradittharam","2":"Soi Petchkasem 46\/1, Kundan chao-por-seua shrine","3":"Soi Petchkasem 29\/1","4":"Soi Petchkasem 31\/3, Wat Rang Bua"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL35-w_1556274014_44462..jpg"},{"Code":"BL36","English":"Phasi Charoen","Thai":"\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d","Transfer":null,"Location":"Phasi Charoen","station_no":36,"exits":{"th":{"1":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 33\/8, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e17\u0e35\u0e48 11 \u0e27\u0e34\u0e40\u0e28\u0e29\u0e19\u0e34\u0e22\u0e21","2":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 35, \u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 35, \u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 2","3":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 56","4":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 54, \u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d"},"en":{"1":"Soi Petchkasem 33\/8, Red Cross Health Station No.11 Visesniyom","2":"Soi Petchkasem 35, Petchkasem 35 Pier, Petchkasem 2 Hospital","3":"Soi Petchkasem 56","4":"Soi Petchkasem 54, Phasi Charoen District Office, Phasi Charoen Police Station"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL36-web-new3-01_68287719_1570096715..jpg"},{"Code":"BL37","English":"Bang Khae","Thai":"\u0e1a\u0e32\u0e07\u0e41\u0e04","Transfer":null,"Location":"Bang Khae","station_no":37,"exits":{"th":{"1":"\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e32\u0e0a\u0e27\u0e34\u0e19\u0e34\u0e15\u0e1b\u0e23\u0e30\u0e16\u0e21 \u0e1a\u0e32\u0e07\u0e41\u0e04, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 62\/4","2":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 62\/3","3":"\u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e41\u0e04","4":"\u0e41\u0e22\u0e01\u0e1a\u0e32\u0e07\u0e41\u0e04, \u0e27\u0e31\u0e14\u0e19\u0e34\u0e21\u0e21\u0e32\u0e19\u0e19\u0e23\u0e14\u0e35, \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e19\u0e34\u0e21\u0e21\u0e32\u0e19\u0e23\u0e14\u0e35, \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e2a\u0e32\u0e18\u0e34\u0e15\u0e28\u0e36\u0e01\u0e29\u0e32, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e41\u0e25\u0e30\u0e01\u0e39\u0e49\u0e20\u0e31\u0e22\u0e1a\u0e32\u0e07\u0e41\u0e04"},"en":{"1":"Ratchawinit School, Soi Petchkasem 62\/4","2":"Soi Petchkasem 62\/3","3":"Bang Khae Market","4":"Bang Khae Intersection, Wat Nimma-noradi, Wat Nimma-noradi School, Triamsatitsuksa School, Bangkae Fire & Rescue Station"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL37-w_1556274058_80335..jpg"},{"Code":"BL38","English":"Lak Song","Thai":"\u0e2b\u0e25\u0e31\u0e01\u0e2a\u0e2d\u0e07","Transfer":null,"Location":"Bang Khae","station_no":38,"exits":{"th":{"1":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23 1, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 80","2":"\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23 2, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 47\/1","3":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 47\/2,\u00a0\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e40\u0e01\u0e29\u0e21\u0e23\u0e32\u0e29\u0e0f\u0e23\u0e4c \u0e1a\u0e32\u0e07\u0e41\u0e04,\u00a0\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e2a\u0e38\u0e02 40 \u0e1a\u0e32\u0e07\u0e41\u0e04","4":"\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 84"},"en":{"1":"Park and Ride Building 1, Soi Petchkasem 80","2":"Park and Ride Building 2, Soi Petchkasem 47\/1","3":"Soi Petchkasem 47\/2, Kasemrad Bangkae Hospital, Health Center 40 Bangkae","4":"Soi Petchkasem 84"}},"map_url":"https:\/\/admin.bemplc.co.th\/Upload\/BL38-w_1556274114_4901..jpg"}]
+[
+    {
+        "Code": "BL01-U",
+        "English": "Tha Phra",
+        "Thai": "\u0e17\u0e48\u0e32\u0e1e\u0e23\u0e30",
+        "Transfer": "MRT (South section)",
+        "Location": "Bangkok Yai",
+        "station_no": 1,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 10\/2",
+                "2A": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 11",
+                "2B": "\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e43\u0e2b\u0e0d\u0e48, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 15",
+                "3": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 12",
+                "4": "\u0e0b\u0e2d\u0e22\u0e04\u0e23\u0e34\u0e2a\u0e08\u0e31\u0e01\u0e23"
+            },
+            "en": {
+                "1": "Soi Phet Kasem 10\/2",
+                "2A": "Soi Phet Kasem 11",
+                "2B": "Bangkokyai District Office,\u00a0Soi Phet Kasem 15",
+                "3": "Soi Phet Kasem 12",
+                "D": "Soi Krittachak"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL01-w_1556274134_28671..jpg"
+    },
+    {
+        "Code": "BL02",
+        "English": "Charan 13",
+        "Thai": "\u0e08\u0e23\u0e31\u0e0d\u0e2f 13",
+        "Transfer": null,
+        "Location": "Bangkok Yai",
+        "station_no": 2,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 11, \u0e27\u0e31\u0e14\u0e40\u0e08\u0e49\u0e32\u0e21\u0e39\u0e25",
+                "2": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 13, \u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e1e\u0e32\u0e13\u0e34\u0e0a\u0e22\u0e01\u0e32\u0e23\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35",
+                "3": "\u0e01\u0e32\u0e23\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e19\u0e04\u0e23\u0e2b\u0e25\u0e27\u0e07\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35,\u00a0\u0e27\u0e31\u0e14\u0e42\u0e1e\u0e18\u0e34\u0e4c\u0e40\u0e23\u0e35\u0e22\u0e07",
+                "4": "\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e40\u0e17\u0e04\u0e42\u0e19\u0e42\u0e25\u0e22\u0e35\u0e2a\u0e22\u0e32\u0e21"
+            },
+            "en": {
+                "1": "Soi Charansanitwong 11, Wat Chaomun",
+                "2": "Soi Charansanitwong 13, Thonburi Commercial College",
+                "3": "Metropolitan Electricity Authority Thonburi Branch Office,\u00a0Wat Phoreang",
+                "4": "Siam Technology College"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL02-w_1556274094_56851..jpg"
+    },
+    {
+        "Code": "BL03",
+        "English": "Fai Chai",
+        "Thai": "\u0e44\u0e1f\u0e09\u0e32\u0e22",
+        "Transfer": null,
+        "Location": "Bangkok Noi",
+        "station_no": 3,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e1e\u0e23\u0e32\u0e19\u0e19\u0e01 1",
+                "2": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 31\/1",
+                "3": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 31\/2,\u00a0\u0e27\u0e31\u0e14\u0e23\u0e27\u0e01\u0e2a\u0e38\u0e17\u0e18\u0e32\u0e23\u0e32\u0e21,\u00a0\u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e28\u0e23\u0e35",
+                "4": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e27\u0e34\u0e0a\u0e31\u0e22\u0e40\u0e27\u0e0a"
+            },
+            "en": {
+                "1": "Soi Pranok 1",
+                "2": "Soi Charansanitwong 31\/1",
+                "3": "Soi Charansanitwong 31\/2,\u00a0Wat Ruag Suttaram,\u00a0Bang Khunsri Market",
+                "4": "Vichaivej Hospital"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL03-w_1556274029_05376..jpg"
+    },
+    {
+        "Code": "BL04",
+        "English": "Bang Khun Non",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e19\u0e19\u0e17\u0e4c",
+        "Transfer": "Commuter trains (Transfer at Charansanitwong Halt)",
+        "Location": "Bangkok Noi",
+        "station_no": 4,
+        "exits": {
+            "th": {
+                "1": "\u0e27\u0e31\u0e14\u0e2a\u0e38\u0e17\u0e18\u0e32\u0e27\u0e32\u0e2a,\u00a0\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e18\u0e19\u0e1a\u0e38\u0e23\u0e35,\u00a0\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e1b\u0e23\u0e30\u0e1b\u0e32 \u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22,\u00a0\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22,\u00a0\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 30\/1",
+                "2": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 39",
+                "3": "\u0e41\u0e22\u0e01\u0e1a\u0e32\u0e07\u0e02\u0e38\u0e19\u0e19\u0e19\u0e17\u0e4c",
+                "4": "\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22,\u00a0 \u0e27\u0e31\u0e14\u0e2a\u0e38\u0e27\u0e23\u0e23\u0e13\u0e32\u0e23\u0e32\u0e21\u0e23\u0e32\u0e0a\u0e27\u0e23\u0e27\u0e34\u0e2b\u0e32\u0e23"
+            },
+            "en": {
+                "1": "Wat Sutthawat,\u00a0Thonburi Railway Station,\u00a0Metropolitan waterworks Authority Bangkoknoi Branch Office,\u00a0 Bangkoknoi Police Station,\u00a0Soi Charansanitwong 30\/1",
+                "2": "Soi Charansanitwong 39",
+                "3": "Bang Khun Non Intersection",
+                "4": "Bangkoknoi District Office\u00a0Watsuwannaram"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL04-w_1556273946_61737..jpg"
+    },
+    {
+        "Code": "BL05",
+        "English": "Bang Yi Khan",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e22\u0e35\u0e48\u0e02\u0e31\u0e19",
+        "Transfer": null,
+        "Location": "Bang Phlat",
+        "station_no": 5,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 49\/1",
+                "2": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 55",
+                "3": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 42",
+                "4": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 40\/1"
+            },
+            "en": {
+                "1": "Soi Charansanitwong 49\/1",
+                "2": "Soi Charansanitwong 55",
+                "3": "Soi Charansanitwong 42",
+                "4": "Soi Charansanitwong 40\/1"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL05-w_1556273842_27505..jpg"
+    },
+    {
+        "Code": "BL06",
+        "English": "Sirindhorn",
+        "Thai": "\u0e2a\u0e34\u0e23\u0e34\u0e19\u0e18\u0e23",
+        "Transfer": null,
+        "Location": "Bang Phlat",
+        "station_no": 6,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 64, \u0e27\u0e31\u0e14\u0e2a\u0e34\u0e07\u0e2b\u0e4c",
+                "2A": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 62",
+                "2B": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 56",
+                "3A": "\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e17\u0e35\u0e48\u0e14\u0e34\u0e19 \u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e19\u0e49\u0e2d\u0e22, \u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 59",
+                "3C": "\u0e16\u0e19\u0e19\u0e2a\u0e34\u0e23\u0e34\u0e19\u0e18\u0e23",
+                "3D": "\u0e16\u0e19\u0e19\u0e23\u0e32\u0e0a\u0e27\u0e34\u0e16\u0e35"
+            },
+            "en": {
+                "1": "Soi Charansanitwong 64, Wat Sing",
+                "2A": "Soi Charansanitwong 62",
+                "2B": "Soi Charansanitwong 56",
+                "3A": "Bangkok Noi Land Office, Soi Charansanitwong 59",
+                "3C": "Sirindhorn Road",
+                "3D": "Ratchawithi Road."
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL06-w_1556273823_63467..jpg"
+    },
+    {
+        "Code": "BL07",
+        "English": "Bang Phlat",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14",
+        "Transfer": null,
+        "Location": "Bang Phlat",
+        "station_no": 7,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 81",
+                "2": "\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e1e\u0e25\u0e31\u0e14, \u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 83\/1",
+                "3": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 76",
+                "4": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 72, \u0e27\u0e31\u0e14\u0e2d\u0e32\u0e27\u0e38\u0e18\u0e27\u0e34\u0e01\u0e2a\u0e34\u0e15\u0e32\u0e23\u0e32\u0e21"
+            },
+            "en": {
+                "1": "Soi Charansanitwong 81",
+                "2": "Bangphlat District Office, Soi Charansanitwong 83\/1",
+                "3": "Soi Charansanitwong 76",
+                "4": "Soi Charansanitwong 72, Wat Awutvikasitaram"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL07-w_1556273810_80673..jpg"
+    },
+    {
+        "Code": "BL08",
+        "English": "Bang O",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d",
+        "Transfer": null,
+        "Location": "Bang Phlat",
+        "station_no": 8,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 86\/2, \u0e28\u0e39\u0e19\u0e22\u0e4c\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e2a\u0e38\u0e02 31, \u0e21\u0e31\u0e2a\u0e22\u0e34\u0e14\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d",
+                "2": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 85, \u0e27\u0e31\u0e14\u0e2a\u0e32\u0e21\u0e31\u0e04\u0e04\u0e35\u0e2a\u0e38\u0e17\u0e18\u0e32\u0e27\u0e32\u0e2a",
+                "3": "\u0e0b\u0e2d\u0e22\u0e08\u0e23\u0e31\u0e0d\u0e2a\u0e19\u0e34\u0e17\u0e27\u0e07\u0e28\u0e4c 89\/2",
+                "4": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e22\u0e31\u0e19\u0e2e\u0e35, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e1a\u0e32\u0e07\u0e2d\u0e49\u0e2d, \u0e27\u0e31\u0e14\u0e09\u0e31\u0e15\u0e23\u0e41\u0e01\u0e49\u0e27\u0e08\u0e07\u0e01\u0e25\u0e13\u0e35"
+            },
+            "en": {
+                "1": "Soi Charansanitwong 86\/2, Health Center 31, Bang O Mosque",
+                "2": "Soi Charansanitwong 85, Wat Samakisutthawat",
+                "3": "Soi Charansanitwong 89\/2",
+                "4": "Yanhee Hospital, Bang O Fire Station, Wat Chatkaew Chongkolnee"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL08-w_1556273764_6355..jpg"
+    },
+    {
+        "Code": "BL09",
+        "English": "Bang Pho",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e42\u0e1e",
+        "Transfer": "Chao Phraya Express Boat",
+        "Location": "Bang Sue",
+        "station_no": 9,
+        "exits": {
+            "th": {
+                "1A": "\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e1a\u0e32\u0e07\u0e42\u0e1e",
+                "1B": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e17\u0e2b\u0e32\u0e23\u0e1e\u0e25\u0e32\u0e18\u0e34\u0e01\u0e32\u0e23",
+                "1C": "\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e1a\u0e32\u0e07\u0e42\u0e1e",
+                "2A": "\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c \u0e2a\u0e32\u0e22 2, \u0e27\u0e31\u0e14\u0e1a\u0e32\u0e07\u0e42\u0e1e\u0e42\u0e2d\u0e21\u0e32\u0e27\u0e32\u0e2a",
+                "2B": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e1a\u0e32\u0e07\u0e42\u0e1e, \u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e42\u0e1e",
+                "3A": "\u0e17\u0e35\u0e48\u0e17\u0e33\u0e01\u0e32\u0e23\u0e44\u0e1b\u0e23\u0e29\u0e13\u0e35\u0e22\u0e4c\u0e1a\u0e32\u0e07\u0e42\u0e1e, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e1a\u0e32\u0e07\u0e42\u0e1e, \u0e17\u0e35\u0e48\u0e17\u0e33\u0e01\u0e32\u0e23\u0e14\u0e48\u0e32\u0e19\u0e1b\u0e48\u0e32\u0e44\u0e21\u0e49\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e",
+                "3B": "\u0e0b\u0e2d\u0e22\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0f\u0e23\u0e4c\u0e2a\u0e32\u0e22 1 \u0e0b\u0e2d\u0e22 7"
+            },
+            "en": {
+                "1A": "Bang Pho Pier",
+                "1B": "Quartermaster Department Royal Thai Army",
+                "1C": "Bang Pho Pier",
+                "2A": "Thanon Pracha Rat Sai 2, Wat Bangpho Omawat",
+                "2B": "Bangpho Hospital, Bangpho Market",
+                "3A": "Bang Pho Post Office, Bangpho Fire Station, Bangkok Forest Checkpoint Office",
+                "3B": "Soi Pracha Rat Sai 1 Soi 7"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL09-w_1556273857_96233..jpg"
+    },
+    {
+        "Code": "BL10",
+        "English": "Tao Poon",
+        "Thai": "\u0e40\u0e15\u0e32\u0e1b\u0e39\u0e19",
+        "Transfer": "MRT",
+        "Location": "Bang Sue",
+        "station_no": 10,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e19\u0e33\u0e0a\u0e31\u0e22",
+                "2": "\u0e0b\u0e2d\u0e22\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e-\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 1",
+                "3": "\u0e0b\u0e2d\u0e22\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e-\u0e19\u0e19\u0e17\u0e1a\u0e38\u0e23\u0e35 2",
+                "4": "\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c \u0e2a\u0e32\u0e22 2"
+            },
+            "en": {
+                "1": "Soi Num Chai",
+                "2": "Soi Krungthep-Nonthaburi 1",
+                "3": "Soi Krungthep-Nonthaburi 2",
+                "4": "Pracharat Sai 2 Road"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL10-w_1560484998..jpg"
+    },
+    {
+        "Code": "BL11",
+        "English": "Bang Sue",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e0b\u0e37\u0e48\u0e2d",
+        "Transfer": "Intercity trains, commuter trains (Transfer at Bang Sue Junction railway station)",
+        "Location": "Chatuchak",
+        "station_no": 11,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e40\u0e17\u0e2d\u0e14\u0e14\u0e33\u0e23\u0e34\u0e2b\u0e4c",
+                "2": "\u0e16\u0e19\u0e19\u0e23\u0e16\u0e44\u0e1f"
+            },
+            "en": {
+                "1": "Thoet Damri Road",
+                "2": "Rot Fai Road"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/bangsue-01_76478542_1569492775..jpg"
+    },
+    {
+        "Code": "BL12",
+        "English": "Kamphaeng Phet",
+        "Thai": "\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23",
+        "Transfer": null,
+        "Location": "Chatuchak",
+        "station_no": 12,
+        "exits": {
+            "th": {
+                "1": "\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23",
+                "2": "\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23 \u0e16\u0e19\u0e19\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23 2",
+                "3": "\u0e15\u0e25\u0e32\u0e14 \u0e2d\u0e15\u0e01. \u0e16\u0e19\u0e19\u0e01\u0e33\u0e41\u0e1e\u0e07\u0e40\u0e1e\u0e0a\u0e23"
+            },
+            "en": {
+                "1": "Chatuchak Weekend Market",
+                "2": "Chatuchak Weekend Market, Kamphaeng Phet 2 Road, Chatuchak Weekend Market",
+                "3": "the Marketing Organization for Farmers, Kamphaeng Phet Road"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL12-01_4030447_1569492746..jpg"
+    },
+    {
+        "Code": "BL13",
+        "English": "Chatuchak Park",
+        "Thai": "\u0e2a\u0e27\u0e19\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23",
+        "Transfer": "BTS (Transfer at Mo Chit station)",
+        "Location": "Chatuchak",
+        "station_no": 13,
+        "exits": {
+            "th": {
+                "1": "\u0e15\u0e25\u0e32\u0e14\u0e19\u0e31\u0e14\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23",
+                "2": "\u0e2a\u0e27\u0e19\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23",
+                "3": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e2b\u0e21\u0e2d\u0e0a\u0e34\u0e15",
+                "4": "\u0e2a\u0e16\u0e32\u0e1a\u0e31\u0e19\u0e01\u0e32\u0e23\u0e1a\u0e34\u0e19\u0e1e\u0e25\u0e40\u0e23\u0e37\u0e2d\u0e19"
+            },
+            "en": {
+                "1": "Chatuchak Weekend Market",
+                "2": "Chatuchak Park",
+                "3": "Mo Chit BTS Station",
+                "4": "Civil Aviation Training Centre, Department of Land Transport"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/13-01_64451032_1569492675..jpg"
+    },
+    {
+        "Code": "BL14",
+        "English": "Phahon Yothin",
+        "Thai": "\u0e1e\u0e2b\u0e25\u0e42\u0e22\u0e18\u0e34\u0e19",
+        "Transfer": "BTS (Transfer at Ha Yaek Lat Phrao station)",
+        "Location": "Chatuchak",
+        "station_no": 14,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 4",
+                "2": "\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e08\u0e2d\u0e2b\u0e4c\u0e19",
+                "3": "\u0e2a\u0e27\u0e19\u0e2a\u0e21\u0e40\u0e14\u0e47\u0e08\u0e22\u0e48\u0e32 84",
+                "4": "\u0e40\u0e17\u0e2a\u0e42\u0e01\u0e49 \u0e42\u0e25\u0e15\u0e31\u0e2a",
+                "5": "\u0e22\u0e39\u0e40\u0e19\u0e35\u0e48\u0e22\u0e19\u0e21\u0e2d\u0e25\u0e25\u0e4c"
+            },
+            "en": {
+                "1": "Soi Lat Phrao 4",
+                "2": "Saint John\u2019s University",
+                "3": "Somdejya 84 Park",
+                "4": "Tesco Lotus",
+                "5": "Union Mall"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL14edit-01_8237402_1569492639..jpg"
+    },
+    {
+        "Code": "BL15",
+        "English": "Lat Phrao",
+        "Thai": "\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27",
+        "Transfer": null,
+        "Location": "Chatuchak",
+        "station_no": 15,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 26",
+                "2": "\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 24",
+                "3": "\u0e0b\u0e2d\u0e22\u0e25\u0e32\u0e14\u0e1e\u0e23\u0e49\u0e32\u0e27 17",
+                "4": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23"
+            },
+            "en": {
+                "1": "Soi Lat Phrao 26, Ratchada-Lat Phrao Intersection",
+                "2": "Soi Lat Phrao 24",
+                "3": "Soi Lat Phrao 17",
+                "4": "MRTA Park and Ride Building"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL15-01_4588672_1569492602..jpg"
+    },
+    {
+        "Code": "BL16",
+        "English": "Ratchadaphisek",
+        "Thai": "\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01",
+        "Transfer": null,
+        "Location": "Din Daeng\/Huai Khwang",
+        "station_no": 16,
+        "exits": {
+            "th": {
+                "1": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e1b\u0e31\u0e0d\u0e08\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c",
+                "2": "\u0e0b\u0e2d\u0e22\u0e42\u0e0a\u0e04\u0e0a\u0e31\u0e22 29",
+                "3": "\u0e0b\u0e2d\u0e22\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 28",
+                "4": "\u0e0b\u0e2d\u0e22\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 24"
+            },
+            "en": {
+                "1": "Panjasup School",
+                "2": "Soi Chokchai 29",
+                "3": "Soi Ratchadaphisek 28",
+                "4": "Soi Ratchadaphisek 24"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL16-01_85462119_1569492573..jpg"
+    },
+    {
+        "Code": "BL17",
+        "English": "Sutthisan",
+        "Thai": "\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e2a\u0e32\u0e23",
+        "Transfer": null,
+        "Location": "Din Daeng\/Huai Khwang",
+        "station_no": 17,
+        "exits": {
+            "th": {
+                "1": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e2a\u0e32\u0e23",
+                "2": "\u0e0b\u0e2d\u0e22\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01 20",
+                "3": "\u0e16\u0e19\u0e19\u0e2a\u0e38\u0e17\u0e18\u0e34\u0e2a\u0e32\u0e23\u0e27\u0e34\u0e19\u0e34\u0e08\u0e09\u0e31\u0e22",
+                "4": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e18\u0e19\u0e0a\u0e32\u0e15\u0e34"
+            },
+            "en": {
+                "1": "Sutthisan Police Station",
+                "2": "Soi Ratchadaphisek 20",
+                "3": "Sutthisarn Winichai road",
+                "4": "Thanachart Building"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL17-01_5629549_1569492417..jpg"
+    },
+    {
+        "Code": "BL18",
+        "English": "Huai Khwang",
+        "Thai": "\u0e2b\u0e49\u0e27\u0e22\u0e02\u0e27\u0e32\u0e07",
+        "Transfer": null,
+        "Location": "Din Daeng\/Huai Khwang",
+        "station_no": 18,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e1a\u0e33\u0e40\u0e1e\u0e47\u0e0d",
+                "2": "\u0e2a\u0e27\u0e34\u0e2a\u0e42\u0e0b\u0e40\u0e17\u0e25 \u0e40\u0e25\u0e2d\u0e04\u0e2d\u0e07\u0e04\u0e2d\u0e23\u0e4c\u0e14 \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e2f",
+                "3": "\u0e16\u0e19\u0e19\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e07\u0e40\u0e04\u0e23\u0e32\u0e30\u0e2b\u0e4c",
+                "4": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e01\u0e38\u0e19\u0e19\u0e17\u0e35\u0e23\u0e38\u0e17\u0e18\u0e32\u0e23\u0e32\u0e21\u0e27\u0e34\u0e17\u0e22\u0e32\u0e04\u0e21"
+            },
+            "en": {
+                "1": "Pracharat Bamphen Road",
+                "2": "Swissotel Le Concorde Bangkok",
+                "3": "Prachasongkroa Road",
+                "4": "Kunnatee Ruttaram Wittayakom School"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL18-01_10610610_1569492391..jpg"
+    },
+    {
+        "Code": "BL19",
+        "English": "Thailand Cultural Centre",
+        "Thai": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+        "Transfer": null,
+        "Location": "Din Daeng\/Huai Khwang",
+        "station_no": 19,
+        "exits": {
+            "th": {
+                "1": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e27\u0e31\u0e12\u0e19\u0e18\u0e23\u0e23\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+                "2": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23",
+                "3": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e15\u0e25\u0e32\u0e14\u0e2b\u0e25\u0e31\u0e01\u0e17\u0e23\u0e31\u0e1e\u0e22\u0e4c\u0e41\u0e2b\u0e48\u0e07\u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+                "4": "\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e2d\u0e2a\u0e17\u0e32\u0e27\u0e40\u0e27\u0e2d\u0e23\u0e4c"
+            },
+            "en": {
+                "1": "Thailand Cultural Centre",
+                "2": "Park and Ride Building",
+                "3": "The tock Exchange of Thailand",
+                "4": "RS Tower"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL19-01_46558860_1569492287..jpg"
+    },
+    {
+        "Code": "BL20",
+        "English": "Phra Ram 9",
+        "Thai": "\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 9",
+        "Transfer": null,
+        "Location": "Din Daeng\/Huai Khwang",
+        "station_no": 20,
+        "exits": {
+            "th": {
+                "1": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e1f\u0e2d\u0e23\u0e4c\u0e08\u0e39\u0e19 \u0e17\u0e32\u0e27\u0e19\u0e4c",
+                "2": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e04\u0e49\u0e32\u0e40\u0e0b\u0e47\u0e19\u0e17\u0e23\u0e31\u0e25\u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32 \u0e41\u0e01\u0e23\u0e19\u0e14\u0e4c\u00a0\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 9",
+                "3": "\u0e41\u0e22\u0e01\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 9"
+            },
+            "en": {
+                "1": "Fortune Town Building",
+                "2": "CentralPlaza Grand RAMA 9",
+                "3": "Rama 9 Intersection"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL20-01_91993907_1569492262..jpg"
+    },
+    {
+        "Code": "BL21",
+        "English": "Phetchaburi",
+        "Thai": "\u0e40\u0e1e\u0e0a\u0e23\u0e1a\u0e38\u0e23\u0e35",
+        "Transfer": "ARL (Transfer at Makkasan Station), Eastern Lines",
+        "Location": "Ratchathewi",
+        "station_no": 21,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e2d\u0e42\u0e28\u0e01-\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07, \u0e17\u0e32\u0e07\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e21 \u0e2a\u0e30\u0e1e\u0e32\u0e19\u0e40\u0e14\u0e34\u0e19\u0e25\u0e2d\u0e22\u0e1f\u0e49\u0e32 \u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e43\u0e15\u0e49\u0e14\u0e34\u0e19 - \u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e41\u0e2d\u0e23\u0e4c\u0e1e\u0e2d\u0e23\u0e4c\u0e15\u0e25\u0e34\u0e07\u0e04\u0e4c \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e21\u0e31\u0e35\u0e01\u0e01\u0e30\u0e2a\u0e31\u0e19",
+                "2": "\u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e2d\u0e42\u0e28\u0e01 \u0e04\u0e25\u0e2d\u0e07\u0e41\u0e2a\u0e19\u0e41\u0e2a\u0e1a",
+                "3": "\u0e1e\u0e35 \u0e40\u0e04 \u0e17\u0e32\u0e27\u0e19\u0e4c"
+            },
+            "en": {
+                "1": "Makkasarn station (Airport Rail Link) - MRT skywalk",
+                "2": "Asoke Pier, Klong Saen Seap",
+                "3": "PK Town"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL21-01_78431430_1569492232..jpg"
+    },
+    {
+        "Code": "BL22",
+        "English": "Sukhumvit",
+        "Thai": "\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17",
+        "Transfer": "BTS",
+        "Location": "Watthana",
+        "station_no": 22,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e2d\u0e42\u0e28\u0e01\u0e21\u0e19\u0e15\u0e23\u0e35",
+                "2": "\u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e0a\u0e19\u0e08\u0e4c 21",
+                "3": "\u0e16\u0e19\u0e19\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17"
+            },
+            "en": {
+                "1": "Asokmontri Road",
+                "2": "Interchange 21",
+                "3": "Sukhumvit Road"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL22-01_89062_1569492204..jpg"
+    },
+    {
+        "Code": "BL23",
+        "English": "Queen Sirikit National Convention Centre",
+        "Thai": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e30\u0e0a\u0e38\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e01\u0e34\u0e15\u0e34\u0e4c",
+        "Transfer": null,
+        "Location": "Khlong Toei",
+        "station_no": 23,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e44\u0e1c\u0e48\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e42\u0e15",
+                "2": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22\u0e27\u0e34\u0e17\u0e22\u0e32",
+                "3": "\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e01\u0e32\u0e23\u0e1b\u0e23\u0e30\u0e0a\u0e38\u0e21\u0e41\u0e2b\u0e48\u0e07\u0e0a\u0e32\u0e15\u0e34\u0e2a\u0e34\u0e23\u0e34\u0e01\u0e34\u0e15\u0e34\u0e4c",
+                "4": "\u0e0b\u0e2d\u0e22\u0e44\u0e1c\u0e48\u0e2a\u0e34\u0e07\u0e2b\u0e4c\u0e42\u0e15"
+            },
+            "en": {
+                "1": "Soi Phai Singto",
+                "2": "Khlong Toei School",
+                "3": "Queen Sirikit National Convention Centre",
+                "4": "Soi Phai Singto"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL23-01_88596188_1569492173..jpg"
+    },
+    {
+        "Code": "BL24",
+        "English": "Khlong Toei",
+        "Thai": "\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22",
+        "Transfer": null,
+        "Location": "Khlong Toei",
+        "station_no": 24,
+        "exits": {
+            "th": {
+                "1": "\u0e01\u0e32\u0e23\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e19\u0e04\u0e23\u0e2b\u0e25\u0e27\u0e07\u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22",
+                "2": "\u0e42\u0e23\u0e07\u0e07\u0e32\u0e19\u0e22\u0e32\u0e2a\u0e39\u0e1a"
+            },
+            "en": {
+                "1": "MEA Khlong Toei",
+                "2": "Thailand Tobacco Monopoly"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL24-01_69703951_1569486509..jpg"
+    },
+    {
+        "Code": "BL25",
+        "English": "Lumphini",
+        "Thai": "\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35",
+        "Transfer": null,
+        "Location": "Sathon",
+        "station_no": 25,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21 4",
+                "2": "\u0e16\u0e19\u0e19\u0e2a\u0e32\u0e17\u0e23\u0e43\u0e15\u0e49",
+                "3": "\u0e16\u0e19\u0e19\u0e27\u0e34\u0e17\u0e22\u0e38"
+            },
+            "en": {
+                "1": "Rama 4 Road",
+                "2": "South Sathorn Road",
+                "3": "Wireless Road"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL25-01_59628116_1569486479..jpg"
+    },
+    {
+        "Code": "BL26",
+        "English": "Si Lom",
+        "Thai": "\u0e2a\u0e35\u0e25\u0e21",
+        "Transfer": "BTS (Transfer at Sala Daeng station)",
+        "Location": "Bang Rak",
+        "station_no": 26,
+        "exits": {
+            "th": {
+                "1": "\u0e2a\u0e27\u0e19\u0e25\u0e38\u0e21\u0e1e\u0e34\u0e19\u0e35",
+                "2": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e1f\u0e49\u0e32\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e28\u0e32\u0e25\u0e32\u0e41\u0e14\u0e07"
+            },
+            "en": {
+                "1": "Lumpini Park",
+                "2": "Sala Daeng BTS station"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL26-01_13229677_1569486445..jpg"
+    },
+    {
+        "Code": "BL27",
+        "English": "Sam Yan",
+        "Thai": "\u0e2a\u0e32\u0e21\u0e22\u0e48\u0e32\u0e19",
+        "Transfer": null,
+        "Location": "Pathum Wan",
+        "station_no": 27,
+        "exits": {
+            "th": {
+                "1": "\u0e27\u0e31\u0e14\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07",
+                "2": "\u0e08\u0e15\u0e38\u0e23\u0e31\u0e2a\u0e08\u0e32\u0e21\u0e08\u0e38\u0e23\u0e35"
+            },
+            "en": {
+                "1": "Wat Hua Lamphong",
+                "2": "Chamchuri Square"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL27-01_73909707_1569486019..jpg"
+    },
+    {
+        "Code": "BL28",
+        "English": "Hua Lamphong",
+        "Thai": "\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07",
+        "Transfer": "Intercity trains, commuter trains (Transfer at Bangkok railway station)",
+        "Location": "Pathum Wan",
+        "station_no": 28,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e21\u0e2b\u0e32\u0e1e\u0e24\u0e12\u0e32\u0e23\u0e32\u0e21",
+                "2": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e23\u0e16\u0e44\u0e1f\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e(\u0e2b\u0e31\u0e27\u0e25\u0e33\u0e42\u0e1e\u0e07)",
+                "3": "\u0e16\u0e19\u0e19\u0e23\u0e2d\u0e07\u0e40\u0e21\u0e37\u0e2d\u0e07",
+                "4": "\u0e42\u0e23\u0e07\u0e41\u0e23\u0e21\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e40\u0e0b\u0e47\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c"
+            },
+            "en": {
+                "1": "Mahapruetharam Road",
+                "2": "Hua Lamphong Railway station",
+                "3": "Rong Muang Road",
+                "4": "Bangkok Center Hotel"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL28-01_67596931_1569484805..jpg"
+    },
+    {
+        "Code": "BL29",
+        "English": "Wat Mangkon",
+        "Thai": "\u0e27\u0e31\u0e14\u0e21\u0e31\u0e07\u0e01\u0e23",
+        "Transfer": null,
+        "Location": "Samphanthawong",
+        "station_no": 29,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e01\u0e23\u0e38\u0e07",
+                "2": "\u0e27\u0e31\u0e14\u0e01\u0e31\u0e19\u0e21\u0e32\u0e15\u0e38\u0e22\u0e32\u0e23\u0e32\u0e21",
+                "3": "\u0e27\u0e31\u0e14\u0e21\u0e31\u0e07\u0e01\u0e23\u0e01\u0e21\u0e25\u0e32\u0e27\u0e32\u0e2a"
+            },
+            "en": {
+                "1": "Chareon Krung Road",
+                "2": "Wat Kanmatuyaram",
+                "3": "Wat Mangkon Kammalawat"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL29-w_1556273886_97756..jpg"
+    },
+    {
+        "Code": "BL30",
+        "English": "Sam Yot",
+        "Thai": "\u0e2a\u0e32\u0e21\u0e22\u0e2d\u0e14",
+        "Transfer": null,
+        "Location": "Phra Nakhon",
+        "station_no": 30,
+        "exits": {
+            "th": {
+                "1": "\u0e16\u0e19\u0e19\u0e21\u0e2b\u0e32\u0e44\u0e0a\u0e22 , \u0e40\u0e21\u0e01\u0e49\u0e32 \u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32",
+                "2": "\u0e16\u0e19\u0e19\u0e40\u0e08\u0e23\u0e34\u0e0d\u0e01\u0e23\u0e38\u0e07",
+                "3": "\u0e14\u0e34\u0e42\u0e2d\u0e25\u0e14\u0e4c\u0e2a\u0e22\u0e32\u0e21 \u0e1e\u0e25\u0e32\u0e0b\u0e48\u0e32"
+            },
+            "en": {
+                "1": "Maha Chai Road , Mega Plaza",
+                "2": "Charoenkrung Road",
+                "3": "The Old Siam Plaza"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL30-w_1556273904_7117..jpg"
+    },
+    {
+        "Code": "BL31",
+        "English": "Sanam Chai",
+        "Thai": "\u0e2a\u0e19\u0e32\u0e21\u0e44\u0e0a\u0e22",
+        "Transfer": "Chao Phraya Express Boat",
+        "Location": "Phra Nakhon",
+        "station_no": 31,
+        "exits": {
+            "th": {
+                "1": "\u0e21\u0e34\u0e27\u0e40\u0e0b\u0e35\u0e22\u0e21 \u0e2a\u0e22\u0e32\u0e21",
+                "2": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e1a\u0e1e\u0e34\u0e18",
+                "3": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e1a\u0e1e\u0e34\u0e18",
+                "4": "\u0e1b\u0e32\u0e01\u0e04\u0e25\u0e2d\u0e07\u0e15\u0e25\u0e32\u0e14",
+                "5": "\u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e19\u0e04\u0e23\u0e1a\u0e32\u0e25 \u0e1e\u0e23\u0e30\u0e23\u0e32\u0e0a\u0e27\u0e31\u0e07 , \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e32\u0e0a\u0e34\u0e19\u0e35"
+            },
+            "en": {
+                "1": "Museum Siam",
+                "2": "Wat Rajabopit School",
+                "3": "Wat Rajabopit School",
+                "4": "Flower market",
+                "5": "Phra Ratchawang Police Station , Rajini School"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL31-w_1556273923_32086..jpg"
+    },
+    {
+        "Code": "BL32",
+        "English": "Itsaraphap",
+        "Thai": "\u0e2d\u0e34\u0e2a\u0e23\u0e20\u0e32\u0e1e",
+        "Transfer": null,
+        "Location": "Bangkok Yai",
+        "station_no": 32,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e2d\u0e34\u0e2a\u0e23\u0e20\u0e32\u0e1e 34",
+                "2": "\u0e27\u0e31\u0e14\u0e23\u0e32\u0e0a\u0e2a\u0e34\u0e17\u0e18\u0e32\u0e23\u0e32\u0e21 , \u0e0b\u0e2d\u0e22\u0e2d\u0e34\u0e2a\u0e23\u0e20\u0e32\u0e1e 23"
+            },
+            "en": {
+                "1": "Soi Itsaraphap 34",
+                "2": "Wat Ratchasittharam , Soi Itsaraphap 23"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL32-w_1556273968_42961..jpg"
+    },
+    {
+        "Code": "BL01-L",
+        "English": "Tha Phra",
+        "Thai": "\u0e17\u0e48\u0e32\u0e1e\u0e23\u0e30",
+        "Transfer": "MRT (North section)",
+        "Location": "Bangkok Yai",
+        "station_no": 1,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 10\/2",
+                "2A": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 11",
+                "2B": "\u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e2d\u0e01\u0e43\u0e2b\u0e0d\u0e48, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 15",
+                "3": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 12",
+                "4": "\u0e0b\u0e2d\u0e22\u0e04\u0e23\u0e34\u0e2a\u0e08\u0e31\u0e01\u0e23"
+            },
+            "en": {
+                "1": "Soi Phet Kasem 10\/2",
+                "2A": "Soi Phet Kasem 11",
+                "2B": "Bangkokyai District Office,\u00a0Soi Phet Kasem 15",
+                "3": "Soi Phet Kasem 12",
+                "D": "Soi Krittachak"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL01-w_1556274134_28671..jpg"
+    },
+    {
+        "Code": "BL33",
+        "English": "Bang Phai",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e44\u0e1c\u0e48",
+        "Transfer": null,
+        "Location": "Phasi Charoen",
+        "station_no": 33,
+        "exits": {
+            "th": {
+                "1": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e19\u0e27\u0e25\u0e19\u0e23\u0e14\u0e34\u0e28",
+                "2": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e1e\u0e0d\u0e32\u0e44\u0e17 3",
+                "3": "\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e1a\u0e32\u0e07\u0e44\u0e1c\u0e48 , \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 22",
+                "4": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e1c\u0e14\u0e34\u0e21\u0e28\u0e36\u0e01\u0e29\u0e32"
+            },
+            "en": {
+                "1": "Wat Nuannoradit School",
+                "2": "Phayathai 3 Hospital",
+                "3": "Bangphai Hospital, Soi Petchkasem 22",
+                "4": "Phadermsuksa School"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL33-w_1556273985_35123..jpg"
+    },
+    {
+        "Code": "BL34",
+        "English": "Bang Wa",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32",
+        "Transfer": "BTS",
+        "Location": "Phasi Charoen",
+        "station_no": 34,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 36,\u00a0 \u00a0\u0e21\u0e2b\u0e32\u0e27\u0e34\u0e17\u0e22\u0e32\u0e25\u0e31\u0e22\u0e2a\u0e22\u0e32\u0e21 , \u0e27\u0e31\u0e14\u0e1b\u0e23\u0e30\u0e14\u0e39\u0e48\u0e1a\u0e32\u0e07\u0e08\u0e32\u0e01",
+                "2": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 25\/3",
+                "3": "\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32",
+                "4": "\u0e1a\u0e35\u0e17\u0e35\u0e40\u0e2d\u0e2a \u0e1a\u0e32\u0e07\u0e2b\u0e27\u0e49\u0e32"
+            },
+            "en": {
+                "1": "Soi Petchkasem 36, Siam University, Wat Pradu Bang Chak",
+                "2": "Soi Petchkasem 25\/3",
+                "3": "BTS Bang Wa Station",
+                "4": "\u0e3aBTS\u00a0Bang Wa Station"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL34-w_1556273999_67915..jpg"
+    },
+    {
+        "Code": "BL35",
+        "English": "Phetkasem 48",
+        "Thai": "\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 48",
+        "Transfer": null,
+        "Location": "Phasi Charoen",
+        "station_no": 35,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 46\/3, \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e32\u0e23\u0e32\u0e21, \u0e27\u0e31\u0e14\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c\u0e1b\u0e23\u0e30\u0e14\u0e34\u0e29\u0e10\u0e32\u0e23\u0e32\u0e21",
+                "2": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 46\/1, \u0e02\u0e38\u0e19\u0e14\u0e48\u0e32\u0e19\u0e28\u0e32\u0e25\u0e40\u0e08\u0e49\u0e32\u0e1e\u0e48\u0e2d\u0e40\u0e2a\u0e37\u0e2d",
+                "3": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 29\/1",
+                "4": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 31\/3, \u0e27\u0e31\u0e14\u0e23\u0e32\u0e07\u0e1a\u0e31\u0e27"
+            },
+            "en": {
+                "1": "Soi Petchkasem 46\/3, Wat Chanpradittharam School, Wat Chanpradittharam",
+                "2": "Soi Petchkasem 46\/1, Kundan chao-por-seua shrine",
+                "3": "Soi Petchkasem 29\/1",
+                "4": "Soi Petchkasem 31\/3, Wat Rang Bua"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL35-w_1556274014_44462..jpg"
+    },
+    {
+        "Code": "BL36",
+        "English": "Phasi Charoen",
+        "Thai": "\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d",
+        "Transfer": null,
+        "Location": "Phasi Charoen",
+        "station_no": 36,
+        "exits": {
+            "th": {
+                "1": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 33\/8, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e01\u0e32\u0e0a\u0e32\u0e14\u0e17\u0e35\u0e48 11 \u0e27\u0e34\u0e40\u0e28\u0e29\u0e19\u0e34\u0e22\u0e21",
+                "2": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 35, \u0e17\u0e48\u0e32\u0e40\u0e23\u0e37\u0e2d\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 35, \u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 2",
+                "3": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 56",
+                "4": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 54, \u0e2a\u0e33\u0e19\u0e31\u0e01\u0e07\u0e32\u0e19\u0e40\u0e02\u0e15\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e15\u0e33\u0e23\u0e27\u0e08\u0e20\u0e32\u0e29\u0e35\u0e40\u0e08\u0e23\u0e34\u0e0d"
+            },
+            "en": {
+                "1": "Soi Petchkasem 33\/8, Red Cross Health Station No.11 Visesniyom",
+                "2": "Soi Petchkasem 35, Petchkasem 35 Pier, Petchkasem 2 Hospital",
+                "3": "Soi Petchkasem 56",
+                "4": "Soi Petchkasem 54, Phasi Charoen District Office, Phasi Charoen Police Station"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL36-web-new3-01_68287719_1570096715..jpg"
+    },
+    {
+        "Code": "BL37",
+        "English": "Bang Khae",
+        "Thai": "\u0e1a\u0e32\u0e07\u0e41\u0e04",
+        "Transfer": null,
+        "Location": "Bang Khae",
+        "station_no": 37,
+        "exits": {
+            "th": {
+                "1": "\u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e23\u0e32\u0e0a\u0e27\u0e34\u0e19\u0e34\u0e15\u0e1b\u0e23\u0e30\u0e16\u0e21 \u0e1a\u0e32\u0e07\u0e41\u0e04, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 62\/4",
+                "2": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 62\/3",
+                "3": "\u0e15\u0e25\u0e32\u0e14\u0e1a\u0e32\u0e07\u0e41\u0e04",
+                "4": "\u0e41\u0e22\u0e01\u0e1a\u0e32\u0e07\u0e41\u0e04, \u0e27\u0e31\u0e14\u0e19\u0e34\u0e21\u0e21\u0e32\u0e19\u0e19\u0e23\u0e14\u0e35, \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e27\u0e31\u0e14\u0e19\u0e34\u0e21\u0e21\u0e32\u0e19\u0e23\u0e14\u0e35, \u0e42\u0e23\u0e07\u0e40\u0e23\u0e35\u0e22\u0e19\u0e40\u0e15\u0e23\u0e35\u0e22\u0e21\u0e2a\u0e32\u0e18\u0e34\u0e15\u0e28\u0e36\u0e01\u0e29\u0e32, \u0e2a\u0e16\u0e32\u0e19\u0e35\u0e14\u0e31\u0e1a\u0e40\u0e1e\u0e25\u0e34\u0e07\u0e41\u0e25\u0e30\u0e01\u0e39\u0e49\u0e20\u0e31\u0e22\u0e1a\u0e32\u0e07\u0e41\u0e04"
+            },
+            "en": {
+                "1": "Ratchawinit School, Soi Petchkasem 62\/4",
+                "2": "Soi Petchkasem 62\/3",
+                "3": "Bang Khae Market",
+                "4": "Bang Khae Intersection, Wat Nimma-noradi, Wat Nimma-noradi School, Triamsatitsuksa School, Bangkae Fire & Rescue Station"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL37-w_1556274058_80335..jpg"
+    },
+    {
+        "Code": "BL38",
+        "English": "Lak Song",
+        "Thai": "\u0e2b\u0e25\u0e31\u0e01\u0e2a\u0e2d\u0e07",
+        "Transfer": null,
+        "Location": "Bang Khae",
+        "station_no": 38,
+        "exits": {
+            "th": {
+                "1": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23 1, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 80",
+                "2": "\u0e2d\u0e32\u0e04\u0e32\u0e23\u0e08\u0e2d\u0e14\u0e41\u0e25\u0e49\u0e27\u0e08\u0e23 2, \u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 47\/1",
+                "3": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 47\/2,\u00a0\u0e42\u0e23\u0e07\u0e1e\u0e22\u0e32\u0e1a\u0e32\u0e25\u0e40\u0e01\u0e29\u0e21\u0e23\u0e32\u0e29\u0e0f\u0e23\u0e4c \u0e1a\u0e32\u0e07\u0e41\u0e04,\u00a0\u0e28\u0e39\u0e19\u0e22\u0e4c\u0e1a\u0e23\u0e34\u0e01\u0e32\u0e23\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e2a\u0e38\u0e02 40 \u0e1a\u0e32\u0e07\u0e41\u0e04",
+                "4": "\u0e0b\u0e2d\u0e22\u0e40\u0e1e\u0e0a\u0e23\u0e40\u0e01\u0e29\u0e21 84"
+            },
+            "en": {
+                "1": "Park and Ride Building 1, Soi Petchkasem 80",
+                "2": "Park and Ride Building 2, Soi Petchkasem 47\/1",
+                "3": "Soi Petchkasem 47\/2, Kasemrad Bangkae Hospital, Health Center 40 Bangkae",
+                "4": "Soi Petchkasem 84"
+            }
+        },
+        "map_url": "https:\/\/admin.bemplc.co.th\/Upload\/BL38-w_1556274114_4901..jpg"
+    }
+]
