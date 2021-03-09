@@ -1,0 +1,1263 @@
+Product Name,Size,Milk,Whip,Serving Size,Calories,Total Fat (g),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Sodium (mg),Total Carbohydrates (g),Dietary Fiber (g),Sugar (g),Protein (g),Vitamin A (%DV),Vitamin C (%DV),Calcium (%DV),Iron (%DV),Caffeine (mg),Category
+Brewed Coffee - Dark Roast,Short,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,130,Coffee
+Brewed Coffee - Dark Roast,Tall,,,354 mL,4.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,193,Coffee
+Brewed Coffee - Dark Roast,Grande,,,473 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,260,Coffee
+Brewed Coffee - Dark Roast,Venti®,,,591 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,340,Coffee
+Brewed Coffee Traveler - Dark Roast,1 - 236 mL serving,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,130,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Short,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,15,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Tall,,,354 mL,4.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,20,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Grande,,,473 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,25,Coffee
+Brewed Coffee - Decaf Pike Place® Roast,Venti®,,,591 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,30,Coffee
+Brewed Coffee Traveler - Decaf Pike Place® Roast,1 - 236 mL serving,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,15,Coffee
+Brewed Coffee - Medium Roast,Short,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,155,Coffee
+Brewed Coffee - Medium Roast,Tall,,,354 mL,4.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,235,Coffee
+Brewed Coffee - Medium Roast,Grande,,,473 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,310,Coffee
+Brewed Coffee - Medium Roast,Venti®,,,591 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,410,Coffee
+Brewed Coffee Traveler - Medium Roast,1 - 236 mL serving,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,155,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Short,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,180,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Tall,,,354 mL,4.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,270,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Grande,,,473 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,360,Coffee
+Brewed Coffee - True North Blend Blonde Roast,Venti®,,,591 mL,5.0,0.1,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,475,Coffee
+Brewed Coffee Traveler - True North Blend Blonde Roast,1 - 236 mL serving,,,236 mL,3.0,0.1,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,180,Coffee
+Caffè Misto,Short,Nonfat,,236 mL,35.0,0.1,0.1,0.0,0.0,45.0,5.0,0.0,5.0,4.0,0.06,0.0,0.1,0.0,75,Coffee
+Caffè Misto,Short,0.02,,236 mL,50.0,2.0,1.0,0.1,10.0,50.0,5.0,0.0,5.0,4.0,0.06,0.0,0.1,0.0,75,Coffee
+Caffè Misto,Short,Whole,,236 mL,70.0,3.5,2.0,0.1,10.0,50.0,5.0,0.0,5.0,3.0,0.04,0.0,0.1,0.0,75,Coffee
+Caffè Misto,Short,Soy,,236 mL,40.0,1.5,0.2,0.0,0.0,40.0,3.0,0.0,2.0,3.0,0.04,0.0,0.1,0.06,75,Coffee
+Caffè Misto,Short,Coconut,,236 mL,40.0,2.5,2.5,0.0,0.0,45.0,4.0,0.0,3.0,0.4,0.0,0.0,0.0,0.0,75,Coffee
+Caffè Misto,Tall,Nonfat,,354 mL,60.0,0.2,0.1,0.0,5.0,70.0,8.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,115,Coffee
+Caffè Misto,Tall,0.02,,354 mL,80.0,3.0,1.5,0.1,15.0,80.0,8.0,0.0,8.0,5.0,0.08,0.0,0.2,0.0,115,Coffee
+Caffè Misto,Tall,Whole,,354 mL,100.0,5.0,3.0,0.2,15.0,70.0,8.0,0.0,8.0,5.0,0.08,0.0,0.15,0.0,115,Coffee
+Caffè Misto,Tall,Soy,,354 mL,60.0,2.5,0.3,0.0,0.0,60.0,5.0,1.0,4.0,4.0,0.06,0.0,0.2,0.08,115,Coffee
+Caffè Misto,Tall,Coconut,,354 mL,60.0,3.5,3.5,0.0,0.0,70.0,6.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,115,Coffee
+Caffè Misto,Grande,Nonfat,,473 mL,70.0,0.2,0.1,0.0,5.0,90.0,10.0,0.0,10.0,7.0,0.15,0.0,0.25,0.0,150,Coffee
+Caffè Misto,Grande,0.02,,473 mL,110.0,4.0,2.0,0.1,15.0,100.0,10.0,0.0,10.0,7.0,0.1,0.0,0.25,0.0,150,Coffee
+Caffè Misto,Grande,Whole,,473 mL,130.0,7.0,4.0,0.2,20.0,95.0,10.0,0.0,10.0,7.0,0.1,0.0,0.2,0.0,150,Coffee
+Caffè Misto,Grande,Soy,,473 mL,80.0,3.0,0.4,0.0,0.0,80.0,6.0,1.0,5.0,6.0,0.08,0.0,0.25,0.1,150,Coffee
+Caffè Misto,Grande,Coconut,,473 mL,70.0,4.5,4.5,0.0,0.0,90.0,7.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,150,Coffee
+Caffè Misto,Venti®,Nonfat,,591 mL,90.0,0.3,0.2,0.0,5.0,115.0,13.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,195,Coffee
+Caffè Misto,Venti®,0.02,,591 mL,130.0,5.0,2.5,0.2,20.0,130.0,13.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,195,Coffee
+Caffè Misto,Venti®,Whole,,591 mL,160.0,9.0,5.0,0.3,25.0,120.0,13.0,0.0,13.0,9.0,0.1,0.0,0.25,0.0,195,Coffee
+Caffè Misto,Venti®,Soy,,591 mL,100.0,4.0,0.5,0.0,0.0,100.0,8.0,1.0,6.0,7.0,0.1,0.0,0.3,0.15,195,Coffee
+Caffè Misto,Venti®,Coconut,,591 mL,80.0,5.0,4.5,0.0,0.0,90.0,7.0,0.0,7.0,1.0,0.0,0.0,0.0,0.0,195,Coffee
+Clover® Brewed Coffee - Dark Roast,Short,,,236 mL,10.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,190,Coffee
+Clover® Brewed Coffee - Dark Roast,Tall,,,354 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,280,Coffee
+Clover® Brewed Coffee - Dark Roast,Grande,,,473 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,380,Coffee
+Clover® Brewed Coffee - Dark Roast,Venti®,,,591 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,470,Coffee
+Clover® Brewed Coffee - Light Roast,Short,,,236 mL,10.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,155,Coffee
+Clover® Brewed Coffee - Light Roast,Tall,,,354 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,255,Coffee
+Clover® Brewed Coffee - Light Roast,Grande,,,473 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,340,Coffee
+Clover® Brewed Coffee - Light Roast,Venti®,,,591 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,425,Coffee
+Clover® Brewed Coffee - Medium Roast,Short,,,236 mL,10.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,170,Coffee
+Clover® Brewed Coffee - Medium Roast,Tall,,,354 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,280,Coffee
+Clover® Brewed Coffee - Medium Roast,Grande,,,473 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,375,Coffee
+Clover® Brewed Coffee - Medium Roast,Venti®,,,591 mL,10.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,445,Coffee
+Iced Coffee,Tall,,,354 mL,60.0,0.0,0.0,0.0,0.0,10.0,15.0,0.0,15.0,0.2,0.0,0.0,0.0,0.0,120,Coffee
+Iced Coffee,Grande,,,473 mL,80.0,0.1,0.0,0.0,0.0,10.0,20.0,0.0,20.0,0.3,0.0,0.0,0.02,0.0,165,Coffee
+Iced Coffee,Venti®,,,709 mL,120.0,0.1,0.0,0.0,0.0,15.0,30.0,0.0,30.0,0.4,0.0,0.0,0.02,0.0,235,Coffee
+Iced Coffee,Trenta,,,887 mL,160.0,0.1,0.0,0.0,0.0,15.0,40.0,0.0,39.0,1.0,0.0,0.0,0.02,0.0,280,Coffee
+Iced Coffee with Milk,Tall,Nonfat,,354 mL,80.0,0.1,0.0,0.0,0.0,30.0,17.0,0.0,17.0,2.0,0.02,0.0,0.06,0.0,90,Coffee
+Iced Coffee with Milk,Tall,0.02,,354 mL,80.0,1.0,0.5,0.0,5.0,30.0,17.0,0.0,17.0,2.0,0.02,0.0,0.06,0.0,90,Coffee
+Iced Coffee with Milk,Tall,Whole,,354 mL,90.0,1.5,1.0,0.0,5.0,30.0,17.0,0.0,17.0,2.0,0.02,0.0,0.06,0.0,90,Coffee
+Iced Coffee with Milk,Tall,Soy,,354 mL,80.0,1.0,0.1,0.0,0.0,25.0,16.0,0.0,16.0,2.0,0.02,0.0,0.06,0.02,90,Coffee
+Iced Coffee with Milk,Tall,Coconut,,354 mL,80.0,1.0,1.0,0.0,0.0,25.0,17.0,0.0,16.0,0.3,0.0,0.0,0.0,0.0,110,Coffee
+Iced Coffee with Milk,Grande,Nonfat,,473 mL,100.0,0.1,0.0,0.0,0.0,35.0,23.0,0.0,23.0,2.0,0.04,0.0,0.08,0.0,125,Coffee
+Iced Coffee with Milk,Grande,0.02,,473 mL,110.0,1.5,1.0,0.1,5.0,40.0,23.0,0.0,23.0,2.0,0.04,0.0,0.08,0.0,125,Coffee
+Iced Coffee with Milk,Grande,Whole,,473 mL,120.0,2.0,1.0,0.1,5.0,35.0,23.0,0.0,23.0,2.0,0.02,0.0,0.08,0.0,125,Coffee
+Iced Coffee with Milk,Grande,Soy,,473 mL,110.0,1.0,0.1,0.0,0.0,35.0,22.0,0.0,21.0,2.0,0.02,0.0,0.08,0.04,125,Coffee
+Iced Coffee with Milk,Grande,Coconut,,473 mL,100.0,1.5,1.5,0.0,0.0,35.0,22.0,0.0,22.0,0.4,0.0,0.0,0.0,0.0,150,Coffee
+Iced Coffee with Milk,Venti®,Nonfat,,709 mL,160.0,0.1,0.1,0.0,0.0,60.0,35.0,0.0,35.0,4.0,0.06,0.0,0.15,0.0,170,Coffee
+Iced Coffee with Milk,Venti®,0.02,,709 mL,170.0,2.0,1.5,0.1,10.0,65.0,35.0,0.0,35.0,4.0,0.06,0.0,0.15,0.0,170,Coffee
+Iced Coffee with Milk,Venti®,Whole,,709 mL,190.0,3.5,2.0,0.1,10.0,60.0,35.0,0.0,35.0,4.0,0.04,0.0,0.1,0.0,170,Coffee
+Iced Coffee with Milk,Venti®,Soy,,709 mL,160.0,1.5,0.2,0.0,0.0,55.0,33.0,0.0,32.0,3.0,0.04,0.0,0.15,0.06,170,Coffee
+Iced Coffee with Milk,Venti®,Coconut,,709 mL,160.0,2.5,2.0,0.0,0.0,55.0,33.0,0.0,33.0,1.0,0.0,0.0,0.02,0.0,205,Coffee
+Iced Coffee with Milk,Trenta,Nonfat,,887 mL,210.0,0.2,0.1,0.0,5.0,70.0,46.0,0.0,46.0,5.0,0.08,0.0,0.15,0.0,190,Coffee
+Iced Coffee with Milk,Trenta,0.02,,887 mL,230.0,3.0,1.5,0.1,10.0,80.0,46.0,0.0,46.0,5.0,0.08,0.0,0.15,0.0,190,Coffee
+Iced Coffee with Milk,Trenta,Whole,,887 mL,240.0,4.5,2.5,0.1,15.0,75.0,46.0,0.0,46.0,5.0,0.06,0.0,0.15,0.0,190,Coffee
+Iced Coffee with Milk,Trenta,Soy,,887 mL,220.0,2.0,0.3,0.0,0.0,65.0,44.0,1.0,43.0,4.0,0.06,0.0,0.15,0.08,190,Coffee
+Iced Coffee with Milk,Trenta,Coconut,,887 mL,210.0,3.0,3.0,0.0,0.0,70.0,44.0,0.0,44.0,1.0,0.0,0.0,0.02,0.0,190,Coffee
+Cold Brewed Coffee,Tall,,,354 mL,2.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,150,Coffee
+Cold Brewed Coffee,Grande,,,473 mL,3.0,0.0,0.0,0.0,0.0,15.0,0.0,0.0,0.0,0.2,0.0,0.0,0.02,0.0,200,Coffee
+Cold Brewed Coffee,Venti®,,,709 mL,4.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,0.3,0.0,0.0,0.02,0.0,300,Coffee
+Cold Brewed Coffee,Trenta,,,887 mL,5.0,0.0,0.0,0.0,0.0,25.0,0.0,0.0,0.0,0.3,0.0,0.0,0.02,0.0,330,Coffee
+Vanilla Sweet Cream Cold Brew,Tall,,,354 mL,100.0,6.0,3.5,0.2,20.0,20.0,12.0,0.0,12.0,1.0,0.06,0.0,0.02,0.0,140,Coffee
+Vanilla Sweet Cream Cold Brew,Grande,,,473 mL,110.0,6.0,3.5,0.2,20.0,25.0,14.0,0.0,14.0,1.0,0.06,0.0,0.04,0.0,185,Coffee
+Vanilla Sweet Cream Cold Brew,Venti®,,,709 mL,200.0,11.0,7.0,0.3,40.0,40.0,24.0,0.0,24.0,1.0,0.15,0.0,0.06,0.0,275,Coffee
+Vanilla Sweet Cream Cold Brew,Trenta,,,887 mL,210.0,11.0,7.0,0.3,40.0,45.0,26.0,0.0,26.0,2.0,0.15,0.0,0.06,0.0,320,Coffee
+Caffè Americano,Short,,,236 mL,5.0,0.0,0.0,0.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75,Espresso
+Caffè Americano,Tall,,,354 mL,10.0,0.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,150,Espresso
+Caffè Americano,Grande,,,473 mL,15.0,0.0,0.0,0.0,0.0,15.0,3.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,225,Espresso
+Caffè Americano,Venti®,,,591 mL,25.0,0.0,0.0,0.0,0.0,15.0,4.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,300,Espresso
+Iced Caffè Americano,Tall,,,354 mL,10.0,0.0,0.0,0.0,0.0,10.0,2.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,150,Espresso
+Iced Caffè Americano,Grande,,,473 mL,15.0,0.0,0.0,0.0,0.0,15.0,3.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,225,Espresso
+Iced Caffè Americano,Venti®,,,709 mL,25.0,0.0,0.0,0.0,0.0,20.0,4.0,0.0,0.0,1.0,0.0,0.0,0.02,0.0,300,Espresso
+Caffè Latte,Short,Nonfat,,236 mL,70.0,0.1,0.1,0.0,5.0,75.0,10.0,0.0,9.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Caffè Latte,Short,0.02,,236 mL,100.0,3.5,2.5,0.2,15.0,85.0,10.0,0.0,9.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Caffè Latte,Short,Whole,,236 mL,110.0,6.0,3.5,0.2,20.0,75.0,10.0,0.0,9.0,6.0,0.08,0.0,0.2,0.0,75,Espresso
+Caffè Latte,Short,Soy,,236 mL,70.0,2.5,0.4,0.0,0.0,65.0,6.0,1.0,4.0,5.0,0.06,0.0,0.2,0.08,75,Espresso
+Caffè Latte,Short,Coconut,,236 mL,70.0,4.0,4.0,0.0,0.0,75.0,7.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Caffè Latte,Tall,Nonfat,,354 mL,100.0,0.2,0.2,0.0,5.0,120.0,15.0,0.0,14.0,10.0,0.15,0.0,0.3,0.0,75,Espresso
+Caffè Latte,Tall,0.02,,354 mL,150.0,6.0,3.5,0.2,25.0,135.0,15.0,0.0,14.0,10.0,0.15,0.0,0.3,0.0,75,Espresso
+Caffè Latte,Tall,Whole,,354 mL,180.0,9.0,5.0,0.3,30.0,125.0,15.0,0.0,14.0,9.0,0.15,0.0,0.3,0.0,75,Espresso
+Caffè Latte,Tall,Soy,,354 mL,110.0,4.5,0.5,0.0,0.0,105.0,10.0,1.0,6.0,8.0,0.1,0.0,0.3,0.15,75,Espresso
+Caffè Latte,Tall,Coconut,,354 mL,110.0,7.0,6.0,0.0,0.0,120.0,11.0,0.0,10.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Caffè Latte,Grande,Nonfat,,473 mL,130.0,0.3,0.2,0.0,5.0,150.0,19.0,0.0,18.0,13.0,0.2,0.0,0.4,0.0,150,Espresso
+Caffè Latte,Grande,0.02,,473 mL,190.0,7.0,4.5,0.3,30.0,170.0,19.0,0.0,17.0,12.0,0.2,0.02,0.4,0.0,150,Espresso
+Caffè Latte,Grande,Whole,,473 mL,230.0,11.0,7.0,0.3,35.0,150.0,19.0,0.0,17.0,12.0,0.15,0.0,0.35,0.0,150,Espresso
+Caffè Latte,Grande,Soy,,473 mL,150.0,5.0,0.5,0.0,0.0,130.0,13.0,1.0,8.0,10.0,0.15,0.0,0.4,0.15,150,Espresso
+Caffè Latte,Grande,Coconut,,473 mL,140.0,8.0,8.0,0.0,0.0,150.0,14.0,0.0,12.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Caffè Latte,Venti®,Nonfat,,591 mL,170.0,0.4,0.3,0.0,10.0,190.0,25.0,0.0,23.0,16.0,0.3,0.0,0.5,0.0,150,Espresso
+Caffè Latte,Venti®,0.02,,591 mL,240.0,9.0,6.0,0.4,35.0,220.0,24.0,0.0,22.0,16.0,0.25,0.02,0.5,0.0,150,Espresso
+Caffè Latte,Venti®,Whole,,591 mL,290.0,15.0,9.0,0.5,45.0,200.0,24.0,0.0,22.0,15.0,0.2,0.0,0.5,0.0,150,Espresso
+Caffè Latte,Venti®,Soy,,591 mL,190.0,7.0,1.0,0.0,0.0,170.0,16.0,2.0,11.0,13.0,0.2,0.0,0.5,0.25,150,Espresso
+Caffè Latte,Venti®,Coconut,,591 mL,170.0,11.0,10.0,0.0,0.0,200.0,18.0,0.0,16.0,2.0,0.0,0.0,0.0,0.0,150,Espresso
+Iced Caffè Latte,Tall,Nonfat,,354 mL,70.0,0.1,0.1,0.0,5.0,80.0,10.0,0.0,9.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Iced Caffè Latte,Tall,0.02,,354 mL,100.0,3.5,2.0,0.1,15.0,90.0,10.0,0.0,9.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Iced Caffè Latte,Tall,Whole,,354 mL,120.0,6.0,3.5,0.2,20.0,85.0,10.0,0.0,9.0,6.0,0.08,0.0,0.2,0.0,75,Espresso
+Iced Caffè Latte,Tall,Soy,,354 mL,80.0,3.0,0.4,0.0,0.0,75.0,7.0,1.0,4.0,5.0,0.08,0.0,0.2,0.1,75,Espresso
+Iced Caffè Latte,Tall,Coconut,,354 mL,70.0,4.0,4.0,0.0,0.0,80.0,7.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Iced Caffè Latte,Grande,Nonfat,,473 mL,90.0,0.2,0.1,0.0,5.0,105.0,13.0,0.0,11.0,8.0,0.15,0.0,0.25,0.0,150,Espresso
+Iced Caffè Latte,Grande,0.02,,473 mL,130.0,4.5,2.5,0.1,20.0,115.0,13.0,0.0,11.0,8.0,0.15,0.0,0.25,0.0,150,Espresso
+Iced Caffè Latte,Grande,Whole,,473 mL,150.0,7.0,4.5,0.2,25.0,105.0,13.0,0.0,11.0,8.0,0.1,0.0,0.25,0.0,150,Espresso
+Iced Caffè Latte,Grande,Soy,,473 mL,100.0,3.5,0.5,0.0,0.0,95.0,9.0,1.0,5.0,7.0,0.1,0.0,0.25,0.1,150,Espresso
+Iced Caffè Latte,Grande,Coconut,,473 mL,90.0,5.0,5.0,0.0,0.0,105.0,10.0,0.0,8.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Iced Caffè Latte,Venti®,Nonfat,,709 mL,130.0,0.3,0.2,0.0,5.0,140.0,19.0,0.0,16.0,12.0,0.2,0.0,0.35,0.0,225,Espresso
+Iced Caffè Latte,Venti®,0.02,,709 mL,180.0,6.0,3.0,0.2,25.0,160.0,18.0,0.0,15.0,12.0,0.2,0.02,0.35,0.0,225,Espresso
+Iced Caffè Latte,Venti®,Whole,,709 mL,210.0,10.0,6.0,0.3,30.0,150.0,18.0,0.0,15.0,11.0,0.15,0.0,0.35,0.0,225,Espresso
+Iced Caffè Latte,Venti®,Soy,,709 mL,150.0,5.0,0.5,0.0,0.0,130.0,13.0,1.0,8.0,10.0,0.15,0.0,0.4,0.15,225,Espresso
+Iced Caffè Latte,Venti®,Coconut,,709 mL,130.0,7.0,7.0,0.0,0.0,150.0,14.0,0.0,11.0,2.0,0.0,0.0,0.02,0.0,225,Espresso
+Caffè Mocha,Short,Nonfat,No Whip,236 mL,120.0,1.5,1.0,0.0,5.0,65.0,21.0,2.0,17.0,7.0,0.08,0.0,0.15,0.15,90,Espresso
+Caffè Mocha,Short,Nonfat,Whip,236 mL,180.0,6.0,4.0,0.2,20.0,70.0,23.0,2.0,18.0,7.0,0.15,0.0,0.2,0.15,90,Espresso
+Caffè Mocha,Short,0.02,No Whip,236 mL,150.0,4.0,2.5,0.1,10.0,70.0,21.0,2.0,17.0,7.0,0.08,0.0,0.15,0.15,90,Espresso
+Caffè Mocha,Short,0.02,Whip,236 mL,200.0,9.0,6.0,0.3,30.0,75.0,22.0,2.0,18.0,7.0,0.15,0.0,0.2,0.15,90,Espresso
+Caffè Mocha,Short,Whole,No Whip,236 mL,160.0,6.0,3.5,0.1,15.0,65.0,21.0,2.0,17.0,6.0,0.06,0.0,0.15,0.15,90,Espresso
+Caffè Mocha,Short,Whole,Whip,236 mL,210.0,11.0,7.0,0.3,35.0,70.0,22.0,2.0,18.0,7.0,0.15,0.0,0.15,0.15,90,Espresso
+Caffè Mocha,Short,Soy,No Whip,236 mL,130.0,3.5,1.0,0.0,0.0,55.0,18.0,3.0,13.0,6.0,0.06,0.0,0.15,0.25,90,Espresso
+Caffè Mocha,Short,Soy,Whip,236 mL,180.0,9.0,4.0,0.2,20.0,60.0,20.0,3.0,14.0,6.0,0.1,0.0,0.2,0.25,90,Espresso
+Caffè Mocha,Short,Coconut,No Whip,236 mL,130.0,4.5,4.0,0.0,0.0,65.0,19.0,2.0,15.0,2.0,0.0,0.0,0.0,0.15,90,Espresso
+Caffè Mocha,Short,Coconut,Whip,236 mL,180.0,10.0,7.0,0.2,20.0,70.0,21.0,2.0,16.0,2.0,0.06,0.0,0.02,0.15,90,Espresso
+Caffè Mocha,Tall,Nonfat,No Whip,354 mL,190.0,2.0,1.0,0.0,5.0,100.0,32.0,3.0,27.0,10.0,0.15,0.0,0.3,0.25,95,Espresso
+Caffè Mocha,Tall,Nonfat,Whip,354 mL,250.0,8.0,5.0,0.2,25.0,110.0,34.0,3.0,28.0,11.0,0.2,0.0,0.3,0.25,95,Espresso
+Caffè Mocha,Tall,0.02,No Whip,354 mL,230.0,6.0,4.0,0.2,20.0,115.0,32.0,3.0,26.0,10.0,0.15,0.0,0.25,0.25,95,Espresso
+Caffè Mocha,Tall,0.02,Whip,354 mL,290.0,13.0,8.0,0.4,40.0,120.0,34.0,3.0,28.0,11.0,0.2,0.02,0.3,0.25,95,Espresso
+Caffè Mocha,Tall,Whole,No Whip,354 mL,250.0,9.0,6.0,0.2,25.0,105.0,32.0,3.0,26.0,10.0,0.1,0.0,0.25,0.25,95,Espresso
+Caffè Mocha,Tall,Whole,Whip,354 mL,310.0,16.0,9.0,0.4,45.0,110.0,34.0,3.0,28.0,10.0,0.2,0.0,0.25,0.25,95,Espresso
+Caffè Mocha,Tall,Soy,No Whip,354 mL,200.0,5.0,1.5,0.0,0.0,90.0,28.0,4.0,20.0,9.0,0.1,0.0,0.25,0.35,95,Espresso
+Caffè Mocha,Tall,Soy,Whip,354 mL,260.0,11.0,5.0,0.2,25.0,95.0,30.0,4.0,22.0,9.0,0.15,0.0,0.3,0.35,95,Espresso
+Caffè Mocha,Tall,Coconut,No Whip,354 mL,190.0,7.0,6.0,0.0,0.0,105.0,29.0,3.0,23.0,3.0,0.0,0.0,0.02,0.25,95,Espresso
+Caffè Mocha,Tall,Coconut,Whip,354 mL,250.0,13.0,10.0,0.2,25.0,110.0,30.0,3.0,25.0,3.0,0.06,0.0,0.02,0.25,95,Espresso
+Caffè Mocha,Grande,Nonfat,No Whip,473 mL,250.0,2.5,1.5,0.0,5.0,125.0,42.0,4.0,34.0,13.0,0.2,0.0,0.35,0.35,175,Espresso
+Caffè Mocha,Grande,Nonfat,Whip,473 mL,320.0,10.0,6.0,0.2,30.0,135.0,44.0,4.0,36.0,14.0,0.25,0.0,0.35,0.35,175,Espresso
+Caffè Mocha,Grande,0.02,No Whip,473 mL,290.0,8.0,5.0,0.2,25.0,140.0,42.0,4.0,34.0,13.0,0.15,0.02,0.35,0.35,175,Espresso
+Caffè Mocha,Grande,0.02,Whip,473 mL,360.0,15.0,9.0,0.5,50.0,150.0,44.0,4.0,35.0,13.0,0.25,0.02,0.35,0.35,175,Espresso
+Caffè Mocha,Grande,Whole,No Whip,473 mL,330.0,12.0,7.0,0.3,30.0,130.0,42.0,4.0,34.0,13.0,0.15,0.0,0.3,0.35,175,Espresso
+Caffè Mocha,Grande,Whole,Whip,473 mL,400.0,19.0,11.0,0.5,55.0,135.0,44.0,4.0,35.0,13.0,0.2,0.0,0.35,0.35,175,Espresso
+Caffè Mocha,Grande,Soy,No Whip,473 mL,260.0,7.0,2.0,0.0,0.0,110.0,37.0,5.0,26.0,11.0,0.1,0.0,0.35,0.5,175,Espresso
+Caffè Mocha,Grande,Soy,Whip,473 mL,330.0,14.0,6.0,0.2,25.0,115.0,39.0,5.0,28.0,12.0,0.2,0.0,0.35,0.5,175,Espresso
+Caffè Mocha,Grande,Coconut,No Whip,473 mL,250.0,9.0,8.0,0.0,0.0,130.0,38.0,4.0,30.0,4.0,0.0,0.0,0.02,0.35,175,Espresso
+Caffè Mocha,Grande,Coconut,Whip,473 mL,320.0,16.0,12.0,0.2,25.0,135.0,40.0,4.0,32.0,4.0,0.08,0.0,0.02,0.35,175,Espresso
+Caffè Mocha,Venti®,Nonfat,No Whip,591 mL,310.0,3.5,2.0,0.0,10.0,170.0,54.0,5.0,44.0,17.0,0.25,0.0,0.45,0.4,185,Espresso
+Caffè Mocha,Venti®,Nonfat,Whip,591 mL,390.0,10.0,6.0,0.2,35.0,170.0,56.0,5.0,45.0,18.0,0.3,0.0,0.45,0.4,185,Espresso
+Caffè Mocha,Venti®,0.02,No Whip,591 mL,380.0,11.0,7.0,0.3,30.0,190.0,53.0,5.0,43.0,17.0,0.2,0.02,0.45,0.4,185,Espresso
+Caffè Mocha,Venti®,0.02,Whip,591 mL,450.0,18.0,11.0,0.5,55.0,190.0,55.0,5.0,45.0,17.0,0.3,0.02,0.45,0.4,185,Espresso
+Caffè Mocha,Venti®,Whole,No Whip,591 mL,420.0,16.0,9.0,0.4,40.0,170.0,53.0,5.0,43.0,16.0,0.2,0.0,0.4,0.4,185,Espresso
+Caffè Mocha,Venti®,Whole,Whip,591 mL,490.0,23.0,13.0,0.5,65.0,180.0,55.0,5.0,45.0,17.0,0.25,0.0,0.45,0.4,185,Espresso
+Caffè Mocha,Venti®,Soy,No Whip,591 mL,330.0,9.0,2.5,0.0,0.0,140.0,46.0,6.0,34.0,15.0,0.15,0.0,0.45,0.6,185,Espresso
+Caffè Mocha,Venti®,Soy,Whip,591 mL,400.0,16.0,7.0,0.2,25.0,150.0,48.0,6.0,35.0,15.0,0.25,0.0,0.45,0.6,185,Espresso
+Caffè Mocha,Venti®,Coconut,No Whip,591 mL,320.0,12.0,10.0,0.0,0.0,170.0,48.0,5.0,38.0,5.0,0.0,0.0,0.02,0.4,185,Espresso
+Caffè Mocha,Venti®,Coconut,Whip,591 mL,390.0,19.0,15.0,0.2,25.0,180.0,50.0,5.0,40.0,5.0,0.08,0.0,0.04,0.4,185,Espresso
+Iced Caffè Mocha,Tall,Nonfat,No Whip,354 mL,150.0,2.0,1.0,0.0,5.0,65.0,27.0,3.0,22.0,7.0,0.08,0.0,0.15,0.25,95,Espresso
+Iced Caffè Mocha,Tall,Nonfat,Whip,354 mL,240.0,10.0,6.0,0.2,30.0,75.0,30.0,3.0,23.0,7.0,0.15,0.0,0.2,0.25,95,Espresso
+Iced Caffè Mocha,Tall,0.02,No Whip,354 mL,180.0,4.5,3.0,0.1,10.0,70.0,27.0,3.0,21.0,7.0,0.08,0.0,0.15,0.25,95,Espresso
+Iced Caffè Mocha,Tall,0.02,Whip,354 mL,260.0,12.0,8.0,0.4,40.0,80.0,29.0,3.0,23.0,7.0,0.15,0.0,0.2,0.25,95,Espresso
+Iced Caffè Mocha,Tall,Whole,No Whip,354 mL,190.0,6.0,3.5,0.1,15.0,65.0,27.0,3.0,21.0,7.0,0.06,0.0,0.15,0.25,95,Espresso
+Iced Caffè Mocha,Tall,Whole,Whip,354 mL,270.0,14.0,9.0,0.4,45.0,75.0,29.0,3.0,23.0,7.0,0.15,0.0,0.15,0.25,95,Espresso
+Iced Caffè Mocha,Tall,Soy,No Whip,354 mL,160.0,4.0,1.5,0.0,0.0,60.0,25.0,3.0,18.0,6.0,0.06,0.0,0.15,0.3,95,Espresso
+Iced Caffè Mocha,Tall,Soy,Whip,354 mL,240.0,12.0,6.0,0.2,30.0,65.0,27.0,3.0,20.0,7.0,0.15,0.0,0.2,0.3,95,Espresso
+Iced Caffè Mocha,Tall,Coconut,No Whip,354 mL,150.0,5.0,4.0,0.0,0.0,65.0,25.0,3.0,19.0,3.0,0.0,0.0,0.02,0.25,95,Espresso
+Iced Caffè Mocha,Tall,Coconut,Whip,354 mL,240.0,13.0,9.0,0.2,30.0,70.0,27.0,3.0,22.0,3.0,0.1,0.0,0.02,0.25,95,Espresso
+Iced Caffè Mocha,Grande,Nonfat,No Whip,473 mL,200.0,2.5,1.5,0.0,5.0,80.0,36.0,4.0,28.0,9.0,0.1,0.0,0.2,0.35,175,Espresso
+Iced Caffè Mocha,Grande,Nonfat,Whip,473 mL,320.0,14.0,8.0,0.3,45.0,90.0,40.0,4.0,30.0,10.0,0.25,0.0,0.25,0.35,175,Espresso
+Iced Caffè Mocha,Grande,0.02,No Whip,473 mL,230.0,6.0,3.5,0.1,15.0,90.0,36.0,4.0,28.0,9.0,0.1,0.0,0.2,0.35,175,Espresso
+Iced Caffè Mocha,Grande,0.02,Whip,473 mL,350.0,17.0,11.0,0.5,55.0,100.0,39.0,4.0,30.0,10.0,0.2,0.0,0.2,0.35,175,Espresso
+Iced Caffè Mocha,Grande,Whole,No Whip,473 mL,250.0,8.0,4.5,0.2,15.0,80.0,36.0,4.0,28.0,9.0,0.08,0.0,0.2,0.35,175,Espresso
+Iced Caffè Mocha,Grande,Whole,Whip,473 mL,360.0,19.0,12.0,0.5,60.0,95.0,39.0,4.0,30.0,9.0,0.2,0.0,0.2,0.35,175,Espresso
+Iced Caffè Mocha,Grande,Soy,No Whip,473 mL,210.0,5.0,2.0,0.0,0.0,75.0,33.0,5.0,24.0,8.0,0.06,0.0,0.2,0.4,175,Espresso
+Iced Caffè Mocha,Grande,Soy,Whip,473 mL,330.0,16.0,9.0,0.3,40.0,85.0,37.0,5.0,26.0,9.0,0.2,0.0,0.25,0.4,175,Espresso
+Iced Caffè Mocha,Grande,Coconut,No Whip,473 mL,210.0,6.0,5.0,0.0,0.0,80.0,34.0,4.0,26.0,4.0,0.0,0.0,0.02,0.35,175,Espresso
+Iced Caffè Mocha,Grande,Coconut,Whip,473 mL,320.0,18.0,12.0,0.3,40.0,95.0,37.0,4.0,29.0,4.0,0.15,0.0,0.04,0.35,175,Espresso
+Iced Caffè Mocha,Venti®,Nonfat,No Whip,709 mL,300.0,3.5,2.5,0.0,5.0,110.0,53.0,6.0,41.0,13.0,0.15,0.0,0.3,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,Nonfat,Whip,709 mL,410.0,15.0,9.0,0.3,45.0,120.0,57.0,6.0,43.0,14.0,0.25,0.0,0.3,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,0.02,No Whip,709 mL,340.0,8.0,5.0,0.2,20.0,120.0,53.0,6.0,41.0,13.0,0.15,0.0,0.3,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,0.02,Whip,709 mL,450.0,19.0,12.0,0.5,60.0,130.0,56.0,6.0,43.0,13.0,0.25,0.02,0.3,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,Whole,No Whip,709 mL,360.0,11.0,6.0,0.2,25.0,110.0,53.0,6.0,41.0,12.0,0.1,0.0,0.25,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,Whole,Whip,709 mL,470.0,22.0,13.0,0.5,65.0,125.0,56.0,6.0,43.0,13.0,0.25,0.0,0.3,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,Soy,No Whip,709 mL,310.0,7.0,2.5,0.0,0.0,100.0,49.0,7.0,35.0,12.0,0.1,0.0,0.3,0.6,265,Espresso
+Iced Caffè Mocha,Venti®,Soy,Whip,709 mL,430.0,18.0,10.0,0.3,40.0,110.0,53.0,7.0,37.0,12.0,0.2,0.0,0.3,0.6,265,Espresso
+Iced Caffè Mocha,Venti®,Coconut,No Whip,709 mL,300.0,9.0,7.0,0.0,0.0,115.0,50.0,6.0,38.0,5.0,0.0,0.0,0.04,0.5,265,Espresso
+Iced Caffè Mocha,Venti®,Coconut,Whip,709 mL,420.0,20.0,14.0,0.3,40.0,125.0,53.0,6.0,41.0,6.0,0.15,0.0,0.06,0.5,265,Espresso
+Cappuccino,Short,Nonfat,,236 mL,50.0,0.1,0.1,0.0,5.0,60.0,8.0,0.0,7.0,5.0,0.08,0.0,0.15,0.0,75,Espresso
+Cappuccino,Short,0.02,,236 mL,80.0,3.0,1.5,0.1,10.0,70.0,8.0,0.0,7.0,5.0,0.08,0.0,0.15,0.0,75,Espresso
+Cappuccino,Short,Whole,,236 mL,90.0,4.5,2.5,0.1,15.0,60.0,8.0,0.0,7.0,5.0,0.06,0.0,0.15,0.0,75,Espresso
+Cappuccino,Short,Soy,,236 mL,50.0,1.5,0.2,0.0,0.0,40.0,4.0,0.0,3.0,3.0,0.04,0.0,0.1,0.06,75,Espresso
+Cappuccino,Short,Coconut,,236 mL,70.0,4.0,4.0,0.0,0.0,75.0,7.0,0.0,6.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Cappuccino,Tall,Nonfat,,354 mL,60.0,0.1,0.1,0.0,5.0,70.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Cappuccino,Tall,0.02,,354 mL,90.0,3.5,1.5,0.1,15.0,80.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Cappuccino,Tall,Whole,,354 mL,110.0,6.0,3.0,0.2,15.0,75.0,9.0,0.0,8.0,6.0,0.08,0.0,0.2,0.0,75,Espresso
+Cappuccino,Tall,Soy,,354 mL,70.0,3.0,0.4,0.0,0.0,65.0,7.0,1.0,4.0,5.0,0.06,0.0,0.2,0.08,75,Espresso
+Cappuccino,Tall,Coconut,,354 mL,100.0,6.0,6.0,0.0,0.0,115.0,11.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Cappuccino,Grande,Nonfat,,473 mL,80.0,0.2,0.1,0.0,5.0,90.0,12.0,0.0,10.0,8.0,0.15,0.0,0.25,0.0,150,Espresso
+Cappuccino,Grande,0.02,,473 mL,120.0,4.0,2.0,0.1,15.0,100.0,12.0,0.0,10.0,8.0,0.1,0.0,0.25,0.0,150,Espresso
+Cappuccino,Grande,Whole,,473 mL,140.0,7.0,4.0,0.2,20.0,90.0,12.0,0.0,10.0,7.0,0.1,0.0,0.2,0.0,150,Espresso
+Cappuccino,Grande,Soy,,473 mL,100.0,3.5,0.4,0.0,0.0,80.0,9.0,1.0,5.0,7.0,0.08,0.0,0.25,0.1,150,Espresso
+Cappuccino,Grande,Coconut,,473 mL,130.0,8.0,8.0,0.0,0.0,150.0,14.0,0.0,12.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Cappuccino,Venti®,Nonfat,,591 mL,110.0,0.2,0.2,0.0,5.0,120.0,16.0,0.0,14.0,10.0,0.2,0.0,0.3,0.0,150,Espresso
+Cappuccino,Venti®,0.02,,591 mL,150.0,6.0,3.0,0.2,25.0,135.0,16.0,0.0,14.0,10.0,0.15,0.0,0.3,0.0,150,Espresso
+Cappuccino,Venti®,Whole,,591 mL,190.0,9.0,5.0,0.3,30.0,125.0,16.0,0.0,14.0,10.0,0.15,0.0,0.3,0.0,150,Espresso
+Cappuccino,Venti®,Soy,,591 mL,120.0,4.5,0.5,0.0,0.0,110.0,11.0,1.0,7.0,9.0,0.1,0.0,0.35,0.15,150,Espresso
+Cappuccino,Venti®,Coconut,,591 mL,170.0,10.0,10.0,0.0,0.0,190.0,18.0,0.0,15.0,2.0,0.0,0.0,0.0,0.0,150,Espresso
+Caramel Macchiato,Short,Nonfat,,236 mL,100.0,1.0,0.5,0.0,5.0,70.0,16.0,0.0,15.0,5.0,0.1,0.0,0.15,0.0,75,Espresso
+Caramel Macchiato,Short,0.02,,236 mL,120.0,4.0,2.5,0.1,15.0,80.0,16.0,0.0,15.0,5.0,0.1,0.0,0.15,0.0,75,Espresso
+Caramel Macchiato,Short,Whole,,236 mL,140.0,6.0,3.5,0.1,20.0,70.0,16.0,0.0,15.0,5.0,0.08,0.0,0.15,0.0,75,Espresso
+Caramel Macchiato,Short,Soy,,236 mL,100.0,3.0,1.0,0.0,0.0,60.0,14.0,1.0,11.0,4.0,0.06,0.0,0.15,0.08,75,Espresso
+Caramel Macchiato,Short,Coconut,,236 mL,100.0,4.0,3.5,0.0,0.0,70.0,14.0,0.0,13.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Caramel Macchiato,Tall,Nonfat,,354 mL,150.0,1.5,1.0,0.0,10.0,105.0,27.0,0.0,25.0,8.0,0.15,0.0,0.25,0.0,75,Espresso
+Caramel Macchiato,Tall,0.02,,354 mL,190.0,6.0,3.5,0.2,20.0,120.0,26.0,0.0,25.0,8.0,0.15,0.0,0.25,0.0,75,Espresso
+Caramel Macchiato,Tall,Whole,,354 mL,210.0,9.0,5.0,0.2,25.0,110.0,26.0,0.0,25.0,8.0,0.1,0.0,0.25,0.0,75,Espresso
+Caramel Macchiato,Tall,Soy,,354 mL,160.0,4.5,1.0,0.0,5.0,95.0,22.0,1.0,19.0,6.0,0.1,0.0,0.25,0.1,75,Espresso
+Caramel Macchiato,Tall,Coconut,,354 mL,150.0,6.0,6.0,0.0,5.0,105.0,23.0,0.0,21.0,1.0,0.02,0.0,0.0,0.0,75,Espresso
+Caramel Macchiato,Grande,Nonfat,,473 mL,200.0,1.5,1.0,0.0,10.0,135.0,36.0,0.0,34.0,11.0,0.2,0.0,0.35,0.0,150,Espresso
+Caramel Macchiato,Grande,0.02,,473 mL,250.0,7.0,4.5,0.2,25.0,150.0,35.0,0.0,33.0,10.0,0.2,0.02,0.3,0.0,150,Espresso
+Caramel Macchiato,Grande,Whole,,473 mL,280.0,11.0,6.0,0.3,35.0,140.0,35.0,0.0,33.0,10.0,0.15,0.0,0.3,0.0,150,Espresso
+Caramel Macchiato,Grande,Soy,,473 mL,210.0,6.0,1.5,0.0,5.0,120.0,30.0,1.0,26.0,9.0,0.15,0.0,0.35,0.15,150,Espresso
+Caramel Macchiato,Grande,Coconut,,473 mL,200.0,8.0,7.0,0.0,5.0,130.0,32.0,0.0,29.0,1.0,0.02,0.0,0.0,0.0,150,Espresso
+Caramel Macchiato,Venti®,Nonfat,,591 mL,250.0,1.5,1.0,0.0,10.0,170.0,45.0,0.0,42.0,13.0,0.25,0.0,0.4,0.0,150,Espresso
+Caramel Macchiato,Venti®,0.02,,591 mL,310.0,9.0,6.0,0.3,35.0,190.0,44.0,0.0,42.0,13.0,0.2,0.02,0.4,0.0,150,Espresso
+Caramel Macchiato,Venti®,Whole,,591 mL,350.0,13.0,8.0,0.4,40.0,170.0,44.0,0.0,42.0,12.0,0.2,0.0,0.4,0.0,150,Espresso
+Caramel Macchiato,Venti®,Soy,,591 mL,260.0,7.0,1.5,0.0,5.0,150.0,38.0,1.0,33.0,11.0,0.15,0.0,0.4,0.2,150,Espresso
+Caramel Macchiato,Venti®,Coconut,,591 mL,250.0,10.0,9.0,0.0,5.0,170.0,39.0,0.0,36.0,1.0,0.02,0.0,0.0,0.0,150,Espresso
+Iced Caramel Macchiato,Tall,Nonfat,,354 mL,140.0,1.5,1.0,0.0,10.0,100.0,26.0,0.0,24.0,7.0,0.15,0.0,0.25,0.0,75,Espresso
+Iced Caramel Macchiato,Tall,0.02,,354 mL,180.0,5.0,3.5,0.2,20.0,110.0,26.0,0.0,24.0,7.0,0.1,0.0,0.2,0.0,75,Espresso
+Iced Caramel Macchiato,Tall,Whole,,354 mL,200.0,8.0,4.5,0.2,25.0,100.0,26.0,0.0,24.0,7.0,0.1,0.0,0.2,0.0,75,Espresso
+Iced Caramel Macchiato,Tall,Soy,,354 mL,160.0,4.5,1.5,0.0,5.0,90.0,22.0,1.0,19.0,6.0,0.1,0.0,0.25,0.1,75,Espresso
+Iced Caramel Macchiato,Tall,Coconut,,354 mL,140.0,6.0,5.0,0.0,5.0,95.0,23.0,0.0,21.0,1.0,0.02,0.0,0.0,0.0,75,Espresso
+Iced Caramel Macchiato,Grande,Nonfat,,473 mL,210.0,2.0,1.5,0.0,10.0,135.0,37.0,0.0,35.0,10.0,0.2,0.0,0.3,0.0,150,Espresso
+Iced Caramel Macchiato,Grande,0.02,,473 mL,250.0,7.0,4.5,0.2,25.0,150.0,37.0,0.0,34.0,10.0,0.15,0.0,0.3,0.0,150,Espresso
+Iced Caramel Macchiato,Grande,Whole,,473 mL,280.0,11.0,6.0,0.3,35.0,140.0,37.0,0.0,34.0,9.0,0.15,0.0,0.3,0.0,150,Espresso
+Iced Caramel Macchiato,Grande,Soy,,473 mL,220.0,6.0,2.0,0.0,5.0,125.0,32.0,1.0,28.0,8.0,0.15,0.0,0.3,0.15,150,Espresso
+Iced Caramel Macchiato,Grande,Coconut,,473 mL,210.0,8.0,7.0,0.0,5.0,130.0,33.0,0.0,30.0,1.0,0.02,0.0,0.02,0.0,150,Espresso
+Iced Caramel Macchiato,Venti®,Nonfat,,709 mL,290.0,2.5,1.5,0.0,15.0,180.0,53.0,0.0,50.0,14.0,0.25,0.0,0.45,0.0,225,Espresso
+Iced Caramel Macchiato,Venti®,0.02,,709 mL,350.0,9.0,6.0,0.3,35.0,200.0,53.0,0.0,49.0,13.0,0.25,0.02,0.4,0.0,225,Espresso
+Iced Caramel Macchiato,Venti®,Whole,,709 mL,390.0,14.0,8.0,0.4,45.0,190.0,53.0,0.0,49.0,13.0,0.2,0.0,0.4,0.0,225,Espresso
+Iced Caramel Macchiato,Venti®,Soy,,709 mL,310.0,8.0,2.0,0.0,5.0,170.0,47.0,1.0,40.0,11.0,0.15,0.0,0.45,0.2,225,Espresso
+Iced Caramel Macchiato,Venti®,Coconut,,709 mL,290.0,10.0,9.0,0.0,5.0,170.0,47.0,0.0,43.0,2.0,0.02,0.0,0.02,0.0,225,Espresso
+Cinnamon Dolce Latte,Short,Nonfat,No Whip,236 mL,100.0,0.1,0.1,0.0,5.0,70.0,20.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,Nonfat,Whip,236 mL,160.0,5.0,3.5,0.2,20.0,75.0,22.0,0.0,21.0,6.0,0.15,0.0,0.2,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,0.02,No Whip,236 mL,130.0,3.0,1.5,0.1,15.0,75.0,20.0,0.0,19.0,6.0,0.08,0.0,0.15,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,0.02,Whip,236 mL,180.0,8.0,5.0,0.2,30.0,80.0,22.0,0.0,20.0,6.0,0.15,0.0,0.2,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,Whole,No Whip,236 mL,150.0,5.0,3.0,0.2,15.0,70.0,20.0,0.0,19.0,5.0,0.08,0.0,0.15,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,Whole,Whip,236 mL,200.0,10.0,6.0,0.3,35.0,75.0,22.0,0.0,20.0,6.0,0.15,0.0,0.15,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,Soy,No Whip,236 mL,110.0,2.5,0.3,0.0,0.0,60.0,17.0,1.0,15.0,5.0,0.06,0.0,0.2,0.08,75,Espresso
+Cinnamon Dolce Latte,Short,Soy,Whip,236 mL,170.0,8.0,3.5,0.2,20.0,65.0,19.0,1.0,16.0,5.0,0.1,0.0,0.2,0.08,75,Espresso
+Cinnamon Dolce Latte,Short,Coconut,No Whip,236 mL,110.0,3.5,3.5,0.0,0.0,70.0,18.0,0.0,17.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Cinnamon Dolce Latte,Short,Coconut,Whip,236 mL,160.0,9.0,7.0,0.2,20.0,75.0,20.0,0.0,19.0,1.0,0.06,0.0,0.02,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,Nonfat,No Whip,354 mL,160.0,0.2,0.1,0.0,5.0,110.0,31.0,0.0,30.0,9.0,0.15,0.0,0.3,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,Nonfat,Whip,354 mL,220.0,6.0,4.0,0.2,30.0,115.0,33.0,0.0,31.0,9.0,0.25,0.0,0.3,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,0.02,No Whip,354 mL,200.0,5.0,2.5,0.2,20.0,125.0,30.0,0.0,29.0,9.0,0.15,0.0,0.3,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,0.02,Whip,354 mL,270.0,11.0,6.0,0.3,45.0,130.0,32.0,0.0,31.0,9.0,0.2,0.02,0.3,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,Whole,No Whip,354 mL,230.0,8.0,5.0,0.3,25.0,110.0,30.0,0.0,29.0,8.0,0.1,0.0,0.25,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,Whole,Whip,354 mL,290.0,14.0,9.0,0.4,50.0,120.0,32.0,0.0,31.0,9.0,0.2,0.0,0.3,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,Soy,No Whip,354 mL,170.0,4.0,0.5,0.0,0.0,95.0,26.0,1.0,23.0,7.0,0.1,0.0,0.3,0.15,75,Espresso
+Cinnamon Dolce Latte,Tall,Soy,Whip,354 mL,240.0,10.0,4.5,0.2,20.0,100.0,28.0,1.0,25.0,8.0,0.15,0.0,0.3,0.15,75,Espresso
+Cinnamon Dolce Latte,Tall,Coconut,No Whip,354 mL,160.0,6.0,6.0,0.0,0.0,110.0,27.0,0.0,26.0,1.0,0.0,0.0,0.0,0.0,75,Espresso
+Cinnamon Dolce Latte,Tall,Coconut,Whip,354 mL,230.0,12.0,9.0,0.2,20.0,115.0,29.0,0.0,28.0,1.0,0.06,0.0,0.02,0.0,75,Espresso
+Cinnamon Dolce Latte,Grande,Nonfat,No Whip,473 mL,210.0,0.3,0.2,0.0,5.0,135.0,40.0,0.0,38.0,11.0,0.2,0.0,0.35,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,Nonfat,Whip,473 mL,280.0,7.0,4.5,0.2,30.0,140.0,43.0,0.0,40.0,12.0,0.25,0.0,0.35,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,0.02,No Whip,473 mL,260.0,6.0,3.0,0.2,25.0,150.0,40.0,0.0,38.0,11.0,0.2,0.02,0.35,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,0.02,Whip,473 mL,330.0,13.0,8.0,0.4,50.0,160.0,42.0,0.0,40.0,12.0,0.25,0.02,0.35,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,Whole,No Whip,473 mL,300.0,10.0,6.0,0.3,30.0,140.0,40.0,0.0,38.0,11.0,0.15,0.0,0.35,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,Whole,Whip,473 mL,370.0,17.0,10.0,0.5,60.0,150.0,42.0,0.0,40.0,11.0,0.25,0.0,0.35,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,Soy,No Whip,473 mL,220.0,5.0,0.5,0.0,0.0,120.0,34.0,1.0,30.0,9.0,0.1,0.0,0.35,0.15,150,Espresso
+Cinnamon Dolce Latte,Grande,Soy,Whip,473 mL,300.0,12.0,5.0,0.2,25.0,125.0,37.0,1.0,32.0,10.0,0.2,0.0,0.35,0.15,150,Espresso
+Cinnamon Dolce Latte,Grande,Coconut,No Whip,473 mL,210.0,7.0,7.0,0.0,0.0,140.0,36.0,0.0,33.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Cinnamon Dolce Latte,Grande,Coconut,Whip,473 mL,290.0,14.0,11.0,0.2,25.0,150.0,38.0,0.0,36.0,2.0,0.08,0.0,0.02,0.0,150,Espresso
+Cinnamon Dolce Latte,Venti®,Nonfat,No Whip,591 mL,270.0,0.3,0.2,0.0,10.0,180.0,51.0,0.0,49.0,15.0,0.25,0.0,0.45,0.0,150,Espresso
+Cinnamon Dolce Latte,Venti®,Nonfat,Whip,591 mL,340.0,7.0,4.5,0.2,35.0,190.0,54.0,0.0,51.0,15.0,0.35,0.0,0.5,0.02,150,Espresso
+Cinnamon Dolce Latte,Venti®,0.02,No Whip,591 mL,330.0,8.0,4.0,0.2,35.0,200.0,50.0,0.0,48.0,15.0,0.25,0.02,0.45,0.0,150,Espresso
+Cinnamon Dolce Latte,Venti®,0.02,Whip,591 mL,410.0,15.0,9.0,0.5,60.0,210.0,53.0,0.0,50.0,15.0,0.3,0.02,0.45,0.0,150,Espresso
+Cinnamon Dolce Latte,Venti®,Whole,No Whip,591 mL,380.0,14.0,8.0,0.4,40.0,180.0,50.0,0.0,48.0,14.0,0.2,0.0,0.45,0.0,150,Espresso
+Cinnamon Dolce Latte,Venti®,Whole,Whip,591 mL,450.0,21.0,12.0,0.5,70.0,190.0,53.0,0.0,50.0,14.0,0.3,0.0,0.45,0.02,150,Espresso
+Cinnamon Dolce Latte,Venti®,Soy,No Whip,591 mL,280.0,6.0,1.0,0.0,0.0,160.0,43.0,2.0,38.0,12.0,0.15,0.0,0.45,0.2,150,Espresso
+Cinnamon Dolce Latte,Venti®,Soy,Whip,591 mL,360.0,13.0,5.0,0.2,25.0,160.0,46.0,2.0,40.0,12.0,0.25,0.0,0.5,0.2,150,Espresso
+Cinnamon Dolce Latte,Venti®,Coconut,No Whip,591 mL,270.0,10.0,9.0,0.0,0.0,180.0,45.0,0.0,42.0,2.0,0.0,0.0,0.0,0.0,150,Espresso
+Cinnamon Dolce Latte,Venti®,Coconut,Whip,591 mL,350.0,17.0,14.0,0.2,25.0,190.0,47.0,0.0,45.0,2.0,0.08,0.0,0.02,0.0,150,Espresso
+Espresso,Solo,,,,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75,Espresso
+Espresso,Doppio,,,,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Espresso,Triple,,,,15.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,225,Espresso
+Espresso,Quad,,,,20.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Iced Espresso,Solo,,,,5.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,75,Espresso
+Iced Espresso,Doppio,,,,10.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Iced Espresso,Triple,,,,15.0,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,225,Espresso
+Iced Espresso,Quad,,,,20.0,0.0,0.0,0.0,0.0,0.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Espresso Con Panna,Solo,,Whip,,30.0,2.5,1.5,0.0,10.0,3.0,2.0,0.0,1.0,0.5,0.02,0.0,0.0,0.0,75,Espresso
+Espresso Con Panna,Doppio,,Whip,,35.0,2.5,1.5,0.1,10.0,3.0,3.0,0.0,1.0,1.0,0.02,0.0,0.0,0.0,150,Espresso
+Espresso Con Panna,Triple,,Whip,,40.0,2.5,1.5,0.1,10.0,0.0,4.0,0.0,1.0,1.0,0.02,0.0,0.0,0.0,225,Espresso
+Espresso Con Panna,Quad,,Whip,,50.0,2.5,1.5,0.1,10.0,0.0,5.0,0.0,1.0,2.0,0.02,0.0,0.0,0.0,300,Espresso
+Espresso Macchiato,Solo,Nonfat,,,5.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,75,Espresso
+Espresso Macchiato,Solo,0.02,,,10.0,0.1,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,75,Espresso
+Espresso Macchiato,Solo,Whole,,,10.0,0.1,0.1,0.0,0.0,2.0,1.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,75,Espresso
+Espresso Macchiato,Solo,Soy,,,5.0,0.1,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,75,Espresso
+Espresso Macchiato,Solo,Coconut,,,5.0,0.1,0.1,0.0,0.0,2.0,1.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,75,Espresso
+Espresso Macchiato,Doppio,Nonfat,,,15.0,0.0,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Espresso Macchiato,Doppio,0.02,,,15.0,0.1,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Espresso Macchiato,Doppio,Whole,,,15.0,0.1,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Espresso Macchiato,Doppio,Soy,,,15.0,0.1,0.0,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Espresso Macchiato,Doppio,Coconut,,,10.0,0.1,0.1,0.0,0.0,2.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Espresso Macchiato,Triple,Nonfat,,,20.0,0.0,0.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,225,Espresso
+Espresso Macchiato,Triple,0.02,,,20.0,0.1,0.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,225,Espresso
+Espresso Macchiato,Triple,Whole,,,20.0,0.1,0.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,225,Espresso
+Espresso Macchiato,Triple,Soy,,,20.0,0.1,0.0,0.0,0.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,225,Espresso
+Espresso Macchiato,Triple,Coconut,,,20.0,0.1,0.1,0.0,0.0,2.0,3.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,225,Espresso
+Espresso Macchiato,Quad,Nonfat,,,25.0,0.0,0.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Espresso Macchiato,Quad,0.02,,,25.0,0.1,0.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Espresso Macchiato,Quad,Whole,,,25.0,0.1,0.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Espresso Macchiato,Quad,Soy,,,25.0,0.1,0.0,0.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Espresso Macchiato,Quad,Coconut,,,25.0,0.1,0.1,0.0,0.0,2.0,4.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,300,Espresso
+Flat White,Short,Nonfat,,236 mL,60.0,0.1,0.1,0.0,5.0,70.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,130,Espresso
+Flat White,Short,0.02,,236 mL,90.0,3.5,2.0,0.1,15.0,80.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,130,Espresso
+Flat White,Short,Whole,,236 mL,110.0,5.0,3.0,0.2,15.0,70.0,9.0,0.0,8.0,6.0,0.08,0.0,0.15,0.0,130,Espresso
+Flat White,Short,Soy,,236 mL,70.0,2.5,0.3,0.0,0.0,65.0,6.0,1.0,4.0,5.0,0.06,0.0,0.2,0.08,130,Espresso
+Flat White,Short,Coconut,,236 mL,60.0,4.0,3.5,0.0,0.0,70.0,7.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,130,Espresso
+Flat White,Tall,Nonfat,,354 mL,100.0,0.2,0.2,0.0,5.0,115.0,15.0,0.0,13.0,10.0,0.15,0.0,0.3,0.0,130,Espresso
+Flat White,Tall,0.02,,354 mL,140.0,5.0,3.5,0.2,20.0,130.0,14.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,130,Espresso
+Flat White,Tall,Whole,,354 mL,170.0,9.0,5.0,0.3,25.0,115.0,14.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,130,Espresso
+Flat White,Tall,Soy,,354 mL,110.0,4.0,0.5,0.0,0.0,100.0,10.0,1.0,6.0,8.0,0.1,0.0,0.3,0.15,130,Espresso
+Flat White,Tall,Coconut,,354 mL,100.0,6.0,6.0,0.0,0.0,110.0,11.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,130,Espresso
+Flat White,Grande,Nonfat,,473 mL,130.0,0.3,0.2,0.0,5.0,150.0,19.0,0.0,17.0,12.0,0.2,0.0,0.4,0.0,195,Espresso
+Flat White,Grande,0.02,,473 mL,180.0,7.0,4.5,0.3,30.0,160.0,18.0,0.0,17.0,12.0,0.2,0.02,0.4,0.0,195,Espresso
+Flat White,Grande,Whole,,473 mL,220.0,11.0,7.0,0.3,35.0,150.0,18.0,0.0,17.0,12.0,0.15,0.0,0.35,0.0,195,Espresso
+Flat White,Grande,Soy,,473 mL,150.0,5.0,0.5,0.0,0.0,130.0,13.0,1.0,8.0,10.0,0.15,0.0,0.4,0.2,195,Espresso
+Flat White,Grande,Coconut,,473 mL,130.0,8.0,7.0,0.0,0.0,140.0,14.0,0.0,11.0,1.0,0.0,0.0,0.0,0.0,195,Espresso
+Flat White,Venti®,Nonfat,,591 mL,170.0,0.4,0.3,0.0,10.0,190.0,24.0,0.0,23.0,16.0,0.3,0.0,0.5,0.0,195,Espresso
+Flat White,Venti®,0.02,,591 mL,240.0,9.0,6.0,0.4,35.0,220.0,24.0,0.0,22.0,16.0,0.25,0.02,0.5,0.0,195,Espresso
+Flat White,Venti®,Whole,,591 mL,290.0,15.0,9.0,0.4,45.0,200.0,24.0,0.0,22.0,15.0,0.2,0.0,0.45,0.0,195,Espresso
+Flat White,Venti®,Soy,,591 mL,190.0,7.0,1.0,0.0,0.0,170.0,16.0,2.0,11.0,13.0,0.2,0.0,0.5,0.25,195,Espresso
+Flat White,Venti®,Coconut,,591 mL,170.0,10.0,10.0,0.0,0.0,190.0,18.0,0.0,15.0,2.0,0.0,0.0,0.0,0.0,195,Espresso
+Latte Macchiato,Short,Nonfat,,236 mL,60.0,0.1,0.1,0.0,5.0,70.0,10.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,150,Espresso
+Latte Macchiato,Short,0.02,,236 mL,90.0,3.5,2.0,0.1,15.0,80.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,150,Espresso
+Latte Macchiato,Short,Whole,,236 mL,110.0,5.0,3.0,0.2,15.0,70.0,9.0,0.0,8.0,6.0,0.08,0.0,0.15,0.0,150,Espresso
+Latte Macchiato,Short,Soy,,236 mL,70.0,2.5,0.3,0.0,0.0,60.0,7.0,1.0,4.0,5.0,0.06,0.0,0.2,0.08,150,Espresso
+Latte Macchiato,Short,Coconut,,236 mL,70.0,3.5,3.5,0.0,0.0,70.0,7.0,0.0,5.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Latte Macchiato,Tall,Nonfat,,354 mL,100.0,0.2,0.2,0.0,5.0,115.0,15.0,0.0,13.0,10.0,0.15,0.0,0.3,0.0,150,Espresso
+Latte Macchiato,Tall,0.02,,354 mL,140.0,5.0,3.5,0.2,20.0,130.0,15.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,150,Espresso
+Latte Macchiato,Tall,Whole,,354 mL,170.0,9.0,5.0,0.3,25.0,115.0,15.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,150,Espresso
+Latte Macchiato,Tall,Soy,,354 mL,110.0,4.0,0.5,0.0,0.0,100.0,10.0,1.0,6.0,8.0,0.1,0.0,0.3,0.15,150,Espresso
+Latte Macchiato,Tall,Coconut,,354 mL,100.0,6.0,6.0,0.0,0.0,110.0,11.0,0.0,9.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Latte Macchiato,Grande,Nonfat,,473 mL,130.0,0.3,0.2,0.0,5.0,150.0,19.0,0.0,17.0,12.0,0.2,0.0,0.4,0.0,225,Espresso
+Latte Macchiato,Grande,0.02,,473 mL,190.0,7.0,4.5,0.3,30.0,160.0,19.0,0.0,17.0,12.0,0.2,0.02,0.4,0.0,225,Espresso
+Latte Macchiato,Grande,Whole,,473 mL,220.0,11.0,6.0,0.3,35.0,150.0,19.0,0.0,17.0,12.0,0.15,0.0,0.35,0.0,225,Espresso
+Latte Macchiato,Grande,Soy,,473 mL,140.0,5.0,0.5,0.0,0.0,125.0,13.0,1.0,8.0,10.0,0.15,0.0,0.4,0.15,225,Espresso
+Latte Macchiato,Grande,Coconut,,473 mL,130.0,8.0,7.0,0.0,0.0,140.0,14.0,0.0,11.0,2.0,0.0,0.0,0.0,0.0,225,Espresso
+Latte Macchiato,Venti®,Nonfat,,591 mL,170.0,0.4,0.3,0.0,10.0,190.0,25.0,0.0,23.0,16.0,0.3,0.0,0.5,0.0,225,Espresso
+Latte Macchiato,Venti®,0.02,,591 mL,240.0,9.0,6.0,0.4,35.0,210.0,24.0,0.0,22.0,16.0,0.25,0.02,0.5,0.0,225,Espresso
+Latte Macchiato,Venti®,Whole,,591 mL,290.0,15.0,8.0,0.4,45.0,200.0,24.0,0.0,22.0,15.0,0.2,0.0,0.45,0.0,225,Espresso
+Latte Macchiato,Venti®,Soy,,591 mL,190.0,7.0,1.0,0.0,0.0,170.0,16.0,2.0,10.0,13.0,0.15,0.0,0.5,0.2,225,Espresso
+Latte Macchiato,Venti®,Coconut,,591 mL,170.0,10.0,10.0,0.0,0.0,190.0,18.0,0.0,15.0,2.0,0.0,0.0,0.0,0.0,225,Espresso
+Skinny Cinnamon Dolce Latte,Short,Nonfat,,236 mL,60.0,0.1,0.1,0.0,5.0,80.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Skinny Cinnamon Dolce Latte,Tall,Nonfat,,354 mL,100.0,0.2,0.1,0.0,5.0,125.0,14.0,0.0,13.0,9.0,0.15,0.0,0.3,0.0,75,Espresso
+Skinny Cinnamon Dolce Latte,Grande,Nonfat,,473 mL,120.0,0.3,0.2,0.0,5.0,160.0,19.0,0.0,16.0,12.0,0.2,0.0,0.35,0.0,150,Espresso
+Skinny Cinnamon Dolce Latte,Venti®,Nonfat,,591 mL,160.0,0.3,0.2,0.0,10.0,200.0,24.0,0.0,21.0,15.0,0.25,0.0,0.5,0.0,150,Espresso
+Iced Skinny Cinnamon Dolce Latte,Tall,Nonfat,,354 mL,60.0,0.1,0.1,0.0,5.0,80.0,9.0,0.0,8.0,6.0,0.1,0.0,0.2,0.0,75,Espresso
+Iced Skinny Cinnamon Dolce Latte,Grande,Nonfat,,473 mL,80.0,0.2,0.1,0.0,5.0,105.0,12.0,0.0,10.0,7.0,0.1,0.0,0.2,0.0,150,Espresso
+Iced Skinny Cinnamon Dolce Latte,Venti®,Nonfat,,709 mL,110.0,0.2,0.2,0.0,5.0,140.0,17.0,0.0,14.0,10.0,0.15,0.0,0.3,0.0,225,Espresso
+Skinny Mocha,Short,Nonfat,,236 mL,80.0,1.0,0.5,0.0,5.0,70.0,12.0,2.0,7.0,7.0,0.08,0.0,0.15,0.3,75,Espresso
+Skinny Mocha,Tall,Nonfat,,354 mL,130.0,1.0,1.0,0.1,5.0,115.0,18.0,3.0,12.0,11.0,0.15,0.0,0.3,0.45,75,Espresso
+Skinny Mocha,Grande,Nonfat,,473 mL,160.0,1.5,1.0,0.1,5.0,140.0,24.0,4.0,15.0,14.0,0.2,0.0,0.35,0.6,150,Espresso
+Skinny Mocha,Venti®,Nonfat,,591 mL,210.0,2.0,1.5,0.1,10.0,190.0,30.0,5.0,19.0,18.0,0.25,0.0,0.45,0.7,150,Espresso
+Iced Skinny Mocha,Tall,Nonfat,,354 mL,90.0,1.0,0.5,0.1,5.0,75.0,13.0,3.0,7.0,7.0,0.08,0.0,0.15,0.45,75,Espresso
+Iced Skinny Mocha,Grande,Nonfat,,473 mL,120.0,1.5,1.0,0.1,5.0,95.0,17.0,4.0,8.0,9.0,0.1,0.0,0.2,0.6,150,Espresso
+Iced Skinny Mocha,Venti®,Nonfat,,709 mL,170.0,2.5,1.5,0.1,5.0,130.0,25.0,6.0,11.0,13.0,0.15,0.0,0.3,0.9,225,Espresso
+Starbucks Doubleshot on Ice,Tall,Nonfat,,354 mL,70.0,0.0,0.0,0.0,0.0,35.0,14.0,0.0,13.0,3.0,0.04,0.0,0.08,0.0,150,Espresso
+Starbucks Doubleshot on Ice,Tall,0.02,,354 mL,80.0,1.0,1.0,0.1,5.0,35.0,14.0,0.0,13.0,3.0,0.04,0.0,0.08,0.0,150,Espresso
+Starbucks Doubleshot on Ice,Tall,Whole,,354 mL,90.0,2.0,1.0,0.1,5.0,35.0,14.0,0.0,13.0,2.0,0.02,0.0,0.08,0.0,150,Espresso
+Starbucks Doubleshot on Ice,Tall,Soy,,354 mL,70.0,1.0,0.1,0.0,0.0,30.0,13.0,0.0,11.0,2.0,0.02,0.0,0.08,0.04,150,Espresso
+Starbucks Doubleshot on Ice,Tall,Coconut,,354 mL,70.0,1.5,1.5,0.0,0.0,30.0,13.0,0.0,12.0,1.0,0.0,0.0,0.0,0.0,150,Espresso
+Starbucks Doubleshot on Ice,Grande,Nonfat,,473 mL,90.0,0.0,0.0,0.0,0.0,35.0,20.0,0.0,18.0,3.0,0.04,0.0,0.08,0.0,225,Espresso
+Starbucks Doubleshot on Ice,Grande,0.02,,473 mL,100.0,1.0,1.0,0.1,5.0,40.0,20.0,0.0,18.0,3.0,0.04,0.0,0.08,0.0,225,Espresso
+Starbucks Doubleshot on Ice,Grande,Whole,,473 mL,110.0,2.0,1.0,0.1,5.0,35.0,20.0,0.0,18.0,3.0,0.02,0.0,0.08,0.0,225,Espresso
+Starbucks Doubleshot on Ice,Grande,Soy,,473 mL,100.0,1.0,0.1,0.0,0.0,35.0,19.0,0.0,16.0,3.0,0.02,0.0,0.08,0.04,225,Espresso
+Starbucks Doubleshot on Ice,Grande,Coconut,,473 mL,90.0,1.5,1.5,0.0,0.0,35.0,19.0,0.0,17.0,1.0,0.0,0.0,0.02,0.0,225,Espresso
+Starbucks Doubleshot on Ice,Venti®,Nonfat,,709 mL,150.0,0.1,0.1,0.0,0.0,50.0,33.0,0.0,29.0,4.0,0.06,0.0,0.1,0.0,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,0.02,,709 mL,170.0,2.0,1.0,0.1,5.0,55.0,33.0,0.0,29.0,4.0,0.06,0.0,0.1,0.0,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,Whole,,709 mL,180.0,3.0,1.5,0.1,10.0,50.0,33.0,0.0,29.0,4.0,0.04,0.0,0.1,0.0,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,Soy,,709 mL,160.0,1.5,0.2,0.0,0.0,45.0,31.0,0.0,27.0,4.0,0.04,0.0,0.1,0.04,375,Espresso
+Starbucks Doubleshot on Ice,Venti®,Coconut,,709 mL,150.0,2.0,2.0,0.0,0.0,50.0,32.0,0.0,28.0,2.0,0.0,0.0,0.02,0.0,375,Espresso
+White Chocolate Mocha,Short,Nonfat,No Whip,236 mL,180.0,3.0,2.5,0.0,5.0,115.0,30.0,0.0,29.0,7.0,0.08,0.0,0.2,0.0,75,Espresso
+White Chocolate Mocha,Short,Nonfat,Whip,236 mL,230.0,8.0,6.0,0.2,25.0,120.0,32.0,0.0,30.0,7.0,0.15,0.0,0.25,0.0,75,Espresso
+White Chocolate Mocha,Short,0.02,No Whip,236 mL,200.0,6.0,3.5,0.1,15.0,120.0,30.0,0.0,29.0,7.0,0.08,0.02,0.2,0.0,75,Espresso
+White Chocolate Mocha,Short,0.02,Whip,236 mL,250.0,11.0,7.0,0.2,35.0,125.0,32.0,0.0,30.0,7.0,0.15,0.02,0.25,0.0,75,Espresso
+White Chocolate Mocha,Short,Whole,No Whip,236 mL,210.0,8.0,5.0,0.1,15.0,115.0,30.0,0.0,29.0,7.0,0.06,0.0,0.2,0.0,75,Espresso
+White Chocolate Mocha,Short,Whole,Whip,236 mL,270.0,13.0,8.0,0.3,35.0,120.0,32.0,0.0,30.0,7.0,0.15,0.0,0.2,0.0,75,Espresso
+White Chocolate Mocha,Short,Soy,No Whip,236 mL,180.0,5.0,2.5,0.0,5.0,105.0,28.0,1.0,25.0,6.0,0.06,0.0,0.2,0.08,75,Espresso
+White Chocolate Mocha,Short,Soy,Whip,236 mL,230.0,10.0,6.0,0.2,20.0,110.0,29.0,1.0,26.0,6.0,0.1,0.0,0.25,0.08,75,Espresso
+White Chocolate Mocha,Short,Coconut,No Whip,236 mL,180.0,6.0,5.0,0.0,5.0,115.0,28.0,0.0,27.0,3.0,0.0,0.0,0.06,0.0,75,Espresso
+White Chocolate Mocha,Short,Coconut,Whip,236 mL,230.0,11.0,9.0,0.2,20.0,120.0,30.0,0.0,28.0,3.0,0.06,0.0,0.08,0.0,75,Espresso
+White Chocolate Mocha,Tall,Nonfat,No Whip,354 mL,270.0,4.5,3.5,0.0,10.0,180.0,46.0,0.0,45.0,11.0,0.15,0.02,0.35,0.0,75,Espresso
+White Chocolate Mocha,Tall,Nonfat,Whip,354 mL,330.0,10.0,7.0,0.2,30.0,190.0,48.0,0.0,46.0,12.0,0.2,0.02,0.35,0.0,75,Espresso
+White Chocolate Mocha,Tall,0.02,No Whip,354 mL,300.0,9.0,6.0,0.1,25.0,190.0,46.0,0.0,44.0,11.0,0.15,0.02,0.35,0.0,75,Espresso
+White Chocolate Mocha,Tall,0.02,Whip,354 mL,370.0,15.0,10.0,0.3,45.0,200.0,47.0,0.0,46.0,11.0,0.2,0.02,0.35,0.0,75,Espresso
+White Chocolate Mocha,Tall,Whole,No Whip,354 mL,330.0,12.0,8.0,0.2,30.0,180.0,46.0,0.0,44.0,11.0,0.1,0.02,0.35,0.0,75,Espresso
+White Chocolate Mocha,Tall,Whole,Whip,354 mL,390.0,18.0,12.0,0.4,50.0,190.0,47.0,0.0,46.0,11.0,0.2,0.02,0.35,0.0,75,Espresso
+White Chocolate Mocha,Tall,Soy,No Whip,354 mL,280.0,8.0,4.0,0.0,5.0,170.0,41.0,1.0,38.0,10.0,0.1,0.02,0.35,0.1,75,Espresso
+White Chocolate Mocha,Tall,Soy,Whip,354 mL,340.0,14.0,8.0,0.2,25.0,170.0,43.0,1.0,40.0,10.0,0.15,0.02,0.35,0.1,75,Espresso
+White Chocolate Mocha,Tall,Coconut,No Whip,354 mL,270.0,10.0,9.0,0.0,5.0,180.0,42.0,0.0,41.0,4.0,0.0,0.02,0.1,0.0,75,Espresso
+White Chocolate Mocha,Tall,Coconut,Whip,354 mL,330.0,16.0,12.0,0.2,25.0,180.0,44.0,0.0,43.0,4.0,0.06,0.02,0.1,0.0,75,Espresso
+White Chocolate Mocha,Grande,Nonfat,No Whip,473 mL,350.0,6.0,4.5,0.0,10.0,230.0,61.0,0.0,58.0,14.0,0.2,0.02,0.45,0.0,150,Espresso
+White Chocolate Mocha,Grande,Nonfat,Whip,473 mL,420.0,13.0,9.0,0.2,35.0,240.0,63.0,0.0,60.0,15.0,0.25,0.02,0.45,0.0,150,Espresso
+White Chocolate Mocha,Grande,0.02,No Whip,473 mL,400.0,11.0,7.0,0.2,30.0,240.0,60.0,0.0,58.0,14.0,0.15,0.02,0.45,0.0,150,Espresso
+White Chocolate Mocha,Grande,0.02,Whip,473 mL,470.0,18.0,12.0,0.4,55.0,250.0,62.0,0.0,59.0,14.0,0.25,0.02,0.45,0.0,150,Espresso
+White Chocolate Mocha,Grande,Whole,No Whip,473 mL,430.0,15.0,10.0,0.3,35.0,230.0,60.0,0.0,58.0,14.0,0.15,0.02,0.4,0.0,150,Espresso
+White Chocolate Mocha,Grande,Whole,Whip,473 mL,500.0,22.0,14.0,0.5,60.0,240.0,62.0,0.0,59.0,14.0,0.2,0.02,0.45,0.0,150,Espresso
+White Chocolate Mocha,Grande,Soy,No Whip,473 mL,360.0,10.0,5.0,0.0,5.0,210.0,55.0,1.0,51.0,12.0,0.1,0.02,0.45,0.15,150,Espresso
+White Chocolate Mocha,Grande,Soy,Whip,473 mL,430.0,17.0,10.0,0.2,30.0,220.0,57.0,1.0,52.0,13.0,0.2,0.02,0.45,0.15,150,Espresso
+White Chocolate Mocha,Grande,Coconut,No Whip,473 mL,350.0,12.0,11.0,0.0,5.0,230.0,56.0,0.0,54.0,5.0,0.0,0.02,0.1,0.0,150,Espresso
+White Chocolate Mocha,Grande,Coconut,Whip,473 mL,420.0,19.0,15.0,0.2,30.0,230.0,58.0,0.0,56.0,6.0,0.08,0.02,0.15,0.0,150,Espresso
+White Chocolate Mocha,Venti®,Nonfat,No Whip,591 mL,440.0,7.0,6.0,0.0,15.0,300.0,77.0,0.0,74.0,18.0,0.25,0.02,0.6,0.02,150,Espresso
+White Chocolate Mocha,Venti®,Nonfat,Whip,591 mL,510.0,14.0,10.0,0.2,40.0,300.0,79.0,0.0,76.0,19.0,0.3,0.02,0.6,0.02,150,Espresso
+White Chocolate Mocha,Venti®,0.02,No Whip,591 mL,500.0,15.0,10.0,0.2,35.0,320.0,76.0,0.0,74.0,18.0,0.2,0.04,0.6,0.0,150,Espresso
+White Chocolate Mocha,Venti®,0.02,Whip,591 mL,580.0,22.0,14.0,0.4,65.0,320.0,78.0,0.0,75.0,19.0,0.3,0.04,0.6,0.02,150,Espresso
+White Chocolate Mocha,Venti®,Whole,No Whip,591 mL,550.0,20.0,13.0,0.4,45.0,300.0,76.0,0.0,74.0,18.0,0.2,0.02,0.6,0.02,150,Espresso
+White Chocolate Mocha,Venti®,Whole,Whip,591 mL,620.0,27.0,17.0,0.5,70.0,310.0,78.0,0.0,75.0,18.0,0.25,0.02,0.6,0.02,150,Espresso
+White Chocolate Mocha,Venti®,Soy,No Whip,591 mL,460.0,13.0,6.0,0.0,5.0,270.0,69.0,1.0,64.0,16.0,0.15,0.02,0.6,0.2,150,Espresso
+White Chocolate Mocha,Venti®,Soy,Whip,591 mL,530.0,20.0,11.0,0.2,30.0,280.0,71.0,1.0,65.0,16.0,0.25,0.02,0.6,0.2,150,Espresso
+White Chocolate Mocha,Venti®,Coconut,No Whip,591 mL,450.0,16.0,14.0,0.0,5.0,290.0,71.0,0.0,68.0,6.0,0.0,0.02,0.15,0.0,150,Espresso
+White Chocolate Mocha,Venti®,Coconut,Whip,591 mL,520.0,23.0,18.0,0.2,30.0,300.0,73.0,0.0,70.0,7.0,0.08,0.02,0.15,0.0,150,Espresso
+Iced White Chocolate Mocha,Tall,Nonfat,No Whip,354 mL,230.0,4.5,3.5,0.0,5.0,135.0,41.0,0.0,40.0,8.0,0.08,0.02,0.25,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,Nonfat,Whip,354 mL,310.0,12.0,8.0,0.2,35.0,150.0,43.0,0.0,41.0,8.0,0.15,0.02,0.25,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,0.02,No Whip,354 mL,250.0,7.0,5.0,0.1,15.0,140.0,41.0,0.0,39.0,8.0,0.08,0.02,0.25,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,0.02,Whip,354 mL,330.0,15.0,10.0,0.3,45.0,150.0,43.0,0.0,41.0,8.0,0.15,0.02,0.25,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,Whole,No Whip,354 mL,270.0,9.0,6.0,0.1,15.0,140.0,41.0,0.0,39.0,7.0,0.06,0.02,0.25,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,Whole,Whip,354 mL,350.0,17.0,11.0,0.4,45.0,150.0,43.0,0.0,41.0,8.0,0.15,0.02,0.25,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,Soy,No Whip,354 mL,240.0,6.0,3.5,0.0,5.0,130.0,38.0,1.0,36.0,7.0,0.06,0.02,0.25,0.08,75,Espresso
+Iced White Chocolate Mocha,Tall,Soy,Whip,354 mL,320.0,14.0,9.0,0.2,35.0,140.0,41.0,1.0,38.0,7.0,0.15,0.02,0.25,0.08,75,Espresso
+Iced White Chocolate Mocha,Tall,Coconut,No Whip,354 mL,230.0,7.0,6.0,0.0,5.0,135.0,39.0,0.0,37.0,3.0,0.0,0.02,0.1,0.0,75,Espresso
+Iced White Chocolate Mocha,Tall,Coconut,Whip,354 mL,310.0,15.0,11.0,0.2,35.0,140.0,41.0,0.0,39.0,4.0,0.1,0.02,0.1,0.0,75,Espresso
+Iced White Chocolate Mocha,Grande,Nonfat,No Whip,473 mL,310.0,6.0,4.5,0.0,10.0,170.0,54.0,0.0,52.0,10.0,0.1,0.02,0.3,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,Nonfat,Whip,473 mL,420.0,17.0,12.0,0.3,50.0,190.0,58.0,0.0,55.0,11.0,0.25,0.02,0.35,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,0.02,No Whip,473 mL,330.0,9.0,6.0,0.1,20.0,180.0,54.0,0.0,52.0,10.0,0.1,0.02,0.3,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,0.02,Whip,473 mL,450.0,20.0,13.0,0.4,60.0,200.0,57.0,0.0,54.0,11.0,0.2,0.02,0.3,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,Whole,No Whip,473 mL,350.0,11.0,8.0,0.2,20.0,180.0,54.0,0.0,52.0,10.0,0.08,0.02,0.3,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,Whole,Whip,473 mL,470.0,22.0,15.0,0.5,65.0,190.0,57.0,0.0,54.0,10.0,0.2,0.02,0.3,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,Soy,No Whip,473 mL,320.0,8.0,5.0,0.0,5.0,170.0,51.0,1.0,48.0,9.0,0.06,0.02,0.3,0.1,150,Espresso
+Iced White Chocolate Mocha,Grande,Soy,Whip,473 mL,430.0,19.0,12.0,0.3,45.0,180.0,55.0,1.0,50.0,10.0,0.2,0.02,0.35,0.1,150,Espresso
+Iced White Chocolate Mocha,Grande,Coconut,No Whip,473 mL,310.0,9.0,8.0,0.0,5.0,170.0,52.0,0.0,49.0,5.0,0.0,0.02,0.1,0.0,150,Espresso
+Iced White Chocolate Mocha,Grande,Coconut,Whip,473 mL,420.0,20.0,15.0,0.3,45.0,180.0,55.0,0.0,52.0,5.0,0.15,0.02,0.15,0.0,150,Espresso
+Iced White Chocolate Mocha,Venti®,Nonfat,No Whip,709 mL,450.0,9.0,7.0,0.0,10.0,260.0,81.0,0.0,77.0,14.0,0.15,0.02,0.45,0.0,225,Espresso
+Iced White Chocolate Mocha,Venti®,Nonfat,Whip,709 mL,570.0,20.0,14.0,0.3,55.0,270.0,84.0,0.0,80.0,15.0,0.25,0.02,0.45,0.02,225,Espresso
+Iced White Chocolate Mocha,Venti®,0.02,No Whip,709 mL,490.0,13.0,9.0,0.1,25.0,270.0,80.0,0.0,77.0,14.0,0.15,0.04,0.45,0.0,225,Espresso
+Iced White Chocolate Mocha,Venti®,0.02,Whip,709 mL,600.0,24.0,16.0,0.5,65.0,280.0,84.0,0.0,79.0,15.0,0.25,0.04,0.45,0.0,225,Espresso
+Iced White Chocolate Mocha,Venti®,Whole,No Whip,709 mL,520.0,16.0,11.0,0.2,30.0,260.0,80.0,0.0,77.0,14.0,0.1,0.02,0.4,0.0,225,Espresso
+Iced White Chocolate Mocha,Venti®,Whole,Whip,709 mL,630.0,27.0,18.0,0.5,70.0,270.0,84.0,0.0,79.0,15.0,0.25,0.02,0.45,0.02,225,Espresso
+Iced White Chocolate Mocha,Venti®,Soy,No Whip,709 mL,470.0,12.0,7.0,0.0,10.0,250.0,77.0,1.0,71.0,13.0,0.1,0.02,0.45,0.1,225,Espresso
+Iced White Chocolate Mocha,Venti®,Soy,Whip,709 mL,580.0,23.0,14.0,0.3,50.0,260.0,80.0,1.0,74.0,14.0,0.2,0.02,0.45,0.1,225,Espresso
+Iced White Chocolate Mocha,Venti®,Coconut,No Whip,709 mL,450.0,13.0,12.0,0.0,10.0,250.0,77.0,0.0,73.0,7.0,0.0,0.02,0.2,0.0,225,Espresso
+Iced White Chocolate Mocha,Venti®,Coconut,Whip,709 mL,570.0,25.0,19.0,0.3,50.0,260.0,80.0,0.0,76.0,8.0,0.15,0.02,0.2,0.0,225,Espresso
+Iced Black Tea,Tall,,,354 mL,60.0,0.0,0.0,0.0,0.0,5.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,20-25,Tea
+Iced Black Tea,Grande,,,473 mL,80.0,0.0,0.0,0.0,0.0,10.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,25-30,Tea
+Iced Black Tea,Venti®,,,709 mL,120.0,0.0,0.0,0.0,0.0,15.0,30.0,0.0,30.0,0.0,0.0,0.0,0.02,0.0,40-45,Tea
+Iced Black Tea,Trenta,,,887 mL,140.0,0.0,0.0,0.0,0.0,20.0,35.0,0.0,34.0,0.0,0.0,0.0,0.02,0.0,50-55,Tea
+Iced Black Tea Lemonade,Tall,,,354 mL,90.0,0.0,0.0,0.0,0.0,5.0,24.0,0.0,24.0,0.1,0.0,0.1,0.0,0.0,20-25,Tea
+Iced Black Tea Lemonade,Grande,,,473 mL,120.0,0.0,0.0,0.0,0.0,5.0,32.0,0.0,32.0,0.1,0.0,0.15,0.0,0.0,25-30,Tea
+Iced Black Tea Lemonade,Venti®,,,709 mL,190.0,0.0,0.0,0.0,0.0,10.0,48.0,0.0,47.0,0.1,0.0,0.2,0.02,0.0,40-45,Tea
+Iced Black Tea Lemonade,Trenta,,,887 mL,220.0,0.0,0.0,0.0,0.0,10.0,58.0,0.0,57.0,0.1,0.0,0.25,0.02,0.0,50-55,Tea
+Chai Tea Latte,Short,Nonfat,,236 mL,100.0,0.1,0.1,0.0,0.0,50.0,22.0,0.0,21.0,4.0,0.06,0.0,0.1,0.0,50,Tea
+Chai Tea Latte,Short,0.02,,236 mL,120.0,2.0,1.0,0.1,10.0,55.0,22.0,0.0,21.0,4.0,0.06,0.0,0.1,0.0,50,Tea
+Chai Tea Latte,Short,Whole,,236 mL,130.0,3.5,2.0,0.1,10.0,55.0,22.0,0.0,21.0,4.0,0.06,0.0,0.1,0.0,50,Tea
+Chai Tea Latte,Short,Soy,,236 mL,110.0,1.5,0.2,0.0,0.0,45.0,20.0,0.0,18.0,3.0,0.04,0.0,0.1,0.06,50,Tea
+Chai Tea Latte,Short,Coconut,,236 mL,100.0,2.5,2.5,0.0,0.0,50.0,21.0,0.0,19.0,1.0,0.0,0.0,0.0,0.0,50,Tea
+Chai Tea Latte,Tall,Nonfat,,354 mL,160.0,0.2,0.1,0.0,5.0,80.0,34.0,0.0,32.0,6.0,0.1,0.0,0.2,0.02,70,Tea
+Chai Tea Latte,Tall,0.02,,354 mL,190.0,3.5,1.5,0.1,15.0,90.0,34.0,0.0,32.0,6.0,0.1,0.0,0.2,0.02,70,Tea
+Chai Tea Latte,Tall,Whole,,354 mL,200.0,6.0,3.0,0.2,15.0,80.0,34.0,0.0,32.0,6.0,0.08,0.0,0.2,0.02,70,Tea
+Chai Tea Latte,Tall,Soy,,354 mL,160.0,2.5,0.3,0.0,0.0,70.0,31.0,1.0,28.0,5.0,0.06,0.0,0.2,0.1,70,Tea
+Chai Tea Latte,Tall,Coconut,,354 mL,160.0,3.5,3.5,0.0,0.0,75.0,31.0,0.0,29.0,1.0,0.0,0.0,0.0,0.02,70,Tea
+Chai Tea Latte,Grande,Nonfat,,473 mL,210.0,0.2,0.1,0.0,5.0,105.0,45.0,0.0,43.0,8.0,0.15,0.0,0.25,0.02,95,Tea
+Chai Tea Latte,Grande,0.02,,473 mL,240.0,4.5,2.0,0.1,20.0,115.0,45.0,0.0,42.0,8.0,0.1,0.0,0.25,0.02,95,Tea
+Chai Tea Latte,Grande,Whole,,473 mL,270.0,7.0,4.0,0.2,20.0,105.0,45.0,0.0,42.0,7.0,0.1,0.0,0.25,0.02,95,Tea
+Chai Tea Latte,Grande,Soy,,473 mL,220.0,3.5,0.4,0.0,0.0,90.0,41.0,1.0,37.0,6.0,0.08,0.0,0.25,0.1,95,Tea
+Chai Tea Latte,Grande,Coconut,,473 mL,210.0,4.5,4.5,0.0,0.0,95.0,41.0,0.0,39.0,1.0,0.0,0.0,0.0,0.02,95,Tea
+Chai Tea Latte,Venti®,Nonfat,,591 mL,260.0,0.3,0.2,0.0,5.0,135.0,57.0,0.0,54.0,10.0,0.15,0.0,0.35,0.02,120,Tea
+Chai Tea Latte,Venti®,0.02,,591 mL,310.0,6.0,3.0,0.2,25.0,150.0,56.0,0.0,53.0,10.0,0.15,0.02,0.3,0.02,120,Tea
+Chai Tea Latte,Venti®,Whole,,591 mL,340.0,9.0,5.0,0.3,30.0,135.0,56.0,0.0,53.0,10.0,0.15,0.0,0.3,0.02,120,Tea
+Chai Tea Latte,Venti®,Soy,,591 mL,280.0,4.5,0.5,0.0,0.0,115.0,51.0,1.0,46.0,8.0,0.1,0.0,0.3,0.15,120,Tea
+Chai Tea Latte,Venti®,Coconut,,591 mL,260.0,6.0,6.0,0.0,0.0,120.0,52.0,0.0,48.0,1.0,0.0,0.0,0.0,0.02,120,Tea
+Iced Chai Tea Latte,Tall,Nonfat,,354 mL,150.0,0.2,0.1,0.0,5.0,75.0,33.0,0.0,31.0,6.0,0.1,0.0,0.2,0.02,70,Tea
+Iced Chai Tea Latte,Tall,0.02,,354 mL,180.0,3.0,1.5,0.1,10.0,80.0,33.0,0.0,31.0,5.0,0.08,0.0,0.15,0.02,70,Tea
+Iced Chai Tea Latte,Tall,Whole,,354 mL,190.0,5.0,3.0,0.1,15.0,75.0,33.0,0.0,31.0,5.0,0.08,0.0,0.15,0.02,70,Tea
+Iced Chai Tea Latte,Tall,Soy,,354 mL,160.0,2.5,0.3,0.0,0.0,70.0,30.0,1.0,27.0,5.0,0.06,0.0,0.2,0.08,70,Tea
+Iced Chai Tea Latte,Tall,Coconut,,354 mL,150.0,3.5,3.0,0.0,0.0,70.0,31.0,0.0,29.0,1.0,0.0,0.0,0.0,0.02,70,Tea
+Iced Chai Tea Latte,Grande,Nonfat,,473 mL,200.0,0.2,0.1,0.0,5.0,100.0,44.0,0.0,42.0,8.0,0.15,0.0,0.25,0.02,95,Tea
+Iced Chai Tea Latte,Grande,0.02,,473 mL,240.0,4.0,2.0,0.1,15.0,110.0,44.0,0.0,42.0,7.0,0.1,0.0,0.25,0.02,95,Tea
+Iced Chai Tea Latte,Grande,Whole,,473 mL,260.0,7.0,4.0,0.2,20.0,105.0,44.0,0.0,42.0,7.0,0.1,0.0,0.2,0.02,95,Tea
+Iced Chai Tea Latte,Grande,Soy,,473 mL,220.0,3.5,0.4,0.0,0.0,90.0,41.0,1.0,37.0,6.0,0.08,0.0,0.25,0.1,95,Tea
+Iced Chai Tea Latte,Grande,Coconut,,473 mL,200.0,4.5,4.5,0.0,0.0,95.0,41.0,0.0,38.0,1.0,0.0,0.0,0.0,0.02,95,Tea
+Iced Chai Tea Latte,Venti®,Nonfat,,709 mL,300.0,0.3,0.2,0.0,5.0,140.0,65.0,0.0,62.0,11.0,0.2,0.0,0.35,0.02,145,Tea
+Iced Chai Tea Latte,Venti®,0.02,,709 mL,350.0,6.0,3.0,0.2,25.0,160.0,65.0,0.0,61.0,10.0,0.15,0.02,0.35,0.02,145,Tea
+Iced Chai Tea Latte,Venti®,Whole,,709 mL,380.0,9.0,5.0,0.3,30.0,140.0,65.0,0.0,61.0,10.0,0.15,0.0,0.3,0.02,145,Tea
+Iced Chai Tea Latte,Venti®,Soy,,709 mL,320.0,4.5,0.5,0.0,0.0,130.0,60.0,1.0,55.0,9.0,0.1,0.0,0.35,0.15,145,Tea
+Iced Chai Tea Latte,Venti®,Coconut,,709 mL,300.0,6.0,6.0,0.0,0.0,135.0,61.0,0.0,57.0,1.0,0.0,0.0,0.02,0.02,145,Tea
+Earl Grey Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+Earl Grey Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+Earl Grey Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+Earl Grey Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+Emperor's Clouds and Mist Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1--15,Tea
+Emperor's Clouds and Mist Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1--15,Tea
+Emperor's Clouds and Mist Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Emperor's Clouds and Mist Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+English Breakfast Black Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Tea Latte,Short,Nonfat,,236 mL,80.0,0.1,0.1,0.0,0.0,50.0,15.0,0.0,15.0,4.0,0.06,0.0,0.15,0.0,40+,Tea
+English Breakfast Black Tea Latte,Short,0.02,,236 mL,100.0,2.0,1.5,0.1,10.0,55.0,15.0,0.0,15.0,4.0,0.06,0.0,0.1,0.0,40+,Tea
+English Breakfast Black Tea Latte,Short,Whole,,236 mL,110.0,3.5,2.0,0.1,10.0,50.0,15.0,0.0,15.0,4.0,0.06,0.0,0.1,0.0,40+,Tea
+English Breakfast Black Tea Latte,Short,Soy,,236 mL,80.0,1.5,0.2,0.0,0.0,40.0,13.0,0.0,12.0,3.0,0.04,0.0,0.1,0.06,40+,Tea
+English Breakfast Black Tea Latte,Short,Coconut,,236 mL,80.0,2.5,2.5,0.0,0.0,45.0,14.0,0.0,13.0,0.2,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Tea Latte,Tall,Nonfat,,354 mL,110.0,0.1,0.1,0.0,5.0,70.0,23.0,0.0,23.0,5.0,0.1,0.0,0.2,0.0,40+,Tea
+English Breakfast Black Tea Latte,Tall,0.02,,354 mL,140.0,3.0,2.0,0.1,15.0,80.0,23.0,0.0,23.0,5.0,0.08,0.0,0.2,0.0,40+,Tea
+English Breakfast Black Tea Latte,Tall,Whole,,354 mL,160.0,5.0,3.0,0.2,15.0,75.0,23.0,0.0,23.0,5.0,0.08,0.0,0.15,0.0,40+,Tea
+English Breakfast Black Tea Latte,Tall,Soy,,354 mL,120.0,2.5,0.3,0.0,0.0,60.0,20.0,1.0,18.0,4.0,0.06,0.0,0.2,0.08,40+,Tea
+English Breakfast Black Tea Latte,Tall,Coconut,,354 mL,120.0,3.5,3.5,0.0,0.0,70.0,20.0,0.0,20.0,0.4,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Tea Latte,Grande,Nonfat,,473 mL,150.0,0.2,0.1,0.0,5.0,95.0,30.0,0.0,30.0,7.0,0.15,0.0,0.25,0.0,40+,Tea
+English Breakfast Black Tea Latte,Grande,0.02,,473 mL,180.0,4.0,2.5,0.2,15.0,105.0,30.0,0.0,30.0,7.0,0.1,0.0,0.25,0.0,40+,Tea
+English Breakfast Black Tea Latte,Grande,Whole,,473 mL,210.0,7.0,4.0,0.2,20.0,95.0,30.0,0.0,30.0,7.0,0.1,0.0,0.2,0.0,40+,Tea
+English Breakfast Black Tea Latte,Grande,Soy,,473 mL,160.0,3.0,0.4,0.0,0.0,80.0,26.0,1.0,24.0,6.0,0.08,0.0,0.25,0.1,40+,Tea
+English Breakfast Black Tea Latte,Grande,Coconut,,473 mL,150.0,4.5,4.5,0.0,0.0,90.0,27.0,0.0,26.0,0.5,0.0,0.0,0.0,0.0,40+,Tea
+English Breakfast Black Tea Latte,Venti®,Nonfat,,591 mL,190.0,0.2,0.1,0.0,5.0,120.0,38.0,0.0,38.0,9.0,0.15,0.0,0.3,0.0,40+,Tea
+English Breakfast Black Tea Latte,Venti®,0.02,,591 mL,230.0,5.0,3.5,0.2,20.0,135.0,38.0,0.0,38.0,9.0,0.15,0.0,0.3,0.0,40+,Tea
+English Breakfast Black Tea Latte,Venti®,Whole,,591 mL,260.0,9.0,5.0,0.3,25.0,125.0,38.0,0.0,38.0,8.0,0.15,0.0,0.3,0.0,40+,Tea
+English Breakfast Black Tea Latte,Venti®,Soy,,591 mL,200.0,4.0,0.5,0.0,0.0,105.0,33.0,1.0,31.0,7.0,0.1,0.0,0.3,0.15,40+,Tea
+English Breakfast Black Tea Latte,Venti®,Coconut,,591 mL,190.0,6.0,6.0,0.0,0.0,115.0,34.0,0.0,33.0,1.0,0.0,0.0,0.0,0.0,40+,Tea
+Green Tea Latte,Short,Nonfat,,236 mL,80.0,0.2,0.1,0.0,5.0,70.0,14.0,0.0,14.0,6.0,0.1,0.04,0.2,0.02,30,Tea
+Green Tea Latte,Short,0.02,,236 mL,110.0,3.5,2.0,0.1,15.0,80.0,14.0,0.0,14.0,6.0,0.1,0.06,0.2,0.02,30,Tea
+Green Tea Latte,Short,Whole,,236 mL,130.0,6.0,3.0,0.2,15.0,75.0,14.0,0.0,14.0,6.0,0.08,0.04,0.2,0.02,30,Tea
+Green Tea Latte,Short,Soy,,236 mL,90.0,3.0,0.4,0.0,0.0,65.0,11.0,1.0,9.0,5.0,0.08,0.04,0.2,0.1,30,Tea
+Green Tea Latte,Short,Coconut,,236 mL,80.0,3.5,3.5,0.0,0.0,65.0,11.0,0.0,11.0,1.0,0.0,0.04,0.0,0.02,30,Tea
+Green Tea Latte,Tall,Nonfat,,354 mL,140.0,0.3,0.2,0.0,5.0,115.0,25.0,1.0,24.0,10.0,0.2,0.1,0.3,0.04,55,Tea
+Green Tea Latte,Tall,0.02,,354 mL,190.0,5.0,3.5,0.2,20.0,125.0,25.0,1.0,24.0,10.0,0.15,0.1,0.3,0.02,55,Tea
+Green Tea Latte,Tall,Whole,,354 mL,220.0,9.0,5.0,0.3,25.0,115.0,25.0,1.0,24.0,9.0,0.15,0.1,0.3,0.04,55,Tea
+Green Tea Latte,Tall,Soy,,354 mL,160.0,4.5,0.5,0.0,0.0,105.0,20.0,2.0,17.0,8.0,0.1,0.1,0.3,0.15,55,Tea
+Green Tea Latte,Tall,Coconut,,354 mL,140.0,6.0,6.0,0.0,0.0,105.0,21.0,1.0,19.0,1.0,0.02,0.1,0.0,0.02,55,Tea
+Green Tea Latte,Grande,Nonfat,,473 mL,190.0,0.4,0.2,0.0,5.0,140.0,34.0,1.0,33.0,12.0,0.2,0.15,0.4,0.04,80,Tea
+Green Tea Latte,Grande,0.02,,473 mL,240.0,7.0,4.5,0.3,25.0,160.0,34.0,1.0,32.0,12.0,0.2,0.15,0.4,0.04,80,Tea
+Green Tea Latte,Grande,Whole,,473 mL,280.0,11.0,6.0,0.3,35.0,150.0,34.0,1.0,32.0,12.0,0.2,0.15,0.35,0.04,80,Tea
+Green Tea Latte,Grande,Soy,,473 mL,210.0,6.0,0.5,0.0,0.0,130.0,28.0,3.0,24.0,10.0,0.15,0.15,0.4,0.2,80,Tea
+Green Tea Latte,Grande,Coconut,,473 mL,190.0,8.0,7.0,0.0,0.0,135.0,29.0,1.0,27.0,2.0,0.02,0.15,0.02,0.04,80,Tea
+Green Tea Latte,Venti®,Nonfat,,591 mL,250.0,0.5,0.3,0.0,10.0,190.0,45.0,2.0,44.0,16.0,0.3,0.2,0.5,0.06,110,Tea
+Green Tea Latte,Venti®,0.02,,591 mL,320.0,9.0,6.0,0.4,35.0,210.0,45.0,2.0,43.0,16.0,0.25,0.2,0.5,0.06,110,Tea
+Green Tea Latte,Venti®,Whole,,591 mL,370.0,15.0,8.0,0.4,45.0,190.0,45.0,2.0,43.0,15.0,0.25,0.2,0.45,0.06,110,Tea
+Green Tea Latte,Venti®,Soy,,591 mL,280.0,7.0,1.0,0.0,0.0,170.0,38.0,3.0,32.0,14.0,0.2,0.2,0.5,0.3,110,Tea
+Green Tea Latte,Venti®,Coconut,,591 mL,250.0,10.0,9.0,0.0,0.0,180.0,38.0,2.0,36.0,2.0,0.02,0.2,0.02,0.06,110,Tea
+Iced Green Tea Latte,Tall,Nonfat,,354 mL,120.0,0.3,0.1,0.0,5.0,95.0,22.0,1.0,21.0,8.0,0.15,0.1,0.25,0.04,55,Tea
+Iced Green Tea Latte,Tall,0.02,,354 mL,160.0,4.5,2.5,0.2,15.0,105.0,22.0,1.0,21.0,8.0,0.15,0.1,0.25,0.02,55,Tea
+Iced Green Tea Latte,Tall,Whole,,354 mL,180.0,7.0,4.0,0.2,20.0,95.0,22.0,1.0,21.0,7.0,0.1,0.1,0.25,0.04,55,Tea
+Iced Green Tea Latte,Tall,Soy,,354 mL,140.0,3.5,0.5,0.0,0.0,85.0,18.0,2.0,16.0,7.0,0.1,0.1,0.25,0.15,55,Tea
+Iced Green Tea Latte,Tall,Coconut,,354 mL,120.0,4.5,4.5,0.0,0.0,90.0,19.0,1.0,18.0,1.0,0.02,0.1,0.02,0.02,55,Tea
+Iced Green Tea Latte,Grande,Nonfat,,473 mL,170.0,0.4,0.2,0.0,5.0,130.0,32.0,1.0,31.0,11.0,0.2,0.15,0.35,0.04,80,Tea
+Iced Green Tea Latte,Grande,0.02,,473 mL,220.0,6.0,3.5,0.2,25.0,140.0,31.0,1.0,30.0,11.0,0.2,0.15,0.35,0.04,80,Tea
+Iced Green Tea Latte,Grande,Whole,,473 mL,250.0,10.0,5.0,0.3,30.0,130.0,31.0,1.0,30.0,10.0,0.15,0.15,0.3,0.04,80,Tea
+Iced Green Tea Latte,Grande,Soy,,473 mL,190.0,5.0,0.5,0.0,0.0,115.0,27.0,2.0,23.0,9.0,0.15,0.15,0.35,0.2,80,Tea
+Iced Green Tea Latte,Grande,Coconut,,473 mL,170.0,7.0,6.0,0.0,0.0,120.0,27.0,1.0,25.0,2.0,0.02,0.15,0.02,0.04,80,Tea
+Iced Green Tea Latte,Venti®,Nonfat,,709 mL,240.0,0.5,0.3,0.0,10.0,180.0,44.0,2.0,42.0,15.0,0.25,0.2,0.5,0.06,110,Tea
+Iced Green Tea Latte,Venti®,0.02,,709 mL,310.0,8.0,5.0,0.4,35.0,200.0,43.0,2.0,41.0,15.0,0.25,0.2,0.45,0.06,110,Tea
+Iced Green Tea Latte,Venti®,Whole,,709 mL,350.0,14.0,8.0,0.4,40.0,190.0,43.0,2.0,41.0,14.0,0.2,0.2,0.45,0.06,110,Tea
+Iced Green Tea Latte,Venti®,Soy,,709 mL,270.0,7.0,1.0,0.0,0.0,170.0,37.0,3.0,32.0,13.0,0.2,0.2,0.5,0.25,110,Tea
+Iced Green Tea Latte,Venti®,Coconut,,709 mL,240.0,9.0,9.0,0.0,0.0,170.0,37.0,2.0,35.0,2.0,0.02,0.2,0.02,0.06,110,Tea
+Iced Green Tea,Tall,,,354 mL,60.0,0.0,0.0,0.0,0.0,5.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,20-25,Tea
+Iced Green Tea,Grande,,,473 mL,80.0,0.0,0.0,0.0,0.0,10.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,25-30,Tea
+Iced Green Tea,Venti®,,,709 mL,120.0,0.0,0.0,0.0,0.0,15.0,30.0,0.0,30.0,0.0,0.0,0.0,0.02,0.0,40-45,Tea
+Iced Green Tea,Trenta,,,887 mL,140.0,0.0,0.0,0.0,0.0,20.0,35.0,0.0,34.0,0.0,0.0,0.0,0.02,0.0,50-55,Tea
+Iced Green Tea Lemonade,Tall,,,354 mL,90.0,0.0,0.0,0.0,0.0,5.0,24.0,0.0,24.0,0.1,0.0,0.1,0.0,0.0,20-25,Tea
+Iced Green Tea Lemonade,Grande,,,473 mL,120.0,0.0,0.0,0.0,0.0,5.0,32.0,0.0,32.0,0.1,0.0,0.15,0.0,0.0,25-30,Tea
+Iced Green Tea Lemonade,Venti®,,,709 mL,190.0,0.0,0.0,0.0,0.0,10.0,48.0,0.0,47.0,0.1,0.0,0.2,0.02,0.0,40-45,Tea
+Iced Green Tea Lemonade,Trenta,,,887 mL,220.0,0.0,0.0,0.0,0.0,10.0,58.0,0.0,57.0,0.1,0.0,0.25,0.02,0.0,50-55,Tea
+Jade Citrus Mint Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Jade Citrus Mint Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Jade Citrus Mint Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+Jade Citrus Mint Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,40+,Tea
+London Fog Tea Latte,Short,Nonfat,,236 mL,80.0,0.1,0.1,0.0,0.0,50.0,15.0,0.0,15.0,4.0,0.06,0.0,0.15,0.0,40+,Tea
+London Fog Tea Latte,Short,0.02,,236 mL,100.0,2.0,1.5,0.1,10.0,55.0,15.0,0.0,15.0,4.0,0.06,0.0,0.1,0.0,40+,Tea
+London Fog Tea Latte,Short,Whole,,236 mL,110.0,3.5,2.0,0.1,10.0,50.0,15.0,0.0,15.0,4.0,0.06,0.0,0.1,0.0,40+,Tea
+London Fog Tea Latte,Short,Soy,,236 mL,80.0,1.5,0.2,0.0,0.0,40.0,13.0,0.0,12.0,3.0,0.04,0.0,0.1,0.06,40+,Tea
+London Fog Tea Latte,Short,Coconut,,236 mL,80.0,2.5,2.5,0.0,0.0,45.0,14.0,0.0,13.0,0.2,0.0,0.0,0.0,0.0,40+,Tea
+London Fog Tea Latte,Tall,Nonfat,,354 mL,110.0,0.1,0.1,0.0,5.0,70.0,23.0,0.0,23.0,5.0,0.1,0.0,0.2,0.0,40+,Tea
+London Fog Tea Latte,Tall,0.02,,354 mL,140.0,3.0,2.0,0.1,15.0,80.0,23.0,0.0,23.0,5.0,0.08,0.0,0.2,0.0,40+,Tea
+London Fog Tea Latte,Tall,Whole,,354 mL,160.0,5.0,3.0,0.2,15.0,75.0,23.0,0.0,23.0,5.0,0.08,0.0,0.15,0.0,40+,Tea
+London Fog Tea Latte,Tall,Soy,,354 mL,120.0,2.5,0.3,0.0,0.0,60.0,20.0,1.0,18.0,4.0,0.06,0.0,0.2,0.08,40+,Tea
+London Fog Tea Latte,Tall,Coconut,,354 mL,120.0,3.5,3.5,0.0,0.0,70.0,20.0,0.0,20.0,0.4,0.0,0.0,0.0,0.0,40+,Tea
+London Fog Tea Latte,Grande,Nonfat,,473 mL,150.0,0.2,0.1,0.0,5.0,95.0,30.0,0.0,30.0,7.0,0.15,0.0,0.25,0.0,40+,Tea
+London Fog Tea Latte,Grande,0.02,,473 mL,180.0,4.0,2.5,0.2,15.0,105.0,30.0,0.0,30.0,7.0,0.1,0.0,0.25,0.0,40+,Tea
+London Fog Tea Latte,Grande,Whole,,473 mL,210.0,7.0,4.0,0.2,20.0,95.0,30.0,0.0,30.0,7.0,0.1,0.0,0.2,0.0,40+,Tea
+London Fog Tea Latte,Grande,Soy,,473 mL,160.0,3.0,0.4,0.0,0.0,80.0,26.0,1.0,24.0,6.0,0.08,0.0,0.25,0.1,40+,Tea
+London Fog Tea Latte,Grande,Coconut,,473 mL,150.0,4.5,4.5,0.0,0.0,90.0,27.0,0.0,26.0,0.5,0.0,0.0,0.0,0.0,40+,Tea
+London Fog Tea Latte,Venti®,Nonfat,,591 mL,190.0,0.2,0.1,0.0,5.0,120.0,38.0,0.0,38.0,9.0,0.15,0.0,0.3,0.0,40+,Tea
+London Fog Tea Latte,Venti®,0.02,,591 mL,230.0,5.0,3.5,0.2,20.0,135.0,38.0,0.0,38.0,9.0,0.15,0.0,0.3,0.0,40+,Tea
+London Fog Tea Latte,Venti®,Whole,,591 mL,260.0,9.0,5.0,0.3,25.0,125.0,38.0,0.0,38.0,8.0,0.15,0.0,0.3,0.0,40+,Tea
+London Fog Tea Latte,Venti®,Soy,,591 mL,200.0,4.0,0.5,0.0,0.0,105.0,33.0,1.0,31.0,7.0,0.1,0.0,0.3,0.15,40+,Tea
+London Fog Tea Latte,Venti®,Coconut,,591 mL,190.0,6.0,6.0,0.0,0.0,115.0,34.0,0.0,33.0,1.0,0.0,0.0,0.0,0.0,40+,Tea
+Iced Mango Black Tea,Tall,,,354 mL,60.0,0.1,0.0,0.0,0.0,10.0,14.0,0.0,14.0,0.0,0.0,0.0,0.0,0.0,20-25,Tea
+Iced Mango Black Tea,Grande,,,473 mL,80.0,0.2,0.0,0.0,0.0,10.0,19.0,0.0,19.0,0.0,0.0,0.0,0.0,0.0,25-30,Tea
+Iced Mango Black Tea,Venti®,,,709 mL,120.0,0.3,0.0,0.0,0.0,15.0,29.0,0.0,28.0,0.0,0.0,0.0,0.02,0.0,40-45,Tea
+Iced Mango Black Tea,Trenta,,,887 mL,140.0,0.3,0.0,0.0,0.0,20.0,34.0,0.0,33.0,0.0,0.0,0.0,0.02,0.0,50-55,Tea
+Iced Mango Black Tea Lemonade,Tall,,,354 mL,90.0,0.1,0.0,0.0,0.0,5.0,24.0,0.0,23.0,0.1,0.0,0.1,0.0,0.0,20-25,Tea
+Iced Mango Black Tea Lemonade,Grande,,,473 mL,120.0,0.2,0.0,0.0,0.0,10.0,31.0,0.0,31.0,0.1,0.0,0.15,0.0,0.0,25-30,Tea
+Iced Mango Black Tea Lemonade,Venti®,,,709 mL,190.0,0.3,0.0,0.0,0.0,10.0,47.0,0.0,46.0,0.1,0.0,0.2,0.02,0.0,40-45,Tea
+Iced Mango Black Tea Lemonade,Trenta,,,887 mL,230.0,0.3,0.0,0.0,0.0,15.0,58.0,0.0,57.0,0.1,0.0,0.25,0.02,0.0,50-55,Tea
+Mint Majesty Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Mint Majesty Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Mint Majesty Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Mint Majesty Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Oprah Chai Herbal Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Oprah Chai Herbal Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Oprah Chai Herbal Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Oprah Chai Herbal Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Oprah Cinnamon Chai Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1--15,Tea
+Oprah Cinnamon Chai Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1--15,Tea
+Oprah Cinnamon Chai Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Oprah Cinnamon Chai Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Oprah Cinnamon Chai Latte,Short,Nonfat,,236 mL,80.0,0.1,0.1,0.0,0.0,45.0,17.0,0.0,16.0,4.0,0.06,0.0,0.1,0.0,25,Tea
+Oprah Cinnamon Chai Latte,Short,0.02,,236 mL,100.0,2.0,1.5,0.1,10.0,50.0,16.0,0.0,15.0,3.0,0.06,0.0,0.1,0.0,25,Tea
+Oprah Cinnamon Chai Latte,Short,Whole,,236 mL,110.0,3.5,2.0,0.1,10.0,50.0,16.0,0.0,15.0,3.0,0.04,0.0,0.1,0.0,25,Tea
+Oprah Cinnamon Chai Latte,Short,Soy,,236 mL,90.0,1.5,0.2,0.0,0.0,40.0,15.0,0.0,13.0,3.0,0.04,0.0,0.1,0.06,25,Tea
+Oprah Cinnamon Chai Latte,Short,Coconut,,236 mL,80.0,2.5,2.5,0.0,0.0,45.0,15.0,0.0,14.0,0.2,0.0,0.0,0.0,0.0,25,Tea
+Oprah Cinnamon Chai Latte,Tall,Nonfat,,354 mL,130.0,0.1,0.1,0.0,5.0,70.0,25.0,0.0,23.0,5.0,0.1,0.0,0.2,0.0,40,Tea
+Oprah Cinnamon Chai Latte,Tall,0.02,,354 mL,150.0,3.0,2.0,0.1,15.0,80.0,25.0,0.0,23.0,5.0,0.08,0.0,0.2,0.0,40,Tea
+Oprah Cinnamon Chai Latte,Tall,Whole,,354 mL,170.0,5.0,3.0,0.2,15.0,70.0,25.0,0.0,23.0,5.0,0.08,0.0,0.15,0.0,40,Tea
+Oprah Cinnamon Chai Latte,Tall,Soy,,354 mL,130.0,2.5,0.3,0.0,0.0,60.0,22.0,1.0,19.0,4.0,0.06,0.0,0.2,0.08,40,Tea
+Oprah Cinnamon Chai Latte,Tall,Coconut,,354 mL,130.0,3.5,3.5,0.0,0.0,70.0,22.0,0.0,21.0,0.4,0.0,0.0,0.0,0.0,40,Tea
+Oprah Cinnamon Chai Latte,Grande,Nonfat,,473 mL,170.0,0.2,0.1,0.0,5.0,90.0,33.0,0.0,31.0,7.0,0.15,0.0,0.25,0.0,50,Tea
+Oprah Cinnamon Chai Latte,Grande,0.02,,473 mL,200.0,4.0,2.5,0.2,15.0,100.0,33.0,0.0,31.0,7.0,0.1,0.0,0.25,0.0,50,Tea
+Oprah Cinnamon Chai Latte,Grande,Whole,,473 mL,220.0,7.0,4.0,0.2,20.0,95.0,33.0,0.0,31.0,7.0,0.1,0.0,0.2,0.02,50,Tea
+Oprah Cinnamon Chai Latte,Grande,Soy,,473 mL,170.0,3.0,0.4,0.0,0.0,80.0,29.0,1.0,25.0,6.0,0.08,0.0,0.25,0.1,50,Tea
+Oprah Cinnamon Chai Latte,Grande,Coconut,,473 mL,170.0,4.5,4.5,0.0,0.0,90.0,30.0,0.0,28.0,0.5,0.0,0.0,0.0,0.0,50,Tea
+Oprah Cinnamon Chai Latte,Venti®,Nonfat,,591 mL,210.0,0.2,0.1,0.0,5.0,115.0,41.0,0.0,39.0,9.0,0.15,0.0,0.3,0.0,65,Tea
+Oprah Cinnamon Chai Latte,Venti®,0.02,,591 mL,250.0,5.0,3.5,0.2,20.0,130.0,41.0,0.0,38.0,9.0,0.15,0.0,0.3,0.0,65,Tea
+Oprah Cinnamon Chai Latte,Venti®,Whole,,591 mL,280.0,9.0,5.0,0.3,25.0,120.0,41.0,0.0,38.0,8.0,0.1,0.0,0.25,0.0,65,Tea
+Oprah Cinnamon Chai Latte,Venti®,Soy,,591 mL,220.0,4.0,0.5,0.0,0.0,100.0,36.0,1.0,32.0,7.0,0.1,0.0,0.3,0.15,65,Tea
+Oprah Cinnamon Chai Latte,Venti®,Coconut,,591 mL,210.0,6.0,6.0,0.0,0.0,115.0,37.0,0.0,34.0,1.0,0.0,0.0,0.0,0.0,65,Tea
+Iced Oprah Cinnamon Chai Latte,Tall,Nonfat,,354 mL,120.0,0.1,0.1,0.0,5.0,70.0,24.0,0.0,23.0,5.0,0.1,0.0,0.15,0.0,40,Tea
+Iced Oprah Cinnamon Chai Latte,Tall,0.02,,354 mL,150.0,3.0,2.0,0.1,10.0,75.0,24.0,0.0,23.0,5.0,0.08,0.0,0.15,0.0,40,Tea
+Iced Oprah Cinnamon Chai Latte,Tall,Whole,,354 mL,160.0,5.0,3.0,0.1,15.0,70.0,24.0,0.0,23.0,5.0,0.08,0.0,0.15,0.0,40,Tea
+Iced Oprah Cinnamon Chai Latte,Tall,Soy,,354 mL,130.0,2.5,0.3,0.0,0.0,65.0,22.0,1.0,19.0,4.0,0.06,0.0,0.2,0.08,40,Tea
+Iced Oprah Cinnamon Chai Latte,Tall,Coconut,,354 mL,120.0,3.5,3.0,0.0,0.0,65.0,22.0,0.0,20.0,0.3,0.0,0.0,0.0,0.0,40,Tea
+Iced Oprah Cinnamon Chai Latte,Grande,Nonfat,,473 mL,170.0,0.2,0.1,0.0,5.0,95.0,33.0,0.0,31.0,7.0,0.15,0.0,0.25,0.0,50,Tea
+Iced Oprah Cinnamon Chai Latte,Grande,0.02,,473 mL,200.0,4.0,2.5,0.2,15.0,105.0,33.0,0.0,31.0,7.0,0.1,0.0,0.25,0.0,50,Tea
+Iced Oprah Cinnamon Chai Latte,Grande,Whole,,473 mL,220.0,7.0,4.0,0.2,20.0,95.0,33.0,0.0,31.0,7.0,0.1,0.0,0.2,0.0,50,Tea
+Iced Oprah Cinnamon Chai Latte,Grande,Soy,,473 mL,180.0,3.5,0.4,0.0,0.0,85.0,29.0,1.0,26.0,6.0,0.08,0.0,0.25,0.1,50,Tea
+Iced Oprah Cinnamon Chai Latte,Grande,Coconut,,473 mL,170.0,4.5,4.5,0.0,0.0,90.0,30.0,0.0,27.0,0.5,0.0,0.0,0.0,0.0,50,Tea
+Iced Oprah Cinnamon Chai Latte,Venti®,Nonfat,,709 mL,240.0,0.2,0.2,0.0,5.0,130.0,48.0,0.0,45.0,10.0,0.2,0.0,0.35,0.0,75,Tea
+Iced Oprah Cinnamon Chai Latte,Venti®,0.02,,709 mL,290.0,6.0,3.5,0.2,25.0,150.0,48.0,0.0,45.0,10.0,0.15,0.0,0.3,0.0,75,Tea
+Iced Oprah Cinnamon Chai Latte,Venti®,Whole,,709 mL,320.0,9.0,5.0,0.3,30.0,135.0,48.0,0.0,45.0,9.0,0.15,0.0,0.3,0.0,75,Tea
+Iced Oprah Cinnamon Chai Latte,Venti®,Soy,,709 mL,260.0,4.5,0.5,0.0,0.0,120.0,43.0,1.0,38.0,8.0,0.1,0.0,0.35,0.15,75,Tea
+Iced Oprah Cinnamon Chai Latte,Venti®,Coconut,,709 mL,240.0,6.0,6.0,0.0,0.0,125.0,44.0,0.0,40.0,1.0,0.0,0.0,0.0,0.0,75,Tea
+Passion Tango Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Passion Tango Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Passion Tango Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Passion Tango Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Iced Passion Tango tea,Tall,,,354 mL,60.0,0.0,0.0,0.0,0.0,5.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Iced Passion Tango tea,Grande,,,473 mL,80.0,0.0,0.0,0.0,0.0,10.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Iced Passion Tango tea,Venti®,,,709 mL,120.0,0.0,0.0,0.0,0.0,15.0,30.0,0.0,30.0,0.0,0.0,0.0,0.02,0.0,0,Tea
+Iced Passion Tango tea,Trenta,,,887 mL,140.0,0.0,0.0,0.0,0.0,20.0,35.0,0.0,34.0,0.0,0.0,0.0,0.02,0.0,0,Tea
+Iced Passion Tango Tea Lemonade,Tall,,,354 mL,90.0,0.0,0.0,0.0,0.0,5.0,24.0,0.0,24.0,0.1,0.0,0.1,0.0,0.0,0,Tea
+Iced Passion Tango Tea Lemonade,Grande,,,473 mL,120.0,0.0,0.0,0.0,0.0,5.0,32.0,0.0,32.0,0.1,0.0,0.15,0.0,0.0,0,Tea
+Iced Passion Tango Tea Lemonade,Venti®,,,709 mL,190.0,0.0,0.0,0.0,0.0,10.0,48.0,0.0,47.0,0.1,0.0,0.2,0.02,0.0,0,Tea
+Iced Passion Tango Tea Lemonade,Trenta,,,887 mL,220.0,0.0,0.0,0.0,0.0,10.0,58.0,0.0,57.0,0.1,0.0,0.25,0.02,0.0,0,Tea
+Peach Iced Green Tea,Tall,,,354 mL,60.0,0.1,0.0,0.0,0.0,0.0,15.0,0.0,15.0,0.0,0.0,0.0,0.0,0.0,20-25,Tea
+Peach Iced Green Tea,Grande,,,473 mL,80.0,0.2,0.0,0.0,0.0,0.0,20.0,0.0,20.0,0.0,0.0,0.0,0.0,0.0,25-30,Tea
+Peach Iced Green Tea,Venti®,,,709 mL,130.0,0.3,0.0,0.0,0.0,2.0,31.0,0.0,30.0,0.0,0.0,0.0,0.0,0.0,40-45,Tea
+Peach Iced Green Tea,Trenta,,,887 mL,150.0,0.3,0.0,0.0,0.0,2.0,36.0,0.0,35.0,0.0,0.0,0.0,0.0,0.0,50-55,Tea
+Peach Iced Green Tea Lemonade,Tall,,,354 mL,100.0,0.1,0.0,0.0,0.0,0.0,25.0,0.0,24.0,0.1,0.0,0.1,0.0,0.0,20-25,Tea
+Peach Iced Green Tea Lemonade,Grande,,,473 mL,130.0,0.2,0.0,0.0,0.0,1.0,33.0,0.0,32.0,0.1,0.0,0.15,0.0,0.0,25-30,Tea
+Peach Iced Green Tea Lemonade,Venti®,,,709 mL,190.0,0.3,0.0,0.0,0.0,2.0,49.0,0.0,48.0,0.1,0.0,0.2,0.0,0.0,40-45,Tea
+Peach Iced Green Tea Lemonade,Trenta,,,887 mL,240.0,0.3,0.0,0.0,0.0,2.0,60.0,0.0,59.0,0.1,0.0,0.25,0.0,0.0,50-55,Tea
+Peach Tranquility Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Peach Tranquility Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Peach Tranquility Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Peach Tranquility Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Tea
+Youthberry Brewed Tea,Short,,,236 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1--15,Tea
+Youthberry Brewed Tea,Tall,,,354 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1--15,Tea
+Youthberry Brewed Tea,Grande,,,473 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Youthberry Brewed Tea,Venti®,,,591 mL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,16-25,Tea
+Cool Lime Starbucks Refreshers™ Beverage,Tall,,,354 mL,60.0,0.0,0.0,0.0,0.0,2.0,14.0,0.0,14.0,0.1,0.0,0.9,0.0,0.0,35-45,Starbucks Refreshers
+Cool Lime Starbucks Refreshers™ Beverage,Grande,,,473 mL,70.0,0.0,0.0,0.0,0.0,2.0,19.0,0.0,18.0,0.1,0.0,1.2,0.0,0.0,45-55,Starbucks Refreshers
+Cool Lime Starbucks Refreshers™ Beverage,Venti®,,,709 mL,110.0,0.0,0.0,0.0,0.0,3.0,28.0,0.0,27.0,0.2,0.0,1.8,0.0,0.0,70-85,Starbucks Refreshers
+Cool Lime Starbucks Refreshers™ Beverage,Trenta,,,887 mL,150.0,0.0,0.0,0.0,0.0,4.0,37.0,0.0,36.0,0.3,0.0,2.4,0.0,0.0,90-110,Starbucks Refreshers
+Very Berry Hibiscus Starbucks Refreshers™ Beverage,Tall,,,354 mL,70.0,0.1,0.0,0.0,0.0,2.0,18.0,1.0,15.0,0.1,0.0,0.9,0.0,0.02,35-45,Starbucks Refreshers
+Very Berry Hibiscus Starbucks Refreshers™ Beverage,Grande,,,473 mL,90.0,0.1,0.0,0.0,0.0,3.0,22.0,1.0,20.0,0.1,0.0,1.1,0.0,0.02,45-55,Starbucks Refreshers
+Very Berry Hibiscus Starbucks Refreshers™ Beverage,Venti®,,,709 mL,130.0,0.1,0.0,0.0,0.0,4.0,32.0,1.0,29.0,0.2,0.0,1.7,0.02,0.02,70-85,Starbucks Refreshers
+Very Berry Hibiscus Starbucks Refreshers™ Beverage,Trenta,,,887 mL,180.0,0.2,0.0,0.0,0.0,5.0,44.0,3.0,40.0,0.3,0.0,2.3,0.02,0.02,90-110,Starbucks Refreshers
+Chocolate Smoothie,Grande,Nonfat,,473 mL,300.0,2.5,1.5,0.0,5.0,160.0,53.0,8.0,34.0,20.0,0.1,0.15,0.2,0.25,20,Smoothies
+Chocolate Smoothie,Grande,0.02,,473 mL,320.0,5.0,3.0,0.1,15.0,170.0,53.0,8.0,34.0,20.0,0.1,0.15,0.2,0.25,20,Smoothies
+Chocolate Smoothie,Grande,Whole,,473 mL,340.0,7.0,4.0,0.1,15.0,160.0,53.0,8.0,34.0,20.0,0.08,0.15,0.2,0.25,20,Smoothies
+Chocolate Smoothie,Grande,Soy,,473 mL,310.0,4.5,1.5,0.0,5.0,150.0,51.0,9.0,31.0,19.0,0.06,0.15,0.2,0.35,20,Smoothies
+Chocolate Smoothie,Grande,Coconut,,473 mL,290.0,5.0,4.0,0.0,5.0,150.0,51.0,8.0,32.0,15.0,0.0,0.15,0.04,0.25,20,Smoothies
+Orange Mango Smoothie,Grande,Nonfat,,473 mL,260.0,1.0,0.3,0.0,5.0,120.0,54.0,6.0,37.0,16.0,0.5,0.8,0.1,0.06,0,Smoothies
+Orange Mango Smoothie,Grande,0.02,,473 mL,270.0,1.5,0.5,0.0,5.0,125.0,53.0,6.0,37.0,16.0,0.5,0.8,0.1,0.06,0,Smoothies
+Orange Mango Smoothie,Grande,Whole,,473 mL,280.0,2.5,1.0,0.0,5.0,120.0,53.0,6.0,37.0,16.0,0.5,0.8,0.08,0.06,0,Smoothies
+Orange Mango Smoothie,Grande,Soy,,473 mL,270.0,1.5,0.4,0.0,5.0,120.0,53.0,6.0,36.0,15.0,0.5,0.8,0.1,0.08,0,Smoothies
+Orange Mango Smoothie,Grande,Coconut,,473 mL,260.0,1.5,1.0,0.0,5.0,120.0,53.0,6.0,36.0,14.0,0.45,0.8,0.04,0.06,0,Smoothies
+Strawberry Smoothie,Grande,Nonfat,,473 mL,290.0,1.0,0.3,0.0,5.0,125.0,60.0,7.0,41.0,16.0,0.04,0.35,0.1,0.1,0,Smoothies
+Strawberry Smoothie,Grande,0.02,,473 mL,300.0,2.0,1.0,0.0,5.0,130.0,60.0,7.0,41.0,16.0,0.04,0.35,0.1,0.1,0,Smoothies
+Strawberry Smoothie,Grande,Whole,,473 mL,300.0,2.5,1.0,0.0,10.0,125.0,60.0,7.0,41.0,15.0,0.04,0.35,0.1,0.1,0,Smoothies
+Strawberry Smoothie,Grande,Soy,,473 mL,290.0,1.5,0.4,0.0,5.0,125.0,59.0,7.0,40.0,15.0,0.02,0.35,0.1,0.15,0,Smoothies
+Strawberry Smoothie,Grande,Coconut,,473 mL,290.0,2.0,1.0,0.0,5.0,125.0,59.0,7.0,41.0,14.0,0.0,0.35,0.06,0.1,0,Smoothies
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,200.0,0.1,0.1,0.0,0.0,150.0,47.0,0.0,46.0,3.0,0.04,0.0,0.08,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,280.0,8.0,5.0,0.2,30.0,160.0,50.0,0.0,48.0,3.0,0.15,0.0,0.1,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,210.0,1.5,1.0,0.0,5.0,160.0,47.0,0.0,46.0,3.0,0.04,0.0,0.08,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,290.0,10.0,6.0,0.3,35.0,170.0,50.0,0.0,48.0,3.0,0.15,0.0,0.1,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,220.0,2.5,1.5,0.1,10.0,150.0,47.0,0.0,46.0,3.0,0.04,0.0,0.08,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,300.0,11.0,6.0,0.3,35.0,160.0,50.0,0.0,48.0,3.0,0.15,0.0,0.1,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,200.0,1.5,0.2,0.0,0.0,150.0,46.0,0.0,44.0,2.0,0.04,0.0,0.1,0.04,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,290.0,9.0,5.0,0.2,30.0,160.0,48.0,0.0,46.0,3.0,0.1,0.0,0.1,0.04,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,200.0,1.5,1.5,0.0,0.0,150.0,47.0,0.0,45.0,0.4,0.0,0.0,0.0,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,280.0,10.0,7.0,0.2,30.0,160.0,49.0,0.0,47.0,1.0,0.1,0.0,0.02,0.0,65,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,290.0,0.1,0.1,0.0,0.0,220.0,69.0,0.0,67.0,4.0,0.06,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,400.0,11.0,7.0,0.3,45.0,230.0,72.0,0.0,69.0,4.0,0.2,0.0,0.15,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,300.0,2.0,1.0,0.1,10.0,220.0,68.0,0.0,67.0,4.0,0.06,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,420.0,13.0,8.0,0.4,50.0,230.0,72.0,0.0,69.0,4.0,0.2,0.0,0.15,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,310.0,3.0,2.0,0.1,10.0,220.0,68.0,0.0,67.0,3.0,0.04,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,430.0,14.0,9.0,0.4,50.0,230.0,72.0,0.0,69.0,4.0,0.15,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,290.0,1.5,0.2,0.0,0.0,210.0,67.0,1.0,64.0,3.0,0.04,0.0,0.1,0.06,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,410.0,13.0,7.0,0.3,40.0,220.0,70.0,1.0,67.0,4.0,0.15,0.0,0.15,0.06,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,290.0,2.0,2.0,0.0,0.0,210.0,68.0,0.0,66.0,0.5,0.0,0.0,0.0,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,400.0,13.0,9.0,0.3,40.0,220.0,71.0,0.0,69.0,1.0,0.15,0.0,0.02,0.0,95,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,370.0,0.2,0.1,0.0,5.0,290.0,88.0,0.0,86.0,5.0,0.08,0.0,0.15,0.02,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,490.0,11.0,7.0,0.3,45.0,300.0,92.0,0.0,88.0,6.0,0.2,0.0,0.2,0.02,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,400.0,3.0,1.5,0.1,10.0,290.0,88.0,0.0,86.0,5.0,0.08,0.0,0.15,0.02,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,510.0,14.0,8.0,0.4,55.0,300.0,91.0,0.0,88.0,6.0,0.2,0.0,0.2,0.02,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,410.0,5.0,2.5,0.1,15.0,290.0,88.0,0.0,86.0,5.0,0.06,0.0,0.15,0.02,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,530.0,16.0,10.0,0.5,55.0,300.0,91.0,0.0,88.0,6.0,0.2,0.0,0.15,0.02,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,380.0,2.5,0.3,0.0,0.0,280.0,86.0,1.0,82.0,4.0,0.06,0.0,0.15,0.08,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,500.0,14.0,7.0,0.3,40.0,290.0,89.0,1.0,85.0,5.0,0.2,0.0,0.2,0.08,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,380.0,3.0,3.0,0.0,0.0,280.0,87.0,0.0,84.0,1.0,0.0,0.0,0.0,0.0,125,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,490.0,14.0,10.0,0.3,40.0,290.0,90.0,0.0,87.0,1.0,0.15,0.0,0.02,0.0,125,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,180.0,0.1,0.0,0.0,0.0,160.0,42.0,0.0,42.0,3.0,0.04,0.0,0.1,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,280.0,9.0,5.0,0.2,35.0,180.0,47.0,0.0,47.0,3.0,0.15,0.0,0.1,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,190.0,1.5,1.0,0.1,5.0,170.0,42.0,0.0,42.0,3.0,0.04,0.0,0.1,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,290.0,10.0,6.0,0.3,40.0,180.0,47.0,0.0,46.0,3.0,0.15,0.0,0.1,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,200.0,2.5,1.5,0.1,10.0,160.0,42.0,0.0,42.0,3.0,0.04,0.0,0.08,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,300.0,11.0,7.0,0.3,40.0,180.0,47.0,0.0,46.0,3.0,0.15,0.0,0.1,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,190.0,1.5,0.2,0.0,0.0,160.0,41.0,0.0,40.0,2.0,0.04,0.0,0.1,0.04,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,280.0,10.0,6.0,0.2,30.0,170.0,46.0,0.0,45.0,3.0,0.15,0.0,0.1,0.04,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,180.0,2.0,1.5,0.0,0.0,160.0,41.0,0.0,40.0,0.4,0.0,0.0,0.0,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,280.0,10.0,7.0,0.2,30.0,170.0,46.0,0.0,45.0,1.0,0.1,0.0,0.02,0.0,70,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,260.0,0.1,0.1,0.0,0.0,230.0,60.0,0.0,60.0,4.0,0.06,0.0,0.1,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,390.0,12.0,8.0,0.3,45.0,240.0,67.0,0.0,66.0,4.0,0.2,0.0,0.15,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,270.0,2.0,1.5,0.1,10.0,230.0,60.0,0.0,60.0,4.0,0.06,0.0,0.1,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,410.0,14.0,9.0,0.4,50.0,250.0,67.0,0.0,66.0,4.0,0.2,0.0,0.15,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,280.0,3.5,2.0,0.1,10.0,230.0,60.0,0.0,60.0,3.0,0.04,0.0,0.1,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,420.0,15.0,9.0,0.4,55.0,250.0,67.0,0.0,66.0,4.0,0.2,0.0,0.15,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,260.0,1.5,0.2,0.0,0.0,220.0,59.0,0.0,57.0,3.0,0.04,0.0,0.1,0.06,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,400.0,14.0,8.0,0.3,45.0,240.0,65.0,0.0,63.0,4.0,0.15,0.0,0.15,0.06,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,260.0,2.0,2.0,0.0,0.0,220.0,59.0,0.0,58.0,0.5,0.0,0.0,0.0,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,390.0,14.0,10.0,0.3,45.0,240.0,65.0,0.0,64.0,1.0,0.15,0.0,0.02,0.0,100,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,340.0,0.1,0.1,0.0,5.0,300.0,79.0,0.0,78.0,5.0,0.1,0.0,0.2,0.02,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,470.0,12.0,8.0,0.3,45.0,320.0,85.0,0.0,84.0,6.0,0.25,0.0,0.2,0.02,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,360.0,3.0,2.0,0.1,10.0,310.0,78.0,0.0,78.0,5.0,0.08,0.0,0.2,0.02,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,500.0,15.0,9.0,0.5,55.0,330.0,85.0,0.0,84.0,6.0,0.2,0.0,0.2,0.02,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,380.0,5.0,3.0,0.1,15.0,300.0,78.0,0.0,78.0,5.0,0.08,0.0,0.15,0.02,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,510.0,17.0,10.0,0.5,60.0,320.0,85.0,0.0,84.0,6.0,0.2,0.0,0.2,0.02,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,350.0,2.5,0.3,0.0,0.0,290.0,76.0,1.0,74.0,5.0,0.06,0.0,0.2,0.08,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,480.0,14.0,8.0,0.3,45.0,310.0,83.0,1.0,80.0,5.0,0.2,0.0,0.2,0.08,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,340.0,3.5,3.0,0.0,0.0,300.0,76.0,0.0,75.0,1.0,0.0,0.0,0.02,0.0,130,Frappuccino® Blended Coffee
+Caramel Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,470.0,15.0,11.0,0.3,45.0,320.0,83.0,0.0,81.0,1.0,0.15,0.0,0.04,0.0,130,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Tall,Nonfat,,354 mL,160.0,0.1,0.0,0.0,0.0,160.0,36.0,0.0,36.0,3.0,0.04,0.0,0.1,0.0,70,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Tall,0.02,,354 mL,170.0,1.5,1.0,0.0,5.0,160.0,36.0,0.0,36.0,3.0,0.04,0.0,0.08,0.0,70,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Tall,Whole,,354 mL,180.0,2.5,1.5,0.1,10.0,160.0,36.0,0.0,36.0,3.0,0.04,0.0,0.08,0.0,70,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Tall,Soy,,354 mL,160.0,1.5,0.2,0.0,0.0,150.0,35.0,0.0,34.0,2.0,0.04,0.0,0.1,0.04,70,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Tall,Coconut,,354 mL,160.0,2.0,1.5,0.0,0.0,150.0,36.0,0.0,35.0,0.4,0.0,0.0,0.0,0.0,70,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Grande,Nonfat,,473 mL,220.0,0.1,0.1,0.0,0.0,210.0,51.0,0.0,50.0,4.0,0.06,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Grande,0.02,,473 mL,230.0,2.0,1.0,0.1,10.0,220.0,50.0,0.0,50.0,3.0,0.06,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Grande,Whole,,473 mL,240.0,3.0,2.0,0.1,10.0,220.0,50.0,0.0,50.0,3.0,0.04,0.0,0.1,0.0,95,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Grande,Soy,,473 mL,220.0,1.5,0.2,0.0,0.0,210.0,49.0,0.0,47.0,3.0,0.04,0.0,0.1,0.06,95,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Grande,Coconut,,473 mL,220.0,2.0,2.0,0.0,0.0,210.0,50.0,0.0,49.0,0.5,0.0,0.0,0.0,0.0,95,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Venti®,Nonfat,,709 mL,310.0,0.1,0.1,0.0,5.0,300.0,70.0,0.0,69.0,6.0,0.1,0.0,0.2,0.02,130,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Venti®,0.02,,709 mL,330.0,3.0,1.5,0.1,10.0,310.0,70.0,0.0,69.0,5.0,0.08,0.0,0.15,0.02,130,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Venti®,Whole,,709 mL,350.0,5.0,3.0,0.2,15.0,300.0,70.0,0.0,69.0,5.0,0.08,0.0,0.15,0.02,130,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Venti®,Soy,,709 mL,310.0,2.5,0.3,0.0,0.0,300.0,68.0,1.0,66.0,5.0,0.06,0.0,0.2,0.08,130,Frappuccino® Blended Coffee
+Coffee Frappuccino® Blended Beverage,Venti®,Coconut,,709 mL,310.0,3.5,3.0,0.0,0.0,300.0,69.0,0.0,68.0,1.0,0.0,0.0,0.0,0.0,135,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Tall,Nonfat,,354 mL,150.0,0.0,0.0,0.0,0.0,135.0,34.0,0.0,33.0,2.0,0.02,0.0,0.06,0.0,130,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Tall,0.02,,354 mL,150.0,1.0,0.5,0.0,5.0,140.0,34.0,0.0,33.0,2.0,0.02,0.0,0.06,0.0,130,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Tall,Whole,,354 mL,160.0,1.5,1.0,0.0,5.0,140.0,34.0,0.0,33.0,2.0,0.02,0.0,0.06,0.0,130,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Tall,Soy,,354 mL,150.0,1.0,0.1,0.0,0.0,135.0,33.0,0.0,31.0,2.0,0.02,0.0,0.06,0.02,130,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Tall,Coconut,,354 mL,150.0,1.0,1.0,0.0,0.0,135.0,34.0,0.0,32.0,1.0,0.0,0.0,0.0,0.0,130,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Grande,Nonfat,,473 mL,210.0,0.1,0.0,0.0,0.0,200.0,50.0,0.0,49.0,3.0,0.04,0.0,0.08,0.0,165,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Grande,0.02,,473 mL,220.0,1.5,0.5,0.0,5.0,210.0,50.0,0.0,48.0,3.0,0.04,0.0,0.08,0.0,165,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Grande,Whole,,473 mL,230.0,2.5,1.5,0.1,5.0,200.0,50.0,0.0,48.0,3.0,0.04,0.0,0.08,0.0,165,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Grande,Soy,,473 mL,220.0,1.0,0.1,0.0,0.0,200.0,49.0,0.0,47.0,3.0,0.02,0.0,0.08,0.04,165,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Grande,Coconut,,473 mL,220.0,1.5,1.5,0.0,0.0,200.0,50.0,0.0,48.0,1.0,0.0,0.0,0.0,0.0,165,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Venti®,Nonfat,,709 mL,280.0,0.1,0.1,0.0,0.0,270.0,65.0,0.0,63.0,5.0,0.08,0.0,0.15,0.02,185,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Venti®,0.02,,709 mL,300.0,2.5,1.0,0.1,10.0,280.0,65.0,0.0,63.0,5.0,0.06,0.0,0.15,0.0,185,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Venti®,Whole,,709 mL,310.0,4.0,2.0,0.1,10.0,270.0,65.0,0.0,63.0,4.0,0.06,0.0,0.15,0.02,185,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Venti®,Soy,,709 mL,290.0,2.0,0.3,0.0,0.0,270.0,63.0,1.0,60.0,4.0,0.04,0.0,0.15,0.06,185,Frappuccino® Blended Coffee
+Espresso Frappuccino® Blended Beverage,Venti®,Coconut,,709 mL,280.0,2.5,2.5,0.0,0.0,270.0,64.0,0.0,62.0,1.0,0.0,0.0,0.0,0.0,185,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,230.0,3.0,2.0,0.0,0.0,180.0,47.0,2.0,44.0,4.0,0.04,0.0,0.1,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,320.0,11.0,7.0,0.3,30.0,190.0,51.0,2.0,47.0,4.0,0.15,0.0,0.1,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,240.0,4.5,3.0,0.1,5.0,180.0,47.0,2.0,44.0,4.0,0.04,0.0,0.1,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,330.0,12.0,8.0,0.3,35.0,190.0,51.0,2.0,47.0,4.0,0.15,0.0,0.1,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,250.0,5.0,3.5,0.1,10.0,180.0,47.0,2.0,44.0,4.0,0.04,0.0,0.1,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,340.0,13.0,9.0,0.3,35.0,190.0,51.0,2.0,47.0,4.0,0.15,0.0,0.1,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,230.0,4.0,2.5,0.0,0.0,180.0,46.0,2.0,42.0,3.0,0.04,0.0,0.1,0.25,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,320.0,12.0,7.0,0.3,30.0,180.0,50.0,2.0,45.0,4.0,0.1,0.0,0.1,0.25,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,230.0,4.5,3.5,0.0,0.0,180.0,46.0,2.0,43.0,1.0,0.0,0.0,0.02,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,320.0,13.0,9.0,0.3,30.0,180.0,50.0,2.0,46.0,2.0,0.1,0.0,0.02,0.2,75,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,320.0,4.0,3.0,0.0,0.0,250.0,68.0,2.0,63.0,5.0,0.06,0.0,0.1,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,440.0,15.0,10.0,0.4,45.0,260.0,72.0,2.0,67.0,6.0,0.2,0.0,0.15,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,340.0,6.0,4.5,0.1,10.0,260.0,68.0,2.0,63.0,5.0,0.06,0.0,0.1,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,460.0,17.0,11.0,0.4,50.0,270.0,72.0,2.0,66.0,6.0,0.2,0.0,0.15,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,350.0,7.0,5.0,0.1,10.0,250.0,68.0,2.0,63.0,5.0,0.04,0.0,0.1,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,470.0,18.0,12.0,0.5,50.0,260.0,72.0,2.0,66.0,6.0,0.15,0.0,0.15,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,330.0,6.0,3.5,0.0,0.0,250.0,66.0,3.0,61.0,5.0,0.04,0.0,0.15,0.35,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,450.0,17.0,10.0,0.4,40.0,260.0,71.0,3.0,64.0,5.0,0.15,0.0,0.15,0.35,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,320.0,6.0,5.0,0.0,0.0,250.0,66.0,2.0,61.0,2.0,0.0,0.0,0.02,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,440.0,17.0,12.0,0.4,40.0,260.0,71.0,3.0,66.0,3.0,0.15,0.0,0.04,0.3,110,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,440.0,6.0,4.0,0.0,5.0,340.0,91.0,3.0,85.0,7.0,0.1,0.0,0.2,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,560.0,17.0,11.0,0.4,45.0,350.0,96.0,3.0,89.0,8.0,0.2,0.0,0.2,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,460.0,8.0,6.0,0.2,10.0,350.0,91.0,3.0,85.0,7.0,0.08,0.0,0.2,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,580.0,20.0,13.0,0.5,55.0,360.0,96.0,3.0,88.0,8.0,0.2,0.0,0.2,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,480.0,10.0,7.0,0.2,15.0,340.0,91.0,3.0,85.0,7.0,0.08,0.0,0.2,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,600.0,22.0,14.0,0.5,55.0,360.0,96.0,3.0,88.0,8.0,0.2,0.0,0.2,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,450.0,8.0,4.5,0.0,0.0,340.0,89.0,4.0,81.0,7.0,0.06,0.0,0.2,0.45,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,570.0,19.0,11.0,0.4,40.0,350.0,93.0,4.0,85.0,7.0,0.2,0.0,0.2,0.5,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,440.0,9.0,7.0,0.0,0.0,340.0,89.0,3.0,82.0,3.0,0.0,0.0,0.02,0.4,145,Frappuccino® Blended Coffee
+Java Chip Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,560.0,20.0,14.0,0.4,40.0,350.0,94.0,3.0,87.0,4.0,0.15,0.0,0.04,0.4,145,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,190.0,0.5,0.4,0.0,0.0,160.0,42.0,1.0,40.0,3.0,0.04,0.0,0.1,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,270.0,9.0,5.0,0.2,30.0,170.0,45.0,1.0,42.0,4.0,0.15,0.0,0.1,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,200.0,2.0,1.5,0.1,5.0,160.0,42.0,1.0,40.0,3.0,0.04,0.0,0.1,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,280.0,10.0,6.0,0.3,35.0,170.0,44.0,1.0,42.0,4.0,0.15,0.0,0.1,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,210.0,3.0,2.0,0.1,10.0,160.0,42.0,1.0,40.0,3.0,0.04,0.0,0.1,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,290.0,11.0,7.0,0.3,35.0,170.0,44.0,1.0,42.0,4.0,0.15,0.0,0.1,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,190.0,2.0,0.5,0.0,0.0,160.0,41.0,1.0,38.0,3.0,0.04,0.0,0.1,0.1,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,270.0,10.0,5.0,0.2,30.0,160.0,43.0,1.0,40.0,3.0,0.1,0.0,0.1,0.1,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,190.0,2.0,2.0,0.0,0.0,160.0,41.0,1.0,39.0,1.0,0.0,0.0,0.0,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,270.0,10.0,7.0,0.2,30.0,160.0,43.0,1.0,41.0,1.0,0.1,0.0,0.02,0.08,75,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,270.0,1.0,0.5,0.0,0.0,230.0,61.0,1.0,59.0,5.0,0.06,0.0,0.1,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,390.0,12.0,8.0,0.3,45.0,240.0,65.0,1.0,61.0,5.0,0.2,0.0,0.15,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,290.0,3.0,1.5,0.1,10.0,230.0,61.0,1.0,58.0,4.0,0.06,0.0,0.1,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,400.0,14.0,9.0,0.4,50.0,240.0,65.0,1.0,61.0,5.0,0.2,0.0,0.15,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,300.0,4.0,2.5,0.1,10.0,230.0,61.0,1.0,58.0,4.0,0.04,0.0,0.1,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,410.0,15.0,9.0,0.4,50.0,240.0,65.0,1.0,61.0,5.0,0.15,0.0,0.15,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,280.0,2.5,0.5,0.0,0.0,220.0,60.0,2.0,56.0,4.0,0.04,0.0,0.15,0.15,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,390.0,14.0,8.0,0.3,40.0,230.0,63.0,2.0,58.0,5.0,0.15,0.0,0.15,0.15,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,270.0,3.0,2.5,0.0,0.0,220.0,60.0,1.0,57.0,1.0,0.0,0.0,0.02,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,390.0,14.0,9.0,0.3,40.0,230.0,63.0,1.0,60.0,2.0,0.15,0.0,0.04,0.1,110,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,360.0,1.0,0.5,0.0,5.0,300.0,81.0,2.0,77.0,7.0,0.1,0.0,0.2,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,480.0,12.0,8.0,0.3,45.0,320.0,84.0,2.0,80.0,7.0,0.2,0.0,0.2,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,390.0,4.0,2.5,0.1,10.0,310.0,81.0,2.0,77.0,7.0,0.08,0.0,0.2,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,500.0,15.0,9.0,0.5,55.0,320.0,84.0,2.0,80.0,7.0,0.2,0.0,0.2,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,400.0,6.0,3.5,0.1,15.0,310.0,81.0,2.0,77.0,6.0,0.08,0.0,0.15,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,520.0,17.0,10.0,0.5,55.0,320.0,84.0,2.0,80.0,7.0,0.2,0.0,0.2,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,370.0,3.5,1.0,0.0,0.0,300.0,79.0,2.0,74.0,6.0,0.06,0.0,0.2,0.25,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,490.0,15.0,8.0,0.3,40.0,310.0,82.0,2.0,76.0,6.0,0.2,0.0,0.2,0.25,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,360.0,4.0,3.5,0.0,0.0,300.0,79.0,2.0,75.0,2.0,0.0,0.0,0.02,0.15,140,Frappuccino® Blended Coffee
+Mocha Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,470.0,15.0,11.0,0.3,40.0,310.0,82.0,2.0,78.0,2.0,0.15,0.0,0.04,0.15,140,Frappuccino® Blended Coffee
+Caffè Vanilla Frappuccino® Light Blended Beverage,Tall,Nonfat,,354 mL,140.0,0.1,0.1,0.0,0.0,150.0,31.0,0.0,30.0,3.0,0.04,0.0,0.08,0.0,65,Frappuccino® Light Blended Coffee
+Caffè Vanilla Frappuccino® Light Blended Beverage,Grande,Nonfat,,473 mL,190.0,0.1,0.1,0.0,0.0,210.0,43.0,0.0,41.0,3.0,0.06,0.0,0.1,0.0,95,Frappuccino® Light Blended Coffee
+Caffè Vanilla Frappuccino® Light Blended Beverage,Venti®,Nonfat,,709 mL,250.0,0.2,0.1,0.0,5.0,280.0,58.0,1.0,55.0,5.0,0.08,0.0,0.15,0.02,125,Frappuccino® Light Blended Coffee
+Caramel Frappuccino® Light Blended Beverage,Tall,Nonfat,,354 mL,100.0,0.1,0.0,0.0,0.0,140.0,23.0,0.0,23.0,3.0,0.04,0.0,0.08,0.0,65,Frappuccino® Light Blended Coffee
+Caramel Frappuccino® Light Blended Beverage,Grande,Nonfat,,473 mL,150.0,0.1,0.1,0.0,0.0,200.0,33.0,0.0,32.0,3.0,0.06,0.0,0.1,0.0,90,Frappuccino® Light Blended Coffee
+Caramel Frappuccino® Light Blended Beverage,Venti®,Nonfat,,709 mL,200.0,0.1,0.1,0.0,5.0,270.0,44.0,0.0,43.0,5.0,0.08,0.0,0.15,0.02,120,Frappuccino® Light Blended Coffee
+Coffee Frappuccino® Light Blended Beverage,Tall,Nonfat,,354 mL,90.0,0.1,0.0,0.0,0.0,160.0,20.0,0.0,19.0,3.0,0.04,0.0,0.1,0.0,70,Frappuccino® Light Blended Coffee
+Coffee Frappuccino® Light Blended Beverage,Grande,Nonfat,,473 mL,120.0,0.1,0.1,0.0,0.0,210.0,26.0,0.0,26.0,3.0,0.06,0.0,0.1,0.0,95,Frappuccino® Light Blended Coffee
+Coffee Frappuccino® Light Blended Beverage,Venti®,Nonfat,,709 mL,160.0,0.1,0.1,0.0,5.0,270.0,34.0,0.0,33.0,5.0,0.08,0.0,0.15,0.02,120,Frappuccino® Light Blended Coffee
+Espresso Frappuccino® Light Blended Beverage,Tall,Nonfat,,354 mL,80.0,0.0,0.0,0.0,0.0,130.0,17.0,0.0,16.0,2.0,0.02,0.0,0.06,0.0,125,Frappuccino® Light Blended Coffee
+Espresso Frappuccino® Light Blended Beverage,Grande,Nonfat,,473 mL,120.0,0.1,0.0,0.0,0.0,190.0,26.0,0.0,24.0,3.0,0.04,0.0,0.08,0.0,155,Frappuccino® Light Blended Coffee
+Espresso Frappuccino® Light Blended Beverage,Venti®,Nonfat,,709 mL,160.0,0.1,0.1,0.0,0.0,270.0,35.0,0.0,34.0,5.0,0.08,0.0,0.15,0.02,190,Frappuccino® Light Blended Coffee
+Java Chip Light Frappuccino® Blended Beverage,Tall,Nonfat,,354 mL,160.0,3.0,2.0,0.0,0.0,170.0,30.0,2.0,27.0,4.0,0.04,0.0,0.1,0.2,75,Frappuccino® Light Blended Coffee
+Java Chip Light Frappuccino® Blended Beverage,Grande,Nonfat,,473 mL,230.0,4.0,3.0,0.0,0.0,250.0,43.0,2.0,39.0,5.0,0.06,0.0,0.1,0.3,110,Frappuccino® Light Blended Coffee
+Java Chip Light Frappuccino® Blended Beverage,Venti®,Nonfat,,709 mL,300.0,5.0,4.0,0.0,5.0,330.0,58.0,3.0,52.0,7.0,0.08,0.0,0.2,0.4,140,Frappuccino® Light Blended Coffee
+Mocha Light Frappuccino® Blended Beverage,Tall,Nonfat,,354 mL,120.0,0.5,0.4,0.0,0.0,150.0,24.0,1.0,23.0,3.0,0.04,0.0,0.1,0.08,70,Frappuccino® Light Blended Coffee
+Mocha Light Frappuccino® Blended Beverage,Grande,Nonfat,,473 mL,160.0,1.0,0.5,0.0,0.0,200.0,33.0,1.0,30.0,4.0,0.06,0.0,0.1,0.1,95,Frappuccino® Light Blended Coffee
+Mocha Light Frappuccino® Blended Beverage,Venti®,Nonfat,,709 mL,220.0,1.0,0.5,0.0,5.0,290.0,46.0,2.0,42.0,6.0,0.08,0.0,0.15,0.15,130,Frappuccino® Light Blended Coffee
+Blended Strawberry Lemonade,Tall,,,354 mL,160.0,0.1,0.0,0.0,0.0,120.0,40.0,0.0,39.0,0.2,0.0,0.15,0.02,0.02,0,Frappucino® Blended Crème
+Blended Strawberry Lemonade,Grande,,,473 mL,200.0,0.1,0.0,0.0,0.0,160.0,52.0,1.0,50.0,0.3,0.0,0.2,0.02,0.04,0,Frappucino® Blended Crème
+Blended Strawberry Lemonade,Venti®,,,709 mL,280.0,0.1,0.0,0.0,0.0,210.0,71.0,1.0,69.0,0.4,0.0,0.3,0.02,0.04,0,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,140.0,0.1,0.1,0.0,0.0,150.0,33.0,0.0,32.0,4.0,0.06,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,230.0,8.0,5.0,0.2,30.0,160.0,35.0,0.0,34.0,4.0,0.15,0.0,0.15,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,160.0,2.0,1.0,0.1,10.0,160.0,32.0,0.0,32.0,3.0,0.06,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,240.0,10.0,6.0,0.3,40.0,170.0,35.0,0.0,34.0,4.0,0.15,0.0,0.15,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,170.0,3.5,2.0,0.1,10.0,150.0,32.0,0.0,32.0,3.0,0.04,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,250.0,11.0,7.0,0.3,40.0,160.0,35.0,0.0,34.0,4.0,0.15,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,150.0,1.5,0.2,0.0,0.0,150.0,31.0,0.0,29.0,3.0,0.04,0.0,0.1,0.06,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,230.0,10.0,5.0,0.2,30.0,160.0,33.0,1.0,31.0,3.0,0.15,0.0,0.15,0.06,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,140.0,2.0,2.0,0.0,0.0,150.0,31.0,0.0,30.0,0.3,0.0,0.0,0.0,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,220.0,10.0,7.0,0.2,30.0,160.0,33.0,0.0,32.0,1.0,0.1,0.0,0.02,0.0,20,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,210.0,0.1,0.1,0.0,5.0,210.0,49.0,0.0,48.0,5.0,0.08,0.0,0.15,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,330.0,11.0,7.0,0.3,45.0,220.0,53.0,0.0,50.0,5.0,0.2,0.0,0.15,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,230.0,2.5,1.5,0.1,10.0,220.0,49.0,0.0,48.0,4.0,0.08,0.0,0.15,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,350.0,14.0,8.0,0.4,50.0,230.0,52.0,0.0,50.0,5.0,0.2,0.0,0.15,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,250.0,4.0,2.5,0.1,15.0,210.0,49.0,0.0,48.0,4.0,0.06,0.0,0.15,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,360.0,15.0,9.0,0.5,55.0,220.0,52.0,0.0,50.0,5.0,0.2,0.0,0.15,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,220.0,2.0,0.3,0.0,0.0,210.0,47.0,1.0,45.0,4.0,0.06,0.0,0.15,0.08,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,340.0,13.0,7.0,0.3,40.0,220.0,50.0,1.0,47.0,4.0,0.2,0.0,0.15,0.08,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,210.0,2.5,2.5,0.0,0.0,210.0,47.0,0.0,46.0,1.0,0.0,0.0,0.0,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,330.0,14.0,10.0,0.3,40.0,220.0,50.0,0.0,49.0,1.0,0.15,0.0,0.02,0.0,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,290.0,0.2,0.1,0.0,5.0,310.0,66.0,0.0,65.0,7.0,0.15,0.0,0.25,0.02,40,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,410.0,11.0,7.0,0.3,45.0,320.0,70.0,0.0,67.0,8.0,0.25,0.0,0.25,0.02,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,330.0,4.0,2.0,0.1,15.0,320.0,66.0,0.0,65.0,7.0,0.1,0.0,0.25,0.0,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,440.0,15.0,9.0,0.5,60.0,330.0,69.0,0.0,67.0,8.0,0.25,0.02,0.25,0.02,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,350.0,7.0,4.0,0.2,20.0,310.0,66.0,0.0,65.0,7.0,0.1,0.0,0.2,0.02,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,460.0,18.0,11.0,0.5,60.0,320.0,69.0,0.0,67.0,7.0,0.2,0.0,0.25,0.02,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,300.0,3.5,0.4,0.0,0.0,300.0,63.0,1.0,60.0,6.0,0.08,0.0,0.25,0.1,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,420.0,14.0,7.0,0.3,40.0,310.0,66.0,1.0,62.0,7.0,0.2,0.0,0.25,0.1,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,290.0,4.5,4.0,0.0,0.0,300.0,63.0,0.0,61.0,1.0,0.0,0.0,0.0,0.0,45,Frappucino® Blended Crème
+Chai Crème Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,400.0,16.0,11.0,0.3,40.0,310.0,66.0,0.0,64.0,1.0,0.15,0.0,0.02,0.0,45,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,200.0,3.0,2.5,0.0,0.0,190.0,39.0,2.0,36.0,5.0,0.06,0.0,0.15,0.2,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,280.0,11.0,7.0,0.3,30.0,200.0,42.0,2.0,39.0,5.0,0.15,0.0,0.15,0.25,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,210.0,5.0,3.5,0.1,10.0,190.0,38.0,2.0,35.0,5.0,0.06,0.0,0.15,0.2,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,300.0,13.0,9.0,0.3,40.0,200.0,42.0,2.0,38.0,5.0,0.15,0.0,0.15,0.25,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,220.0,6.0,4.0,0.1,10.0,190.0,38.0,2.0,35.0,4.0,0.06,0.0,0.1,0.2,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,310.0,14.0,9.0,0.4,40.0,200.0,42.0,2.0,38.0,5.0,0.15,0.0,0.15,0.25,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,200.0,4.5,2.5,0.0,0.0,180.0,37.0,2.0,33.0,4.0,0.04,0.0,0.15,0.25,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,290.0,13.0,7.0,0.3,30.0,190.0,40.0,2.0,36.0,5.0,0.15,0.0,0.15,0.3,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,200.0,5.0,4.5,0.0,0.0,190.0,37.0,2.0,34.0,1.0,0.0,0.0,0.02,0.2,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,280.0,13.0,9.0,0.3,30.0,190.0,41.0,2.0,37.0,2.0,0.1,0.0,0.02,0.2,10,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,270.0,4.0,3.0,0.0,5.0,250.0,53.0,2.0,49.0,6.0,0.08,0.0,0.15,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,390.0,15.0,10.0,0.4,45.0,270.0,58.0,2.0,52.0,7.0,0.2,0.0,0.2,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,290.0,7.0,5.0,0.1,10.0,260.0,53.0,2.0,49.0,6.0,0.08,0.0,0.15,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,410.0,18.0,12.0,0.5,50.0,270.0,57.0,2.0,52.0,7.0,0.2,0.0,0.2,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,300.0,8.0,6.0,0.2,15.0,260.0,53.0,2.0,49.0,6.0,0.06,0.0,0.15,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,420.0,20.0,13.0,0.5,55.0,270.0,57.0,2.0,52.0,7.0,0.2,0.0,0.15,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,270.0,6.0,3.5,0.0,0.0,250.0,51.0,3.0,45.0,5.0,0.06,0.0,0.15,0.35,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,400.0,17.0,10.0,0.4,40.0,260.0,55.0,3.0,49.0,6.0,0.2,0.0,0.2,0.35,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,270.0,7.0,6.0,0.0,0.0,250.0,51.0,2.0,46.0,2.0,0.0,0.0,0.02,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,390.0,18.0,13.0,0.4,40.0,260.0,56.0,3.0,51.0,3.0,0.15,0.0,0.04,0.3,15,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,360.0,6.0,4.0,0.0,5.0,350.0,71.0,3.0,66.0,9.0,0.1,0.0,0.25,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,480.0,17.0,11.0,0.4,45.0,360.0,76.0,3.0,69.0,9.0,0.25,0.0,0.25,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,390.0,9.0,7.0,0.2,15.0,360.0,71.0,3.0,65.0,9.0,0.1,0.0,0.25,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,510.0,21.0,14.0,0.5,55.0,370.0,76.0,3.0,69.0,9.0,0.25,0.02,0.25,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,410.0,12.0,8.0,0.2,20.0,350.0,71.0,3.0,65.0,8.0,0.1,0.0,0.2,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,540.0,23.0,15.0,0.5,60.0,360.0,76.0,3.0,69.0,9.0,0.2,0.0,0.25,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,370.0,8.0,4.5,0.0,0.0,340.0,68.0,4.0,61.0,8.0,0.08,0.0,0.25,0.5,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,490.0,20.0,12.0,0.4,40.0,350.0,72.0,4.0,64.0,8.0,0.2,0.0,0.25,0.5,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,360.0,10.0,8.0,0.0,0.0,340.0,68.0,3.0,62.0,3.0,0.0,0.0,0.02,0.4,20,Frappucino® Blended Crème
+Double Chocolaty Chip Crème Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,480.0,21.0,15.0,0.4,40.0,350.0,73.0,3.0,67.0,3.0,0.15,0.0,0.04,0.4,20,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,210.0,0.2,0.1,0.0,0.0,170.0,47.0,1.0,46.0,4.0,0.06,0.1,0.15,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,290.0,8.0,5.0,0.2,30.0,170.0,50.0,1.0,48.0,5.0,0.15,0.1,0.15,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,230.0,2.5,1.5,0.1,10.0,170.0,47.0,1.0,46.0,4.0,0.06,0.1,0.15,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,310.0,10.0,6.0,0.3,40.0,180.0,50.0,1.0,48.0,5.0,0.15,0.1,0.15,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,240.0,3.5,2.0,0.1,10.0,170.0,47.0,1.0,46.0,4.0,0.06,0.1,0.1,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,320.0,12.0,7.0,0.3,40.0,180.0,50.0,1.0,48.0,5.0,0.15,0.1,0.15,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,220.0,2.0,0.2,0.0,0.0,160.0,46.0,1.0,44.0,4.0,0.04,0.1,0.15,0.08,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,300.0,10.0,5.0,0.2,30.0,170.0,48.0,1.0,45.0,4.0,0.15,0.1,0.15,0.08,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,210.0,2.5,2.5,0.0,0.0,160.0,46.0,1.0,44.0,1.0,0.0,0.1,0.02,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,290.0,10.0,7.0,0.2,30.0,170.0,48.0,1.0,47.0,1.0,0.1,0.1,0.02,0.02,50,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,280.0,0.3,0.1,0.0,5.0,220.0,64.0,1.0,63.0,5.0,0.08,0.1,0.15,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,400.0,11.0,7.0,0.3,45.0,230.0,68.0,1.0,65.0,6.0,0.2,0.15,0.2,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,300.0,3.0,1.5,0.1,10.0,230.0,64.0,1.0,63.0,5.0,0.08,0.15,0.15,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,420.0,14.0,9.0,0.4,50.0,240.0,68.0,1.0,65.0,6.0,0.2,0.15,0.2,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,320.0,4.5,2.5,0.1,15.0,220.0,64.0,1.0,63.0,5.0,0.06,0.1,0.15,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,430.0,16.0,9.0,0.5,55.0,230.0,68.0,1.0,65.0,6.0,0.2,0.15,0.15,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,290.0,2.5,0.3,0.0,0.0,220.0,62.0,2.0,60.0,5.0,0.06,0.1,0.15,0.1,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,400.0,13.0,7.0,0.3,40.0,230.0,65.0,2.0,62.0,5.0,0.2,0.15,0.2,0.1,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,280.0,3.0,3.0,0.0,0.0,220.0,62.0,1.0,61.0,1.0,0.0,0.1,0.02,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,390.0,14.0,10.0,0.3,40.0,230.0,66.0,1.0,64.0,2.0,0.15,0.15,0.04,0.04,70,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,390.0,0.4,0.1,0.0,5.0,310.0,88.0,2.0,86.0,8.0,0.1,0.15,0.25,0.06,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,500.0,12.0,7.0,0.3,45.0,320.0,91.0,2.0,88.0,9.0,0.25,0.15,0.25,0.06,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,420.0,4.0,2.5,0.2,15.0,320.0,87.0,2.0,86.0,8.0,0.1,0.15,0.25,0.04,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,530.0,15.0,10.0,0.5,55.0,330.0,91.0,2.0,88.0,8.0,0.25,0.2,0.25,0.04,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,440.0,7.0,4.0,0.2,20.0,310.0,87.0,2.0,86.0,7.0,0.1,0.15,0.25,0.06,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,550.0,18.0,11.0,0.5,60.0,320.0,91.0,2.0,88.0,8.0,0.2,0.15,0.25,0.06,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,400.0,3.5,0.4,0.0,0.0,300.0,84.0,2.0,81.0,7.0,0.08,0.15,0.25,0.15,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,510.0,15.0,7.0,0.3,40.0,310.0,87.0,2.0,83.0,7.0,0.2,0.15,0.25,0.15,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,380.0,4.5,4.0,0.0,0.0,300.0,85.0,2.0,82.0,2.0,0.0,0.15,0.02,0.04,95,Frappucino® Blended Crème
+Green Tea Crème Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,500.0,16.0,11.0,0.3,40.0,310.0,88.0,2.0,85.0,2.0,0.15,0.15,0.04,0.04,95,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,140.0,0.1,0.0,0.0,0.0,135.0,30.0,0.0,30.0,3.0,0.06,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,220.0,8.0,5.0,0.2,30.0,140.0,33.0,0.0,32.0,3.0,0.15,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,150.0,2.0,1.0,0.1,5.0,140.0,30.0,0.0,29.0,3.0,0.04,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,230.0,10.0,6.0,0.3,35.0,150.0,33.0,0.0,32.0,3.0,0.15,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,160.0,3.0,1.5,0.1,10.0,135.0,30.0,0.0,29.0,3.0,0.04,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,240.0,11.0,7.0,0.3,40.0,140.0,33.0,0.0,32.0,3.0,0.15,0.0,0.1,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,140.0,1.5,0.2,0.0,0.0,130.0,29.0,0.0,27.0,2.0,0.04,0.0,0.1,0.04,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,220.0,9.0,5.0,0.2,30.0,140.0,31.0,0.0,30.0,3.0,0.15,0.0,0.1,0.04,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,140.0,2.0,2.0,0.0,0.0,135.0,29.0,0.0,28.0,0.2,0.0,0.0,0.0,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,220.0,10.0,7.0,0.2,30.0,140.0,31.0,0.0,30.0,1.0,0.1,0.0,0.02,0.0,20,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,190.0,0.1,0.1,0.0,0.0,180.0,42.0,0.0,41.0,4.0,0.06,0.0,0.15,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,300.0,11.0,7.0,0.3,45.0,200.0,45.0,0.0,44.0,4.0,0.2,0.0,0.15,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,200.0,2.0,1.5,0.1,10.0,190.0,42.0,0.0,41.0,4.0,0.06,0.0,0.15,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,320.0,13.0,8.0,0.4,50.0,200.0,45.0,0.0,44.0,4.0,0.2,0.0,0.15,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,220.0,3.5,2.0,0.1,10.0,180.0,42.0,0.0,41.0,3.0,0.06,0.0,0.1,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,330.0,15.0,9.0,0.4,50.0,200.0,45.0,0.0,44.0,4.0,0.2,0.0,0.15,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,190.0,2.0,0.2,0.0,0.0,180.0,40.0,0.0,38.0,3.0,0.04,0.0,0.15,0.06,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,310.0,13.0,7.0,0.3,40.0,190.0,43.0,0.0,41.0,4.0,0.15,0.0,0.15,0.06,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,190.0,2.5,2.5,0.0,0.0,180.0,40.0,0.0,39.0,0.2,0.0,0.0,0.0,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,300.0,14.0,9.0,0.3,40.0,190.0,43.0,0.0,42.0,1.0,0.15,0.0,0.02,0.0,25,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,260.0,0.1,0.1,0.0,5.0,260.0,59.0,0.0,58.0,6.0,0.1,0.0,0.2,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,380.0,11.0,7.0,0.3,45.0,270.0,63.0,0.0,61.0,6.0,0.25,0.0,0.2,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,290.0,3.5,2.0,0.1,15.0,270.0,59.0,0.0,57.0,6.0,0.1,0.0,0.2,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,410.0,15.0,9.0,0.5,55.0,280.0,62.0,0.0,61.0,6.0,0.2,0.0,0.2,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,310.0,6.0,3.0,0.2,15.0,260.0,59.0,0.0,57.0,5.0,0.08,0.0,0.2,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,420.0,17.0,10.0,0.5,60.0,280.0,62.0,0.0,61.0,6.0,0.2,0.0,0.2,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,270.0,2.5,0.4,0.0,0.0,260.0,56.0,1.0,53.0,5.0,0.06,0.0,0.2,0.08,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,390.0,14.0,7.0,0.3,40.0,270.0,59.0,1.0,56.0,5.0,0.2,0.0,0.2,0.08,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,270.0,4.0,3.5,0.0,0.0,260.0,57.0,0.0,55.0,0.4,0.0,0.0,0.0,0.0,40,Frappucino® Blended Crème
+Oprah Cinnamon Chai Crème Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,380.0,15.0,11.0,0.3,40.0,270.0,60.0,0.0,58.0,1.0,0.15,0.0,0.02,0.0,40,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Nonfat,No Whip,354 mL,170.0,0.1,0.1,0.0,0.0,140.0,38.0,0.0,37.0,3.0,0.06,0.06,0.1,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Nonfat,Whip,354 mL,250.0,8.0,5.0,0.2,30.0,150.0,41.0,0.0,39.0,4.0,0.15,0.06,0.15,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,0.02,No Whip,354 mL,180.0,2.0,1.0,0.1,5.0,150.0,38.0,0.0,37.0,3.0,0.06,0.06,0.1,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,0.02,Whip,354 mL,260.0,10.0,6.0,0.3,35.0,160.0,40.0,0.0,39.0,4.0,0.15,0.06,0.15,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Whole,No Whip,354 mL,190.0,3.0,1.5,0.1,10.0,140.0,38.0,0.0,37.0,3.0,0.04,0.06,0.1,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Whole,Whip,354 mL,270.0,11.0,7.0,0.3,40.0,150.0,40.0,0.0,39.0,3.0,0.15,0.06,0.1,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Soy,No Whip,354 mL,170.0,1.5,0.2,0.0,0.0,140.0,37.0,1.0,35.0,3.0,0.04,0.06,0.1,0.06,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Soy,Whip,354 mL,250.0,9.0,5.0,0.2,30.0,150.0,39.0,1.0,37.0,3.0,0.15,0.06,0.15,0.06,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Coconut,No Whip,354 mL,170.0,2.0,2.0,0.0,0.0,140.0,37.0,0.0,35.0,0.3,0.0,0.06,0.02,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Tall,Coconut,Whip,354 mL,250.0,10.0,7.0,0.2,30.0,150.0,39.0,0.0,38.0,1.0,0.1,0.06,0.02,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Nonfat,No Whip,473 mL,230.0,0.2,0.1,0.0,0.0,200.0,53.0,0.0,52.0,4.0,0.08,0.06,0.15,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Nonfat,Whip,473 mL,340.0,11.0,7.0,0.3,45.0,210.0,56.0,0.0,54.0,5.0,0.2,0.08,0.15,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,0.02,No Whip,473 mL,250.0,2.5,1.5,0.1,10.0,200.0,53.0,0.0,51.0,4.0,0.06,0.08,0.15,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,0.02,Whip,473 mL,360.0,14.0,8.0,0.4,50.0,210.0,56.0,0.0,54.0,5.0,0.2,0.08,0.15,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Whole,No Whip,473 mL,260.0,4.0,2.0,0.1,10.0,200.0,53.0,0.0,51.0,4.0,0.06,0.06,0.15,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Whole,Whip,473 mL,370.0,15.0,9.0,0.4,55.0,210.0,56.0,0.0,54.0,4.0,0.2,0.08,0.15,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Soy,No Whip,473 mL,240.0,2.0,0.2,0.0,0.0,190.0,51.0,1.0,49.0,3.0,0.04,0.06,0.15,0.08,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Soy,Whip,473 mL,350.0,13.0,7.0,0.3,40.0,200.0,54.0,1.0,51.0,4.0,0.15,0.08,0.15,0.08,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Coconut,No Whip,473 mL,230.0,2.5,2.5,0.0,0.0,190.0,51.0,0.0,49.0,0.4,0.0,0.06,0.02,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Grande,Coconut,Whip,473 mL,340.0,14.0,9.0,0.3,40.0,200.0,54.0,0.0,53.0,1.0,0.15,0.08,0.04,0.02,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Nonfat,No Whip,709 mL,300.0,0.2,0.1,0.0,5.0,270.0,70.0,0.0,68.0,6.0,0.1,0.08,0.2,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Nonfat,Whip,709 mL,420.0,11.0,7.0,0.3,45.0,280.0,73.0,0.0,70.0,7.0,0.25,0.08,0.25,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,0.02,No Whip,709 mL,330.0,3.5,2.0,0.1,15.0,280.0,69.0,0.0,68.0,6.0,0.1,0.08,0.2,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,0.02,Whip,709 mL,450.0,15.0,9.0,0.5,55.0,290.0,73.0,0.0,70.0,7.0,0.2,0.08,0.25,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Whole,No Whip,709 mL,350.0,6.0,3.0,0.2,15.0,270.0,69.0,0.0,68.0,6.0,0.08,0.08,0.2,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Whole,Whip,709 mL,460.0,17.0,10.0,0.5,60.0,280.0,73.0,0.0,70.0,6.0,0.2,0.08,0.2,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Soy,No Whip,709 mL,310.0,3.0,0.4,0.0,0.0,260.0,67.0,1.0,63.0,5.0,0.06,0.08,0.2,0.1,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Soy,Whip,709 mL,430.0,14.0,7.0,0.3,40.0,270.0,70.0,1.0,66.0,6.0,0.2,0.08,0.25,0.1,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Coconut,No Whip,709 mL,300.0,3.5,3.5,0.0,0.0,260.0,67.0,1.0,65.0,1.0,0.0,0.08,0.02,0.04,0,Frappucino® Blended Crème
+Strawberries & Crème Frappuccino® Blended Beverage,Venti®,Coconut,Whip,709 mL,420.0,15.0,10.0,0.3,40.0,270.0,70.0,1.0,68.0,1.0,0.15,0.08,0.04,0.04,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Nonfat,No Whip,354 mL,170.0,0.1,0.1,0.0,0.0,160.0,39.0,0.0,38.0,4.0,0.06,0.0,0.1,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Nonfat,Whip,354 mL,250.0,8.0,5.0,0.2,30.0,170.0,41.0,0.0,40.0,4.0,0.15,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,0.02,No Whip,354 mL,190.0,2.0,1.0,0.1,10.0,170.0,39.0,0.0,38.0,4.0,0.06,0.0,0.1,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,0.02,Whip,354 mL,270.0,10.0,6.0,0.3,40.0,170.0,41.0,0.0,39.0,4.0,0.15,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Whole,No Whip,354 mL,200.0,3.5,2.0,0.1,10.0,160.0,39.0,0.0,38.0,3.0,0.06,0.0,0.1,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Whole,Whip,354 mL,280.0,11.0,7.0,0.3,40.0,170.0,41.0,0.0,39.0,4.0,0.15,0.0,0.1,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Soy,No Whip,354 mL,180.0,1.5,0.2,0.0,0.0,160.0,37.0,1.0,35.0,3.0,0.04,0.0,0.1,0.06,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Soy,Whip,354 mL,260.0,10.0,5.0,0.2,30.0,160.0,39.0,1.0,37.0,3.0,0.15,0.0,0.15,0.06,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Coconut,No Whip,354 mL,170.0,2.5,2.0,0.0,0.0,160.0,37.0,0.0,36.0,0.2,0.0,0.0,0.0,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Tall,Coconut,Whip,354 mL,250.0,10.0,7.0,0.2,30.0,160.0,39.0,0.0,38.0,1.0,0.1,0.0,0.02,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Nonfat,No Whip,473 mL,240.0,0.1,0.1,0.0,8.0,230.0,56.0,0.0,55.0,5.0,0.08,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Nonfat,Whip,473 mL,360.0,11.0,7.0,0.3,45.0,240.0,60.0,0.0,57.0,5.0,0.2,0.0,0.2,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,0.02,No Whip,473 mL,270.0,3.0,1.5,0.1,10.0,240.0,56.0,0.0,55.0,5.0,0.08,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,0.02,Whip,473 mL,380.0,14.0,8.0,0.4,55.0,250.0,59.0,0.0,57.0,5.0,0.2,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Whole,No Whip,473 mL,280.0,4.5,2.5,0.1,15.0,230.0,56.0,0.0,55.0,4.0,0.06,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Whole,Whip,473 mL,400.0,16.0,10.0,0.5,55.0,240.0,59.0,0.0,57.0,5.0,0.2,0.0,0.15,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Soy,No Whip,473 mL,250.0,2.5,0.3,0.0,0.0,220.0,54.0,1.0,51.0,4.0,0.06,0.0,0.15,0.08,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Soy,Whip,473 mL,370.0,13.0,7.0,0.3,40.0,230.0,57.0,1.0,54.0,5.0,0.2,0.0,0.2,0.08,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Coconut,No Whip,473 mL,240.0,3.0,3.0,0.0,0.0,220.0,54.0,0.0,52.0,0.3,0.0,0.0,0.0,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Grande,Coconut,Whip,473 mL,360.0,14.0,10.0,0.3,40.0,240.0,57.0,0.0,56.0,1.0,0.15,0.0,0.02,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Nonfat,No Whip,709 mL,320.0,0.2,0.1,0.0,5.0,300.0,73.0,0.0,71.0,7.0,0.1,0.0,0.2,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Nonfat,Whip,709 mL,430.0,11.0,7.0,0.3,45.0,310.0,76.0,0.0,73.0,7.0,0.25,0.0,0.25,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,0.02,No Whip,709 mL,350.0,4.0,2.0,0.1,15.0,310.0,73.0,0.0,71.0,7.0,0.1,0.0,0.2,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,0.02,Whip,709 mL,460.0,15.0,9.0,0.5,55.0,320.0,76.0,0.0,73.0,7.0,0.25,0.0,0.25,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Whole,No Whip,709 mL,370.0,7.0,4.0,0.2,20.0,300.0,73.0,0.0,71.0,6.0,0.1,0.0,0.2,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Whole,Whip,709 mL,490.0,18.0,11.0,0.5,60.0,310.0,76.0,0.0,73.0,7.0,0.2,0.0,0.25,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Soy,No Whip,709 mL,330.0,3.0,0.4,0.0,0.0,290.0,69.0,1.0,66.0,6.0,0.08,0.0,0.25,0.1,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Soy,Whip,709 mL,440.0,14.0,7.0,0.3,40.0,300.0,73.0,1.0,68.0,6.0,0.2,0.0,0.25,0.1,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Coconut,No Whip,709 mL,310.0,4.5,4.0,0.0,0.0,290.0,69.0,0.0,67.0,0.5,0.0,0.0,0.0,0.0,0,Frappucino® Blended Crème
+Vanilla Bean Crème Frappuccino® Blended Crème,Venti®,Coconut,Whip,709 mL,430.0,15.0,11.0,0.3,40.0,300.0,73.0,0.0,70.0,1.0,0.15,0.0,0.02,0.0,0,Frappucino® Blended Crème
+Caramel Apple Spice,Kids,,No Whip,236 mL,140.0,0.0,0.0,0.0,0.0,10.0,35.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Kids,,Whip,236 mL,210.0,6.0,3.5,0.2,20.0,20.0,40.0,0.0,37.0,0.3,0.06,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Short,,No Whip,236 mL,140.0,0.0,0.0,0.0,0.0,10.0,35.0,0.0,33.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Short,,Whip,236 mL,210.0,6.0,3.5,0.2,20.0,20.0,40.0,0.0,37.0,0.3,0.06,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Tall,,No Whip,354 mL,210.0,0.0,0.0,0.0,0.0,15.0,53.0,0.0,49.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Tall,,Whip,354 mL,300.0,7.0,4.5,0.2,25.0,30.0,59.0,0.0,55.0,0.4,0.08,0.0,0.02,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Grande,,No Whip,473 mL,280.0,0.0,0.0,0.0,0.0,20.0,70.0,0.0,65.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Grande,,Whip,473 mL,380.0,8.0,5.0,0.2,30.0,35.0,76.0,0.0,71.0,0.5,0.1,0.0,0.02,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Venti®,,No Whip,591 mL,360.0,0.0,0.0,0.0,0.0,25.0,89.0,0.0,83.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Caramel Apple Spice,Venti®,,Whip,591 mL,450.0,8.0,5.0,0.2,30.0,40.0,95.0,0.0,88.0,0.5,0.1,0.0,0.02,0.0,0,Hot Chocolate & Other
+Hot Chocolate,Kids,Nonfat,No Whip,236 mL,140.0,1.5,1.0,0.0,5.0,70.0,26.0,2.0,23.0,7.0,0.1,0.0,0.2,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Nonfat,Whip,236 mL,200.0,6.0,4.0,0.2,20.0,95.0,29.0,2.0,24.0,8.0,0.1,0.02,0.15,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Kids,0.02,No Whip,236 mL,170.0,4.5,3.0,0.1,15.0,80.0,26.0,2.0,22.0,7.0,0.1,0.0,0.2,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Kids,0.02,Whip,236 mL,230.0,10.0,6.0,0.3,30.0,85.0,28.0,2.0,24.0,7.0,0.15,0.0,0.2,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Whole,No Whip,236 mL,190.0,7.0,4.0,0.2,15.0,70.0,26.0,2.0,22.0,7.0,0.08,0.0,0.2,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Whole,Whip,236 mL,250.0,12.0,7.0,0.3,35.0,80.0,28.0,2.0,24.0,7.0,0.15,0.0,0.2,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Soy,No Whip,236 mL,150.0,3.5,1.0,0.0,0.0,60.0,23.0,3.0,18.0,6.0,0.06,0.0,0.2,0.25,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Soy,Whip,236 mL,210.0,9.0,4.5,0.2,20.0,65.0,25.0,3.0,20.0,6.0,0.1,0.0,0.2,0.25,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Coconut,No Whip,236 mL,140.0,5.0,4.5,0.0,0.0,70.0,23.0,2.0,20.0,2.0,0.0,0.0,0.0,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Kids,Coconut,Whip,236 mL,200.0,10.0,8.0,0.2,20.0,75.0,26.0,2.0,22.0,2.0,0.06,0.0,0.02,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Short,Nonfat,No Whip,236 mL,140.0,1.5,1.0,0.0,5.0,70.0,26.0,2.0,23.0,7.0,0.1,0.0,0.2,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Short,Nonfat,Whip,236 mL,200.0,6.0,4.0,0.2,20.0,95.0,29.0,2.0,24.0,8.0,0.1,0.02,0.15,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Short,0.02,No Whip,236 mL,170.0,4.5,3.0,0.1,15.0,80.0,26.0,2.0,22.0,7.0,0.1,0.0,0.2,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Short,0.02,Whip,236 mL,230.0,10.0,6.0,0.3,30.0,85.0,28.0,2.0,24.0,7.0,0.15,0.0,0.2,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Short,Whole,No Whip,236 mL,190.0,7.0,4.0,0.2,15.0,70.0,26.0,2.0,22.0,7.0,0.08,0.0,0.2,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Short,Whole,Whip,236 mL,250.0,12.0,7.0,0.3,35.0,80.0,28.0,2.0,24.0,7.0,0.15,0.0,0.2,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Short,Soy,No Whip,236 mL,150.0,3.5,1.0,0.0,0.0,60.0,23.0,3.0,18.0,6.0,0.06,0.0,0.2,0.25,15,Hot Chocolate & Other
+Hot Chocolate,Short,Soy,Whip,236 mL,210.0,9.0,4.5,0.2,20.0,65.0,25.0,3.0,20.0,6.0,0.1,0.0,0.2,0.25,15,Hot Chocolate & Other
+Hot Chocolate,Short,Coconut,No Whip,236 mL,140.0,5.0,4.5,0.0,0.0,70.0,23.0,2.0,20.0,2.0,0.0,0.0,0.0,0.15,15,Hot Chocolate & Other
+Hot Chocolate,Short,Coconut,Whip,236 mL,200.0,10.0,8.0,0.2,20.0,75.0,26.0,2.0,22.0,2.0,0.06,0.0,0.02,0.2,15,Hot Chocolate & Other
+Hot Chocolate,Tall,Nonfat,No Whip,354 mL,210.0,2.0,1.0,0.0,5.0,110.0,37.0,3.0,32.0,11.0,0.15,0.0,0.3,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Nonfat,Whip,354 mL,280.0,8.0,5.0,0.2,30.0,115.0,40.0,3.0,34.0,11.0,0.25,0.0,0.3,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,0.02,No Whip,354 mL,250.0,7.0,4.5,0.2,20.0,125.0,37.0,3.0,32.0,11.0,0.15,0.0,0.3,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,0.02,Whip,354 mL,320.0,13.0,8.0,0.4,45.0,130.0,39.0,3.0,34.0,11.0,0.2,0.02,0.3,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Whole,No Whip,354 mL,280.0,10.0,6.0,0.3,25.0,110.0,37.0,3.0,32.0,10.0,0.1,0.0,0.3,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Whole,Whip,354 mL,350.0,16.0,10.0,0.4,50.0,120.0,39.0,3.0,34.0,11.0,0.2,0.0,0.3,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Soy,No Whip,354 mL,220.0,6.0,1.5,0.0,0.0,95.0,32.0,4.0,25.0,9.0,0.1,0.0,0.3,0.4,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Soy,Whip,354 mL,290.0,12.0,5.0,0.2,25.0,100.0,35.0,4.0,28.0,9.0,0.15,0.0,0.3,0.4,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Coconut,No Whip,354 mL,210.0,8.0,7.0,0.0,0.0,110.0,33.0,3.0,28.0,3.0,0.0,0.0,0.02,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Tall,Coconut,Whip,354 mL,280.0,14.0,10.0,0.2,25.0,115.0,36.0,3.0,31.0,3.0,0.06,0.0,0.02,0.25,20,Hot Chocolate & Other
+Hot Chocolate,Grande,Nonfat,No Whip,473 mL,270.0,2.5,1.5,0.0,5.0,140.0,47.0,4.0,41.0,14.0,0.2,0.0,0.4,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Nonfat,Whip,473 mL,350.0,10.0,6.0,0.2,35.0,150.0,51.0,4.0,43.0,15.0,0.3,0.0,0.4,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,0.02,No Whip,473 mL,320.0,9.0,6.0,0.3,25.0,160.0,47.0,4.0,41.0,14.0,0.2,0.02,0.4,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,0.02,Whip,473 mL,400.0,16.0,10.0,0.5,55.0,170.0,50.0,4.0,43.0,14.0,0.25,0.02,0.4,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Whole,No Whip,473 mL,360.0,13.0,8.0,0.3,35.0,150.0,47.0,4.0,41.0,13.0,0.15,0.0,0.35,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Whole,Whip,473 mL,440.0,20.0,12.0,0.5,60.0,150.0,50.0,4.0,43.0,14.0,0.25,0.0,0.35,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Soy,No Whip,473 mL,280.0,8.0,2.0,0.0,0.0,125.0,41.0,5.0,32.0,12.0,0.15,0.0,0.4,0.5,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Soy,Whip,473 mL,360.0,15.0,7.0,0.2,25.0,130.0,44.0,5.0,35.0,12.0,0.2,0.0,0.4,0.5,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Coconut,No Whip,473 mL,270.0,10.0,9.0,0.0,0.0,140.0,42.0,4.0,35.0,4.0,0.0,0.0,0.02,0.35,25,Hot Chocolate & Other
+Hot Chocolate,Grande,Coconut,Whip,473 mL,350.0,17.0,13.0,0.2,25.0,150.0,46.0,4.0,38.0,4.0,0.08,0.0,0.02,0.35,30,Hot Chocolate & Other
+Hot Chocolate,Venti®,Nonfat,No Whip,591 mL,350.0,3.5,2.0,0.0,10.0,180.0,63.0,5.0,55.0,18.0,0.25,0.0,0.5,0.4,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Nonfat,Whip,591 mL,430.0,10.0,6.0,0.2,35.0,190.0,66.0,5.0,58.0,18.0,0.35,0.0,0.5,0.45,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,0.02,No Whip,591 mL,420.0,11.0,7.0,0.4,35.0,200.0,62.0,5.0,55.0,17.0,0.25,0.02,0.5,0.4,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,0.02,Whip,591 mL,500.0,19.0,12.0,0.5,60.0,210.0,66.0,5.0,57.0,18.0,0.3,0.02,0.5,0.45,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Whole,No Whip,591 mL,470.0,17.0,10.0,0.4,45.0,190.0,62.0,5.0,55.0,17.0,0.2,0.0,0.45,0.4,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Whole,Whip,591 mL,550.0,24.0,14.0,0.5,70.0,190.0,66.0,5.0,57.0,17.0,0.3,0.0,0.45,0.45,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Soy,No Whip,591 mL,370.0,9.0,2.5,0.0,0.0,160.0,55.0,7.0,44.0,15.0,0.15,0.0,0.5,0.6,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Soy,Whip,591 mL,450.0,17.0,7.0,0.2,25.0,170.0,58.0,7.0,46.0,15.0,0.25,0.0,0.5,0.6,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Coconut,No Whip,591 mL,360.0,13.0,11.0,0.0,0.0,180.0,57.0,5.0,48.0,4.0,0.0,0.0,0.02,0.4,35,Hot Chocolate & Other
+Hot Chocolate,Venti®,Coconut,Whip,591 mL,430.0,20.0,15.0,0.2,25.0,190.0,60.0,5.0,51.0,5.0,0.08,0.0,0.04,0.45,35,Hot Chocolate & Other
+Lemonade,Kids,,,354 mL,80.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,21.0,0.1,0.0,0.25,0.0,0.0,0,Hot Chocolate & Other
+Lemonade,Tall,,,354 mL,80.0,0.0,0.0,0.0,0.0,0.0,21.0,0.0,21.0,0.1,0.0,0.25,0.0,0.0,0,Hot Chocolate & Other
+Lemonade,Grande,,,473 mL,110.0,0.0,0.0,0.0,0.0,1.0,29.0,0.0,29.0,0.2,0.0,0.3,0.0,0.0,0,Hot Chocolate & Other
+Lemonade,Venti®,,,709 mL,150.0,0.0,0.0,0.0,0.0,1.0,41.0,0.0,41.0,0.2,0.0,0.45,0.0,0.0,0,Hot Chocolate & Other
+Lemonade,Trenta,,,887 mL,180.0,0.0,0.0,0.0,0.0,1.0,49.0,0.0,49.0,0.3,0.0,0.5,0.0,0.0,0,Hot Chocolate & Other
+Milk,Tall,Nonfat,,354 mL,140.0,0.3,0.2,0.0,10.0,170.0,20.0,0.0,20.0,14.0,0.25,0.0,0.45,0.0,0,Hot Chocolate & Other
+Milk,Tall,0.02,,354 mL,200.0,8.0,4.0,0.2,30.0,190.0,19.0,0.0,19.0,13.0,0.2,0.02,0.45,0.0,0,Hot Chocolate & Other
+Milk,Tall,Whole,,354 mL,240.0,13.0,7.0,0.4,40.0,170.0,19.0,0.0,19.0,13.0,0.2,0.0,0.4,0.0,0,Hot Chocolate & Other
+Milk,Tall,Soy,,354 mL,160.0,6.0,1.0,0.0,0.0,150.0,13.0,2.0,10.0,11.0,0.15,0.0,0.45,0.2,0,Hot Chocolate & Other
+Milk,Tall,Coconut,,354 mL,130.0,9.0,8.0,0.0,0.0,160.0,13.0,0.0,13.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Milk,Grande,Nonfat,,473 mL,180.0,0.4,0.3,0.0,10.0,220.0,26.0,0.0,26.0,18.0,0.3,0.0,0.6,0.02,0,Hot Chocolate & Other
+Milk,Grande,0.02,,473 mL,260.0,10.0,5.0,0.3,40.0,250.0,25.0,0.0,25.0,17.0,0.3,0.0,0.6,0.0,0,Hot Chocolate & Other
+Milk,Grande,Whole,,473 mL,320.0,17.0,10.0,0.5,55.0,230.0,25.0,0.0,25.0,17.0,0.25,0.0,0.5,0.02,0,Hot Chocolate & Other
+Milk,Grande,Soy,,473 mL,210.0,8.0,1.0,0.0,0.0,200.0,17.0,2.0,13.0,15.0,0.2,0.0,0.6,0.25,0,Hot Chocolate & Other
+Milk,Grande,Coconut,,473 mL,180.0,11.0,11.0,0.0,0.0,210.0,18.0,0.0,17.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Milk,Venti®,Nonfat,,709 mL,250.0,0.5,0.4,0.0,15.0,310.0,37.0,0.0,37.0,25.0,0.45,0.0,0.8,0.02,0,Hot Chocolate & Other
+Milk,Venti®,0.02,,709 mL,370.0,15.0,7.0,0.4,60.0,350.0,36.0,0.0,36.0,24.0,0.4,0.02,0.8,0.02,0,Hot Chocolate & Other
+Milk,Venti®,Whole,,709 mL,450.0,24.0,14.0,0.5,75.0,320.0,36.0,0.0,36.0,23.0,0.35,0.0,0.8,0.02,0,Hot Chocolate & Other
+Milk,Venti®,Soy,,709 mL,300.0,12.0,1.5,0.0,0.0,280.0,24.0,3.0,18.0,21.0,0.3,0.0,0.9,0.4,0,Hot Chocolate & Other
+Milk,Venti®,Coconut,,709 mL,250.0,16.0,15.0,0.0,0.0,290.0,25.0,0.0,23.0,2.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Skinny Hot Chocolate,Kids,Nonfat,,236 mL,80.0,1.0,0.5,0.0,5.0,85.0,12.0,2.0,8.0,7.0,0.1,0.0,0.2,0.3,0,Hot Chocolate & Other
+Skinny Hot Chocolate,Short,Nonfat,,236 mL,80.0,1.0,0.5,0.0,5.0,85.0,12.0,2.0,8.0,7.0,0.1,0.0,0.2,0.3,0,Hot Chocolate & Other
+Skinny Hot Chocolate,Tall,Nonfat,,354 mL,130.0,1.5,1.0,0.1,5.0,125.0,18.0,3.0,13.0,11.0,0.15,0.0,0.3,0.45,0,Hot Chocolate & Other
+Skinny Hot Chocolate,Grande,Nonfat,,473 mL,170.0,1.5,1.0,0.1,5.0,160.0,24.0,4.0,17.0,14.0,0.2,0.0,0.4,0.6,0,Hot Chocolate & Other
+Skinny Hot Chocolate,Venti®,Nonfat,,591 mL,210.0,2.0,1.5,0.1,10.0,210.0,30.0,5.0,21.0,18.0,0.25,0.0,0.5,0.7,0,Hot Chocolate & Other
+Steamed Apple Juice,Kids,,,236 mL,120.0,0.0,0.0,0.0,0.0,10.0,30.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Apple Juice,Short,,,236 mL,120.0,0.0,0.0,0.0,0.0,10.0,30.0,0.0,27.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Apple Juice,Tall,,,354 mL,170.0,0.0,0.0,0.0,0.0,15.0,44.0,0.0,39.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Apple Juice,Grande,,,473 mL,220.0,0.0,0.0,0.0,0.0,20.0,55.0,0.0,50.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Apple Juice,Venti®,,,591 mL,280.0,0.0,0.0,0.0,0.0,25.0,69.0,0.0,62.0,0.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Milk,Kids,Nonfat,,236 mL,70.0,0.2,0.1,0.0,5.0,85.0,10.0,0.0,10.0,7.0,0.1,0.0,0.25,0.0,0,Hot Chocolate & Other
+Steamed Milk,Kids,0.02,,236 mL,100.0,4.0,2.0,0.1,15.0,95.0,10.0,0.0,10.0,7.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Steamed Milk,Kids,Whole,,236 mL,120.0,7.0,4.0,0.2,20.0,90.0,10.0,0.0,10.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Steamed Milk,Kids,Soy,,236 mL,80.0,3.0,0.4,0.0,0.0,75.0,6.0,1.0,5.0,5.0,0.08,0.0,0.2,0.1,0,Hot Chocolate & Other
+Steamed Milk,Kids,Coconut,,236 mL,70.0,5.0,4.5,0.0,0.0,85.0,7.0,0.0,7.0,0.5,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Milk,Short,Nonfat,,236 mL,70.0,0.2,0.1,0.0,5.0,85.0,10.0,0.0,10.0,7.0,0.1,0.0,0.25,0.0,0,Hot Chocolate & Other
+Steamed Milk,Short,0.02,,236 mL,100.0,4.0,2.0,0.1,15.0,95.0,10.0,0.0,10.0,7.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Steamed Milk,Short,Whole,,236 mL,120.0,7.0,4.0,0.2,20.0,90.0,10.0,0.0,10.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Steamed Milk,Short,Soy,,236 mL,80.0,3.0,0.4,0.0,0.0,75.0,6.0,1.0,5.0,5.0,0.08,0.0,0.2,0.1,0,Hot Chocolate & Other
+Steamed Milk,Short,Coconut,,236 mL,70.0,5.0,4.5,0.0,0.0,85.0,7.0,0.0,7.0,0.5,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Milk,Tall,Nonfat,,354 mL,110.0,0.2,0.2,0.0,5.0,130.0,15.0,0.0,15.0,10.0,0.2,0.0,0.35,0.0,0,Hot Chocolate & Other
+Steamed Milk,Tall,0.02,,354 mL,160.0,6.0,3.0,0.2,25.0,150.0,15.0,0.0,15.0,10.0,0.15,0.02,0.35,0.0,0,Hot Chocolate & Other
+Steamed Milk,Tall,Whole,,354 mL,190.0,10.0,6.0,0.3,30.0,135.0,15.0,0.0,15.0,10.0,0.15,0.0,0.3,0.0,0,Hot Chocolate & Other
+Steamed Milk,Tall,Soy,,354 mL,120.0,4.5,0.5,0.0,0.0,110.0,9.0,1.0,7.0,8.0,0.1,0.0,0.35,0.15,0,Hot Chocolate & Other
+Steamed Milk,Tall,Coconut,,354 mL,110.0,7.0,7.0,0.0,0.0,130.0,11.0,0.0,11.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Milk,Grande,Nonfat,,473 mL,140.0,0.3,0.2,0.0,10.0,170.0,20.0,0.0,20.0,14.0,0.25,0.0,0.45,0.0,0,Hot Chocolate & Other
+Steamed Milk,Grande,0.02,,473 mL,200.0,8.0,4.0,0.2,30.0,190.0,19.0,0.0,19.0,13.0,0.25,0.02,0.45,0.0,0,Hot Chocolate & Other
+Steamed Milk,Grande,Whole,,473 mL,250.0,13.0,8.0,0.4,40.0,170.0,19.0,0.0,19.0,13.0,0.2,0.0,0.4,0.0,0,Hot Chocolate & Other
+Steamed Milk,Grande,Soy,,473 mL,150.0,6.0,1.0,0.0,0.0,150.0,12.0,2.0,9.0,11.0,0.15,0.0,0.45,0.2,0,Hot Chocolate & Other
+Steamed Milk,Grande,Coconut,,473 mL,150.0,9.0,9.0,0.0,0.0,170.0,15.0,0.0,14.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Steamed Milk,Venti®,Nonfat,,591 mL,170.0,0.4,0.3,0.0,10.0,220.0,25.0,0.0,25.0,17.0,0.3,0.0,0.6,0.02,0,Hot Chocolate & Other
+Steamed Milk,Venti®,0.02,,591 mL,260.0,10.0,5.0,0.3,40.0,240.0,25.0,0.0,25.0,17.0,0.3,0.02,0.6,0.0,0,Hot Chocolate & Other
+Steamed Milk,Venti®,Whole,,591 mL,310.0,17.0,10.0,0.5,50.0,220.0,25.0,0.0,25.0,16.0,0.25,0.0,0.5,0.02,0,Hot Chocolate & Other
+Steamed Milk,Venti®,Soy,,591 mL,200.0,8.0,1.0,0.0,0.0,190.0,16.0,2.0,12.0,14.0,0.2,0.0,0.6,0.25,0,Hot Chocolate & Other
+Steamed Milk,Venti®,Coconut,,591 mL,180.0,12.0,11.0,0.0,0.0,220.0,18.0,0.0,17.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Kids,Nonfat,,236 mL,100.0,0.2,0.1,0.0,5.0,80.0,19.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Kids,0.02,,236 mL,130.0,4.0,2.0,0.1,15.0,90.0,19.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Kids,Whole,,236 mL,150.0,6.0,3.5,0.2,20.0,80.0,19.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Kids,Soy,,236 mL,110.0,3.0,0.4,0.0,0.0,70.0,15.0,1.0,14.0,5.0,0.08,0.0,0.2,0.1,0,Hot Chocolate & Other
+Vanilla Steamer,Kids,Coconut,,236 mL,110.0,4.5,4.0,0.0,0.0,80.0,16.0,0.0,16.0,0.5,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Short,Nonfat,,236 mL,100.0,0.2,0.1,0.0,5.0,80.0,19.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Short,0.02,,236 mL,130.0,4.0,2.0,0.1,15.0,90.0,19.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Short,Whole,,236 mL,150.0,6.0,3.5,0.2,20.0,80.0,19.0,0.0,19.0,6.0,0.1,0.0,0.2,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Short,Soy,,236 mL,110.0,3.0,0.4,0.0,0.0,70.0,15.0,1.0,14.0,5.0,0.08,0.0,0.2,0.1,0,Hot Chocolate & Other
+Vanilla Steamer,Short,Coconut,,236 mL,110.0,4.5,4.0,0.0,0.0,80.0,16.0,0.0,16.0,0.5,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Tall,Nonfat,,354 mL,160.0,0.2,0.2,0.0,5.0,120.0,29.0,0.0,29.0,10.0,0.2,0.0,0.3,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Tall,0.02,,354 mL,200.0,6.0,3.0,0.2,25.0,135.0,28.0,0.0,28.0,10.0,0.15,0.0,0.3,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Tall,Whole,,354 mL,230.0,9.0,5.0,0.3,30.0,125.0,28.0,0.0,28.0,9.0,0.15,0.0,0.3,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Tall,Soy,,354 mL,170.0,4.5,0.5,0.0,0.0,105.0,23.0,1.0,21.0,8.0,0.1,0.0,0.3,0.15,0,Hot Chocolate & Other
+Vanilla Steamer,Tall,Coconut,,354 mL,160.0,7.0,6.0,0.0,0.0,125.0,25.0,0.0,24.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Grande,Nonfat,,473 mL,200.0,0.3,0.2,0.0,10.0,160.0,38.0,0.0,38.0,13.0,0.25,0.0,0.4,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Grande,0.02,,473 mL,270.0,7.0,4.0,0.2,30.0,180.0,37.0,0.0,37.0,12.0,0.2,0.02,0.4,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Grande,Whole,,473 mL,310.0,12.0,7.0,0.4,40.0,160.0,37.0,0.0,37.0,12.0,0.2,0.0,0.4,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Grande,Soy,,473 mL,220.0,6.0,0.5,0.0,0.0,135.0,30.0,1.0,27.0,10.0,0.15,0.0,0.4,0.2,0,Hot Chocolate & Other
+Vanilla Steamer,Grande,Coconut,,473 mL,210.0,9.0,8.0,0.0,0.0,160.0,32.0,0.0,32.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Venti®,Nonfat,,591 mL,260.0,0.4,0.3,0.0,10.0,200.0,48.0,0.0,47.0,16.0,0.3,0.0,0.5,0.02,0,Hot Chocolate & Other
+Vanilla Steamer,Venti®,0.02,,591 mL,340.0,10.0,5.0,0.3,40.0,230.0,47.0,0.0,47.0,16.0,0.25,0.02,0.5,0.0,0,Hot Chocolate & Other
+Vanilla Steamer,Venti®,Whole,,591 mL,390.0,16.0,9.0,0.5,50.0,210.0,47.0,0.0,47.0,15.0,0.25,0.0,0.5,0.02,0,Hot Chocolate & Other
+Vanilla Steamer,Venti®,Soy,,591 mL,280.0,7.0,1.0,0.0,0.0,170.0,38.0,2.0,35.0,13.0,0.2,0.0,0.5,0.25,0,Hot Chocolate & Other
+Vanilla Steamer,Venti®,Coconut,,591 mL,270.0,11.0,11.0,0.0,0.0,200.0,41.0,0.0,40.0,1.0,0.0,0.0,0.0,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Nonfat,No Whip,236 mL,180.0,3.0,2.5,0.0,5.0,125.0,31.0,0.0,30.0,8.0,0.1,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Nonfat,Whip,236 mL,230.0,8.0,6.0,0.2,25.0,130.0,32.0,0.0,32.0,8.0,0.15,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,0.02,No Whip,236 mL,210.0,6.0,4.0,0.1,15.0,135.0,30.0,0.0,30.0,8.0,0.1,0.02,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,0.02,Whip,236 mL,260.0,11.0,7.0,0.3,35.0,140.0,32.0,0.0,31.0,8.0,0.15,0.02,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Whole,No Whip,236 mL,220.0,8.0,5.0,0.2,20.0,125.0,30.0,0.0,30.0,7.0,0.08,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Whole,Whip,236 mL,280.0,14.0,9.0,0.3,40.0,130.0,32.0,0.0,31.0,8.0,0.15,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Soy,No Whip,236 mL,190.0,5.0,2.5,0.0,5.0,115.0,27.0,1.0,26.0,6.0,0.06,0.0,0.25,0.08,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Soy,Whip,236 mL,240.0,11.0,6.0,0.2,20.0,120.0,29.0,1.0,27.0,7.0,0.1,0.0,0.25,0.08,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Coconut,No Whip,236 mL,180.0,7.0,6.0,0.0,5.0,125.0,28.0,0.0,28.0,2.0,0.0,0.0,0.06,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Kids,Coconut,Whip,236 mL,230.0,12.0,9.0,0.2,20.0,130.0,30.0,0.0,29.0,3.0,0.06,0.0,0.06,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Nonfat,No Whip,236 mL,180.0,3.0,2.5,0.0,5.0,125.0,31.0,0.0,30.0,8.0,0.1,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Nonfat,Whip,236 mL,230.0,8.0,6.0,0.2,25.0,130.0,32.0,0.0,32.0,8.0,0.15,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,0.02,No Whip,236 mL,210.0,6.0,4.0,0.1,15.0,135.0,30.0,0.0,30.0,8.0,0.1,0.02,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,0.02,Whip,236 mL,260.0,11.0,7.0,0.3,35.0,140.0,32.0,0.0,31.0,8.0,0.15,0.02,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Whole,No Whip,236 mL,220.0,8.0,5.0,0.2,20.0,125.0,30.0,0.0,30.0,7.0,0.08,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Whole,Whip,236 mL,280.0,14.0,9.0,0.3,40.0,130.0,32.0,0.0,31.0,8.0,0.15,0.0,0.25,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Soy,No Whip,236 mL,190.0,5.0,2.5,0.0,5.0,115.0,27.0,1.0,26.0,6.0,0.06,0.0,0.25,0.08,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Soy,Whip,236 mL,240.0,11.0,6.0,0.2,20.0,120.0,29.0,1.0,27.0,7.0,0.1,0.0,0.25,0.08,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Coconut,No Whip,236 mL,180.0,7.0,6.0,0.0,5.0,125.0,28.0,0.0,28.0,2.0,0.0,0.0,0.06,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Short,Coconut,Whip,236 mL,230.0,12.0,9.0,0.2,20.0,130.0,30.0,0.0,29.0,3.0,0.06,0.0,0.06,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Nonfat,No Whip,354 mL,270.0,4.5,3.5,0.0,10.0,190.0,46.0,0.0,46.0,12.0,0.15,0.02,0.4,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Nonfat,Whip,354 mL,330.0,11.0,7.0,0.2,30.0,200.0,48.0,0.0,47.0,12.0,0.25,0.02,0.4,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,0.02,No Whip,354 mL,310.0,9.0,6.0,0.2,25.0,200.0,46.0,0.0,46.0,12.0,0.15,0.02,0.4,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,0.02,Whip,354 mL,370.0,16.0,10.0,0.3,45.0,210.0,48.0,0.0,47.0,12.0,0.2,0.02,0.4,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Whole,No Whip,354 mL,340.0,13.0,8.0,0.3,30.0,190.0,46.0,0.0,46.0,11.0,0.1,0.02,0.35,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Whole,Whip,354 mL,400.0,19.0,12.0,0.4,55.0,200.0,48.0,0.0,47.0,11.0,0.2,0.02,0.35,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Soy,No Whip,354 mL,280.0,8.0,4.0,0.0,5.0,180.0,41.0,1.0,39.0,10.0,0.1,0.02,0.4,0.15,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Soy,Whip,354 mL,340.0,14.0,8.0,0.2,25.0,180.0,43.0,1.0,40.0,10.0,0.15,0.02,0.4,0.15,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Coconut,No Whip,354 mL,270.0,10.0,9.0,0.0,5.0,190.0,42.0,0.0,42.0,3.0,0.0,0.02,0.1,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Tall,Coconut,Whip,354 mL,330.0,16.0,13.0,0.2,25.0,190.0,44.0,0.0,43.0,4.0,0.06,0.02,0.1,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Nonfat,No Whip,473 mL,360.0,6.0,5.0,0.0,10.0,250.0,61.0,0.0,61.0,15.0,0.2,0.02,0.5,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Nonfat,Whip,473 mL,430.0,13.0,9.0,0.2,40.0,260.0,63.0,0.0,62.0,16.0,0.3,0.02,0.5,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,0.02,No Whip,473 mL,410.0,12.0,8.0,0.2,30.0,270.0,61.0,0.0,60.0,15.0,0.2,0.02,0.5,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,0.02,Whip,473 mL,480.0,19.0,12.0,0.4,60.0,270.0,63.0,0.0,62.0,15.0,0.25,0.02,0.5,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Whole,No Whip,473 mL,450.0,17.0,11.0,0.3,40.0,250.0,61.0,0.0,60.0,15.0,0.15,0.02,0.45,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Whole,Whip,473 mL,520.0,24.0,15.0,0.5,65.0,260.0,63.0,0.0,62.0,15.0,0.25,0.02,0.5,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Soy,No Whip,473 mL,370.0,11.0,5.0,0.0,5.0,230.0,55.0,1.0,52.0,13.0,0.15,0.02,0.5,0.15,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Soy,Whip,473 mL,440.0,18.0,10.0,0.2,30.0,240.0,57.0,1.0,53.0,13.0,0.2,0.02,0.5,0.15,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Coconut,No Whip,473 mL,360.0,13.0,12.0,0.0,5.0,250.0,56.0,0.0,55.0,5.0,0.0,0.02,0.1,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Grande,Coconut,Whip,473 mL,430.0,20.0,16.0,0.2,30.0,250.0,58.0,0.0,57.0,5.0,0.08,0.02,0.15,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Nonfat,No Whip,591 mL,450.0,7.0,6.0,0.0,15.0,320.0,77.0,0.0,77.0,20.0,0.25,0.02,0.6,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Nonfat,Whip,591 mL,520.0,14.0,10.0,0.2,40.0,320.0,79.0,0.0,78.0,20.0,0.35,0.02,0.7,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,0.02,No Whip,591 mL,520.0,16.0,10.0,0.3,40.0,340.0,76.0,0.0,76.0,19.0,0.25,0.04,0.6,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,0.02,Whip,591 mL,590.0,23.0,15.0,0.5,65.0,350.0,78.0,0.0,78.0,20.0,0.3,0.04,0.6,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Whole,No Whip,591 mL,570.0,21.0,14.0,0.4,50.0,320.0,76.0,0.0,76.0,19.0,0.2,0.02,0.6,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Whole,Whip,591 mL,640.0,28.0,18.0,0.5,75.0,330.0,78.0,0.0,78.0,19.0,0.3,0.02,0.6,0.02,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Soy,No Whip,591 mL,470.0,14.0,7.0,0.0,5.0,290.0,69.0,2.0,65.0,16.0,0.15,0.02,0.6,0.2,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Soy,Whip,591 mL,540.0,21.0,11.0,0.2,30.0,300.0,71.0,2.0,67.0,17.0,0.25,0.02,0.6,0.2,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Coconut,No Whip,591 mL,450.0,17.0,15.0,0.0,5.0,310.0,71.0,0.0,69.0,6.0,0.0,0.02,0.15,0.0,0,Hot Chocolate & Other
+White Hot Chocolate,Venti®,Coconut,Whip,591 mL,520.0,24.0,20.0,0.2,30.0,320.0,73.0,0.0,71.0,6.0,0.08,0.02,0.15,0.0,0,Hot Chocolate & Other
+Sweetened Whipped Cream,Short - Hot,,,,50.0,5.0,3.0,0.2,20.0,5.0,1.0,0.0,1.0,0.3,0.06,0.0,0.0,0.0,0,Add-Ons
+Sweetened Whipped Cream,Tall - Hot,,,,60.0,6.0,4.0,0.2,20.0,5.0,2.0,0.0,1.0,0.3,0.06,0.0,0.0,0.0,0,Add-Ons
+Sweetened Whipped Cream,Grande/Venti® - Hot,,,,70.0,7.0,4.5,0.2,25.0,5.0,2.0,0.0,2.0,0.4,0.08,0.0,0.02,0.0,0,Add-Ons
+Sweetened Whipped Cream,Tall - Cold,,,,80.0,8.0,5.0,0.2,30.0,10.0,2.0,0.0,2.0,0.4,0.1,0.0,0.02,0.0,0,Add-Ons
+Sweetened Whipped Cream,Grande/Venti® - Cold,,,,110.0,11.0,7.0,0.3,40.0,10.0,3.0,0.0,2.0,1.0,0.15,0.0,0.02,0.0,0,Add-Ons
+Flavoured Syrup,1 pump,,,,20.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0,Add-Ons
+Flavoured Sugar-Free Syrup,1 pump,,,,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,Add-Ons
+Mocha Syrup,1 pump,,,,35.0,0.5,0.0,0.0,0.0,0.0,7.0,1.0,5.0,1.0,0.0,0.0,0.0,0.06,5,Add-Ons
+Espresso Shot,1 shot,,,,5.0,0.1,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,75,Caramel Drizzle
+Matcha Green Tea Powder,1 scoop,,,,25.0,0.1,0.0,0.0,0.0,0.0,6.0,0.0,5.0,0.3,0.0,0.04,0.0,0.02,25,Caramel Drizzle
+Protein & Fibre Powder,1 scoop,,,,30.0,0.1,0.1,0.0,0.0,45.0,1.0,1.0,0.0,6.0,0.0,0.0,0.0,0.02,0,Caramel Drizzle
