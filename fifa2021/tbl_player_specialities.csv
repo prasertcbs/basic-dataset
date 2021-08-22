@@ -1,0 +1,1787 @@
+int_speciality_id,int_player_id,str_player_speciality
+1,1,Dribbler
+2,1,Distance Shooter
+3,1,FK Specialist
+4,1,Acrobat
+5,1,Clinical Finisher
+6,1,Complete Forward
+7,2,Aerial Threat
+8,2,Dribbler
+9,2,Distance Shooter
+10,2,Acrobat
+11,2,Clinical Finisher
+12,2,Complete Forward
+13,4,Dribbler
+14,4,Playmaker 
+15,4,Engine
+16,4,Distance Shooter
+17,4,Crosser
+18,4,Complete Midfielder
+19,5,Speedster
+20,5,Dribbler
+21,5,Playmaker 
+22,5,FK Specialist
+23,5,Acrobat
+24,5,Clinical Finisher
+25,5,Complete Midfielder
+26,5,Complete Forward
+27,6,Distance Shooter
+28,6,Clinical Finisher
+29,7,Speedster
+30,7,Dribbler
+31,7,Acrobat
+32,9,Speedster
+33,9,Dribbler
+34,9,Acrobat
+35,9,Clinical Finisher
+36,9,Complete Forward
+37,10,Speedster
+38,10,Dribbler
+39,10,Acrobat
+40,11,Tackling 
+41,11,Tactician 
+42,11,Strength
+43,11,Complete Defender
+44,13,Engine
+45,13,Tackling 
+46,13,Tactician 
+47,13,Strength
+48,13,Complete Defender
+49,16,Poacher
+50,17,Aerial Threat
+51,17,Tackling 
+52,17,Tactician 
+53,17,Complete Defender
+54,18,Dribbler
+55,18,Clinical Finisher
+56,18,Complete Forward
+57,19,Tackling 
+58,19,Tactician 
+59,20,Crosser
+60,21,Dribbler
+61,21,Playmaker 
+62,21,FK Specialist
+63,21,Acrobat
+64,21,Complete Midfielder
+65,23,Speedster
+66,23,Dribbler
+67,23,Acrobat
+68,24,Distance Shooter
+69,24,Clinical Finisher
+70,25,Tackling 
+71,25,Tactician 
+72,25,Strength
+73,25,Complete Defender
+74,26,Dribbler
+75,26,Engine
+76,26,Distance Shooter
+77,26,Acrobat
+78,26,Clinical Finisher
+79,26,Complete Forward
+80,27,Dribbler
+81,27,Acrobat
+82,28,Playmaker 
+83,28,Distance Shooter
+84,28,Crosser
+85,28,Complete Midfielder
+86,30,Dribbler
+87,30,Acrobat
+88,31,Crosser
+89,32,Dribbler
+90,32,Engine
+91,32,Acrobat
+92,33,Engine
+93,33,Crosser
+94,34,Tackling 
+95,34,Tactician 
+96,35,Playmaker 
+97,35,Engine
+98,35,Distance Shooter
+99,35,Crosser
+100,35,FK Specialist
+101,35,Complete Midfielder
+102,36,Tackling 
+103,36,Tactician 
+104,37,Dribbler
+105,37,Engine
+106,38,Poacher
+107,38,Dribbler
+108,38,Acrobat
+109,38,Clinical Finisher
+110,38,Complete Forward
+111,40,Clinical Finisher
+112,42,Speedster
+113,44,Dribbler
+114,44,Crosser
+115,44,FK Specialist
+116,44,Acrobat
+117,45,Playmaker 
+118,45,Crosser
+119,45,Acrobat
+120,45,Complete Midfielder
+121,46,Distance Shooter
+122,46,Clinical Finisher
+123,48,Tackling 
+124,48,Tactician 
+125,48,Strength
+126,48,Complete Defender
+127,50,Dribbler
+128,50,Acrobat
+129,50,Clinical Finisher
+130,50,Complete Forward
+131,51,Engine
+132,52,Tackling 
+133,52,Tactician 
+134,53,Dribbler
+135,53,Playmaker 
+136,53,Acrobat
+137,53,Complete Midfielder
+138,54,Dribbler
+139,54,Playmaker 
+140,54,Strength
+141,54,Complete Midfielder
+142,56,Engine
+143,57,Acrobat
+144,58,Engine
+145,59,Tackling 
+146,59,Tactician 
+147,59,Strength
+148,59,Complete Defender
+149,61,Dribbler
+150,61,Playmaker 
+151,61,Complete Midfielder
+152,62,Aerial Threat
+153,62,Tactician 
+154,62,Strength
+155,63,Speedster
+156,63,Dribbler
+157,63,Playmaker 
+158,63,Acrobat
+159,63,Complete Midfielder
+160,64,Poacher
+161,65,Strength
+162,66,Tactician 
+163,68,Speedster
+164,68,Dribbler
+165,68,Acrobat
+166,70,Dribbler
+167,70,Playmaker 
+168,70,Complete Midfielder
+169,72,Speedster
+170,72,Dribbler
+171,73,Tactician 
+172,74,Speedster
+173,75,Engine
+174,77,Playmaker 
+175,77,Crosser
+176,77,Complete Midfielder
+177,78,Tackling 
+178,78,Tactician 
+179,79,Dribbler
+180,79,Acrobat
+181,80,Poacher
+182,81,Playmaker 
+183,82,Dribbler
+184,82,Acrobat
+185,83,Engine
+186,85,Poacher
+187,85,Strength
+188,85,Complete Forward
+189,87,Playmaker 
+190,87,Engine
+191,87,Crosser
+192,87,Complete Midfielder
+193,88,Playmaker 
+194,88,Crosser
+195,88,FK Specialist
+196,88,Complete Midfielder
+197,89,Dribbler
+198,89,Acrobat
+199,90,Speedster
+200,90,Engine
+201,91,FK Specialist
+202,91,Clinical Finisher
+203,93,Tactician 
+204,94,Tackling 
+205,96,Engine
+206,97,Dribbler
+207,97,Playmaker 
+208,97,FK Specialist
+209,97,Complete Midfielder
+210,98,Dribbler
+211,98,Acrobat
+212,99,Tactician 
+213,100,Distance Shooter
+214,100,Strength
+215,100,Clinical Finisher
+216,100,Complete Forward
+217,101,Dribbler
+218,101,Acrobat
+219,102,Dribbler
+220,102,Playmaker 
+221,102,Complete Midfielder
+222,104,Tackling 
+223,104,Tactician 
+224,106,Tackling 
+225,106,Strength
+226,108,Speedster
+227,108,Dribbler
+228,108,Acrobat
+229,109,Engine
+230,109,Crosser
+231,110,Dribbler
+232,111,Aerial Threat
+233,111,Tackling 
+234,111,Strength
+235,112,Dribbler
+236,116,Dribbler
+237,116,Acrobat
+238,117,Engine
+239,118,Tactician 
+240,118,Strength
+241,119,Distance Shooter
+242,120,Engine
+243,121,FK Specialist
+244,122,Distance Shooter
+245,123,Crosser
+246,124,Dribbler
+247,124,Acrobat
+248,125,Tackling 
+249,125,Tactician 
+250,127,Dribbler
+251,129,Tactician 
+252,130,Dribbler
+253,130,Acrobat
+254,131,Acrobat
+255,131,Clinical Finisher
+256,132,Speedster
+257,132,Dribbler
+258,132,Acrobat
+259,134,Engine
+260,136,Engine
+261,139,Tactician 
+262,143,Tactician 
+263,144,Engine
+264,145,Speedster
+265,146,Speedster
+266,146,Dribbler
+267,147,Dribbler
+268,147,Acrobat
+269,148,Acrobat
+270,151,Speedster
+271,151,Engine
+272,152,Speedster
+273,152,Acrobat
+274,153,Dribbler
+275,155,Dribbler
+276,155,Engine
+277,155,Crosser
+278,156,Dribbler
+279,160,Strength
+280,161,Dribbler
+281,162,Speedster
+282,162,Dribbler
+283,162,Acrobat
+284,163,Strength
+285,166,Engine
+286,168,Tactician 
+287,169,Engine
+288,170,Clinical Finisher
+289,171,Dribbler
+290,171,Acrobat
+291,172,Acrobat
+292,174,Playmaker 
+293,175,Speedster
+294,175,Engine
+295,177,Dribbler
+296,177,Acrobat
+297,178,Tackling 
+298,178,Tactician 
+299,179,Tackling 
+300,179,Tactician 
+301,179,Strength
+302,179,Complete Defender
+303,184,Speedster
+304,184,Dribbler
+305,185,Aerial Threat
+306,185,Tactician 
+307,189,Tactician 
+308,191,Dribbler
+309,191,Acrobat
+310,192,Dribbler
+311,192,FK Specialist
+312,192,Acrobat
+313,194,Acrobat
+314,195,Engine
+315,196,Playmaker 
+316,197,Crosser
+317,199,Tackling 
+318,199,Strength
+319,201,Engine
+320,202,Poacher
+321,204,Engine
+322,204,Distance Shooter
+323,204,Tackling 
+324,204,Tactician 
+325,205,Dribbler
+326,206,Distance Shooter
+327,206,Crosser
+328,206,FK Specialist
+329,211,Clinical Finisher
+330,213,Playmaker 
+331,214,Poacher
+332,214,Aerial Threat
+333,214,Distance Shooter
+334,214,Strength
+335,214,Clinical Finisher
+336,214,Complete Forward
+337,217,Dribbler
+338,222,Engine
+339,223,Acrobat
+340,226,Playmaker 
+341,228,Engine
+342,232,Dribbler
+343,232,Clinical Finisher
+344,232,Complete Forward
+345,235,Dribbler
+346,235,Acrobat
+347,236,FK Specialist
+348,239,Speedster
+349,239,Acrobat
+350,240,Strength
+351,242,Engine
+352,246,Aerial Threat
+353,246,Strength
+354,247,Speedster
+355,247,Dribbler
+356,247,Acrobat
+357,248,Tactician 
+358,251,Speedster
+359,251,Dribbler
+360,251,Acrobat
+361,252,Strength
+362,254,Dribbler
+363,254,Distance Shooter
+364,254,Crosser
+365,254,FK Specialist
+366,255,Speedster
+367,261,Tactician 
+368,263,Engine
+369,264,Distance Shooter
+370,264,Crosser
+371,264,FK Specialist
+372,268,Dribbler
+373,268,Acrobat
+374,271,Dribbler
+375,272,Playmaker 
+376,274,Tackling 
+377,274,Tactician 
+378,278,Speedster
+379,278,Dribbler
+380,278,Acrobat
+381,283,Engine
+382,284,Engine
+383,285,Speedster
+384,286,Speedster
+385,286,Acrobat
+386,288,Poacher
+387,293,Speedster
+388,295,Engine
+389,296,Dribbler
+390,302,Aerial Threat
+391,302,Strength
+392,303,Dribbler
+393,303,Acrobat
+394,304,Dribbler
+395,304,Acrobat
+396,307,Acrobat
+397,309,Speedster
+398,310,Engine
+399,318,Engine
+400,318,Acrobat
+401,321,Distance Shooter
+402,321,FK Specialist
+403,322,Acrobat
+404,329,Poacher
+405,329,Clinical Finisher
+406,331,Crosser
+407,333,Acrobat
+408,333,Clinical Finisher
+409,335,Engine
+410,336,Dribbler
+411,338,Dribbler
+412,341,Engine
+413,342,Poacher
+414,346,Acrobat
+415,347,Aerial Threat
+416,347,Strength
+417,348,Engine
+418,348,Acrobat
+419,350,Tactician 
+420,351,Dribbler
+421,351,Acrobat
+422,353,Dribbler
+423,354,Speedster
+424,354,Dribbler
+425,354,Acrobat
+426,355,Dribbler
+427,365,Dribbler
+428,366,Engine
+429,367,Poacher
+430,367,Strength
+431,367,Complete Forward
+432,369,Playmaker 
+433,370,Strength
+434,374,Strength
+435,375,Acrobat
+436,376,Engine
+437,382,Strength
+438,383,Speedster
+439,383,Dribbler
+440,383,Acrobat
+441,384,Dribbler
+442,384,Acrobat
+443,385,Dribbler
+444,389,Speedster
+445,391,Dribbler
+446,394,Strength
+447,398,Speedster
+448,400,Strength
+449,401,Strength
+450,405,Speedster
+451,405,Dribbler
+452,405,Engine
+453,405,Acrobat
+454,407,Acrobat
+455,410,Engine
+456,413,Speedster
+457,413,Acrobat
+458,416,Crosser
+459,419,Speedster
+460,419,Dribbler
+461,419,Acrobat
+462,430,Dribbler
+463,432,Engine
+464,434,Dribbler
+465,435,Strength
+466,440,Strength
+467,444,Engine
+468,446,Aerial Threat
+469,446,Strength
+470,449,Dribbler
+471,449,Acrobat
+472,458,Speedster
+473,464,Strength
+474,469,FK Specialist
+475,471,Aerial Threat
+476,472,Engine
+477,478,Distance Shooter
+478,478,Strength
+479,486,FK Specialist
+480,486,Acrobat
+481,488,Strength
+482,496,Aerial Threat
+483,502,Dribbler
+484,502,Strength
+485,503,Distance Shooter
+486,506,Dribbler
+487,507,Engine
+488,507,Crosser
+489,509,Dribbler
+490,510,Speedster
+491,510,Acrobat
+492,514,Acrobat
+493,515,Strength
+494,522,Speedster
+495,524,Aerial Threat
+496,524,Strength
+497,527,FK Specialist
+498,533,Acrobat
+499,539,Engine
+500,540,Engine
+501,541,Distance Shooter
+502,541,FK Specialist
+503,545,Engine
+504,547,Acrobat
+505,548,Acrobat
+506,553,Aerial Threat
+507,553,Strength
+508,554,Strength
+509,557,Acrobat
+510,561,Speedster
+511,561,Acrobat
+512,563,Strength
+513,571,Strength
+514,575,Dribbler
+515,584,Speedster
+516,584,Dribbler
+517,588,Aerial Threat
+518,588,Strength
+519,590,Crosser
+520,599,Acrobat
+521,607,Acrobat
+522,609,Distance Shooter
+523,612,Engine
+524,612,Crosser
+525,612,FK Specialist
+526,621,Strength
+527,623,Aerial Threat
+528,623,Strength
+529,625,Strength
+530,627,Dribbler
+531,649,Aerial Threat
+532,653,Speedster
+533,653,Acrobat
+534,654,Aerial Threat
+535,654,Strength
+536,655,Aerial Threat
+537,655,Strength
+538,658,Poacher
+539,661,Dribbler
+540,663,Engine
+541,663,Strength
+542,665,Strength
+543,668,Aerial Threat
+544,668,Strength
+545,678,Crosser
+546,687,Crosser
+547,696,Engine
+548,701,Engine
+549,704,Speedster
+550,709,Aerial Threat
+551,717,Speedster
+552,723,Aerial Threat
+553,725,Acrobat
+554,726,Engine
+555,728,Aerial Threat
+556,728,Clinical Finisher
+557,728,Complete Forward
+558,729,Strength
+559,730,Acrobat
+560,734,Strength
+561,736,Speedster
+562,737,Engine
+563,738,Speedster
+564,745,Speedster
+565,745,Dribbler
+566,745,Acrobat
+567,756,Speedster
+568,756,Acrobat
+569,757,Acrobat
+570,764,Engine
+571,766,Aerial Threat
+572,766,Strength
+573,778,Strength
+574,780,Engine
+575,783,Engine
+576,786,Engine
+577,791,Crosser
+578,794,Acrobat
+579,796,Strength
+580,801,Engine
+581,805,Strength
+582,810,Acrobat
+583,816,Acrobat
+584,819,Acrobat
+585,821,Engine
+586,823,Engine
+587,827,Engine
+588,834,Aerial Threat
+589,834,Engine
+590,836,Strength
+591,840,Acrobat
+592,848,Aerial Threat
+593,853,Speedster
+594,855,Engine
+595,861,Strength
+596,864,Speedster
+597,864,Dribbler
+598,864,Acrobat
+599,866,Engine
+600,868,Acrobat
+601,872,Aerial Threat
+602,872,Engine
+603,875,Strength
+604,882,Speedster
+605,883,Strength
+606,893,Engine
+607,894,Engine
+608,917,Engine
+609,939,Engine
+610,948,Engine
+611,951,Acrobat
+612,957,Engine
+613,957,Acrobat
+614,966,Strength
+615,967,Speedster
+616,967,Acrobat
+617,968,Acrobat
+618,980,Speedster
+619,980,Acrobat
+620,984,Strength
+621,998,Aerial Threat
+622,998,Strength
+623,1001,Engine
+624,1002,Dribbler
+625,1002,Acrobat
+626,1007,Acrobat
+627,1009,Strength
+628,1014,Strength
+629,1030,Strength
+630,1031,Speedster
+631,1036,Acrobat
+632,1038,Aerial Threat
+633,1046,Aerial Threat
+634,1050,Strength
+635,1056,Strength
+636,1062,Speedster
+637,1062,Acrobat
+638,1066,Engine
+639,1067,Dribbler
+640,1072,Engine
+641,1077,Strength
+642,1079,Dribbler
+643,1083,Acrobat
+644,1084,Strength
+645,1090,Acrobat
+646,1091,Strength
+647,1092,Playmaker 
+648,1096,Speedster
+649,1096,Engine
+650,1100,Strength
+651,1107,Engine
+652,1113,Strength
+653,1116,Acrobat
+654,1127,Strength
+655,1135,Aerial Threat
+656,1135,Strength
+657,1141,Engine
+658,1148,Aerial Threat
+659,1148,Strength
+660,1150,Speedster
+661,1157,Engine
+662,1161,Engine
+663,1166,Speedster
+664,1166,Acrobat
+665,1180,FK Specialist
+666,1191,Strength
+667,1192,Strength
+668,1200,Strength
+669,1204,Speedster
+670,1204,Dribbler
+671,1204,Acrobat
+672,1206,Speedster
+673,1206,Acrobat
+674,1218,Speedster
+675,1218,Acrobat
+676,1221,Engine
+677,1225,Speedster
+678,1226,Strength
+679,1232,Engine
+680,1235,Strength
+681,1239,Distance Shooter
+682,1239,FK Specialist
+683,1242,Strength
+684,1245,Speedster
+685,1259,Speedster
+686,1259,Acrobat
+687,1275,Acrobat
+688,1277,Dribbler
+689,1281,Acrobat
+690,1282,Speedster
+691,1282,Engine
+692,1297,Aerial Threat
+693,1297,Strength
+694,1298,Strength
+695,1299,Acrobat
+696,1330,Strength
+697,1336,Speedster
+698,1336,Acrobat
+699,1341,Engine
+700,1358,Strength
+701,1361,Strength
+702,1364,Dribbler
+703,1367,Acrobat
+704,1372,Aerial Threat
+705,1372,Strength
+706,1379,Speedster
+707,1382,Strength
+708,1385,Engine
+709,1390,Aerial Threat
+710,1390,Strength
+711,1391,Speedster
+712,1397,Engine
+713,1400,Speedster
+714,1402,Speedster
+715,1405,Strength
+716,1409,Acrobat
+717,1413,Speedster
+718,1413,Engine
+719,1417,Strength
+720,1419,Strength
+721,1422,Engine
+722,1424,Strength
+723,1425,Engine
+724,1449,Strength
+725,1454,Speedster
+726,1454,Acrobat
+727,1456,Aerial Threat
+728,1456,Strength
+729,1462,Engine
+730,1473,Speedster
+731,1489,Strength
+732,1491,Strength
+733,1495,Engine
+734,1503,Engine
+735,1509,Acrobat
+736,1521,Acrobat
+737,1522,Strength
+738,1524,Speedster
+739,1534,Strength
+740,1547,Strength
+741,1548,Aerial Threat
+742,1548,Strength
+743,1550,Aerial Threat
+744,1558,Acrobat
+745,1570,Aerial Threat
+746,1570,Strength
+747,1575,Strength
+748,1576,Speedster
+749,1585,Aerial Threat
+750,1585,Strength
+751,1596,Aerial Threat
+752,1596,Strength
+753,1608,Speedster
+754,1609,Strength
+755,1614,Strength
+756,1619,Engine
+757,1624,Strength
+758,1629,Acrobat
+759,1644,Speedster
+760,1654,Strength
+761,1658,Engine
+762,1667,Strength
+763,1672,Strength
+764,1675,Aerial Threat
+765,1675,Strength
+766,1679,Speedster
+767,1688,Engine
+768,1698,Speedster
+769,1698,Acrobat
+770,1705,Acrobat
+771,1710,Acrobat
+772,1730,Engine
+773,1733,Speedster
+774,1733,Acrobat
+775,1746,FK Specialist
+776,1749,Engine
+777,1758,Speedster
+778,1763,Engine
+779,1765,Strength
+780,1775,Speedster
+781,1775,Acrobat
+782,1784,Strength
+783,1789,Strength
+784,1809,Acrobat
+785,1810,Aerial Threat
+786,1810,Strength
+787,1813,Strength
+788,1814,Engine
+789,1818,Acrobat
+790,1827,Acrobat
+791,1828,Crosser
+792,1828,FK Specialist
+793,1829,Strength
+794,1840,Acrobat
+795,1855,Speedster
+796,1862,Acrobat
+797,1866,Engine
+798,1871,Strength
+799,1884,Dribbler
+800,1893,Strength
+801,1894,Strength
+802,1895,Strength
+803,1897,Acrobat
+804,1907,Speedster
+805,1914,Strength
+806,1931,Acrobat
+807,1934,Strength
+808,1943,Engine
+809,1954,Speedster
+810,1957,Strength
+811,1967,Speedster
+812,1979,Aerial Threat
+813,1979,Strength
+814,1983,Speedster
+815,1984,Engine
+816,1986,FK Specialist
+817,1991,Aerial Threat
+818,1992,Speedster
+819,1997,Strength
+820,2007,Strength
+821,2010,Speedster
+822,2018,Engine
+823,2019,Strength
+824,2030,Engine
+825,2037,Speedster
+826,2044,Strength
+827,2047,Acrobat
+828,2060,Strength
+829,2062,Engine
+830,2065,Engine
+831,2066,Strength
+832,2067,Acrobat
+833,2070,Speedster
+834,2092,Engine
+835,2098,Strength
+836,2099,Strength
+837,2134,Aerial Threat
+838,2134,Strength
+839,2152,Acrobat
+840,2154,Speedster
+841,2169,Speedster
+842,2169,Acrobat
+843,2170,Strength
+844,2174,Speedster
+845,2180,Acrobat
+846,2225,Acrobat
+847,2236,Speedster
+848,2238,Acrobat
+849,2250,Strength
+850,2252,Speedster
+851,2266,Strength
+852,2278,Engine
+853,2283,Aerial Threat
+854,2283,Strength
+855,2285,Speedster
+856,2285,Acrobat
+857,2294,Strength
+858,2306,Aerial Threat
+859,2309,Engine
+860,2316,Acrobat
+861,2323,Aerial Threat
+862,2340,Strength
+863,2347,Acrobat
+864,2352,Strength
+865,2356,Engine
+866,2375,Acrobat
+867,2394,Speedster
+868,2396,Acrobat
+869,2397,Acrobat
+870,2401,Strength
+871,2406,Speedster
+872,2406,Acrobat
+873,2411,Strength
+874,2417,Acrobat
+875,2424,Speedster
+876,2427,Acrobat
+877,2431,Strength
+878,2443,Strength
+879,2456,Tactician 
+880,2464,Acrobat
+881,2466,Engine
+882,2467,Strength
+883,2474,Strength
+884,2475,Engine
+885,2480,Strength
+886,2484,Engine
+887,2494,Acrobat
+888,2497,Speedster
+889,2497,Acrobat
+890,2498,Engine
+891,2501,Engine
+892,2506,Acrobat
+893,2509,Acrobat
+894,2510,Speedster
+895,2510,Acrobat
+896,2512,Engine
+897,2514,Engine
+898,2518,Speedster
+899,2519,Engine
+900,2541,Acrobat
+901,2553,Strength
+902,2555,Speedster
+903,2555,Acrobat
+904,2592,Acrobat
+905,2618,Speedster
+906,2624,Speedster
+907,2624,Acrobat
+908,2631,Aerial Threat
+909,2639,Engine
+910,2664,Acrobat
+911,2672,Speedster
+912,2672,Engine
+913,2677,Strength
+914,2680,Speedster
+915,2680,Acrobat
+916,2683,Strength
+917,2715,Strength
+918,2717,Acrobat
+919,2719,Speedster
+920,2720,Engine
+921,2729,Speedster
+922,2763,Strength
+923,2779,Strength
+924,2783,Strength
+925,2786,Strength
+926,2788,Engine
+927,2797,Strength
+928,2799,Engine
+929,2805,Acrobat
+930,2819,Speedster
+931,2823,Speedster
+932,2823,Acrobat
+933,2831,Speedster
+934,2839,Strength
+935,2843,Strength
+936,2859,Engine
+937,2864,Speedster
+938,2865,Aerial Threat
+939,2872,Strength
+940,2881,Aerial Threat
+941,2887,Acrobat
+942,2905,Strength
+943,2910,Strength
+944,2922,Engine
+945,2925,Engine
+946,2931,Strength
+947,2941,Engine
+948,2951,Strength
+949,2962,Acrobat
+950,2975,Engine
+951,2981,Acrobat
+952,2986,Speedster
+953,2986,Acrobat
+954,2989,Acrobat
+955,2997,Strength
+956,3008,Acrobat
+957,3009,Strength
+958,3011,Strength
+959,3013,Strength
+960,3015,Engine
+961,3017,Acrobat
+962,3023,Strength
+963,3031,Speedster
+964,3053,Speedster
+965,3067,Acrobat
+966,3074,Acrobat
+967,3078,Strength
+968,3104,Speedster
+969,3120,Engine
+970,3131,Speedster
+971,3141,Speedster
+972,3146,Engine
+973,3148,Engine
+974,3150,Strength
+975,3152,Speedster
+976,3157,Acrobat
+977,3163,Strength
+978,3189,Strength
+979,3198,Strength
+980,3204,Speedster
+981,3214,Strength
+982,3229,Acrobat
+983,3235,Strength
+984,3249,Speedster
+985,3249,Acrobat
+986,3259,Strength
+987,3261,Speedster
+988,3261,Acrobat
+989,3262,Engine
+990,3271,Engine
+991,3278,Strength
+992,3280,Acrobat
+993,3284,Strength
+994,3293,Engine
+995,3294,Acrobat
+996,3296,Engine
+997,3302,Strength
+998,3305,Speedster
+999,3305,Acrobat
+1000,3319,Aerial Threat
+1001,3324,Acrobat
+1002,3338,Acrobat
+1003,3340,Strength
+1004,3341,Speedster
+1005,3345,Acrobat
+1006,3364,Aerial Threat
+1007,3364,Strength
+1008,3365,Strength
+1009,3397,Strength
+1010,3419,Engine
+1011,3429,Acrobat
+1012,3433,Strength
+1013,3445,Engine
+1014,3452,Strength
+1015,3457,Speedster
+1016,3470,Aerial Threat
+1017,3470,Strength
+1018,3475,Acrobat
+1019,3492,Strength
+1020,3494,Strength
+1021,3500,Speedster
+1022,3503,Engine
+1023,3518,Aerial Threat
+1024,3518,Strength
+1025,3522,Acrobat
+1026,3539,Engine
+1027,3545,Speedster
+1028,3548,Acrobat
+1029,3563,Aerial Threat
+1030,3563,Strength
+1031,3571,Aerial Threat
+1032,3571,Strength
+1033,3574,Strength
+1034,3580,Engine
+1035,3586,Aerial Threat
+1036,3586,Strength
+1037,3626,Engine
+1038,3631,Strength
+1039,3633,Engine
+1040,3653,Speedster
+1041,3653,Engine
+1042,3654,Engine
+1043,3655,Strength
+1044,3657,Acrobat
+1045,3658,Strength
+1046,3673,Engine
+1047,3679,Aerial Threat
+1048,3679,Strength
+1049,3684,Speedster
+1050,3684,Acrobat
+1051,3699,Aerial Threat
+1052,3699,Strength
+1053,3700,Strength
+1054,3719,Speedster
+1055,3719,Acrobat
+1056,3721,Speedster
+1057,3721,Acrobat
+1058,3746,Speedster
+1059,3748,Strength
+1060,3765,Acrobat
+1061,3770,Strength
+1062,3786,Acrobat
+1063,3788,Strength
+1064,3794,Strength
+1065,3795,Strength
+1066,3807,Engine
+1067,3812,Engine
+1068,3825,Strength
+1069,3826,Strength
+1070,3828,Engine
+1071,3835,Strength
+1072,3840,Aerial Threat
+1073,3840,Strength
+1074,3841,Acrobat
+1075,3842,Speedster
+1076,3858,Engine
+1077,3864,Aerial Threat
+1078,3864,Strength
+1079,3878,Engine
+1080,3880,Engine
+1081,3880,Acrobat
+1082,3885,Strength
+1083,3928,Strength
+1084,3934,Engine
+1085,3950,Strength
+1086,3969,Strength
+1087,3989,Acrobat
+1088,3999,Speedster
+1089,4021,Aerial Threat
+1090,4021,Strength
+1091,4023,Strength
+1092,4067,Engine
+1093,4078,Aerial Threat
+1094,4094,Engine
+1095,4107,Speedster
+1096,4114,Aerial Threat
+1097,4114,Strength
+1098,4131,Strength
+1099,4143,Aerial Threat
+1100,4143,Strength
+1101,4150,Speedster
+1102,4157,Strength
+1103,4169,Strength
+1104,4171,Strength
+1105,4174,Strength
+1106,4176,Strength
+1107,4180,Acrobat
+1108,4186,Strength
+1109,4189,Engine
+1110,4211,Strength
+1111,4233,Strength
+1112,4249,Strength
+1113,4253,Strength
+1114,4259,Engine
+1115,4269,Speedster
+1116,4269,Acrobat
+1117,4293,Strength
+1118,4294,Strength
+1119,4298,Strength
+1120,4302,Aerial Threat
+1121,4306,Speedster
+1122,4310,Speedster
+1123,4320,Aerial Threat
+1124,4320,Strength
+1125,4325,Speedster
+1126,4337,Strength
+1127,4338,Speedster
+1128,4340,Acrobat
+1129,4344,FK Specialist
+1130,4364,Strength
+1131,4366,Strength
+1132,4367,Strength
+1133,4368,Strength
+1134,4369,Strength
+1135,4385,Engine
+1136,4398,Acrobat
+1137,4405,Strength
+1138,4408,Speedster
+1139,4431,Strength
+1140,4447,Strength
+1141,4448,Acrobat
+1142,4458,Speedster
+1143,4460,Acrobat
+1144,4461,Strength
+1145,4468,Strength
+1146,4471,Engine
+1147,4475,Engine
+1148,4483,Strength
+1149,4485,Acrobat
+1150,4492,Engine
+1151,4495,Acrobat
+1152,4499,Strength
+1153,4509,Strength
+1154,4513,Engine
+1155,4518,Strength
+1156,4522,Strength
+1157,4526,Engine
+1158,4536,Strength
+1159,4537,Strength
+1160,4542,Strength
+1161,4554,Aerial Threat
+1162,4567,Speedster
+1163,4567,Acrobat
+1164,4577,Strength
+1165,4589,Acrobat
+1166,4599,Engine
+1167,4606,Strength
+1168,4613,Strength
+1169,4615,Acrobat
+1170,4617,Strength
+1171,4628,Engine
+1172,4637,Acrobat
+1173,4646,Strength
+1174,4648,Acrobat
+1175,4651,Strength
+1176,4664,Strength
+1177,4668,Speedster
+1178,4668,Acrobat
+1179,4671,Strength
+1180,4676,Strength
+1181,4681,Engine
+1182,4683,Strength
+1183,4689,Speedster
+1184,4689,Acrobat
+1185,4706,Acrobat
+1186,4709,Acrobat
+1187,4719,Engine
+1188,4753,Aerial Threat
+1189,4753,Strength
+1190,4762,Strength
+1191,4764,Strength
+1192,4771,Strength
+1193,4774,Aerial Threat
+1194,4774,Strength
+1195,4789,Strength
+1196,4790,Acrobat
+1197,4794,Strength
+1198,4795,Strength
+1199,4796,Strength
+1200,4807,Speedster
+1201,4808,Speedster
+1202,4813,Strength
+1203,4816,Speedster
+1204,4816,Acrobat
+1205,4825,Engine
+1206,4830,Acrobat
+1207,4836,Strength
+1208,4900,Acrobat
+1209,4917,Speedster
+1210,4933,Speedster
+1211,4940,Engine
+1212,4946,Strength
+1213,4970,Engine
+1214,5010,Speedster
+1215,5022,Strength
+1216,5059,Strength
+1217,5070,Strength
+1218,5074,Acrobat
+1219,5078,Acrobat
+1220,5081,Strength
+1221,5082,Aerial Threat
+1222,5086,Strength
+1223,5099,Strength
+1224,5100,Acrobat
+1225,5106,Strength
+1226,5123,Engine
+1227,5137,Engine
+1228,5142,Speedster
+1229,5172,Acrobat
+1230,5203,Strength
+1231,5211,Strength
+1232,5227,Acrobat
+1233,5233,Speedster
+1234,5250,Engine
+1235,5261,Speedster
+1236,5263,Acrobat
+1237,5270,Strength
+1238,5281,Speedster
+1239,5285,Speedster
+1240,5288,Strength
+1241,5294,Strength
+1242,5308,Speedster
+1243,5310,Speedster
+1244,5324,Strength
+1245,5341,Strength
+1246,5344,Engine
+1247,5347,Aerial Threat
+1248,5347,Strength
+1249,5354,Strength
+1250,5359,Engine
+1251,5367,Acrobat
+1252,5369,Strength
+1253,5370,Strength
+1254,5387,Acrobat
+1255,5388,Strength
+1256,5395,Strength
+1257,5396,Acrobat
+1258,5418,Strength
+1259,5437,Speedster
+1260,5442,Strength
+1261,5443,Engine
+1262,5445,Speedster
+1263,5459,Acrobat
+1264,5467,Speedster
+1265,5502,Strength
+1266,5508,Strength
+1267,5515,Engine
+1268,5519,Strength
+1269,5521,Acrobat
+1270,5529,Acrobat
+1271,5531,Strength
+1272,5535,Speedster
+1273,5546,Speedster
+1274,5558,Acrobat
+1275,5587,Strength
+1276,5670,Aerial Threat
+1277,5675,Acrobat
+1278,5676,Strength
+1279,5680,Strength
+1280,5699,Acrobat
+1281,5713,Speedster
+1282,5717,Strength
+1283,5724,Acrobat
+1284,5728,Strength
+1285,5733,Strength
+1286,5736,Acrobat
+1287,5738,Aerial Threat
+1288,5738,Strength
+1289,5752,Speedster
+1290,5759,Speedster
+1291,5762,Engine
+1292,5768,Speedster
+1293,5769,Aerial Threat
+1294,5796,Strength
+1295,5824,Strength
+1296,5825,Strength
+1297,5840,Speedster
+1298,5840,Acrobat
+1299,5842,Speedster
+1300,5842,Acrobat
+1301,5846,Engine
+1302,5848,Strength
+1303,5858,Strength
+1304,5869,Acrobat
+1305,5885,Strength
+1306,5886,Acrobat
+1307,5904,Strength
+1308,5913,Strength
+1309,5926,Strength
+1310,5964,Engine
+1311,5984,Speedster
+1312,5989,Acrobat
+1313,6020,Strength
+1314,6023,Acrobat
+1315,6024,Strength
+1316,6065,Speedster
+1317,6110,Strength
+1318,6143,Speedster
+1319,6150,Strength
+1320,6152,Strength
+1321,6154,Strength
+1322,6157,Strength
+1323,6170,Acrobat
+1324,6172,Acrobat
+1325,6180,Acrobat
+1326,6195,Speedster
+1327,6226,Engine
+1328,6245,Strength
+1329,6273,Strength
+1330,6298,Strength
+1331,6305,Aerial Threat
+1332,6305,Strength
+1333,6329,Acrobat
+1334,6336,Acrobat
+1335,6338,Strength
+1336,6341,Engine
+1337,6356,Strength
+1338,6361,Engine
+1339,6362,Strength
+1340,6371,Strength
+1341,6385,Strength
+1342,6460,FK Specialist
+1343,6461,Strength
+1344,6468,Speedster
+1345,6471,Strength
+1346,6488,Speedster
+1347,6489,Acrobat
+1348,6490,Speedster
+1349,6491,Speedster
+1350,6491,Acrobat
+1351,6495,Strength
+1352,6521,Engine
+1353,6566,Speedster
+1354,6579,Acrobat
+1355,6584,Speedster
+1356,6584,Acrobat
+1357,6615,Strength
+1358,6618,Strength
+1359,6630,Acrobat
+1360,6638,Engine
+1361,6653,Strength
+1362,6692,Strength
+1363,6700,Acrobat
+1364,6734,Strength
+1365,6740,Strength
+1366,6741,Acrobat
+1367,6754,Strength
+1368,6757,Engine
+1369,6759,Aerial Threat
+1370,6786,Acrobat
+1371,6808,Strength
+1372,6819,Speedster
+1373,6842,Strength
+1374,6857,Speedster
+1375,6874,Aerial Threat
+1376,6874,Strength
+1377,6881,Acrobat
+1378,6895,Engine
+1379,6969,Acrobat
+1380,6976,Acrobat
+1381,6982,Strength
+1382,7001,Engine
+1383,7006,Engine
+1384,7027,Strength
+1385,7033,Strength
+1386,7043,Aerial Threat
+1387,7043,Strength
+1388,7052,Speedster
+1389,7069,Speedster
+1390,7081,Acrobat
+1391,7090,Acrobat
+1392,7091,Speedster
+1393,7091,Acrobat
+1394,7097,Strength
+1395,7108,Engine
+1396,7129,Speedster
+1397,7130,Speedster
+1398,7130,Acrobat
+1399,7142,Strength
+1400,7147,Strength
+1401,7183,Engine
+1402,7193,Acrobat
+1403,7207,Strength
+1404,7236,Aerial Threat
+1405,7236,Strength
+1406,7274,Strength
+1407,7293,Strength
+1408,7312,Engine
+1409,7318,Strength
+1410,7340,Acrobat
+1411,7346,Engine
+1412,7353,Speedster
+1413,7358,Aerial Threat
+1414,7381,Strength
+1415,7478,Speedster
+1416,7487,Strength
+1417,7488,Strength
+1418,7489,Speedster
+1419,7512,Acrobat
+1420,7515,Acrobat
+1421,7517,Engine
+1422,7548,Engine
+1423,7550,Strength
+1424,7581,Aerial Threat
+1425,7581,Strength
+1426,7592,Strength
+1427,7598,Acrobat
+1428,7627,Strength
+1429,7674,Strength
+1430,7684,Speedster
+1431,7693,Acrobat
+1432,7699,Acrobat
+1433,7706,Engine
+1434,7708,Engine
+1435,7717,Acrobat
+1436,7735,Acrobat
+1437,7767,Acrobat
+1438,7784,Strength
+1439,7789,Strength
+1440,7813,Strength
+1441,7827,Speedster
+1442,7848,Strength
+1443,7862,Engine
+1444,7879,Strength
+1445,7896,Strength
+1446,7909,Strength
+1447,7919,Strength
+1448,7928,Strength
+1449,7930,Strength
+1450,7940,Acrobat
+1451,7956,Strength
+1452,7981,Strength
+1453,7993,Strength
+1454,7997,Speedster
+1455,7997,Acrobat
+1456,7999,Strength
+1457,8005,Aerial Threat
+1458,8005,Strength
+1459,8015,Strength
+1460,8027,Acrobat
+1461,8042,Engine
+1462,8043,Aerial Threat
+1463,8043,Strength
+1464,8082,Acrobat
+1465,8121,Speedster
+1466,8136,Strength
+1467,8143,Strength
+1468,8145,Strength
+1469,8154,Aerial Threat
+1470,8154,Strength
+1471,8197,Acrobat
+1472,8238,Acrobat
+1473,8240,Strength
+1474,8250,Strength
+1475,8256,Acrobat
+1476,8268,Strength
+1477,8278,Engine
+1478,8294,Engine
+1479,8315,Strength
+1480,8353,Engine
+1481,8359,Acrobat
+1482,8360,Acrobat
+1483,8362,Acrobat
+1484,8365,Aerial Threat
+1485,8365,Strength
+1486,8375,Strength
+1487,8377,Aerial Threat
+1488,8403,Strength
+1489,8413,Aerial Threat
+1490,8413,Strength
+1491,8414,Speedster
+1492,8417,Acrobat
+1493,8421,Strength
+1494,8429,Strength
+1495,8456,Speedster
+1496,8461,Strength
+1497,8470,Acrobat
+1498,8495,Speedster
+1499,8500,Acrobat
+1500,8506,Engine
+1501,8515,Strength
+1502,8516,Strength
+1503,8526,Acrobat
+1504,8530,Speedster
+1505,8530,Acrobat
+1506,8557,Aerial Threat
+1507,8557,Strength
+1508,8639,Acrobat
+1509,8645,Speedster
+1510,8648,Acrobat
+1511,8654,Strength
+1512,8655,Acrobat
+1513,8674,Speedster
+1514,8680,Aerial Threat
+1515,8734,Strength
+1516,8736,Strength
+1517,8758,Aerial Threat
+1518,8758,Strength
+1519,8777,Strength
+1520,8786,Acrobat
+1521,8863,Strength
+1522,8893,Strength
+1523,8895,Acrobat
+1524,8914,Acrobat
+1525,8919,Aerial Threat
+1526,8919,Strength
+1527,8923,Speedster
+1528,8929,Acrobat
+1529,8948,Strength
+1530,8968,Acrobat
+1531,9029,Acrobat
+1532,9030,Acrobat
+1533,9063,Speedster
+1534,9063,Acrobat
+1535,9092,Engine
+1536,9093,Acrobat
+1537,9095,Engine
+1538,9153,Speedster
+1539,9173,Strength
+1540,9183,Strength
+1541,9207,Strength
+1542,9227,Engine
+1543,9232,Speedster
+1544,9289,Strength
+1545,9292,Acrobat
+1546,9310,Engine
+1547,9317,Strength
+1548,9323,Engine
+1549,9342,Strength
+1550,9424,Strength
+1551,9346,Strength
+1552,9348,Strength
+1553,9412,Acrobat
+1554,9505,Acrobat
+1555,9550,Speedster
+1556,9613,Strength
+1557,9626,Acrobat
+1558,9627,Strength
+1559,9657,Acrobat
+1560,9676,Strength
+1561,9682,Strength
+1562,9698,Strength
+1563,9704,Engine
+1564,9709,Acrobat
+1565,9714,Strength
+1566,9767,Strength
+1567,9774,Engine
+1568,9786,Engine
+1569,9790,Strength
+1570,9819,Strength
+1571,9820,Strength
+1572,9822,Speedster
+1573,9822,Acrobat
+1574,9824,Acrobat
+1575,9838,Speedster
+1576,9887,Acrobat
+1577,9892,Acrobat
+1578,9917,Strength
+1579,9918,Speedster
+1580,9920,Speedster
+1581,9960,Acrobat
+1582,9991,Strength
+1583,9999,Engine
+1584,10052,Strength
+1585,10060,Strength
+1586,10117,Speedster
+1587,10120,Engine
+1588,10122,Aerial Threat
+1589,10122,Strength
+1590,10165,Speedster
+1591,10172,FK Specialist
+1592,10227,Strength
+1593,10244,Acrobat
+1594,10261,Strength
+1595,10264,Speedster
+1596,10274,Engine
+1597,10295,Acrobat
+1598,10301,Strength
+1599,10343,Acrobat
+1600,10364,Strength
+1601,10373,Speedster
+1602,10377,Strength
+1603,10383,Strength
+1604,10385,Speedster
+1605,10389,Strength
+1606,10390,Acrobat
+1607,10401,Strength
+1608,10408,Strength
+1609,10416,Strength
+1610,10439,Strength
+1611,10456,Acrobat
+1612,10458,Engine
+1613,10472,Strength
+1614,10483,Speedster
+1615,10487,Acrobat
+1616,10514,Strength
+1617,10561,Strength
+1618,10572,Acrobat
+1619,10579,Strength
+1620,10588,Strength
+1621,10597,Strength
+1622,10611,Strength
+1623,10631,Strength
+1624,10675,Engine
+1625,10680,Engine
+1626,10706,Acrobat
+1627,10709,Aerial Threat
+1628,10773,Aerial Threat
+1629,10773,Strength
+1630,10791,Strength
+1631,10796,Strength
+1632,10802,Aerial Threat
+1633,10806,Strength
+1634,10808,Speedster
+1635,10853,Strength
+1636,10869,Speedster
+1637,10873,Strength
+1638,10908,Strength
+1639,10922,Strength
+1640,10941,Acrobat
+1641,10965,Strength
+1642,11004,Acrobat
+1643,11048,Engine
+1644,11074,Strength
+1645,11097,Strength
+1646,11110,Strength
+1647,11119,Acrobat
+1648,11166,Strength
+1649,11186,Strength
+1650,11188,Aerial Threat
+1651,11206,Strength
+1652,11241,Strength
+1653,11274,Aerial Threat
+1654,11274,Strength
+1655,11325,Strength
+1656,11336,Strength
+1657,11393,Strength
+1658,11474,Speedster
+1659,11513,Strength
+1660,11522,Speedster
+1661,11522,Acrobat
+1662,11526,Strength
+1663,11565,Strength
+1664,11582,Speedster
+1665,11657,Strength
+1666,11660,Acrobat
+1667,11662,Strength
+1668,11690,Speedster
+1669,11747,Strength
+1670,11750,Strength
+1671,11775,Speedster
+1672,11776,Strength
+1673,11777,Speedster
+1674,11779,Acrobat
+1675,11816,Strength
+1676,11833,Strength
+1677,11855,Strength
+1678,11857,Acrobat
+1679,11879,Engine
+1680,11895,Acrobat
+1681,11924,Strength
+1682,11928,Strength
+1683,11939,Acrobat
+1684,11991,Strength
+1685,12027,Speedster
+1686,12031,Strength
+1687,12048,Strength
+1688,12054,Acrobat
+1689,12063,Strength
+1690,12078,Aerial Threat
+1691,12078,Strength
+1692,12086,Strength
+1693,12099,Strength
+1694,12111,Strength
+1695,12114,Strength
+1696,12148,Strength
+1697,12271,Strength
+1698,12288,Strength
+1699,12295,Strength
+1700,12315,Speedster
+1701,12348,Strength
+1702,12350,Acrobat
+1703,12501,Engine
+1704,12557,Strength
+1705,12596,Acrobat
+1706,12640,Strength
+1707,12641,Strength
+1708,12656,Acrobat
+1709,12670,Strength
+1710,12701,Acrobat
+1711,12725,Engine
+1712,12738,Speedster
+1713,12749,Strength
+1714,12769,Acrobat
+1715,12814,Strength
+1716,12861,Speedster
+1717,12864,Acrobat
+1718,12865,Strength
+1719,12871,Speedster
+1720,12871,Acrobat
+1721,12876,Strength
+1722,12888,Speedster
+1723,12906,Strength
+1724,12949,Strength
+1725,12954,Acrobat
+1726,12973,Strength
+1727,13041,Engine
+1728,13041,Acrobat
+1729,13098,Speedster
+1730,13112,Strength
+1731,13206,Strength
+1732,13257,Acrobat
+1733,13279,Strength
+1734,13309,Strength
+1735,13332,Strength
+1736,13349,Strength
+1737,13366,Strength
+1738,13434,Acrobat
+1739,13509,Strength
+1740,13519,Speedster
+1741,13553,Speedster
+1742,13605,Engine
+1743,13709,Engine
+1744,13728,Strength
+1745,13776,Speedster
+1746,13885,Strength
+1747,13897,Strength
+1748,13917,Acrobat
+1749,13924,Aerial Threat
+1750,13924,Strength
+1751,13927,Strength
+1752,13950,Strength
+1753,13978,Engine
+1754,13995,Speedster
+1755,14022,Strength
+1756,14118,Acrobat
+1757,14131,Strength
+1758,14173,Strength
+1759,14175,Acrobat
+1760,14274,Speedster
+1761,14318,Strength
+1762,14480,Strength
+1763,14658,Engine
+1764,14679,Strength
+1765,14701,Strength
+1766,14704,Strength
+1767,14786,Acrobat
+1768,14943,Acrobat
+1769,14993,Strength
+1770,15142,Speedster
+1771,15161,Speedster
+1772,15330,Strength
+1773,15384,Engine
+1774,15424,Acrobat
+1775,15508,Strength
+1776,15659,Speedster
+1777,15723,Speedster
+1778,15817,Strength
+1779,16060,Acrobat
+1780,16173,Strength
+1781,16284,Acrobat
+1782,16668,Acrobat
+1783,16774,Strength
+1784,16856,Strength
+1785,17049,Strength
+1786,17267,Speedster

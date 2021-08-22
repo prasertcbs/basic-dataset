@@ -1,0 +1,682 @@
+int_tactic_id,int_team_id,str_defensive_style,int_team_width,int_depth,str_offensive_style,int_width,int_players_in_box,int_corners,int_freekicks
+1,1,Press After Possession Loss,6,7,Balanced,7,6,3,3
+2,2,Press After Possession Loss,7,8,Possession,6,7,3,3
+3,3,Balanced,5,8,Possession,5,6,3,3
+4,4,Pressure On Heavy Touch,4,8,Possession,8,7,3,3
+5,5,Balanced,6,8,Possession,3,7,3,3
+6,6,Pressure On Heavy Touch,5,7,Possession,6,8,3,3
+7,7,Pressure On Heavy Touch,6,7,Possession,6,8,3,3
+8,8,Pressure On Heavy Touch,6,6,Balanced,4,4,3,3
+9,9,Balanced,6,7,Possession,5,6,3,3
+10,10,Pressure On Heavy Touch,4,6,Balanced,6,4,3,3
+11,11,Drop Back,4,4,Balanced,4,5,3,3
+12,12,Balanced,5,7,Balanced,4,7,3,3
+13,13,Pressure On Heavy Touch,6,7,Balanced,6,4,3,3
+14,14,Balanced,5,4,Balanced,6,5,3,3
+15,15,Press After Possession Loss,5,7,Balanced,3,8,3,3
+16,16,Balanced,6,6,Long Ball,7,3,3,3
+17,17,Balanced,5,6,Balanced,7,8,3,3
+18,18,Balanced,5,5,Balanced,6,4,3,3
+19,19,Pressure On Heavy Touch,7,7,Balanced,8,8,3,3
+20,20,Balanced,6,5,Balanced,6,7,3,3
+21,21,Balanced,6,6,Balanced,6,4,3,3
+22,22,Press After Possession Loss,7,6,Balanced,6,6,3,3
+23,23,Press After Possession Loss,5,7,Balanced,8,8,3,3
+24,24,Press After Possession Loss,4,7,Balanced,6,5,3,3
+25,25,Balanced,6,7,Balanced,6,8,3,3
+26,26,Balanced,5,7,Long Ball,8,3,3,3
+27,27,Balanced,4,5,Possession,6,6,3,3
+28,28,Pressure On Heavy Touch,4,6,Balanced,5,6,3,3
+29,29,Balanced,5,5,Balanced,7,4,3,3
+30,30,Balanced,6,8,Balanced,6,4,3,3
+31,31,Balanced,7,5,Balanced,8,4,3,3
+32,32,Pressure On Heavy Touch,4,6,Balanced,6,7,3,3
+33,33,Balanced,6,6,Long Ball,6,6,3,3
+34,34,Pressure On Heavy Touch,4,7,Balanced,5,6,3,3
+35,35,Press After Possession Loss,6,8,Possession,7,8,3,3
+36,36,Balanced,4,4,Balanced,7,4,3,3
+37,37,Drop Back,4,3,Long Ball,6,4,3,3
+38,38,Press After Possession Loss,6,6,Long Ball,6,6,3,3
+39,39,Balanced,5,5,Balanced,5,5,3,3
+40,40,Pressure On Heavy Touch,6,6,Balanced,6,6,3,3
+41,41,Pressure On Heavy Touch,5,5,Balanced,7,5,3,3
+42,42,Pressure On Heavy Touch,4,7,Long Ball,7,3,3,3
+43,43,Pressure On Heavy Touch,5,6,Balanced,7,5,3,3
+44,44,Press After Possession Loss,7,5,Long Ball,7,5,3,3
+45,45,Balanced,4,4,Balanced,4,4,3,3
+46,46,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+47,47,Drop Back,4,5,Long Ball,7,3,3,3
+48,48,Balanced,5,4,Balanced,5,4,3,3
+49,49,Balanced,4,5,Long Ball,5,4,3,3
+50,50,Balanced,6,5,Balanced,7,4,3,3
+51,51,Press After Possession Loss,5,5,Balanced,5,4,3,3
+52,52,Pressure On Heavy Touch,6,6,Balanced,6,5,3,3
+53,53,Pressure On Heavy Touch,4,5,Balanced,4,8,3,3
+54,54,Balanced,3,3,Long Ball,5,3,3,3
+55,55,Balanced,5,4,Balanced,6,3,3,3
+56,56,Balanced,5,5,Balanced,5,3,3,3
+57,57,Press After Possession Loss,5,6,Balanced,6,4,3,3
+58,58,Press After Possession Loss,6,5,Long Ball,7,6,3,3
+59,59,Pressure On Heavy Touch,4,5,Balanced,6,4,3,3
+60,60,Pressure On Heavy Touch,7,6,Balanced,6,7,3,3
+61,61,Balanced,5,6,Balanced,5,6,3,3
+62,62,Pressure On Heavy Touch,7,6,Balanced,4,6,3,3
+63,63,Drop Back,5,3,Fast Build Up,7,3,3,3
+64,64,Press After Possession Loss,5,8,Long Ball,6,5,3,3
+65,65,Drop Back,7,7,Long Ball,6,3,3,3
+66,66,Press After Possession Loss,5,7,Balanced,5,8,3,3
+67,67,Balanced,6,6,Long Ball,8,3,3,3
+68,68,Balanced,5,5,Long Ball,4,4,3,3
+69,69,Press After Possession Loss,6,6,Possession,6,4,3,3
+70,70,Press After Possession Loss,5,7,Balanced,7,7,3,3
+71,71,Pressure On Heavy Touch,5,5,Long Ball,7,4,3,3
+72,72,Pressure On Heavy Touch,5,6,Balanced,6,5,3,3
+73,73,Pressure On Heavy Touch,5,6,Balanced,5,3,3,3
+74,74,Balanced,6,6,Balanced,7,6,3,3
+75,75,Pressure On Heavy Touch,6,7,Possession,6,7,3,3
+76,76,Pressure On Heavy Touch,4,5,Balanced,5,5,3,3
+77,77,Pressure On Heavy Touch,4,7,Balanced,6,6,3,3
+78,78,Balanced,6,5,Balanced,4,5,3,3
+79,79,Pressure On Heavy Touch,4,6,Balanced,5,7,3,3
+80,80,Balanced,6,5,Long Ball,6,4,3,3
+81,81,Drop Back,5,4,Fast Build Up,6,3,3,3
+82,82,Press After Possession Loss,6,8,Balanced,5,3,3,3
+83,83,Balanced,4,6,Balanced,6,5,3,3
+84,84,Balanced,5,5,Balanced,6,6,3,3
+85,85,Pressure On Heavy Touch,6,6,Long Ball,6,6,3,3
+86,86,Press After Possession Loss,6,6,Balanced,7,5,3,3
+87,87,Press After Possession Loss,6,6,Balanced,6,6,3,3
+88,88,Press After Possession Loss,6,6,Balanced,7,4,3,3
+89,89,Balanced,4,5,Balanced,4,3,3,3
+90,90,Balanced,5,5,Long Ball,7,5,3,3
+91,91,Balanced,6,6,Balanced,6,6,3,3
+92,92,Drop Back,5,5,Fast Build Up,7,6,3,3
+93,93,Drop Back,4,4,Fast Build Up,7,5,3,3
+94,94,Balanced,6,5,Long Ball,7,3,3,3
+95,95,Balanced,5,4,Long Ball,6,3,3,3
+96,96,Balanced,5,5,Balanced,6,3,3,3
+97,97,Balanced,4,6,Balanced,5,7,3,3
+98,98,Balanced,4,4,Balanced,4,3,3,3
+99,99,Balanced,5,4,Balanced,7,4,3,3
+100,100,Pressure On Heavy Touch,4,7,Balanced,7,7,3,3
+101,101,Balanced,4,7,Balanced,7,4,3,3
+102,102,Press After Possession Loss,6,6,Balanced,7,8,3,3
+103,103,Balanced,4,7,Balanced,5,7,3,3
+104,104,Pressure On Heavy Touch,6,5,Balanced,6,4,3,3
+105,105,Balanced,5,4,Balanced,7,5,3,3
+106,106,Pressure On Heavy Touch,5,7,Balanced,5,4,3,3
+107,107,Pressure On Heavy Touch,6,7,Balanced,6,4,3,3
+108,108,Pressure On Heavy Touch,6,6,Long Ball,6,5,3,3
+109,109,Balanced,7,7,Possession,7,6,3,3
+110,110,Balanced,6,5,Balanced,6,6,3,3
+111,111,Balanced,6,6,Long Ball,6,7,3,3
+112,112,Balanced,5,5,Long Ball,6,3,3,3
+113,113,Balanced,6,5,Balanced,6,3,3,3
+114,114,Balanced,5,4,Balanced,6,4,3,3
+115,115,Balanced,6,5,Balanced,7,5,3,3
+116,116,Balanced,6,5,Long Ball,5,4,3,3
+117,117,Balanced,5,6,Balanced,5,3,3,3
+118,118,Balanced,4,4,Balanced,6,4,3,3
+119,119,Press After Possession Loss,4,7,Balanced,6,4,3,3
+120,120,Balanced,4,5,Long Ball,6,4,3,3
+121,121,Press After Possession Loss,6,5,Balanced,6,8,3,3
+122,122,Pressure On Heavy Touch,6,6,Possession,6,4,3,3
+123,123,Pressure On Heavy Touch,6,6,Possession,6,4,3,3
+124,124,Press After Possession Loss,7,6,Balanced,8,6,3,3
+125,125,Balanced,5,4,Balanced,7,3,3,3
+126,126,Pressure On Heavy Touch,6,7,Balanced,6,7,3,3
+127,127,Balanced,6,4,Balanced,7,3,3,3
+128,128,Balanced,5,5,Balanced,7,5,3,3
+129,129,Balanced,5,6,Balanced,6,4,3,3
+130,130,Pressure On Heavy Touch,6,6,Balanced,7,5,3,3
+131,131,Pressure On Heavy Touch,4,5,Balanced,6,5,3,3
+132,132,Press After Possession Loss,6,6,Possession,7,3,3,3
+133,133,Press After Possession Loss,5,6,Balanced,6,5,3,3
+134,134,Pressure On Heavy Touch,5,4,Balanced,6,3,3,3
+135,135,Balanced,5,5,Long Ball,6,3,3,3
+136,136,Pressure On Heavy Touch,5,6,Long Ball,5,6,3,3
+137,137,Pressure On Heavy Touch,5,6,Balanced,5,5,3,3
+138,138,Balanced,7,6,Balanced,6,4,3,3
+139,139,Drop Back,6,5,Fast Build Up,6,4,3,3
+140,140,Balanced,5,5,Balanced,7,5,3,3
+141,141,Drop Back,5,5,Fast Build Up,5,6,3,3
+142,142,Balanced,5,6,Balanced,6,3,3,3
+143,143,Pressure On Heavy Touch,6,7,Balanced,7,5,3,3
+144,144,Press After Possession Loss,6,6,Balanced,6,6,3,3
+145,145,Balanced,4,5,Balanced,4,6,3,3
+146,146,Balanced,5,6,Balanced,5,6,3,3
+147,147,Balanced,6,5,Balanced,6,4,3,3
+148,148,Pressure On Heavy Touch,6,5,Balanced,6,6,3,3
+149,149,Balanced,5,6,Long Ball,5,5,3,3
+150,150,Balanced,4,7,Balanced,6,7,3,3
+151,151,Balanced,7,8,Possession,7,6,3,3
+152,152,Pressure On Heavy Touch,6,7,Balanced,5,7,3,3
+153,153,Press After Possession Loss,5,6,Long Ball,7,4,3,3
+154,154,Balanced,5,5,Balanced,6,4,3,3
+155,155,Balanced,7,5,Long Ball,8,5,3,3
+156,156,Balanced,7,5,Balanced,7,3,3,3
+157,157,Pressure On Heavy Touch,6,7,Balanced,7,7,3,3
+158,158,Balanced,6,5,Long Ball,8,3,3,3
+159,159,Drop Back,5,5,Balanced,6,3,3,3
+160,160,Balanced,5,5,Balanced,6,5,3,3
+161,161,Balanced,5,7,Long Ball,6,6,3,3
+162,162,Press After Possession Loss,7,6,Possession,7,3,3,3
+163,163,Pressure On Heavy Touch,6,7,Balanced,6,7,3,3
+164,164,Pressure On Heavy Touch,5,7,Long Ball,5,5,3,3
+165,165,Balanced,7,6,Balanced,7,4,3,3
+166,166,Balanced,6,5,Balanced,6,3,3,3
+167,167,Press After Possession Loss,5,6,Long Ball,5,7,3,3
+168,168,Pressure On Heavy Touch,4,6,Balanced,6,6,3,3
+169,169,Pressure On Heavy Touch,6,4,Balanced,6,3,3,3
+170,170,Balanced,5,6,Balanced,5,3,3,3
+171,171,Drop Back,6,5,Long Ball,6,4,3,3
+172,172,Drop Back,4,3,Long Ball,5,3,3,3
+173,173,Drop Back,8,5,Fast Build Up,8,4,3,3
+174,174,Balanced,5,5,Balanced,6,6,3,3
+175,175,Balanced,5,5,Possession,6,3,3,3
+176,176,Pressure On Heavy Touch,7,5,Long Ball,7,3,3,3
+177,177,Balanced,4,4,Balanced,8,4,3,3
+178,178,Drop Back,5,4,Long Ball,8,4,3,3
+179,179,Pressure On Heavy Touch,6,6,Balanced,6,5,3,3
+180,180,Balanced,5,6,Balanced,7,5,3,3
+181,181,Balanced,5,6,Possession,5,7,3,3
+182,182,Drop Back,4,4,Balanced,6,4,3,3
+183,183,Balanced,7,4,Balanced,7,4,3,3
+184,184,Balanced,5,5,Balanced,5,3,3,3
+185,185,Balanced,4,3,Balanced,6,5,3,3
+186,186,Pressure On Heavy Touch,6,6,Balanced,7,7,3,3
+187,187,Pressure On Heavy Touch,5,6,Balanced,6,7,3,3
+188,188,Balanced,4,5,Balanced,4,3,3,3
+189,189,Drop Back,5,5,Fast Build Up,5,4,3,3
+190,190,Balanced,5,5,Balanced,6,4,3,3
+191,191,Balanced,5,3,Balanced,6,6,3,3
+192,192,Balanced,4,5,Long Ball,5,5,3,3
+193,193,Balanced,6,4,Balanced,5,3,3,3
+194,194,Pressure On Heavy Touch,5,5,Balanced,5,7,3,3
+195,195,Balanced,5,4,Balanced,5,3,3,3
+196,196,Balanced,5,5,Balanced,7,4,3,3
+197,197,Press After Possession Loss,6,7,Long Ball,7,4,3,3
+198,198,Balanced,5,8,Balanced,5,6,3,3
+199,199,Balanced,4,4,Long Ball,8,6,3,3
+200,200,Balanced,7,5,Balanced,7,5,3,3
+201,201,Drop Back,6,5,Fast Build Up,6,4,3,3
+202,202,Press After Possession Loss,4,7,Balanced,6,6,3,3
+203,203,Press After Possession Loss,4,6,Possession,7,7,3,3
+204,204,Balanced,4,5,Balanced,5,6,3,3
+205,205,Balanced,5,5,Balanced,7,3,3,3
+206,206,Balanced,5,8,Long Ball,5,5,3,3
+207,207,Balanced,4,4,Long Ball,7,3,3,3
+208,208,Press After Possession Loss,4,6,Balanced,5,6,3,3
+209,209,Balanced,6,5,Balanced,7,3,3,3
+210,210,Press After Possession Loss,5,7,Balanced,6,3,3,3
+211,211,Pressure On Heavy Touch,7,6,Balanced,7,5,3,3
+212,212,Pressure On Heavy Touch,7,6,Balanced,5,3,3,3
+213,213,Drop Back,4,3,Long Ball,4,4,3,3
+214,214,Drop Back,5,5,Fast Build Up,5,3,3,3
+215,215,Balanced,6,5,Balanced,7,3,3,3
+216,216,Balanced,7,5,Balanced,7,3,3,3
+217,217,Balanced,6,6,Balanced,6,7,3,3
+218,218,Balanced,5,5,Long Ball,6,4,3,3
+219,219,Balanced,5,6,Balanced,5,6,3,3
+220,220,Balanced,5,7,Long Ball,6,3,3,3
+221,221,Balanced,5,5,Balanced,6,4,3,3
+222,222,Pressure On Heavy Touch,6,7,Balanced,4,4,3,3
+223,223,Balanced,7,5,Balanced,7,5,3,3
+224,224,Pressure On Heavy Touch,4,6,Long Ball,4,7,3,3
+225,225,Balanced,5,5,Balanced,6,4,3,3
+226,226,Balanced,6,6,Balanced,6,4,3,3
+227,227,Pressure On Heavy Touch,5,5,Balanced,5,4,3,3
+228,228,Balanced,5,4,Long Ball,6,4,3,3
+229,229,Balanced,4,4,Balanced,5,6,3,3
+230,230,Balanced,4,7,Long Ball,5,3,3,3
+231,231,Balanced,5,5,Long Ball,6,4,3,3
+232,232,Pressure On Heavy Touch,6,6,Possession,5,3,3,3
+233,233,Balanced,6,4,Balanced,7,3,3,3
+234,234,Balanced,6,3,Balanced,7,3,3,3
+235,235,Drop Back,4,5,Long Ball,7,5,3,3
+236,236,Balanced,5,5,Balanced,6,3,3,3
+237,237,Balanced,7,8,Long Ball,7,5,3,3
+238,238,Press After Possession Loss,5,8,Balanced,6,3,3,3
+239,239,Balanced,6,5,Balanced,5,6,3,3
+240,240,Balanced,6,7,Balanced,6,7,3,3
+241,241,Balanced,4,6,Balanced,7,6,3,3
+242,242,Balanced,5,5,Balanced,5,4,3,3
+243,243,Balanced,5,5,Balanced,5,3,3,3
+244,244,Pressure On Heavy Touch,5,6,Balanced,5,4,3,3
+245,245,Balanced,4,4,Long Ball,7,3,3,3
+246,246,Pressure On Heavy Touch,7,7,Balanced,7,8,3,3
+247,247,Balanced,5,5,Balanced,5,3,3,3
+248,248,Pressure On Heavy Touch,4,6,Balanced,5,5,3,3
+249,249,Drop Back,6,5,Long Ball,6,3,3,3
+250,250,Drop Back,5,4,Fast Build Up,6,3,3,3
+251,251,Drop Back,5,5,Fast Build Up,5,3,3,3
+252,252,Pressure On Heavy Touch,5,5,Balanced,6,7,3,3
+253,253,Pressure On Heavy Touch,6,7,Balanced,6,7,3,3
+254,254,Pressure On Heavy Touch,6,5,Possession,6,8,3,3
+255,255,Balanced,5,5,Balanced,5,5,3,3
+256,256,Balanced,4,5,Balanced,5,3,3,3
+257,257,Balanced,5,6,Balanced,6,3,3,3
+258,258,Balanced,6,5,Balanced,6,4,3,3
+259,259,Balanced,7,4,Long Ball,6,3,3,3
+260,260,Pressure On Heavy Touch,6,7,Balanced,6,4,3,3
+261,261,Balanced,6,5,Balanced,6,3,3,3
+262,262,Balanced,7,6,Possession,8,6,3,3
+263,263,Balanced,4,3,Balanced,6,4,3,3
+264,264,Balanced,4,5,Balanced,5,7,3,3
+265,265,Balanced,5,5,Balanced,5,3,3,3
+266,266,Balanced,6,5,Balanced,6,4,3,3
+267,267,Pressure On Heavy Touch,5,6,Long Ball,7,5,3,3
+268,268,Balanced,5,5,Balanced,7,3,3,3
+269,269,Balanced,4,6,Balanced,6,5,3,3
+270,270,Balanced,5,5,Long Ball,7,5,3,3
+271,271,Balanced,4,4,Possession,6,4,3,3
+272,272,Balanced,4,6,Balanced,6,5,3,3
+273,273,Press After Possession Loss,7,6,Balanced,7,6,3,3
+274,274,Balanced,5,6,Long Ball,7,3,3,3
+275,275,Balanced,6,5,Long Ball,4,3,3,3
+276,276,Pressure On Heavy Touch,4,6,Balanced,4,5,3,3
+277,277,Balanced,4,6,Balanced,7,4,3,3
+278,278,Balanced,6,4,Long Ball,5,3,3,3
+279,279,Balanced,5,4,Long Ball,6,4,3,3
+280,280,Balanced,5,4,Long Ball,7,4,3,3
+281,281,Balanced,7,5,Long Ball,7,3,3,3
+282,282,Balanced,7,5,Long Ball,6,3,3,3
+283,283,Balanced,5,4,Long Ball,5,4,3,3
+284,284,Balanced,6,5,Balanced,6,6,3,3
+285,285,Balanced,6,5,Balanced,7,3,3,3
+286,286,Press After Possession Loss,6,6,Balanced,6,8,3,3
+287,287,Balanced,5,5,Balanced,6,4,3,3
+288,288,Balanced,7,5,Balanced,7,3,3,3
+289,289,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+290,290,Drop Back,6,6,Fast Build Up,6,4,3,3
+291,291,Drop Back,4,4,Fast Build Up,5,3,3,3
+292,292,Balanced,5,5,Balanced,6,6,3,3
+293,293,Balanced,4,4,Long Ball,6,4,3,3
+294,294,Press After Possession Loss,4,6,Balanced,7,6,3,3
+295,295,Pressure On Heavy Touch,4,6,Balanced,5,4,3,3
+296,296,Press After Possession Loss,5,6,Long Ball,5,4,3,3
+297,297,Balanced,6,5,Long Ball,6,6,3,3
+298,298,Balanced,5,5,Balanced,6,3,3,3
+299,299,Press After Possession Loss,5,5,Balanced,6,5,3,3
+300,300,Pressure On Heavy Touch,4,7,Balanced,7,7,3,3
+301,301,Pressure On Heavy Touch,7,5,Balanced,8,7,3,3
+302,302,Balanced,5,5,Long Ball,5,5,3,3
+303,303,Press After Possession Loss,6,5,Balanced,6,3,3,3
+304,304,Balanced,6,5,Balanced,6,3,3,3
+305,305,Balanced,5,5,Possession,6,3,3,3
+306,306,Drop Back,4,5,Long Ball,6,3,3,3
+307,307,Balanced,5,5,Balanced,7,3,3,3
+308,308,Balanced,4,6,Balanced,6,6,3,3
+309,309,Balanced,4,5,Balanced,5,3,3,3
+310,310,Drop Back,6,5,Balanced,7,6,3,3
+311,311,Pressure On Heavy Touch,5,6,Balanced,7,5,3,3
+312,312,Balanced,5,6,Balanced,6,3,3,3
+313,313,Balanced,5,5,Long Ball,5,4,3,3
+314,314,Balanced,5,6,Balanced,6,4,3,3
+315,315,Balanced,4,5,Balanced,5,6,3,3
+316,316,Balanced,5,5,Balanced,8,6,3,3
+317,317,Balanced,5,5,Balanced,5,3,3,3
+318,318,Balanced,5,5,Balanced,5,5,3,3
+319,319,Pressure On Heavy Touch,5,6,Balanced,5,7,3,3
+320,320,Balanced,7,6,Balanced,7,3,3,3
+321,321,Balanced,5,6,Balanced,6,6,3,3
+322,322,Balanced,7,8,Long Ball,7,4,3,3
+323,323,Balanced,5,4,Balanced,6,5,3,3
+324,324,Balanced,6,6,Balanced,6,3,3,3
+325,325,Balanced,5,4,Long Ball,5,3,3,3
+326,326,Press After Possession Loss,6,5,Balanced,7,7,3,3
+327,327,Press After Possession Loss,4,6,Balanced,7,3,3,3
+328,328,Balanced,5,4,Balanced,6,3,3,3
+329,329,Pressure On Heavy Touch,5,5,Balanced,6,4,3,3
+330,330,Press After Possession Loss,7,5,Balanced,8,3,3,3
+331,331,Balanced,4,5,Balanced,6,6,3,3
+332,332,Balanced,5,4,Long Ball,6,4,3,3
+333,333,Pressure On Heavy Touch,5,7,Possession,7,5,3,3
+334,334,Balanced,6,5,Balanced,7,4,3,3
+335,335,Balanced,6,5,Balanced,6,4,3,3
+336,336,Balanced,5,5,Balanced,5,4,3,3
+337,337,Drop Back,5,3,Fast Build Up,7,4,3,3
+338,338,Balanced,5,5,Long Ball,4,4,3,3
+339,339,Pressure On Heavy Touch,5,6,Balanced,7,4,3,3
+340,340,Balanced,5,6,Balanced,5,6,3,3
+341,341,Balanced,6,5,Long Ball,5,3,3,3
+342,342,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+343,343,Balanced,6,6,Balanced,6,4,3,3
+344,344,Balanced,5,4,Balanced,5,4,3,3
+345,345,Press After Possession Loss,6,6,Balanced,5,3,3,3
+346,346,Drop Back,5,5,Fast Build Up,5,3,3,3
+347,347,Balanced,5,5,Long Ball,5,4,3,3
+348,348,Press After Possession Loss,7,6,Balanced,7,5,3,3
+349,349,Balanced,4,6,Balanced,4,7,3,3
+350,350,Balanced,5,4,Long Ball,6,4,3,3
+351,351,Balanced,5,5,Long Ball,7,4,3,3
+352,352,Pressure On Heavy Touch,5,5,Balanced,6,3,3,3
+353,353,Press After Possession Loss,5,6,Balanced,6,7,3,3
+354,354,Drop Back,3,3,Long Ball,3,3,3,3
+355,355,Press After Possession Loss,4,7,Balanced,5,7,3,3
+356,356,Balanced,5,5,Balanced,5,3,3,3
+357,357,Balanced,5,5,Balanced,6,3,3,3
+358,358,Balanced,6,5,Long Ball,6,6,3,3
+359,359,Pressure On Heavy Touch,6,7,Balanced,5,4,3,3
+360,360,Balanced,5,5,Balanced,5,5,3,3
+361,361,Balanced,6,5,Balanced,6,4,3,3
+362,362,Pressure On Heavy Touch,5,6,Balanced,6,3,3,3
+363,363,Drop Back,5,5,Balanced,6,3,3,3
+364,364,Pressure On Heavy Touch,4,4,Long Ball,7,3,3,3
+365,365,Balanced,7,8,Balanced,7,6,3,3
+366,366,Balanced,5,5,Balanced,6,4,3,3
+367,367,Pressure On Heavy Touch,6,6,Balanced,7,3,3,3
+368,368,Pressure On Heavy Touch,4,6,Long Ball,6,6,3,3
+369,369,Balanced,5,5,Long Ball,4,3,3,3
+370,370,Drop Back,4,4,Fast Build Up,6,3,3,3
+371,371,Pressure On Heavy Touch,7,5,Balanced,7,7,3,3
+372,372,Drop Back,5,4,Fast Build Up,4,3,3,3
+373,373,Drop Back,3,4,Fast Build Up,6,3,3,3
+374,374,Balanced,6,4,Long Ball,6,3,3,3
+375,375,Balanced,4,5,Long Ball,5,6,3,3
+376,376,Balanced,4,4,Balanced,4,3,3,3
+377,377,Balanced,4,5,Long Ball,6,3,3,3
+378,378,Press After Possession Loss,5,7,Possession,7,4,3,3
+379,379,Press After Possession Loss,4,6,Long Ball,6,6,3,3
+380,380,Balanced,5,5,Long Ball,5,3,3,3
+381,381,Balanced,6,6,Long Ball,7,3,3,3
+382,382,Balanced,5,5,Long Ball,7,3,3,3
+383,383,Balanced,6,6,Balanced,5,5,3,3
+384,384,Balanced,4,4,Balanced,5,3,3,3
+385,385,Balanced,5,4,Balanced,7,3,3,3
+386,386,Balanced,4,7,Balanced,5,3,3,3
+387,387,Balanced,4,4,Balanced,5,4,3,3
+388,388,Pressure On Heavy Touch,5,6,Balanced,4,6,3,3
+389,389,Balanced,4,4,Balanced,5,3,3,3
+390,390,Pressure On Heavy Touch,5,7,Balanced,5,4,3,3
+391,391,Balanced,5,5,Long Ball,6,7,3,3
+392,392,Drop Back,5,3,Long Ball,5,4,3,3
+393,393,Drop Back,5,4,Fast Build Up,5,3,3,3
+394,394,Balanced,5,5,Balanced,6,4,3,3
+395,395,Drop Back,5,4,Long Ball,5,3,3,3
+396,396,Balanced,5,3,Long Ball,6,3,3,3
+397,397,Balanced,6,5,Long Ball,6,4,3,3
+398,398,Pressure On Heavy Touch,5,6,Balanced,6,3,3,3
+399,399,Pressure On Heavy Touch,4,5,Balanced,6,5,3,3
+400,400,Balanced,5,5,Long Ball,6,5,3,3
+401,401,Pressure On Heavy Touch,6,6,Balanced,7,8,3,3
+402,402,Balanced,5,5,Balanced,4,5,3,3
+403,403,Balanced,6,5,Balanced,7,3,3,3
+404,404,Pressure On Heavy Touch,5,6,Balanced,4,3,3,3
+405,405,Press After Possession Loss,6,7,Balanced,6,4,3,3
+406,406,Drop Back,5,4,Long Ball,6,3,3,3
+407,407,Balanced,5,5,Balanced,6,3,3,3
+408,408,Balanced,6,4,Long Ball,5,4,3,3
+409,409,Balanced,4,4,Balanced,6,3,3,3
+410,410,Drop Back,6,5,Long Ball,3,3,3,3
+411,411,Press After Possession Loss,6,4,Long Ball,6,5,3,3
+412,412,Press After Possession Loss,5,7,Long Ball,5,3,3,3
+413,413,Pressure On Heavy Touch,5,5,Balanced,6,3,3,3
+414,414,Balanced,7,5,Balanced,6,3,3,3
+415,415,Press After Possession Loss,5,7,Balanced,5,7,3,3
+416,416,Balanced,4,5,Balanced,7,3,3,3
+417,417,Balanced,6,5,Balanced,6,3,3,3
+418,418,Balanced,6,4,Balanced,6,3,3,3
+419,419,Pressure On Heavy Touch,4,5,Long Ball,4,3,3,3
+420,420,Balanced,4,4,Balanced,6,4,3,3
+421,421,Balanced,7,5,Long Ball,6,3,3,3
+422,422,Balanced,5,5,Long Ball,5,6,3,3
+423,423,Drop Back,4,4,Long Ball,5,7,3,3
+424,424,Balanced,6,5,Balanced,6,4,3,3
+425,425,Drop Back,4,4,Long Ball,5,3,3,3
+426,426,Balanced,5,5,Balanced,5,3,3,3
+427,427,Balanced,6,6,Long Ball,6,5,3,3
+428,428,Drop Back,5,3,Long Ball,7,5,3,3
+429,429,Balanced,5,5,Long Ball,5,4,3,3
+430,430,Drop Back,4,5,Fast Build Up,4,4,3,3
+431,431,Balanced,6,5,Balanced,6,4,3,3
+432,432,Pressure On Heavy Touch,6,6,Possession,7,4,3,3
+433,433,Pressure On Heavy Touch,5,6,Balanced,5,4,3,3
+434,434,Pressure On Heavy Touch,5,6,Long Ball,7,3,3,3
+435,435,Press After Possession Loss,6,7,Long Ball,6,7,3,3
+436,436,Balanced,4,5,Balanced,5,4,3,3
+437,437,Balanced,5,4,Long Ball,6,3,3,3
+438,438,Balanced,5,5,Long Ball,6,4,3,3
+439,439,Drop Back,4,4,Long Ball,7,3,3,3
+440,440,Drop Back,5,4,Fast Build Up,6,3,3,3
+441,441,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+442,442,Pressure On Heavy Touch,4,5,Balanced,4,4,3,3
+443,443,Balanced,6,8,Long Ball,5,8,3,3
+444,444,Press After Possession Loss,5,4,Balanced,6,5,3,3
+445,445,Balanced,6,4,Long Ball,4,4,3,3
+446,446,Drop Back,4,3,Balanced,6,3,3,3
+447,447,Balanced,4,5,Balanced,6,5,3,3
+448,448,Balanced,5,5,Balanced,5,4,3,3
+449,449,Balanced,7,5,Balanced,7,4,3,3
+450,450,Balanced,5,5,Long Ball,5,3,3,3
+451,451,Balanced,6,6,Balanced,5,3,3,3
+452,452,Balanced,5,6,Balanced,3,4,3,3
+453,453,Press After Possession Loss,6,6,Balanced,6,8,3,3
+454,454,Pressure On Heavy Touch,4,7,Balanced,5,7,3,3
+455,455,Balanced,5,6,Long Ball,7,3,3,3
+456,456,Balanced,4,5,Long Ball,6,5,3,3
+457,457,Pressure On Heavy Touch,7,7,Long Ball,7,6,3,3
+458,458,Balanced,6,5,Balanced,6,5,3,3
+459,459,Drop Back,4,3,Balanced,5,3,3,3
+460,460,Pressure On Heavy Touch,5,6,Balanced,7,5,3,3
+461,461,Balanced,5,7,Balanced,7,4,3,3
+462,462,Balanced,5,5,Long Ball,4,4,3,3
+463,463,Pressure On Heavy Touch,5,5,Balanced,5,4,3,3
+464,464,Balanced,6,6,Balanced,7,6,3,3
+465,465,Pressure On Heavy Touch,5,5,Long Ball,6,4,3,3
+466,466,Pressure On Heavy Touch,4,7,Long Ball,4,6,3,3
+467,467,Balanced,4,4,Long Ball,3,5,3,3
+468,468,Balanced,6,5,Long Ball,7,3,3,3
+469,469,Pressure On Heavy Touch,5,7,Balanced,5,7,3,3
+470,470,Pressure On Heavy Touch,6,5,Long Ball,7,5,3,3
+471,471,Balanced,6,5,Balanced,6,6,3,3
+472,472,Drop Back,4,3,Fast Build Up,4,3,3,3
+473,473,Pressure On Heavy Touch,5,6,Long Ball,6,3,3,3
+474,474,Drop Back,6,5,Possession,5,5,3,3
+475,475,Balanced,5,5,Balanced,6,3,3,3
+476,476,Pressure On Heavy Touch,5,6,Long Ball,6,7,3,3
+477,477,Balanced,6,6,Balanced,6,4,3,3
+478,478,Balanced,5,5,Balanced,6,4,3,3
+479,479,Balanced,6,4,Balanced,6,3,3,3
+480,480,Balanced,6,5,Balanced,5,4,3,3
+481,481,Drop Back,5,4,Balanced,5,4,3,3
+482,482,Drop Back,5,5,Fast Build Up,6,3,3,3
+483,483,Balanced,6,4,Balanced,7,7,3,3
+484,484,Press After Possession Loss,5,5,Balanced,6,3,3,3
+485,485,Balanced,5,5,Balanced,5,4,3,3
+486,486,Balanced,5,5,Balanced,6,4,3,3
+487,487,Balanced,5,5,Long Ball,5,4,3,3
+488,488,Balanced,5,5,Long Ball,6,5,3,3
+489,489,Balanced,6,5,Long Ball,6,4,3,3
+490,490,Balanced,3,3,Long Ball,5,3,3,3
+491,491,Drop Back,7,4,Long Ball,7,3,3,3
+492,492,Balanced,7,5,Long Ball,7,3,3,3
+493,493,Pressure On Heavy Touch,5,5,Balanced,6,6,3,3
+494,494,Pressure On Heavy Touch,5,7,Balanced,6,7,3,3
+495,495,Balanced,5,6,Balanced,6,5,3,3
+496,496,Balanced,4,5,Balanced,5,3,3,3
+497,497,Drop Back,6,5,Balanced,5,4,3,3
+498,498,Balanced,7,5,Balanced,7,3,3,3
+499,499,Pressure On Heavy Touch,5,5,Balanced,6,4,3,3
+500,500,Balanced,5,6,Balanced,6,3,3,3
+501,501,Press After Possession Loss,5,5,Long Ball,6,4,3,3
+502,502,Balanced,6,5,Balanced,7,6,3,3
+503,503,Balanced,5,4,Balanced,5,3,3,3
+504,504,Pressure On Heavy Touch,4,6,Balanced,5,7,3,3
+505,505,Balanced,4,8,Long Ball,4,4,3,3
+506,506,Pressure On Heavy Touch,5,6,Balanced,6,5,3,3
+507,507,Balanced,7,4,Balanced,6,3,3,3
+508,508,Balanced,5,4,Balanced,7,3,3,3
+509,509,Drop Back,5,5,Fast Build Up,6,4,3,3
+510,510,Balanced,6,6,Balanced,6,6,3,3
+511,511,Drop Back,6,5,Possession,6,4,3,3
+512,512,Balanced,4,5,Long Ball,5,4,3,3
+513,513,Drop Back,5,4,Long Ball,6,3,3,3
+514,514,Balanced,4,4,Balanced,6,4,3,3
+515,515,Balanced,6,6,Balanced,7,8,3,3
+516,516,Pressure On Heavy Touch,5,7,Balanced,6,4,3,3
+517,517,Balanced,5,5,Balanced,5,4,3,3
+518,518,Balanced,5,5,Balanced,5,4,3,3
+519,519,Balanced,5,5,Long Ball,5,5,3,3
+520,520,Drop Back,6,5,Balanced,5,6,3,3
+521,521,Pressure On Heavy Touch,6,6,Balanced,5,4,3,3
+522,522,Balanced,7,5,Balanced,6,4,3,3
+523,523,Balanced,6,6,Balanced,8,3,3,3
+524,524,Balanced,5,5,Balanced,5,4,3,3
+525,525,Balanced,6,7,Balanced,7,5,3,3
+526,526,Pressure On Heavy Touch,5,5,Balanced,7,3,3,3
+527,527,Balanced,6,4,Balanced,6,4,3,3
+528,528,Pressure On Heavy Touch,6,5,Balanced,6,7,3,3
+529,529,Balanced,4,6,Balanced,6,4,3,3
+530,530,Drop Back,5,5,Balanced,5,4,3,3
+531,531,Press After Possession Loss,4,7,Balanced,5,4,3,3
+532,532,Balanced,5,5,Balanced,6,7,3,3
+533,533,Balanced,6,6,Balanced,6,6,3,3
+534,534,Balanced,7,4,Balanced,8,6,3,3
+535,535,Balanced,4,5,Balanced,5,3,3,3
+536,536,Pressure On Heavy Touch,6,7,Balanced,5,5,3,3
+537,537,Balanced,5,5,Balanced,6,6,3,3
+538,538,Balanced,4,4,Balanced,4,4,3,3
+539,539,Balanced,5,5,Balanced,5,4,3,3
+540,540,Balanced,5,5,Long Ball,5,4,3,3
+541,541,Balanced,6,5,Balanced,6,4,3,3
+542,542,Balanced,5,5,Long Ball,5,4,3,3
+543,543,Balanced,6,5,Long Ball,6,6,3,3
+544,544,Pressure On Heavy Touch,7,5,Balanced,7,3,3,3
+545,545,Balanced,6,5,Balanced,6,3,3,3
+546,546,Pressure On Heavy Touch,4,6,Balanced,5,6,3,3
+547,547,Balanced,5,6,Long Ball,7,4,3,3
+548,548,Balanced,5,5,Possession,6,3,3,3
+549,549,Balanced,5,5,Balanced,6,4,3,3
+550,550,Pressure On Heavy Touch,6,6,Long Ball,7,4,3,3
+551,551,Pressure On Heavy Touch,5,7,Long Ball,5,4,3,3
+552,552,Balanced,6,6,Balanced,5,4,3,3
+553,553,Balanced,5,4,Balanced,5,4,3,3
+554,554,Balanced,5,5,Balanced,5,4,3,3
+555,555,Balanced,6,4,Balanced,7,3,3,3
+556,556,Balanced,5,5,Balanced,8,4,3,3
+557,557,Balanced,6,5,Balanced,7,4,3,3
+558,558,Balanced,4,4,Balanced,5,3,3,3
+559,559,Pressure On Heavy Touch,5,7,Balanced,7,5,3,3
+560,560,Balanced,6,4,Balanced,6,3,3,3
+561,561,Balanced,4,4,Long Ball,5,3,3,3
+562,562,Balanced,5,5,Long Ball,4,4,3,3
+563,563,Balanced,5,5,Balanced,5,3,3,3
+564,564,Balanced,6,5,Long Ball,6,6,3,3
+565,565,Balanced,5,5,Balanced,5,7,3,3
+566,566,Pressure On Heavy Touch,7,7,Balanced,6,3,3,3
+567,567,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+568,568,Pressure On Heavy Touch,5,6,Balanced,7,4,3,3
+569,569,Drop Back,4,4,Balanced,6,6,3,3
+570,570,Balanced,5,5,Balanced,4,3,3,3
+571,571,Balanced,7,7,Long Ball,7,3,3,3
+572,572,Balanced,4,5,Balanced,5,3,3,3
+573,573,Balanced,5,5,Balanced,5,4,3,3
+574,574,Balanced,4,4,Long Ball,5,3,3,3
+575,575,Drop Back,3,3,Balanced,5,3,3,3
+576,576,Drop Back,4,5,Long Ball,5,3,3,3
+577,577,Pressure On Heavy Touch,5,6,Balanced,5,3,3,3
+578,578,Balanced,5,5,Long Ball,5,4,3,3
+579,579,Balanced,5,5,Balanced,5,3,3,3
+580,580,Balanced,6,6,Long Ball,5,5,3,3
+581,581,Drop Back,4,4,Long Ball,6,3,3,3
+582,582,Pressure On Heavy Touch,6,5,Long Ball,5,3,3,3
+583,583,Balanced,6,6,Balanced,5,4,3,3
+584,584,Balanced,6,5,Balanced,6,3,3,3
+585,585,Balanced,5,5,Balanced,6,6,3,3
+586,586,Drop Back,6,3,Fast Build Up,6,3,3,3
+587,587,Balanced,7,5,Balanced,7,6,3,3
+588,588,Drop Back,5,5,Fast Build Up,6,4,3,3
+589,589,Balanced,4,6,Long Ball,4,3,3,3
+590,590,Pressure On Heavy Touch,5,6,Balanced,7,8,3,3
+591,591,Pressure On Heavy Touch,6,6,Balanced,5,6,3,3
+592,592,Balanced,5,5,Long Ball,7,5,3,3
+593,593,Balanced,6,5,Long Ball,6,3,3,3
+594,594,Pressure On Heavy Touch,4,5,Long Ball,6,3,3,3
+595,595,Balanced,3,6,Long Ball,7,3,3,3
+596,596,Balanced,4,5,Balanced,6,3,3,3
+597,597,Balanced,6,7,Balanced,7,5,3,3
+598,598,Balanced,5,4,Balanced,5,3,3,3
+599,599,Balanced,5,5,Long Ball,5,3,3,3
+600,600,Balanced,5,6,Long Ball,5,3,3,3
+601,601,Balanced,5,5,Balanced,5,4,3,3
+602,602,Balanced,5,5,Balanced,5,3,3,3
+603,603,Pressure On Heavy Touch,6,6,Balanced,6,3,3,3
+604,604,Balanced,5,5,Balanced,5,6,3,3
+605,605,Drop Back,3,3,Long Ball,6,3,3,3
+606,606,Balanced,4,4,Long Ball,6,4,3,3
+607,607,Balanced,6,5,Balanced,6,4,3,3
+608,608,Pressure On Heavy Touch,4,5,Long Ball,6,3,3,3
+609,609,Balanced,4,4,Balanced,5,4,3,3
+610,610,Balanced,6,5,Long Ball,6,3,3,3
+611,611,Balanced,5,5,Balanced,6,3,3,3
+612,612,Balanced,4,4,Balanced,6,3,3,3
+613,613,Pressure On Heavy Touch,5,5,Long Ball,7,5,3,3
+614,614,Pressure On Heavy Touch,4,5,Possession,5,4,3,3
+615,615,Press After Possession Loss,6,7,Possession,5,3,3,3
+616,616,Balanced,6,4,Balanced,6,4,3,3
+617,617,Drop Back,3,3,Balanced,5,3,3,3
+618,618,Balanced,5,6,Balanced,5,4,3,3
+619,619,Drop Back,6,5,Balanced,5,3,3,3
+620,620,Balanced,4,4,Long Ball,5,4,3,3
+621,621,Press After Possession Loss,5,6,Long Ball,6,6,3,3
+622,622,Drop Back,5,3,Balanced,6,4,3,3
+623,623,Drop Back,5,4,Fast Build Up,6,3,3,3
+624,624,Balanced,4,4,Long Ball,6,3,3,3
+625,625,Balanced,5,4,Balanced,5,3,3,3
+626,626,Balanced,7,5,Balanced,7,3,3,3
+627,627,Balanced,5,4,Balanced,6,3,3,3
+628,628,Balanced,6,4,Balanced,6,4,3,3
+629,629,Drop Back,4,4,Long Ball,6,5,3,3
+630,630,Balanced,5,5,Long Ball,6,4,3,3
+631,631,Balanced,5,4,Possession,6,5,3,3
+632,632,Balanced,4,5,Balanced,7,3,3,3
+633,633,Balanced,5,5,Balanced,6,3,3,3
+634,634,Balanced,5,4,Balanced,6,3,3,3
+635,635,Balanced,6,5,Long Ball,7,3,3,3
+636,636,Balanced,4,5,Balanced,6,3,3,3
+637,637,Drop Back,4,3,Fast Build Up,4,3,3,3
+638,638,Balanced,5,5,Long Ball,5,3,3,3
+639,639,Balanced,6,5,Long Ball,7,3,3,3
+640,640,Balanced,5,4,Balanced,6,3,3,3
+641,641,Balanced,5,5,Long Ball,5,3,3,3
+642,642,Balanced,5,5,Balanced,5,3,3,3
+643,643,Drop Back,4,4,Long Ball,6,4,3,3
+644,644,Pressure On Heavy Touch,5,6,Balanced,7,3,3,3
+645,645,Balanced,6,5,Balanced,6,4,3,3
+646,646,Drop Back,4,3,Long Ball,3,3,3,3
+647,647,Pressure On Heavy Touch,5,5,Balanced,6,6,3,3
+648,648,Balanced,7,5,Long Ball,6,4,3,3
+649,649,Pressure On Heavy Touch,5,7,Possession,6,6,3,3
+650,650,Balanced,5,5,Balanced,5,3,3,3
+651,651,Balanced,5,5,Balanced,5,3,3,3
+652,652,Balanced,4,5,Balanced,5,5,3,3
+653,653,Drop Back,4,4,Fast Build Up,4,3,3,3
+654,654,Balanced,4,5,Balanced,5,3,3,3
+655,655,Balanced,7,5,Long Ball,5,3,3,3
+656,656,Balanced,6,5,Long Ball,6,3,3,3
+657,657,Balanced,6,6,Long Ball,7,8,3,3
+658,658,Pressure On Heavy Touch,5,5,Balanced,7,4,3,3
+659,659,Balanced,5,7,Balanced,6,4,3,3
+660,660,Drop Back,4,4,Long Ball,4,3,3,3
+661,661,Balanced,5,4,Long Ball,6,3,3,3
+662,662,Balanced,4,4,Long Ball,3,3,3,3
+663,663,Balanced,5,5,Long Ball,6,3,3,3
+664,664,Balanced,5,5,Long Ball,6,4,3,3
+665,665,Balanced,6,4,Long Ball,5,3,3,3
+666,666,Balanced,4,5,Balanced,4,3,3,3
+667,667,Balanced,5,5,Long Ball,5,4,3,3
+668,668,Balanced,7,5,Balanced,4,5,3,3
+669,669,Balanced,6,5,Balanced,6,4,3,3
+670,670,Drop Back,6,5,Fast Build Up,5,4,3,3
+671,671,Balanced,4,5,Balanced,6,3,3,3
+672,672,Pressure On Heavy Touch,5,6,Possession,5,5,3,3
+673,673,Balanced,5,5,Long Ball,5,4,3,3
+674,674,Balanced,5,4,Balanced,6,5,3,3
+675,675,Balanced,6,5,Balanced,6,3,3,3
+676,676,Balanced,6,6,Balanced,5,4,3,3
+677,677,Balanced,4,5,Balanced,4,5,3,3
+678,678,Balanced,4,4,Long Ball,5,3,3,3
+679,679,Balanced,4,4,Long Ball,7,4,3,3
+680,680,Balanced,7,5,Balanced,7,4,3,3
+681,681,Balanced,5,5,Balanced,5,4,3,3

@@ -1,0 +1,682 @@
+int_team_id,str_team_name,str_league,int_overall,int_attack,int_midfield,int_defence,int_international_prestige,int_domestic_prestige,int_transfer_budget,str_defensive_style,int_team_width,int_depth,str_offensive_style,int_width,int_players_in_box,int_corners,int_freekicks
+1,Liverpool,English Premier League (1),85,86,84,86,10,9,90000000,Press After Possession Loss,6,7,Balanced,7,6,3,3
+2,Manchester City,English Premier League (1),85,86,86,83,9,10,176000000,Press After Possession Loss,7,8,Possession,6,7,3,3
+3,Real Madrid,Spain Primera Division (1),85,84,87,84,10,10,188500000,Balanced,5,8,Possession,5,6,3,3
+4,FC Bayern München,German 1. Bundesliga (1),84,91,84,83,10,10,100000000,Pressure On Heavy Touch,4,8,Possession,8,7,3,3
+5,FC Barcelona,Spain Primera Division (1),84,82,87,83,10,10,180500000,Balanced,6,8,Possession,3,7,3,3
+6,Juventus,Italian Serie A (1),83,87,81,84,10,10,105000000,Pressure On Heavy Touch,5,7,Possession,6,8,3,3
+7,Paris Saint-Germain,French Ligue 1 (1),83,86,82,81,9,10,130000000,Pressure On Heavy Touch,6,7,Possession,6,8,3,3
+8,Atlético Madrid,Spain Primera Division (1),83,84,82,82,9,9,68600000,Pressure On Heavy Touch,6,6,Balanced,4,4,3,3
+9,Chelsea,English Premier League (1),82,85,83,81,7,8,85000000,Balanced,6,7,Possession,5,6,3,3
+10,Manchester United,English Premier League (1),82,84,82,81,7,8,177000000,Pressure On Heavy Touch,4,6,Balanced,6,4,3,3
+11,Tottenham Hotspur,English Premier League (1),82,86,82,81,7,8,75000000,Drop Back,4,4,Balanced,4,5,3,3
+12,Borussia Dortmund,German 1. Bundesliga (1),82,84,82,81,8,9,60000000,Balanced,5,7,Balanced,4,7,3,3
+13,Inter,Italian Serie A (1),82,83,82,81,7,9,99500000,Pressure On Heavy Touch,6,7,Balanced,6,4,3,3
+14,Arsenal,English Premier League (1),80,84,81,77,7,7,80000000,Balanced,5,4,Balanced,6,5,3,3
+15,RB Leipzig,German 1. Bundesliga (1),80,78,80,80,7,8,50000000,Press After Possession Loss,5,7,Balanced,3,8,3,3
+16,Lazio,Italian Serie A (1),80,82,80,79,6,7,39000000,Balanced,6,6,Long Ball,7,3,3,3
+17,Napoli,Italian Serie A (1),80,81,80,80,7,9,56000000,Balanced,5,6,Balanced,7,8,3,3
+18,Leicester City,English Premier League (1),80,81,79,79,6,6,45000000,Balanced,5,5,Balanced,6,4,3,3
+19,Sevilla FC,Spain Primera Division (1),80,80,80,81,7,7,34500000,Pressure On Heavy Touch,7,7,Balanced,8,8,3,3
+20,Villarreal CF,Spain Primera Division (1),80,81,80,79,7,8,32900000,Balanced,6,5,Balanced,6,7,3,3
+21,Everton,English Premier League (1),79,81,78,80,5,6,51000000,Balanced,6,6,Balanced,6,4,3,3
+22,Borussia Mönchengladbach,German 1. Bundesliga (1),79,79,79,79,5,7,25000000,Press After Possession Loss,7,6,Balanced,6,6,3,3
+23,Bayer 04 Leverkusen,German 1. Bundesliga (1),79,78,78,79,6,7,39000000,Press After Possession Loss,5,7,Balanced,8,8,3,3
+24,Atalanta,Italian Serie A (1),79,83,79,77,3,6,28000000,Press After Possession Loss,4,7,Balanced,6,5,3,3
+25,Milan,Italian Serie A (1),79,83,77,78,7,7,37000000,Balanced,6,7,Balanced,6,8,3,3
+26,Athletic Club de Bilbao,Spain Primera Division (1),79,79,78,80,6,6,18500000,Balanced,5,7,Long Ball,8,3,3,3
+27,Real Sociedad,Spain Primera Division (1),79,81,81,77,3,5,15800000,Balanced,4,5,Possession,6,6,3,3
+28,SL Benfica,Portuguese Liga ZON SAGRES (1),79,74,80,79,7,10,25300000,Pressure On Heavy Touch,4,6,Balanced,5,6,3,3
+29,West Ham United,English Premier League (1),78,79,78,76,4,4,35000000,Balanced,5,5,Balanced,7,4,3,3
+30,Roma,,78,79,78,76,7,8,46000000,Balanced,6,8,Balanced,6,4,3,3
+31,Wolverhampton Wanderers,English Premier League (1),78,78,82,78,4,5,45000000,Balanced,7,5,Balanced,8,4,3,3
+32,Real Betis,Spain Primera Division (1),78,76,79,78,2,5,16100000,Pressure On Heavy Touch,4,6,Balanced,6,7,3,3
+33,Olympique de Marseille,French Ligue 1 (1),78,78,78,77,5,8,14000000,Balanced,6,6,Long Ball,6,6,3,3
+34,FC Porto,Portuguese Liga ZON SAGRES (1),78,78,78,75,7,10,23000000,Pressure On Heavy Touch,4,7,Balanced,5,6,3,3
+35,Ajax,Holland Eredivisie (1),78,79,77,79,7,10,29500000,Press After Possession Loss,6,8,Possession,7,8,3,3
+36,Crystal Palace,English Premier League (1),77,79,76,76,2,3,30000000,Balanced,4,4,Balanced,7,4,3,3
+37,Newcastle United,English Premier League (1),77,76,77,76,3,4,30000000,Drop Back,4,3,Long Ball,6,4,3,3
+38,Eintracht Frankfurt,German 1. Bundesliga (1),77,78,76,77,5,6,25000000,Press After Possession Loss,6,6,Long Ball,6,6,3,3
+39,TSG 1899 Hoffenheim,German 1. Bundesliga (1),77,79,76,75,5,6,28000000,Balanced,5,5,Balanced,5,5,3,3
+40,LOSC Lille,French Ligue 1 (1),77,77,77,75,4,7,14000000,Pressure On Heavy Touch,6,6,Balanced,6,6,3,3
+41,Olympique Lyonnais,French Ligue 1 (1),77,78,77,77,6,8,43900000,Pressure On Heavy Touch,5,5,Balanced,7,5,3,3
+42,Getafe CF,Spain Primera Division (1),77,77,77,78,3,5,8300000,Pressure On Heavy Touch,4,7,Long Ball,7,3,3,3
+43,AS Monaco,French Ligue 1 (1),77,80,76,75,6,8,34600000,Pressure On Heavy Touch,5,6,Balanced,7,5,3,3
+44,VfL Wolfsburg,German 1. Bundesliga (1),77,77,77,74,5,6,40000000,Press After Possession Loss,7,5,Long Ball,7,5,3,3
+45,Valencia CF,Spain Primera Division (1),77,77,77,76,6,8,60000000,Balanced,4,4,Balanced,4,4,3,3
+46,Sporting CP,Portuguese Liga ZON SAGRES (1),77,76,75,76,4,9,21600000,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+47,Granada CF,Spain Primera Division (1),77,77,77,77,1,7,7600000,Drop Back,4,5,Long Ball,7,3,3,3
+48,Aston Villa,English Premier League (1),76,76,76,75,2,2,37500000,Balanced,5,4,Balanced,5,4,3,3
+49,Burnley,English Premier League (1),76,76,76,76,1,3,27000000,Balanced,4,5,Long Ball,5,4,3,3
+50,Brighton & Hove Albion,English Premier League (1),76,75,76,74,1,2,36000000,Balanced,6,5,Balanced,7,4,3,3
+51,Southampton,English Premier League (1),76,77,76,76,3,4,35000000,Press After Possession Loss,5,5,Balanced,5,4,3,3
+52,Flamengo,Campeonato Brasileiro Série A (1),76,77,75,75,7,10,42400000,Pressure On Heavy Touch,6,6,Balanced,6,5,3,3
+53,Fiorentina,Italian Serie A (1),76,77,77,76,5,6,25000000,Pressure On Heavy Touch,4,5,Balanced,4,8,3,3
+54,Torino,Italian Serie A (1),76,78,75,75,4,5,15500000,Balanced,3,3,Long Ball,5,3,3,3
+55,Levante UD,Spain Primera Division (1),76,78,76,75,1,3,9300000,Balanced,5,4,Balanced,6,3,3,3
+56,Stade Rennais FC,French Ligue 1 (1),76,75,77,76,3,7,12200000,Balanced,5,5,Balanced,5,3,3,3
+57,River Plate,Argentina Primera División  (1),76,75,77,75,9,10,15500000,Press After Possession Loss,5,6,Balanced,6,4,3,3
+58,Boca Juniors,Argentina Primera División  (1),76,75,75,76,9,10,30000000,Press After Possession Loss,6,5,Long Ball,7,6,3,3
+59,SC Braga,Portuguese Liga ZON SAGRES (1),76,79,74,76,3,8,14000000,Pressure On Heavy Touch,4,5,Balanced,6,4,3,3
+60,Medipol Başakşehir FK,Turkish Süper Lig (1),76,75,76,76,5,8,13200000,Pressure On Heavy Touch,7,6,Balanced,6,7,3,3
+61,Hertha BSC,German 1. Bundesliga (1),76,77,77,75,4,6,60000000,Balanced,5,6,Balanced,5,6,3,3
+62,RC Celta,Spain Primera Division (1),76,78,74,76,4,5,11800000,Pressure On Heavy Touch,7,6,Balanced,4,6,3,3
+63,Deportivo Alavés,Spain Primera Division (1),76,77,74,76,1,3,4400000,Drop Back,5,3,Fast Build Up,7,3,3,3
+64,SD Eibar,Spain Primera Division (1),76,75,77,74,1,4,6500000,Press After Possession Loss,5,8,Long Ball,6,5,3,3
+65,CA Osasuna,Spain Primera Division (1),76,76,77,74,1,7,4800000,Drop Back,7,7,Long Ball,6,3,3,3
+66,PSV,Holland Eredivisie (1),76,79,75,74,5,10,21600000,Press After Possession Loss,5,7,Balanced,5,8,3,3
+67,Sheffield United,English Premier League (1),75,74,77,75,1,2,20000000,Balanced,6,6,Long Ball,8,3,3,3
+68,Watford,English League Championship (2),75,74,75,73,2,3,35000000,Balanced,5,5,Long Ball,4,4,3,3
+69,Leeds United,English Premier League (1),75,77,75,74,1,9,16500000,Press After Possession Loss,6,6,Possession,6,4,3,3
+70,Olympiacos CFP,Greek Super League (1),75,78,76,74,5,10,19000000,Press After Possession Loss,5,7,Balanced,7,7,3,3
+71,FC Schalke 04,German 1. Bundesliga (1),75,75,77,74,5,6,20000000,Pressure On Heavy Touch,5,5,Long Ball,7,4,3,3
+72,Cagliari,Italian Serie A (1),75,75,74,72,1,4,10000000,Pressure On Heavy Touch,5,6,Balanced,6,5,3,3
+73,Galatasaray SK,Turkish Süper Lig (1),75,80,74,75,7,10,25100000,Pressure On Heavy Touch,5,6,Balanced,5,3,3,3
+74,Fenerbahçe SK,Turkish Süper Lig (1),75,75,75,74,6,9,26500000,Balanced,6,6,Balanced,7,6,3,3
+75,OGC Nice,French Ligue 1 (1),75,76,74,74,3,7,10400000,Pressure On Heavy Touch,6,7,Possession,6,7,3,3
+76,Sassuolo,Italian Serie A (1),75,77,76,72,3,4,13500000,Pressure On Heavy Touch,4,5,Balanced,5,5,3,3
+77,Palmeiras,Campeonato Brasileiro Série A (1),75,74,77,75,6,8,20500000,Pressure On Heavy Touch,4,7,Balanced,6,6,3,3
+78,Fulham,English Premier League (1),75,76,74,74,1,9,16500000,Balanced,6,5,Balanced,4,5,3,3
+79,Shakhtar Donetsk,Ukrainian Premier League (1),75,79,76,72,7,10,16800000,Pressure On Heavy Touch,4,6,Balanced,5,7,3,3
+80,RCD Espanyol,Spanish Segunda División (2),75,76,76,75,2,5,6000000,Balanced,6,5,Long Ball,6,4,3,3
+81,Real Valladolid CF,Spain Primera Division (1),75,76,76,74,1,2,3100000,Drop Back,5,4,Fast Build Up,6,3,3,3
+82,Racing Club,Argentina Primera División  (1),75,73,76,75,7,9,9500000,Press After Possession Loss,6,8,Balanced,5,3,3,3
+83,Club Brugge KV,Belgian Jupiler Pro League (1),75,73,76,75,5,10,25900000,Balanced,4,6,Balanced,6,5,3,3
+84,Feyenoord,Holland Eredivisie (1),75,75,75,75,3,9,13800000,Balanced,5,5,Balanced,6,6,3,3
+85,Monterrey,Mexican Liga MX (1),74,78,74,72,9,8,24300000,Pressure On Heavy Touch,6,6,Long Ball,6,6,3,3
+86,SK Slavia Praha,Czech Republic Gambrinus Liga (1),74,71,73,74,4,10,6000000,Press After Possession Loss,6,6,Balanced,7,5,3,3
+87,Atlético Mineiro,Campeonato Brasileiro Série A (1),74,74,74,74,7,7,19000000,Press After Possession Loss,6,6,Balanced,6,6,3,3
+88,Internacional,Campeonato Brasileiro Série A (1),74,71,74,74,6,7,7700000,Press After Possession Loss,6,6,Balanced,7,4,3,3
+89,SC Freiburg,German 1. Bundesliga (1),74,73,74,75,3,3,10500000,Balanced,4,5,Balanced,4,3,3,3
+90,1. FC Köln,German 1. Bundesliga (1),74,75,74,72,3,4,12500000,Balanced,5,5,Long Ball,7,5,3,3
+91,SV Werder Bremen,German 1. Bundesliga (1),74,74,70,74,3,5,12000000,Balanced,6,6,Balanced,6,6,3,3
+92,Sampdoria,Italian Serie A (1),74,77,74,72,3,4,12000000,Drop Back,5,5,Fast Build Up,7,6,3,3
+93,Parma,Italian Serie A (1),74,75,75,72,2,4,8000000,Drop Back,4,4,Fast Build Up,7,5,3,3
+94,Udinese,Italian Serie A (1),74,74,75,72,3,4,8000000,Balanced,6,5,Long Ball,7,3,3,3
+95,FC Augsburg,German 1. Bundesliga (1),74,76,74,73,3,4,9500000,Balanced,5,4,Long Ball,6,3,3,3
+96,FC Girondins de Bordeaux,French Ligue 1 (1),74,73,75,75,3,6,10400000,Balanced,5,5,Balanced,6,3,3,3
+97,PFC CSKA Moscow,Russian Premier League (1),74,74,71,74,7,10,13100000,Balanced,4,6,Balanced,5,7,3,3
+98,Montpellier HSC,French Ligue 1 (1),74,77,75,74,2,6,8800000,Balanced,4,4,Balanced,4,3,3,3
+99,FC Nantes,French Ligue 1 (1),74,70,74,75,2,5,8800000,Balanced,5,4,Balanced,7,4,3,3
+100,Beşiktaş JK,Turkish Süper Lig (1),74,74,74,73,7,10,26500000,Pressure On Heavy Touch,4,7,Balanced,7,7,3,3
+101,RC Strasbourg Alsace,French Ligue 1 (1),74,74,74,74,1,4,8100000,Balanced,4,7,Balanced,7,4,3,3
+102,Celtic,Scottish Premiership (1),74,73,74,74,4,10,14600000,Press After Possession Loss,6,6,Balanced,7,8,3,3
+103,São Paulo,Campeonato Brasileiro Série A (1),74,74,73,76,6,9,11200000,Balanced,4,7,Balanced,5,7,3,3
+104,Grêmio,Campeonato Brasileiro Série A (1),74,75,72,75,8,8,7000000,Pressure On Heavy Touch,6,5,Balanced,6,4,3,3
+105,Bournemouth,English League Championship (2),74,73,74,74,1,2,36500000,Balanced,5,4,Balanced,7,5,3,3
+106,Lokomotiv Moscow,Russian Premier League (1),74,75,71,73,4,9,15700000,Pressure On Heavy Touch,5,7,Balanced,5,4,3,3
+107,Spartak Moscow,Russian Premier League (1),74,74,75,73,4,10,20000000,Pressure On Heavy Touch,6,7,Balanced,6,4,3,3
+108,1. FSV Mainz 05,German 1. Bundesliga (1),74,74,75,73,3,4,9200000,Pressure On Heavy Touch,6,6,Long Ball,6,5,3,3
+109,Tigres U.A.N.L.,Mexican Liga MX (1),74,75,75,73,7,9,20100000,Balanced,7,7,Possession,7,6,3,3
+110,Dynamo Kyiv,Ukrainian Premier League (1),74,72,75,72,6,10,12800000,Balanced,6,5,Balanced,6,6,3,3
+111,Bologna,Italian Serie A (1),74,75,75,72,2,4,15000000,Balanced,6,6,Long Ball,6,7,3,3
+112,Genoa,Italian Serie A (1),74,71,71,74,2,3,8500000,Balanced,5,5,Long Ball,6,3,3,3
+113,SD Huesca,Spain Primera Division (1),74,72,73,74,1,2,2100000,Balanced,6,5,Balanced,6,3,3,3
+114,Angers SCO,French Ligue 1 (1),74,74,74,73,1,4,5600000,Balanced,5,4,Balanced,6,4,3,3
+115,Norwich City,English League Championship (2),73,76,72,72,1,1,20000000,Balanced,6,5,Balanced,7,5,3,3
+116,Sparta Praha,Czech Republic Gambrinus Liga (1),73,72,73,71,4,9,7200000,Balanced,6,5,Long Ball,5,4,3,3
+117,CD Leganés,Spanish Segunda División (2),73,72,71,73,1,9,4200000,Balanced,5,6,Balanced,5,3,3,3
+118,AS Saint-Étienne,French Ligue 1 (1),73,76,72,73,3,6,12500000,Balanced,4,4,Balanced,6,4,3,3
+119,Santos,Campeonato Brasileiro Série A (1),73,74,72,73,8,7,6500000,Press After Possession Loss,4,7,Balanced,6,4,3,3
+120,1. FC Union Berlin,German 1. Bundesliga (1),73,71,72,73,1,2,6500000,Balanced,4,5,Long Ball,6,4,3,3
+121,Rangers FC,Scottish Premiership (1),73,73,72,73,3,9,8300000,Press After Possession Loss,6,5,Balanced,6,8,3,3
+122,Cruz Azul,Mexican Liga MX (1),73,72,74,73,4,9,30100000,Pressure On Heavy Touch,6,6,Possession,6,4,3,3
+123,Club América,Mexican Liga MX (1),73,75,72,69,9,10,15300000,Pressure On Heavy Touch,6,6,Possession,6,4,3,3
+124,Al Hilal,Saudi Abdul L. Jameel League (1),73,75,75,71,7,10,23600000,Press After Possession Loss,7,6,Balanced,8,6,3,3
+125,West Bromwich Albion,English Premier League (1),73,72,73,72,1,9,18400000,Balanced,5,4,Balanced,7,3,3,3
+126,AZ Alkmaar,Holland Eredivisie (1),73,74,74,73,3,8,9100000,Pressure On Heavy Touch,6,7,Balanced,6,7,3,3
+127,Stade de Reims,French Ligue 1 (1),73,71,72,74,1,5,7000000,Balanced,6,4,Balanced,7,3,3,3
+128,Viktoria Plzeň,Czech Republic Gambrinus Liga (1),73,72,72,73,4,9,6600000,Balanced,5,5,Balanced,7,5,3,3
+129,PAOK,Greek Super League (1),73,71,73,73,4,9,16800000,Balanced,5,6,Balanced,6,4,3,3
+130,KRC Genk,Belgian Jupiler Pro League (1),73,73,71,73,5,8,17400000,Pressure On Heavy Touch,6,6,Balanced,7,5,3,3
+131,KAA Gent,Belgian Jupiler Pro League (1),73,71,74,72,5,9,15800000,Pressure On Heavy Touch,4,5,Balanced,6,5,3,3
+132,Club León,Mexican Liga MX (1),73,74,74,71,4,8,3600000,Press After Possession Loss,6,6,Possession,7,3,3,3
+133,FC Red Bull Salzburg,Austrian Football Bundesliga (1),73,74,73,73,6,10,20700000,Press After Possession Loss,5,6,Balanced,6,5,3,3
+134,Hellas Verona,Italian Serie A (1),73,75,74,71,1,3,8000000,Pressure On Heavy Touch,5,4,Balanced,6,3,3,3
+135,Elche CF,Spain Primera Division (1),73,73,73,71,1,2,1700000,Balanced,5,5,Long Ball,6,3,3,3
+136,Royal Antwerp FC,Belgian Jupiler Pro League (1),73,76,72,71,5,8,20800000,Pressure On Heavy Touch,5,6,Long Ball,5,6,3,3
+137,Rio Ave FC,Portuguese Liga ZON SAGRES (1),73,73,71,72,2,6,2900000,Pressure On Heavy Touch,5,6,Balanced,5,5,3,3
+138,San Lorenzo de Almagro,Argentina Primera División  (1),73,74,71,71,8,9,8500000,Balanced,7,6,Balanced,6,4,3,3
+139,Botafogo,Campeonato Brasileiro Série A (1),72,71,71,71,4,6,4300000,Drop Back,6,5,Fast Build Up,6,4,3,3
+140,Independiente,Argentina Primera División  (1),72,73,71,72,8,9,12000000,Balanced,5,5,Balanced,7,5,3,3
+141,Nottingham Forest,English League Championship (2),72,72,71,71,1,8,16500000,Drop Back,5,5,Fast Build Up,5,6,3,3
+142,AEK Athens,Greek Super League (1),72,75,73,71,5,9,12400000,Balanced,5,6,Balanced,6,3,3,3
+143,Hamburger SV,German 2. Bundesliga (2),72,71,70,69,3,9,18000000,Pressure On Heavy Touch,6,7,Balanced,7,5,3,3
+144,VfB Stuttgart,German 1. Bundesliga (1),72,73,72,72,4,3,20000000,Press After Possession Loss,6,6,Balanced,6,6,3,3
+145,Seattle Sounders FC,USA Major League Soccer (1),72,72,73,69,4,8,32500000,Balanced,4,5,Balanced,4,6,3,3
+146,FC København,Danish Superliga (1),72,72,73,71,4,10,10300000,Balanced,5,6,Balanced,5,6,3,3
+147,Fluminense,Campeonato Brasileiro Série A (1),72,70,73,72,4,9,4100000,Balanced,6,5,Balanced,6,4,3,3
+148,Racing Club de Lens,French Ligue 1 (1),72,71,73,70,1,9,7800000,Pressure On Heavy Touch,6,5,Balanced,6,6,3,3
+149,FC Metz,French Ligue 1 (1),72,71,72,71,1,1,5900000,Balanced,5,6,Long Ball,5,5,3,3
+150,Stade Brestois 29,French Ligue 1 (1),72,71,71,72,1,1,5900000,Balanced,4,7,Balanced,6,7,3,3
+151,Universidad Católica,Chilian Campeonato Nacional (1),72,70,73,70,6,10,8500000,Balanced,7,8,Possession,7,6,3,3
+152,FC Basel 1893,Swiss Super League (1),72,71,71,73,6,9,8500000,Pressure On Heavy Touch,6,7,Balanced,5,7,3,3
+153,BSC Young Boys,Swiss Super League (1),72,70,73,69,5,9,7900000,Press After Possession Loss,5,6,Long Ball,7,4,3,3
+154,Benevento,Italian Serie A (1),72,72,71,72,1,1,5600000,Balanced,5,5,Balanced,6,4,3,3
+155,Cádiz CF,Spain Primera Division (1),72,73,72,71,1,5,2000000,Balanced,7,5,Long Ball,8,5,3,3
+156,Sivasspor,Turkish Süper Lig (1),72,71,72,71,2,5,4000000,Balanced,7,5,Balanced,7,3,3,3
+157,Trabzonspor,Turkish Süper Lig (1),72,72,71,72,5,6,13800000,Pressure On Heavy Touch,6,7,Balanced,7,7,3,3
+158,Coritiba,Campeonato Brasileiro Série A (1),72,70,72,71,3,6,2200000,Balanced,6,5,Long Ball,8,3,3,3
+159,RCD Mallorca,Spanish Segunda División (2),72,72,74,72,1,3,2800000,Drop Back,5,5,Balanced,6,3,3,3
+160,Dinamo Zagreb,Croatian Prva HNL (1),72,74,72,71,4,10,11600000,Balanced,5,5,Balanced,6,5,3,3
+161,Nîmes Olympique,French Ligue 1 (1),72,71,72,72,1,3,4800000,Balanced,5,7,Long Ball,6,6,3,3
+162,Vélez Sarsfield,Argentina Primera División  (1),72,74,71,72,7,8,5300000,Press After Possession Loss,7,6,Possession,7,3,3,3
+163,RSC Anderlecht,Belgian Jupiler Pro League (1),72,70,72,70,5,9,14300000,Pressure On Heavy Touch,6,7,Balanced,6,7,3,3
+164,Standard de Liège,Belgian Jupiler Pro League (1),72,70,72,71,5,8,12700000,Pressure On Heavy Touch,5,7,Long Ball,5,5,3,3
+165,Olimpia Asunción,Paraguayan Primera División (1),72,74,72,71,8,10,6000000,Balanced,7,6,Balanced,7,4,3,3
+166,Reading,English League Championship (2),71,69,71,72,1,4,4800000,Balanced,6,5,Balanced,6,3,3,3
+167,Preston North End,English League Championship (2),71,66,71,72,1,6,3600000,Press After Possession Loss,5,6,Long Ball,5,7,3,3
+168,Al Nassr,Saudi Abdul L. Jameel League (1),71,79,69,70,5,10,17200000,Pressure On Heavy Touch,4,6,Balanced,6,6,3,3
+169,Stoke City,English League Championship (2),71,69,70,70,1,6,8200000,Pressure On Heavy Touch,6,4,Balanced,6,3,3,3
+170,Club Athletico Paranaense,Campeonato Brasileiro Série A (1),71,71,70,71,4,5,6200000,Balanced,5,6,Balanced,5,3,3,3
+171,Portland Timbers,USA Major League Soccer (1),71,71,73,69,3,7,31600000,Drop Back,6,5,Long Ball,6,4,3,3
+172,Fortuna Düsseldorf,German 2. Bundesliga (2),71,73,70,71,1,10,7500000,Drop Back,4,3,Long Ball,5,3,3,3
+173,Vasco da Gama,Campeonato Brasileiro Série A (1),71,71,71,73,5,5,3600000,Drop Back,8,5,Fast Build Up,8,4,3,3
+174,Club Atlético Lanús,Argentina Primera División  (1),71,73,70,69,7,8,7500000,Balanced,5,5,Balanced,6,6,3,3
+175,Bahia,Campeonato Brasileiro Série A (1),71,69,71,71,3,4,3600000,Balanced,5,5,Possession,6,3,3,3
+176,Santos Laguna,Mexican Liga MX (1),71,71,70,70,4,5,9000000,Pressure On Heavy Touch,7,5,Long Ball,7,3,3,3
+177,UD Almería,Spanish Segunda División (2),71,70,70,70,1,4,10800000,Balanced,4,4,Balanced,8,4,3,3
+178,Birmingham City,English League Championship (2),71,71,72,71,1,4,5000000,Drop Back,5,4,Long Ball,8,4,3,3
+179,U.N.A.M.,Mexican Liga MX (1),71,75,70,70,6,6,8500000,Pressure On Heavy Touch,6,6,Balanced,6,5,3,3
+180,Panathinaikos FC,Greek Super League (1),71,71,72,70,4,7,5300000,Balanced,5,6,Balanced,7,5,3,3
+181,Defensa y Justicia,Argentina Primera División  (1),71,71,70,71,2,6,3200000,Balanced,5,6,Possession,5,7,3,3
+182,Vitória Guimarães,Portuguese Liga ZON SAGRES (1),71,73,72,68,3,7,5900000,Drop Back,4,4,Balanced,6,4,3,3
+183,Yeni Malatyaspor,Turkish Süper Lig (1),71,71,70,70,1,2,3400000,Balanced,7,4,Balanced,7,4,3,3
+184,FC Utrecht,Holland Eredivisie (1),71,72,71,70,2,7,15200000,Balanced,5,5,Balanced,5,3,3,3
+185,Colo-Colo,Chilian Campeonato Nacional (1),71,69,70,70,5,10,7200000,Balanced,4,3,Balanced,6,5,3,3
+186,Brentford,English League Championship (2),71,71,70,73,1,7,11000000,Pressure On Heavy Touch,6,6,Balanced,7,7,3,3
+187,SPAL,Italian Serie A (1),71,72,69,67,1,8,4500000,Pressure On Heavy Touch,5,6,Balanced,6,7,3,3
+188,Beijing Sinobo Guoan FC,Chinese Super League (1),71,78,73,67,4,7,30500000,Balanced,4,5,Balanced,4,3,3,3
+189,Sporting de Charleroi,Belgian Jupiler Pro League (1),71,70,72,71,4,5,6500000,Drop Back,5,5,Fast Build Up,5,4,3,3
+190,DSC Arminia Bielefeld,German 1. Bundesliga (1),71,71,72,70,1,1,2300000,Balanced,5,5,Balanced,6,4,3,3
+191,Club Libertad,Paraguayan Primera División (1),71,70,69,70,2,7,3100000,Balanced,5,3,Balanced,6,6,3,3
+192,Cardiff City,English League Championship (2),71,70,72,71,1,7,9000000,Balanced,4,5,Long Ball,5,5,3,3
+193,Çaykur Rizespor,Turkish Süper Lig (1),71,73,70,71,2,3,2500000,Balanced,6,4,Balanced,5,3,3,3
+194,Columbus Crew SC,USA Major League Soccer (1),71,70,72,69,2,6,18400000,Pressure On Heavy Touch,5,5,Balanced,5,7,3,3
+195,Goiás,Campeonato Brasileiro Série A (1),71,70,72,72,3,4,2900000,Balanced,5,4,Balanced,5,3,3,3
+196,Estudiantes de La Plata,Argentina Primera División  (1),71,69,72,68,7,7,5000000,Balanced,5,5,Balanced,7,4,3,3
+197,Nacional de Montevideo,Uruguayan Primera División (1),71,72,71,70,6,10,5400000,Press After Possession Loss,6,7,Long Ball,7,4,3,3
+198,Guangzhou Evergrande Taobao FC,Chinese Super League (1),71,74,70,69,7,10,22700000,Balanced,5,8,Balanced,5,6,3,3
+199,Hannover 96,German 2. Bundesliga (2),71,71,70,71,2,8,10000000,Balanced,4,4,Long Ball,8,6,3,3
+200,Antalyaspor,Turkish Süper Lig (1),71,71,71,69,3,5,6600000,Balanced,7,5,Balanced,7,5,3,3
+201,Dijon FCO,French Ligue 1 (1),71,72,71,70,1,2,4600000,Drop Back,6,5,Fast Build Up,6,4,3,3
+202,FC Midtjylland,Danish Superliga (1),71,70,72,72,3,10,9600000,Press After Possession Loss,4,7,Balanced,6,6,3,3
+203,Junior FC,Colombian Liga Postobón (1),71,73,70,70,7,9,5000000,Press After Possession Loss,4,6,Possession,7,7,3,3
+204,Girona FC,Spanish Segunda División (2),71,74,70,71,1,4,4300000,Balanced,4,5,Balanced,5,6,3,3
+205,Peñarol,Uruguayan Primera División (1),71,70,68,69,6,9,4900000,Balanced,5,5,Balanced,7,3,3,3
+206,Alanyaspor,Turkish Süper Lig (1),71,69,72,72,1,2,3200000,Balanced,5,8,Long Ball,5,5,3,3
+207,Atlético Clube Goianiense,Campeonato Brasileiro Série A (1),71,70,71,73,2,2,810000,Balanced,4,4,Long Ball,7,3,3,3
+208,LASK Linz,Austrian Football Bundesliga (1),71,70,70,71,5,9,6900000,Press After Possession Loss,4,6,Balanced,5,6,3,3
+209,Inter Miami,USA Major League Soccer (1),71,72,72,69,3,3,30000000,Balanced,6,5,Balanced,7,3,3,3
+210,Blackburn Rovers,English League Championship (2),70,69,71,69,1,5,7500000,Press After Possession Loss,5,7,Balanced,6,3,3,3
+211,Al Ahli,Saudi Abdul L. Jameel League (1),70,77,71,67,7,9,14600000,Pressure On Heavy Touch,7,6,Balanced,7,5,3,3
+212,CD Tenerife,Spanish Segunda División (2),70,73,70,70,1,7,2000000,Pressure On Heavy Touch,7,6,Balanced,5,3,3,3
+213,Middlesbrough,English League Championship (2),70,71,69,68,1,4,8800000,Drop Back,4,3,Long Ball,4,4,3,3
+214,Fatih Karagümrük S.K.,Turkish Süper Lig (1),70,69,70,69,1,1,1500000,Drop Back,5,5,Fast Build Up,5,3,3,3
+215,Sheffield Wednesday,English League Championship (2),70,69,71,69,1,5,5000000,Balanced,6,5,Balanced,7,3,3,3
+216,Club Atlético Talleres,Argentina Primera División  (1),70,70,69,70,4,6,5200000,Balanced,7,5,Balanced,7,3,3,3
+217,Toronto FC,USA Major League Soccer (1),70,74,71,69,4,7,31900000,Balanced,6,6,Balanced,6,7,3,3
+218,Al Shabab,Saudi Abdul L. Jameel League (1),70,74,69,67,4,7,9800000,Balanced,5,5,Long Ball,6,4,3,3
+219,Newell's Old Boys,Argentina Primera División  (1),70,73,69,69,6,7,4000000,Balanced,5,6,Balanced,5,6,3,3
+220,En Avant de Guingamp,French Ligue 2 (2),70,70,68,69,1,9,5200000,Balanced,5,7,Long Ball,6,3,3,3
+221,Club Tijuana,Mexican Liga MX (1),70,73,68,68,2,5,7200000,Balanced,5,5,Balanced,6,4,3,3
+222,Malmö FF,Swedish Allsvenskan (1),70,72,70,68,4,10,8100000,Pressure On Heavy Touch,6,7,Balanced,4,4,3,3
+223,Pachuca,Mexican Liga MX (1),70,67,66,67,7,6,4900000,Balanced,7,5,Balanced,7,5,3,3
+224,Club Atlético Colón,Argentina Primera División  (1),70,72,70,70,3,5,4000000,Pressure On Heavy Touch,4,6,Long Ball,4,7,3,3
+225,Guadalajara,Mexican Liga MX (1),70,71,70,69,8,8,27900000,Balanced,5,5,Balanced,6,4,3,3
+226,Deportivo Toluca,Mexican Liga MX (1),70,69,70,68,2,5,7500000,Balanced,6,6,Balanced,6,4,3,3
+227,Derby County,English League Championship (2),70,70,71,69,1,8,9200000,Pressure On Heavy Touch,5,5,Balanced,5,4,3,3
+228,Millwall,English League Championship (2),70,70,70,71,1,4,3800000,Balanced,5,4,Long Ball,6,4,3,3
+229,Los Angeles FC,USA Major League Soccer (1),70,75,69,68,2,8,36800000,Balanced,4,4,Balanced,5,6,3,3
+230,Boavista FC,Portuguese Liga ZON SAGRES (1),70,69,70,70,1,5,2400000,Balanced,4,7,Long Ball,5,3,3,3
+231,Shanghai Greenland Shenhua FC,Chinese Super League (1),70,72,69,66,3,5,13100000,Balanced,5,5,Long Ball,6,4,3,3
+232,Kawasaki Frontale,Japanese J. League Division 1 (1),70,73,70,70,5,8,9300000,Pressure On Heavy Touch,6,6,Possession,5,3,3,3
+233,Bristol City,English League Championship (2),70,70,69,69,1,7,10000000,Balanced,6,4,Balanced,7,3,3,3
+234,Crotone,Italian Serie A (1),70,68,69,70,1,1,4500000,Balanced,6,3,Balanced,7,3,3,3
+235,MKE Ankaragücü,Turkish Süper Lig (1),70,70,69,69,3,6,2900000,Drop Back,4,5,Long Ball,7,5,3,3
+236,Spezia,,70,69,69,68,1,6,2800000,Balanced,5,5,Balanced,6,3,3,3
+237,Kayserispor,Turkish Süper Lig (1),70,69,70,68,2,4,2300000,Balanced,7,8,Long Ball,7,5,3,3
+238,Shanghai SIPG FC,Chinese Super League (1),70,75,72,65,5,2,21700000,Press After Possession Loss,5,8,Balanced,6,3,3,3
+239,Swansea City,English League Championship (2),70,72,70,69,1,6,10200000,Balanced,6,5,Balanced,5,6,3,3
+240,Atiker Konyaspor,Turkish Süper Lig (1),70,70,70,69,3,6,5200000,Balanced,6,7,Balanced,6,7,3,3
+241,Famalicão,Portuguese Liga ZON SAGRES (1),70,68,67,70,1,4,5400000,Balanced,4,6,Balanced,7,6,3,3
+242,1. FC Nürnberg,German 2. Bundesliga (2),70,69,69,69,1,8,5400000,Balanced,5,5,Balanced,5,4,3,3
+243,Argentinos Juniors,Argentina Primera División  (1),70,71,68,71,5,6,2800000,Balanced,5,5,Balanced,5,3,3,3
+244,DC United,USA Major League Soccer (1),70,70,70,66,3,5,27500000,Pressure On Heavy Touch,5,6,Balanced,5,4,3,3
+245,Denizlispor,Turkish Süper Lig (1),70,75,68,69,2,4,2800000,Balanced,4,4,Long Ball,7,3,3,3
+246,Sporting Kansas City,USA Major League Soccer (1),70,73,69,68,2,7,27200000,Pressure On Heavy Touch,7,7,Balanced,7,8,3,3
+247,Gazişehir Gaziantep F.K.,Turkish Süper Lig (1),70,69,70,70,1,3,3800000,Balanced,5,5,Balanced,5,3,3,3
+248,New York City FC,USA Major League Soccer (1),70,69,69,71,5,10,31300000,Pressure On Heavy Touch,4,6,Balanced,5,5,3,3
+249,Brescia,Italian Serie A (1),70,70,67,70,1,7,5200000,Drop Back,6,5,Long Ball,6,3,3,3
+250,Ulsan Hyundai FC,Korean K League 1 (1),70,71,70,69,6,7,4900000,Drop Back,5,4,Fast Build Up,6,3,3,3
+251,AC Monza,Italian Serie B (2),70,68,69,70,1,7,6700000,Drop Back,5,5,Fast Build Up,5,3,3,3
+252,FC Lorient,French Ligue 1 (1),70,70,70,71,1,8,5200000,Pressure On Heavy Touch,5,5,Balanced,6,7,3,3
+253,Rayo Vallecano,Spanish Segunda División (2),70,70,71,70,1,2,3300000,Pressure On Heavy Touch,6,7,Balanced,6,7,3,3
+254,Real Zaragoza,Spanish Segunda División (2),70,70,67,70,1,8,2700000,Pressure On Heavy Touch,6,5,Possession,6,8,3,3
+255,Club Atlas,Mexican Liga MX (1),70,69,71,69,1,3,6500000,Balanced,5,5,Balanced,5,5,3,3
+256,Philadelphia Union,USA Major League Soccer (1),69,69,70,68,1,4,21300000,Balanced,4,5,Balanced,5,3,3,3
+257,Independiente del Valle,Ecuadorian Serie A (1),69,70,68,67,2,4,1900000,Balanced,5,6,Balanced,6,3,3,3
+258,Toulouse Football Club,French Ligue 2 (2),69,68,67,68,1,3,6000000,Balanced,6,5,Balanced,6,4,3,3
+259,Amiens SC,French Ligue 2 (2),69,64,70,67,1,2,5400000,Balanced,7,4,Long Ball,6,3,3,3
+260,Vissel Kobe,Japanese J. League Division 1 (1),69,70,70,69,5,6,16800000,Pressure On Heavy Touch,6,7,Balanced,6,4,3,3
+261,Cerezo Osaka,Japanese J. League Division 1 (1),69,68,68,69,5,7,6900000,Balanced,6,5,Balanced,6,3,3,3
+262,Yokohama F. Marinos,Japanese J. League Division 1 (1),69,69,70,68,4,9,10300000,Balanced,7,6,Possession,8,6,3,3
+263,Minnesota United FC,USA Major League Soccer (1),69,73,70,69,1,3,25400000,Balanced,4,3,Balanced,6,4,3,3
+264,ESTAC Troyes,French Ligue 2 (2),69,67,70,68,1,8,3900000,Balanced,4,5,Balanced,5,7,3,3
+265,Atlético de San Luis,Mexican Liga MX (1),69,68,67,68,1,2,5200000,Balanced,5,5,Balanced,5,3,3,3
+266,Rosenborg BK,Norwegian Eliteserien (1),69,67,71,69,4,10,8300000,Balanced,6,5,Balanced,6,4,3,3
+267,SC Paderborn 07,German 2. Bundesliga (2),69,68,67,69,1,7,5000000,Pressure On Heavy Touch,5,6,Long Ball,7,5,3,3
+268,Portimonense SC,Portuguese Liga ZON SAGRES (1),69,68,71,68,1,3,3800000,Balanced,5,5,Balanced,7,3,3,3
+269,AJ Auxerre,French Ligue 2 (2),69,70,69,68,1,5,4200000,Balanced,4,6,Balanced,6,5,3,3
+270,Club Atlético Banfield,Argentina Primera División  (1),69,68,70,68,4,5,4100000,Balanced,5,5,Long Ball,7,5,3,3
+271,Puebla FC,Mexican Liga MX (1),69,66,71,67,1,2,3700000,Balanced,4,4,Possession,6,4,3,3
+272,Legia Warszawa,Polish T-Mobile Ekstraklasa (1),69,69,69,69,6,10,3300000,Balanced,4,6,Balanced,6,5,3,3
+273,Kaizer Chiefs,South African Premier Division (1),69,72,67,67,6,9,2200000,Press After Possession Loss,7,6,Balanced,7,6,3,3
+274,Lecce,Italian Serie A (1),69,69,69,69,1,7,6000000,Balanced,5,6,Long Ball,7,3,3,3
+275,Atlético Tucumán,Argentina Primera División  (1),69,69,68,69,3,6,2900000,Balanced,6,5,Long Ball,4,3,3,3
+276,Al Ittihad,Saudi Abdul L. Jameel League (1),69,71,69,66,5,8,15000000,Pressure On Heavy Touch,4,6,Balanced,4,5,3,3
+277,Os Belenenses,Portuguese Liga ZON SAGRES (1),69,68,68,69,1,5,2200000,Balanced,4,6,Balanced,7,4,3,3
+278,SV Sandhausen,German 2. Bundesliga (2),69,69,69,68,1,3,1500000,Balanced,6,4,Long Ball,5,3,3,3
+279,CD Nacional,Portuguese Liga ZON SAGRES (1),69,69,68,68,1,3,2100000,Balanced,5,4,Long Ball,6,4,3,3
+280,FC Paços de Ferreira,Portuguese Liga ZON SAGRES (1),69,70,70,67,1,4,2000000,Balanced,5,4,Long Ball,7,4,3,3
+281,Unión de Santa Fe,Argentina Primera División  (1),69,70,69,69,1,3,3000000,Balanced,7,5,Long Ball,7,3,3,3
+282,Clube Sport Marítimo,Portuguese Liga ZON SAGRES (1),69,69,68,69,2,6,3900000,Balanced,7,5,Long Ball,6,3,3,3
+283,Moreirense FC,Portuguese Liga ZON SAGRES (1),69,67,70,67,1,4,2900000,Balanced,5,4,Long Ball,5,4,3,3
+284,Shandong Luneng TaiShan FC,Chinese Super League (1),69,74,69,68,3,6,8300000,Balanced,6,5,Balanced,6,6,3,3
+285,Willem II,Holland Eredivisie (1),69,70,71,68,1,5,4800000,Balanced,6,5,Balanced,7,3,3,3
+286,Vitesse,Holland Eredivisie (1),69,67,70,69,2,7,16400000,Press After Possession Loss,6,6,Balanced,6,8,3,3
+287,1. FC Heidenheim 1846,German 2. Bundesliga (2),69,68,69,71,1,7,2000000,Balanced,5,5,Balanced,6,4,3,3
+288,KV Mechelen,Belgian Jupiler Pro League (1),69,69,70,67,4,5,4800000,Balanced,7,5,Balanced,7,3,3,3
+289,LDU Quito,Ecuadorian Serie A (1),69,65,69,69,2,4,2200000,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+290,Huddersfield Town,English League Championship (2),69,67,68,69,1,5,6000000,Drop Back,6,6,Fast Build Up,6,4,3,3
+291,FCSB (Steaua),Romanian Liga I (1),69,70,68,68,5,10,4000000,Drop Back,4,4,Fast Build Up,5,3,3,3
+292,SV Zulte-Waregem,Belgian Jupiler Pro League (1),69,70,68,67,4,5,6000000,Balanced,5,5,Balanced,6,6,3,3
+293,Santa Clara,Portuguese Liga ZON SAGRES (1),69,70,69,68,1,1,1800000,Balanced,4,4,Long Ball,6,4,3,3
+294,VfL Bochum 1848,German 2. Bundesliga (2),69,69,69,70,1,7,3300000,Press After Possession Loss,4,6,Balanced,7,6,3,3
+295,Molde FK,Norwegian Eliteserien (1),69,70,69,67,2,10,5400000,Pressure On Heavy Touch,4,6,Balanced,5,4,3,3
+296,Gençlerbirliği SK,Turkish Süper Lig (1),69,73,69,70,3,6,3500000,Press After Possession Loss,5,6,Long Ball,5,4,3,3
+297,Göztepe SK,Turkish Süper Lig (1),69,71,70,69,1,4,3700000,Balanced,6,5,Long Ball,6,6,3,3
+298,SV Darmstadt 98,German 2. Bundesliga (2),69,70,69,68,1,6,3300000,Balanced,5,5,Balanced,6,3,3,3
+299,New England Revolution,USA Major League Soccer (1),69,71,67,66,3,5,21600000,Press After Possession Loss,5,5,Balanced,6,5,3,3
+300,FC Dallas,USA Major League Soccer (1),69,74,70,67,2,6,19800000,Pressure On Heavy Touch,4,7,Balanced,7,7,3,3
+301,LA Galaxy,USA Major League Soccer (1),69,76,72,66,6,9,37100000,Pressure On Heavy Touch,7,5,Balanced,8,7,3,3
+302,Chievo Verona,Italian Serie B (2),69,68,69,67,2,6,4500000,Balanced,5,5,Long Ball,5,5,3,3
+303,Jeonbuk Hyundai Motors,Korean K League 1 (1),69,69,69,69,7,10,7100000,Press After Possession Loss,6,5,Balanced,6,3,3,3
+304,Real Sporting de Gijón,Spanish Segunda División (2),69,71,68,68,1,8,4800000,Balanced,6,5,Balanced,6,3,3,3
+305,Fortaleza,Campeonato Brasileiro Série A (1),69,70,69,71,1,2,1600000,Balanced,5,5,Possession,6,3,3,3
+306,Stade Malherbe Caen,French Ligue 2 (2),69,68,69,68,1,9,3300000,Drop Back,4,5,Long Ball,6,3,3,3
+307,Ceará Sporting Club,Campeonato Brasileiro Série A (1),69,66,69,70,2,2,1800000,Balanced,5,5,Balanced,7,3,3,3
+308,UD Las Palmas,Spanish Segunda División (2),69,70,68,69,1,9,6600000,Balanced,4,6,Balanced,6,6,3,3
+309,KAS Eupen,Belgian Jupiler Pro League (1),69,69,68,69,1,2,3600000,Balanced,4,5,Balanced,5,3,3,3
+310,Orlando City SC,USA Major League Soccer (1),69,66,71,66,5,6,25000000,Drop Back,6,5,Balanced,7,6,3,3
+311,CFR Cluj,Romanian Liga I (1),69,68,68,69,5,9,3000000,Pressure On Heavy Touch,5,6,Balanced,7,5,3,3
+312,Farense,Portuguese Liga ZON SAGRES (1),69,69,68,67,1,2,1000000,Balanced,5,6,Balanced,6,3,3,3
+313,América de Cali,Colombian Liga Postobón (1),69,72,67,67,5,6,2200000,Balanced,5,5,Long Ball,5,4,3,3
+314,Kasimpaşa SK,Turkish Süper Lig (1),69,71,70,70,3,4,4100000,Balanced,5,6,Balanced,6,4,3,3
+315,Atlético Nacional,Colombian Liga Postobón (1),69,67,70,66,9,10,9000000,Balanced,4,5,Balanced,5,6,3,3
+316,FC Juárez,Mexican Liga MX (1),69,75,68,67,1,3,2000000,Balanced,5,5,Balanced,8,6,3,3
+317,KV Kortrijk,Belgian Jupiler Pro League (1),69,63,69,69,2,4,4500000,Balanced,5,5,Balanced,5,3,3,3
+318,Millonarios FC,Colombian Liga Postobón (1),69,69,67,67,8,8,7000000,Balanced,5,5,Balanced,5,5,3,3
+319,Atlanta United,USA Major League Soccer (1),69,67,69,67,4,9,38300000,Pressure On Heavy Touch,5,6,Balanced,5,7,3,3
+320,SK Rapid Wien,Austrian Football Bundesliga (1),69,70,69,68,5,8,5200000,Balanced,7,6,Balanced,7,3,3,3
+321,FK Austria Wien,Austrian Football Bundesliga (1),68,69,67,67,5,6,7700000,Balanced,5,6,Balanced,6,6,3,3
+322,Club Necaxa,Mexican Liga MX (1),68,67,67,68,4,4,9700000,Balanced,7,8,Long Ball,7,4,3,3
+323,Sanfrecce Hiroshima,Japanese J. League Division 1 (1),68,69,67,69,5,7,8000000,Balanced,5,4,Balanced,6,5,3,3
+324,Queens Park Rangers,English League Championship (2),68,68,69,68,1,3,3600000,Balanced,6,6,Balanced,6,3,3,3
+325,FC Emmen,Holland Eredivisie (1),68,67,69,67,1,3,3200000,Balanced,5,4,Long Ball,5,3,3,3
+326,Kashiwa Reysol,Japanese J. League Division 1 (1),68,71,68,66,4,7,7700000,Press After Possession Loss,6,5,Balanced,7,7,3,3
+327,Kashima Antlers,Japanese J. League Division 1 (1),68,70,68,67,6,9,8900000,Press After Possession Loss,4,6,Balanced,7,3,3,3
+328,Montreal Impact,USA Major League Soccer (1),68,70,69,66,4,4,19100000,Balanced,5,4,Balanced,6,3,3,3
+329,Universitatea Craiova,Romanian Liga I (1),68,65,69,65,4,8,2500000,Pressure On Heavy Touch,5,5,Balanced,6,4,3,3
+330,San Jose Earthquakes,USA Major League Soccer (1),68,68,70,68,2,4,23600000,Press After Possession Loss,7,5,Balanced,8,3,3,3
+331,Málaga CF,Spanish Segunda División (2),68,69,67,67,2,10,9900000,Balanced,4,5,Balanced,6,6,3,3
+332,Albacete BP,Spanish Segunda División (2),68,67,68,67,1,4,1500000,Balanced,5,4,Long Ball,6,4,3,3
+333,Holstein Kiel,German 2. Bundesliga (2),68,69,70,67,1,5,1700000,Pressure On Heavy Touch,5,7,Possession,7,5,3,3
+334,Aberdeen,Scottish Premiership (1),68,67,68,67,2,7,2300000,Balanced,6,5,Balanced,7,4,3,3
+335,Orlando Pirates,South African Premier Division (1),68,70,67,67,5,10,2600000,Balanced,6,5,Balanced,6,4,3,3
+336,Al Ain FC,UAE Arabian Gulf League (1),68,74,68,67,6,9,13900000,Balanced,5,5,Balanced,5,4,3,3
+337,Godoy Cruz,Argentina Primera División  (1),68,70,67,68,4,4,5000000,Drop Back,5,3,Fast Build Up,7,4,3,3
+338,Gil Vicente FC,Portuguese Liga ZON SAGRES (1),68,68,66,69,1,2,1700000,Balanced,5,5,Long Ball,4,4,3,3
+339,Lech Poznań,Polish T-Mobile Ekstraklasa (1),68,68,68,69,4,10,2900000,Pressure On Heavy Touch,5,6,Balanced,7,4,3,3
+340,SC Heerenveen,Holland Eredivisie (1),68,69,68,67,2,6,6600000,Balanced,5,6,Balanced,5,6,3,3
+341,FC Groningen,Holland Eredivisie (1),68,65,68,68,2,6,7400000,Balanced,6,5,Long Ball,5,3,3,3
+342,FC Luzern,Swiss Super League (1),68,68,67,68,3,5,3600000,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+343,Barcelona Sporting Club,Ecuadorian Serie A (1),68,67,65,69,4,9,4900000,Balanced,6,6,Balanced,6,4,3,3
+344,Dinamo Bucureşti,Romanian Liga I (1),68,67,70,67,2,4,1200000,Balanced,5,4,Balanced,5,4,3,3
+345,Beerschot AC,Belgian Jupiler Pro League (1),68,68,68,68,1,3,5000000,Press After Possession Loss,6,6,Balanced,5,3,3,3
+346,Hatayspor,Turkish Süper Lig (1),68,68,66,66,1,2,1900000,Drop Back,5,5,Fast Build Up,5,3,3,3
+347,Sint-Truidense VV,Belgian Jupiler Pro League (1),68,69,68,67,3,5,4800000,Balanced,5,5,Long Ball,5,4,3,3
+348,New York Red Bulls,USA Major League Soccer (1),68,67,69,69,4,8,24700000,Press After Possession Loss,7,6,Balanced,7,5,3,3
+349,Chicago Fire,USA Major League Soccer (1),68,71,70,64,1,5,27900000,Balanced,4,6,Balanced,4,7,3,3
+350,Colorado Rapids,USA Major League Soccer (1),68,69,69,68,1,4,17600000,Balanced,5,4,Long Ball,6,4,3,3
+351,Houston Dynamo,USA Major League Soccer (1),68,70,68,68,2,6,23900000,Balanced,5,5,Long Ball,7,4,3,3
+352,Hammarby IF,Swedish Allsvenskan (1),68,68,69,67,1,8,4300000,Pressure On Heavy Touch,5,5,Balanced,6,3,3,3
+353,Djurgårdens IF,Swedish Allsvenskan (1),68,65,69,69,1,9,4400000,Press After Possession Loss,5,6,Balanced,6,7,3,3
+354,Royal Excel Mouscron,Belgian Jupiler Pro League (1),68,72,67,67,1,2,3800000,Drop Back,3,3,Long Ball,3,3,3,3
+355,Empoli,Italian Serie B (2),68,69,68,67,1,10,4500000,Press After Possession Loss,4,7,Balanced,5,7,3,3
+356,Mazatlán FC,Mexican Liga MX (1),68,70,68,68,1,4,1700000,Balanced,5,5,Balanced,5,3,3,3
+357,FC Seoul,Korean K League 1 (1),68,69,68,66,7,9,5300000,Balanced,5,5,Balanced,6,3,3,3
+358,Gimnasia y Esgrima La Plata,Argentina Primera División  (1),68,70,68,68,3,2,3200000,Balanced,6,5,Long Ball,6,6,3,3
+359,Nagoya Grampus,Japanese J. League Division 1 (1),68,69,69,67,3,5,8300000,Pressure On Heavy Touch,6,7,Balanced,5,4,3,3
+360,Gamba Osaka,Japanese J. League Division 1 (1),68,70,67,67,5,8,8700000,Balanced,5,5,Balanced,5,5,3,3
+361,AD Alcorcón,Spanish Segunda División (2),68,70,67,68,1,6,1600000,Balanced,6,5,Balanced,6,4,3,3
+362,VfL Osnabrück,German 2. Bundesliga (2),68,67,68,68,1,4,520000,Pressure On Heavy Touch,5,6,Balanced,6,3,3,3
+363,SD Ponferradina,Spanish Segunda División (2),68,69,67,68,1,6,2000000,Drop Back,5,5,Balanced,6,3,3,3
+364,Real Oviedo,Spanish Segunda División (2),68,69,69,68,1,8,2000000,Pressure On Heavy Touch,4,4,Long Ball,7,3,3,3
+365,BB Erzurumspor,Turkish Süper Lig (1),68,70,68,66,1,1,1700000,Balanced,7,8,Balanced,7,6,3,3
+366,Deportivo Cali,Colombian Liga Postobón (1),68,67,66,69,7,8,7000000,Balanced,5,5,Balanced,6,4,3,3
+367,CD Lugo,Spanish Segunda División (2),68,67,67,68,1,5,1600000,Pressure On Heavy Touch,6,6,Balanced,7,3,3,3
+368,CF Fuenlabrada,Spanish Segunda División (2),68,69,67,68,1,2,1500000,Pressure On Heavy Touch,4,6,Long Ball,6,6,3,3
+369,Nashville SC,USA Major League Soccer (1),68,62,68,68,2,2,18400000,Balanced,5,5,Long Ball,4,3,3,3
+370,FC Cartagena,Spanish Segunda División (2),68,70,68,67,1,3,1800000,Drop Back,4,4,Fast Build Up,6,3,3,3
+371,Rosario Central,Argentina Primera División  (1),68,67,69,70,5,7,5000000,Pressure On Heavy Touch,7,5,Balanced,7,7,3,3
+372,Oud-Heverlee Leuven,Belgian Jupiler Pro League (1),68,70,69,68,1,4,6000000,Drop Back,5,4,Fast Build Up,4,3,3,3
+373,Vancouver Whitecaps FC,USA Major League Soccer (1),68,72,66,67,2,5,19500000,Drop Back,3,4,Fast Build Up,6,3,3,3
+374,FC St. Pauli,German 2. Bundesliga (2),68,68,66,68,1,6,2900000,Balanced,6,4,Long Ball,6,3,3,3
+375,FC Erzgebirge Aue,German 2. Bundesliga (2),68,70,68,68,1,3,1600000,Balanced,4,5,Long Ball,5,6,3,3
+376,FC Cincinnati,USA Major League Soccer (1),68,66,69,67,1,1,24300000,Balanced,4,4,Balanced,4,3,3,3
+377,Rotherham United,English League Championship (2),67,66,66,67,1,8,1800000,Balanced,4,5,Long Ball,6,3,3,3
+378,Coventry City,English League Championship (2),67,67,68,67,1,6,1700000,Press After Possession Loss,5,7,Possession,7,4,3,3
+379,Brøndby IF,Danish Superliga (1),67,68,66,66,2,9,5600000,Press After Possession Loss,4,6,Long Ball,6,6,3,3
+380,Grenoble Foot 38,French Ligue 2 (2),67,68,67,66,1,4,3300000,Balanced,5,5,Long Ball,5,3,3,3
+381,Aarhus GF,Danish Superliga (1),67,65,68,67,1,6,3000000,Balanced,6,6,Long Ball,7,3,3,3
+382,Al Wehda,Saudi Abdul L. Jameel League (1),67,70,66,68,3,5,4400000,Balanced,5,5,Long Ball,7,3,3,3
+383,FC Viitorul,Romanian Liga I (1),67,67,66,68,4,8,2300000,Balanced,6,6,Balanced,5,5,3,3
+384,FC Tokyo,Japanese J. League Division 1 (1),67,70,67,66,5,7,10000000,Balanced,4,4,Balanced,5,3,3,3
+385,Oita Trinita,Japanese J. League Division 1 (1),67,66,66,68,1,3,4100000,Balanced,5,4,Balanced,7,3,3,3
+386,Jiangsu Suning FC,Chinese Super League (1),67,76,66,64,4,7,9300000,Balanced,4,7,Balanced,5,3,3,3
+387,Karlsruher SC,German 2. Bundesliga (2),67,68,66,67,1,2,800000,Balanced,4,4,Balanced,5,4,3,3
+388,Aalborg BK,Danish Superliga (1),67,69,68,66,1,7,2700000,Pressure On Heavy Touch,5,6,Balanced,4,6,3,3
+619,Kalmar FF,Swedish Allsvenskan (1),63,63,63,63,1,3,1600000,Drop Back,6,5,Balanced,5,3,3,3
+389,Arsenal de Sarandí,Argentina Primera División  (1),67,65,69,67,5,3,2100000,Balanced,4,4,Balanced,5,3,3,3
+390,Hokkaido Consadole Sapporo,Japanese J. League Division 1 (1),67,68,66,67,1,4,5200000,Pressure On Heavy Touch,5,7,Balanced,5,4,3,3
+391,IFK Göteborg,Swedish Allsvenskan (1),67,62,69,63,1,7,2400000,Balanced,5,5,Long Ball,6,7,3,3
+392,Waasland-Beveren,Belgian Jupiler Pro League (1),67,67,67,66,1,1,2900000,Drop Back,5,3,Long Ball,5,4,3,3
+393,Central Córdoba,Argentina Primera División  (1),67,71,67,66,1,1,2100000,Drop Back,5,4,Fast Build Up,5,3,3,3
+394,Wisła Kraków,Polish T-Mobile Ekstraklasa (1),67,65,66,65,3,5,1300000,Balanced,5,5,Balanced,6,4,3,3
+395,Club Atlético Aldosivi,Argentina Primera División  (1),67,67,66,69,1,1,500000,Drop Back,5,4,Long Ball,5,3,3,3
+396,Club Atlético Huracán,Argentina Primera División  (1),67,67,67,67,4,7,4800000,Balanced,5,3,Long Ball,6,3,3,3
+397,AC Ajaccio,French Ligue 2 (2),67,66,67,67,1,4,2600000,Balanced,6,5,Long Ball,6,4,3,3
+398,FC Twente,Holland Eredivisie (1),67,67,65,66,2,6,9200000,Pressure On Heavy Touch,5,6,Balanced,6,3,3,3
+399,Valenciennes FC,French Ligue 2 (2),67,67,67,67,1,4,2600000,Pressure On Heavy Touch,4,5,Balanced,6,5,3,3
+400,Club Bolívar,Liga de Fútbol Profesional Boliviano (1),67,63,67,65,5,10,3300000,Balanced,5,5,Long Ball,6,5,3,3
+401,PEC Zwolle,Holland Eredivisie (1),67,66,67,67,1,5,5700000,Pressure On Heavy Touch,6,6,Balanced,7,8,3,3
+402,Luton Town,English League Championship (2),67,68,67,67,1,1,2300000,Balanced,5,5,Balanced,4,5,3,3
+403,CD Tondela,Portuguese Liga ZON SAGRES (1),67,66,66,69,1,2,1800000,Balanced,6,5,Balanced,7,3,3,3
+404,Barnsley,English League Championship (2),67,69,67,67,1,1,3500000,Pressure On Heavy Touch,5,6,Balanced,4,3,3,3
+405,FK Bodø/Glimt,Norwegian Eliteserien (1),67,69,67,67,1,7,2800000,Press After Possession Loss,6,7,Balanced,6,4,3,3
+406,Deportivo Binacional,Peruvian Primera División (1),67,64,66,65,2,3,2500000,Drop Back,5,4,Long Ball,6,3,3,3
+407,Unión La Calera,Chilian Campeonato Nacional (1),67,67,67,66,1,3,1600000,Balanced,5,5,Balanced,6,3,3,3
+408,Jagiellonia Białystok,Polish T-Mobile Ekstraklasa (1),67,66,67,65,3,8,2100000,Balanced,6,4,Long Ball,5,4,3,3
+409,Wuhan Zall,Chinese Super League (1),67,72,65,65,1,1,4600000,Balanced,4,4,Balanced,6,3,3,3
+410,Henan Jianye FC,Chinese Super League (1),67,72,66,61,2,4,4800000,Drop Back,6,5,Long Ball,3,3,3,3
+411,Eintracht Braunschweig,German 2. Bundesliga (2),67,68,68,66,1,2,900000,Press After Possession Loss,6,4,Long Ball,6,5,3,3
+412,KV Oostende,Belgian Jupiler Pro League (1),67,68,68,66,1,2,3900000,Press After Possession Loss,5,7,Long Ball,5,3,3,3
+413,AIK,Swedish Allsvenskan (1),67,67,69,67,2,9,4400000,Pressure On Heavy Touch,5,5,Balanced,6,3,3,3
+414,FC Sion,Swiss Super League (1),67,69,66,65,3,7,6600000,Balanced,7,5,Balanced,6,3,3,3
+415,IFK Norrköping,Swedish Allsvenskan (1),67,68,68,66,1,8,4700000,Press After Possession Loss,5,7,Balanced,5,7,3,3
+416,Pohang Steelers,Korean K League 1 (1),67,69,67,65,5,7,3400000,Balanced,4,5,Balanced,7,3,3,3
+417,Paris FC,French Ligue 2 (2),67,66,67,68,1,7,5200000,Balanced,6,5,Balanced,6,3,3,3
+418,Le Havre AC,French Ligue 2 (2),67,64,67,66,1,7,4600000,Balanced,6,4,Balanced,6,3,3,3
+419,Wolfsberger AC,Austrian Football Bundesliga (1),67,67,67,66,4,5,4400000,Pressure On Heavy Touch,4,5,Long Ball,4,3,3,3
+420,Astra Giurgiu,Romanian Liga I (1),67,70,64,67,4,7,1500000,Balanced,4,4,Balanced,6,4,3,3
+421,SK Sturm Graz,Austrian Football Bundesliga (1),67,67,68,65,4,7,5200000,Balanced,7,5,Long Ball,6,3,3,3
+422,KSV Cercle Brugge,Belgian Jupiler Pro League (1),67,66,68,66,2,1,5400000,Balanced,5,5,Long Ball,5,6,3,3
+423,Urawa Red Diamonds,Japanese J. League Division 1 (1),67,68,66,67,5,9,10200000,Drop Back,4,4,Long Ball,5,7,3,3
+424,Real Salt Lake,USA Major League Soccer (1),67,71,67,67,4,6,20900000,Balanced,6,5,Balanced,6,4,3,3
+425,UD Logroñés,Spanish Segunda División (2),67,67,66,66,1,3,1700000,Drop Back,4,4,Long Ball,5,3,3,3
+426,Ettifaq FC,Saudi Abdul L. Jameel League (1),67,65,69,63,3,6,3400000,Balanced,5,5,Balanced,5,3,3,3
+427,Club Guaraní,Paraguayan Primera División (1),67,68,67,63,3,8,1600000,Balanced,6,6,Long Ball,6,5,3,3
+428,Lechia Gdańsk,Polish T-Mobile Ekstraklasa (1),67,68,65,67,2,6,2300000,Drop Back,5,3,Long Ball,7,5,3,3
+429,Oceânico FC,Campeonato Brasileiro Série A (1),67,66,66,68,1,1,1100000,Balanced,5,5,Long Ball,5,4,3,3
+430,Al Faisaly,Saudi Abdul L. Jameel League (1),66,67,65,64,2,5,2200000,Drop Back,4,5,Fast Build Up,4,4,3,3
+431,Al Taawoun,Saudi Abdul L. Jameel League (1),66,68,65,66,4,6,4300000,Balanced,6,5,Balanced,6,4,3,3
+432,Clermont Foot 63,French Ligue 2 (2),66,64,67,67,1,4,3200000,Pressure On Heavy Touch,6,6,Possession,7,4,3,3
+433,Heracles Almelo,Holland Eredivisie (1),66,67,65,66,1,5,4300000,Pressure On Heavy Touch,5,6,Balanced,5,4,3,3
+434,Shimizu S-Pulse,Japanese J. League Division 1 (1),66,68,67,65,1,3,4200000,Pressure On Heavy Touch,5,6,Long Ball,7,3,3,3
+435,SSV Jahn Regensburg,German 2. Bundesliga (2),66,65,67,66,1,3,1000000,Press After Possession Loss,6,7,Long Ball,6,7,3,3
+436,Sparta Rotterdam,Holland Eredivisie (1),66,67,67,66,1,4,5700000,Balanced,4,5,Balanced,5,4,3,3
+437,VVV-Venlo,Holland Eredivisie (1),66,66,68,67,1,3,2900000,Balanced,5,4,Long Ball,6,3,3,3
+438,FC Lugano,Swiss Super League (1),66,66,66,65,2,3,1900000,Balanced,5,5,Long Ball,6,4,3,3
+439,Coquimbo Unido,Chilian Campeonato Nacional (1),66,68,62,64,1,1,1500000,Drop Back,4,4,Long Ball,7,3,3,3
+440,Querétaro,Mexican Liga MX (1),66,69,64,65,1,1,1300000,Drop Back,5,4,Fast Build Up,6,3,3,3
+441,Hibernian,Scottish Premiership (1),66,67,67,65,1,7,3000000,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+442,Kilmarnock,Scottish Premiership (1),66,66,67,64,1,6,1500000,Pressure On Heavy Touch,4,5,Balanced,4,4,3,3
+443,Hebei China Fortune FC,Chinese Super League (1),66,74,61,64,1,3,4200000,Balanced,6,8,Long Ball,5,8,3,3
+444,Motherwell,Scottish Premiership (1),66,65,66,66,1,5,900000,Press After Possession Loss,5,4,Balanced,6,5,3,3
+445,Charlton Athletic,English League One (3),66,64,68,65,1,2,2800000,Balanced,6,4,Long Ball,4,4,3,3
+446,Sunderland,English League One (3),66,66,67,66,2,9,5400000,Drop Back,4,3,Balanced,6,3,3,3
+447,Deportivo Pasto,Colombian Liga Postobón (1),66,65,66,67,2,6,2500000,Balanced,4,5,Balanced,6,5,3,3
+448,RKC Waalwijk,Holland Eredivisie (1),66,66,66,64,1,1,2700000,Balanced,5,5,Balanced,5,4,3,3
+449,FC Würzburger Kickers,German 2. Bundesliga (2),66,65,65,67,1,1,725000,Balanced,7,5,Balanced,7,4,3,3
+450,Fortuna Sittard,Holland Eredivisie (1),66,70,67,64,1,3,5700000,Balanced,5,5,Long Ball,5,3,3,3
+451,Jorge Wilstermann,Liga de Fútbol Profesional Boliviano (1),66,67,64,65,3,7,2100000,Balanced,6,6,Balanced,5,3,3,3
+452,FC St. Gallen,Swiss Super League (1),66,65,68,64,4,6,4600000,Balanced,5,6,Balanced,3,4,3,3
+453,Fleetwood Town,English League One (3),66,65,66,66,1,6,750000,Press After Possession Loss,6,6,Balanced,6,8,3,3
+454,FC Ingolstadt 04,German 3. Bundesliga (3),66,64,64,66,1,10,4000000,Pressure On Heavy Touch,4,7,Balanced,5,7,3,3
+455,Emelec,Ecuadorian Serie A (1),66,68,65,65,1,9,2500000,Balanced,5,6,Long Ball,7,3,3,3
+456,ADO Den Haag,Holland Eredivisie (1),66,64,66,65,1,5,5400000,Balanced,4,5,Long Ball,6,5,3,3
+457,Wycombe Wanderers,English League Championship (2),66,66,65,67,1,4,750000,Pressure On Heavy Touch,7,7,Long Ball,7,6,3,3
+458,Delfín SC,Ecuadorian Serie A (1),66,68,65,65,1,1,1300000,Balanced,6,5,Balanced,6,5,3,3
+459,SK Brann,Norwegian Eliteserien (1),66,66,65,67,1,8,3700000,Drop Back,4,3,Balanced,5,3,3,3
+460,Vålerenga Fotball,Norwegian Eliteserien (1),66,67,65,66,1,7,2700000,Pressure On Heavy Touch,5,6,Balanced,7,5,3,3
+461,Pogoń Szczecin,Polish T-Mobile Ekstraklasa (1),66,66,65,66,2,6,1800000,Balanced,5,7,Balanced,7,4,3,3
+462,Cracovia,Polish T-Mobile Ekstraklasa (1),66,65,66,64,3,9,2300000,Balanced,5,5,Long Ball,4,4,3,3
+463,Shenzhen FC,Chinese Super League (1),66,68,65,61,1,4,8200000,Pressure On Heavy Touch,5,5,Balanced,5,4,3,3
+464,Oxford United,English League One (3),66,65,65,65,1,6,1000000,Balanced,6,6,Balanced,7,6,3,3
+465,Hull City,English League One (3),66,65,66,68,1,3,4200000,Pressure On Heavy Touch,5,5,Long Ball,6,4,3,3
+466,SpVgg Greuther Fürth,German 2. Bundesliga (2),66,68,66,66,1,5,1900000,Pressure On Heavy Touch,4,7,Long Ball,4,6,3,3
+467,SønderjyskE,Danish Superliga (1),66,65,66,64,1,4,2000000,Balanced,4,4,Long Ball,3,5,3,3
+468,CE Sabadell FC,Spanish Segunda División (2),66,68,66,66,1,3,1600000,Balanced,6,5,Long Ball,7,3,3,3
+469,IF Elfsborg,Swedish Allsvenskan (1),66,65,66,66,1,6,2900000,Pressure On Heavy Touch,5,7,Balanced,5,7,3,3
+470,Vegalta Sendai,Japanese J. League Division 1 (1),66,67,66,66,4,4,4300000,Pressure On Heavy Touch,6,5,Long Ball,7,5,3,3
+471,BK Häcken,Swedish Allsvenskan (1),66,67,65,66,1,7,3700000,Balanced,6,5,Balanced,6,6,3,3
+472,La Berrichonne de Châteauroux,French Ligue 2 (2),66,65,66,66,1,3,2300000,Drop Back,4,3,Fast Build Up,4,3,3,3
+473,Suwon Samsung Bluewings,Korean K League 1 (1),66,67,66,65,5,8,2800000,Pressure On Heavy Touch,5,6,Long Ball,6,3,3,3
+474,TSV Hartberg,Austrian Football Bundesliga (1),66,69,64,66,1,2,2500000,Drop Back,6,5,Possession,5,5,3,3
+475,FC Sochaux-Montbéliard,French Ligue 2 (2),66,67,66,67,1,6,2900000,Balanced,5,5,Balanced,6,3,3,3
+476,Audax Italiano,Chilian Campeonato Nacional (1),66,69,65,67,2,7,4400000,Pressure On Heavy Touch,5,6,Long Ball,6,7,3,3
+477,SV Wehen Wiesbaden,German 3. Bundesliga (3),66,65,66,64,1,8,1700000,Balanced,6,6,Balanced,6,4,3,3
+478,Piast Gliwice,Polish T-Mobile Ekstraklasa (1),66,66,64,67,4,8,1800000,Balanced,5,5,Balanced,6,4,3,3
+479,C.D. Castellón,Spanish Segunda División (2),66,66,66,65,1,3,1600000,Balanced,6,4,Balanced,6,3,3,3
+480,Śląsk Wrocław,Polish T-Mobile Ekstraklasa (1),66,64,66,66,3,7,1800000,Balanced,6,5,Balanced,5,4,3,3
+481,CD Mirandés,Spanish Segunda División (2),66,65,65,67,1,4,1500000,Drop Back,5,4,Balanced,5,4,3,3
+482,Patronato,Argentina Primera División  (1),66,67,66,67,1,2,1700000,Drop Back,5,5,Fast Build Up,6,3,3,3
+483,SG Dynamo Dresden,German 3. Bundesliga (3),66,67,64,66,1,10,2000000,Balanced,6,4,Balanced,7,7,3,3
+484,Dalian YiFang FC,Chinese Super League (1),66,73,66,63,1,5,12300000,Press After Possession Loss,5,5,Balanced,6,3,3,3
+485,Gaz Metan Mediaş,Romanian Liga I (1),66,67,65,65,3,5,1300000,Balanced,5,5,Balanced,5,4,3,3
+486,Portsmouth,English League One (3),66,66,66,65,1,9,2000000,Balanced,5,5,Balanced,6,4,3,3
+487,Sangju Sangmu FC,Korean K League 1 (1),65,65,65,65,1,2,2600000,Balanced,5,5,Long Ball,5,4,3,3
+488,Daegu FC,Korean K League 1 (1),65,69,65,62,3,8,4300000,Balanced,5,5,Long Ball,6,5,3,3
+489,Al Raed,Saudi Abdul L. Jameel League (1),65,66,65,65,2,4,2200000,Balanced,6,5,Long Ball,6,4,3,3
+490,Shonan Bellmare,Japanese J. League Division 1 (1),65,66,62,64,2,2,3900000,Balanced,3,3,Long Ball,5,3,3,3
+491,SV Ried,Austrian Football Bundesliga (1),65,62,65,65,1,3,3300000,Drop Back,7,4,Long Ball,7,3,3,3
+492,Odense Boldklub,Danish Superliga (1),65,65,65,66,1,6,2600000,Balanced,7,5,Long Ball,7,3,3,3
+493,Chamois Niortais Football Club,French Ligue 2 (2),65,67,66,63,1,4,3100000,Pressure On Heavy Touch,5,5,Balanced,6,6,3,3
+494,FC Hansa Rostock,German 3. Bundesliga (3),65,64,64,65,1,7,650000,Pressure On Heavy Touch,5,7,Balanced,6,7,3,3
+495,1. FC Kaiserslautern,German 3. Bundesliga (3),65,65,65,66,1,7,750000,Balanced,5,6,Balanced,6,5,3,3
+496,AS Nancy Lorraine,French Ligue 2 (2),65,62,63,66,1,5,2800000,Balanced,4,5,Balanced,5,3,3,3
+497,Nacional Asunción,Paraguayan Primera División (1),65,65,65,62,2,4,2300000,Drop Back,6,5,Balanced,5,4,3,3
+498,Perth Glory,Australian Hyundai A-League (1),65,71,64,63,2,5,2000000,Balanced,7,5,Balanced,7,3,3,3
+499,Sydney FC,Australian Hyundai A-League (1),65,63,68,66,5,10,2000000,Pressure On Heavy Touch,5,5,Balanced,6,4,3,3
+500,Rodez Aveyron Football,French Ligue 2 (2),65,64,65,65,1,2,2000000,Balanced,5,6,Balanced,6,3,3,3
+501,Viking FK,Norwegian Eliteserien (1),65,67,64,65,1,4,2200000,Press After Possession Loss,5,5,Long Ball,6,4,3,3
+502,Guangzhou R&F FC,Chinese Super League (1),65,65,67,62,4,5,7600000,Balanced,6,5,Balanced,7,6,3,3
+503,Yokohama FC,Japanese J. League Division 1 (1),65,66,65,64,1,2,2800000,Balanced,5,4,Balanced,5,3,3,3
+504,IK Sirius,Swedish Allsvenskan (1),65,66,64,64,1,3,600000,Pressure On Heavy Touch,4,6,Balanced,5,7,3,3
+505,Kristiansund BK,Norwegian Eliteserien (1),65,60,65,65,1,4,750000,Balanced,4,8,Long Ball,4,4,3,3
+506,Viktoria Köln,German 3. Bundesliga (3),65,67,65,64,1,2,500000,Pressure On Heavy Touch,5,6,Balanced,6,5,3,3
+507,Vejle Boldklub,Danish Superliga (1),65,62,65,64,1,1,1500000,Balanced,7,4,Balanced,6,3,3,3
+508,Servette FC,Swiss Super League (1),65,65,65,66,3,5,3600000,Balanced,5,4,Balanced,7,3,3,3
+509,Sport Huancayo,Peruvian Primera División (1),65,65,65,63,2,3,2200000,Drop Back,5,5,Fast Build Up,6,4,3,3
+510,Ipswich Town,English League One (3),65,65,65,65,1,9,2800000,Balanced,6,6,Balanced,6,6,3,3
+511,Melbourne City FC,Australian Hyundai A-League (1),65,67,63,65,3,8,2000000,Drop Back,6,5,Possession,6,4,3,3
+512,Club Atlético Tigre,Argentina Primera División  (1),65,63,64,63,3,4,3500000,Balanced,4,5,Long Ball,5,4,3,3
+513,Club Plaza Colonia,Uruguayan Primera División (1),65,64,64,65,1,1,1400000,Drop Back,5,4,Long Ball,6,3,3,3
+514,FC Zürich,Swiss Super League (1),65,62,66,63,3,6,3500000,Balanced,4,4,Balanced,6,4,3,3
+515,Shrewsbury,English League One (3),65,64,62,66,1,5,750000,Balanced,6,6,Balanced,7,8,3,3
+516,Blackpool,English League One (3),65,64,64,65,1,6,750000,Pressure On Heavy Touch,5,7,Balanced,6,4,3,3
+517,SD Aucas,Ecuadorian Serie A (1),65,64,63,65,1,2,1600000,Balanced,5,5,Balanced,5,4,3,3
+518,River Plate Asunción,Paraguayan Primera División (1),65,67,61,66,1,1,1600000,Balanced,5,5,Balanced,5,4,3,3
+519,Always Ready,Liga de Fútbol Profesional Boliviano (1),65,66,64,63,1,1,1100000,Balanced,5,5,Long Ball,5,5,3,3
+520,Peterborough United,English League One (3),65,67,65,65,1,8,2000000,Drop Back,6,5,Balanced,5,6,3,3
+521,Stabæk Fotball,Norwegian Eliteserien (1),65,63,66,65,1,4,1700000,Pressure On Heavy Touch,6,6,Balanced,5,4,3,3
+522,Universidad Católica del Ecuador,Ecuadorian Serie A (1),65,64,65,65,1,1,1500000,Balanced,7,5,Balanced,6,4,3,3
+523,Raków Częstochowa,Polish T-Mobile Ekstraklasa (1),65,66,65,66,2,4,1500000,Balanced,6,6,Balanced,8,3,3,3
+524,Centro Atlético Fénix,Uruguayan Primera División (1),65,62,62,64,1,2,1600000,Balanced,5,5,Balanced,5,4,3,3
+525,Zagłębie Lubin,Polish T-Mobile Ekstraklasa (1),65,64,66,64,3,6,2000000,Balanced,6,7,Balanced,7,5,3,3
+526,Tianjin TEDA FC,Chinese Super League (1),65,69,61,66,2,4,6600000,Pressure On Heavy Touch,5,5,Balanced,7,3,3,3
+527,FC Botoşani,Romanian Liga I (1),65,60,65,65,3,6,1700000,Balanced,6,4,Balanced,6,4,3,3
+528,SCR Altach,Austrian Football Bundesliga (1),65,65,66,64,2,4,2900000,Pressure On Heavy Touch,6,5,Balanced,6,7,3,3
+529,Alianza Lima,Peruvian Primera División (1),65,62,65,63,5,9,3800000,Balanced,4,6,Balanced,6,4,3,3
+530,Abha Club,Saudi Abdul L. Jameel League (1),65,70,66,63,1,1,1500000,Drop Back,5,5,Balanced,5,4,3,3
+531,Górnik Zabrze,Polish T-Mobile Ekstraklasa (1),65,67,63,65,2,5,1500000,Press After Possession Loss,4,7,Balanced,5,4,3,3
+532,KFC Uerdingen 05,German 3. Bundesliga (3),65,63,65,65,1,8,1300000,Balanced,5,5,Balanced,6,7,3,3
+533,SpVgg Unterhaching,German 3. Bundesliga (3),65,61,64,64,1,7,580000,Balanced,6,6,Balanced,6,6,3,3
+534,Incheon United FC,Korean K League 1 (1),65,65,65,64,2,1,2300000,Balanced,7,4,Balanced,8,6,3,3
+535,Helsingborgs IF,Swedish Allsvenskan (1),65,65,65,66,1,2,2200000,Balanced,4,5,Balanced,5,3,3,3
+536,Odds BK,Norwegian Eliteserien (1),65,65,65,65,1,6,2400000,Pressure On Heavy Touch,6,7,Balanced,5,5,3,3
+537,Liverpool Fútbol Club,Uruguayan Primera División (1),65,64,63,64,1,10,2300000,Balanced,5,5,Balanced,6,6,3,3
+538,CD Huachipato,Chilian Campeonato Nacional (1),65,66,64,62,3,4,3700000,Balanced,4,4,Balanced,4,4,3,3
+539,Sepsi OSK,Romanian Liga I (1),65,61,65,66,2,5,1500000,Balanced,5,5,Balanced,5,4,3,3
+540,El Nacional,Ecuadorian Serie A (1),65,64,63,64,2,4,2200000,Balanced,5,5,Long Ball,5,4,3,3
+541,FC Hermannstadt,Romanian Liga I (1),65,59,65,63,1,3,1100000,Balanced,6,5,Balanced,6,4,3,3
+542,Melgar FBC,Peruvian Primera División (1),65,63,64,62,1,2,1500000,Balanced,5,5,Long Ball,5,4,3,3
+543,Pau FC,French Ligue 2 (2),65,65,65,65,1,1,2000000,Balanced,6,5,Long Ball,6,6,3,3
+544,Gangwon FC,Korean K League 1 (1),65,66,65,65,1,6,3500000,Pressure On Heavy Touch,7,5,Balanced,7,3,3,3
+545,Randers FC,Danish Superliga (1),65,65,65,65,1,5,2000000,Balanced,6,5,Balanced,6,3,3,3
+546,FC Nordsjælland,Danish Superliga (1),65,66,65,65,1,7,2800000,Pressure On Heavy Touch,4,6,Balanced,5,6,3,3
+547,SV Meppen,German 3. Bundesliga (3),64,59,64,64,1,3,520000,Balanced,5,6,Long Ball,7,4,3,3
+548,Milton Keynes Dons,English League One (3),64,64,63,63,1,5,1500000,Balanced,5,5,Possession,6,3,3,3
+549,Al Fateh,Saudi Abdul L. Jameel League (1),64,62,65,61,4,6,3100000,Balanced,5,5,Balanced,6,4,3,3
+550,Salford City,English League Two (4),64,65,64,64,1,8,1500000,Pressure On Heavy Touch,6,6,Long Ball,7,4,3,3
+551,Sagan Tosu,Japanese J. League Division 1 (1),64,63,64,64,1,2,4100000,Pressure On Heavy Touch,5,7,Long Ball,5,4,3,3
+552,Cusco FC,Peruvian Primera División (1),64,64,64,65,2,2,2100000,Balanced,6,6,Balanced,5,4,3,3
+553,FC Voluntari,Romanian Liga I (1),64,65,62,64,3,3,1000000,Balanced,5,4,Balanced,5,4,3,3
+554,TSV 1860 München,German 3. Bundesliga (3),64,65,64,64,1,4,1000000,Balanced,5,5,Balanced,5,4,3,3
+555,Wisła Płock,Polish T-Mobile Ekstraklasa (1),64,63,64,63,2,4,1700000,Balanced,6,4,Balanced,7,3,3,3
+556,MSV Duisburg,German 3. Bundesliga (3),64,65,64,63,1,8,800000,Balanced,5,5,Balanced,8,4,3,3
+557,River Plate Montevideo,Uruguayan Primera División (1),64,64,62,64,1,2,1600000,Balanced,6,5,Balanced,7,4,3,3
+558,Damac FC,Saudi Abdul L. Jameel League (1),64,63,63,65,1,1,1700000,Balanced,4,4,Balanced,5,3,3,3
+559,Dundalk,Rep. Ireland Airtricity League (1),64,67,64,64,2,10,900000,Pressure On Heavy Touch,5,7,Balanced,7,5,3,3
+560,FC Lausanne-Sport,Swiss Super League (1),64,63,64,63,2,6,5000000,Balanced,6,4,Balanced,6,3,3,3
+561,Sarpsborg 08 FF,Norwegian Eliteserien (1),64,65,64,64,2,4,2200000,Balanced,4,4,Long Ball,5,3,3,3
+562,Livingston FC,Scottish Premiership (1),64,65,64,66,1,3,650000,Balanced,5,5,Long Ball,4,4,3,3
+563,Club Blooming,Liga de Fútbol Profesional Boliviano (1),64,64,62,62,3,5,2000000,Balanced,5,5,Balanced,5,3,3,3
+564,Wigan Athletic,English League One (3),64,67,65,61,1,2,2400000,Balanced,6,5,Long Ball,6,6,3,3
+565,GwangJu FC,Korean K League 1 (1),64,68,62,63,1,2,1600000,Balanced,5,5,Balanced,5,7,3,3
+566,Doncaster Rovers,English League One (3),64,62,67,63,1,7,1300000,Pressure On Heavy Touch,7,7,Balanced,6,3,3,3
+567,Hallescher FC,German 3. Bundesliga (3),64,66,62,64,1,6,640000,Pressure On Heavy Touch,5,5,Balanced,6,5,3,3
+568,Strømsgodset IF,Norwegian Eliteserien (1),64,63,65,63,1,6,2500000,Pressure On Heavy Touch,5,6,Balanced,7,4,3,3
+569,AC Horsens,Danish Superliga (1),64,63,63,64,1,2,1800000,Drop Back,4,4,Balanced,6,6,3,3
+570,Burton Albion,English League One (3),64,63,65,64,1,7,750000,Balanced,5,5,Balanced,4,3,3,3
+571,Bristol Rovers,English League One (3),64,61,64,63,1,4,750000,Balanced,7,7,Long Ball,7,3,3,3
+572,USL Dunkerque,French Ligue 2 (2),64,64,64,64,1,1,2700000,Balanced,4,5,Balanced,5,3,3,3
+573,Dundee United,Scottish Premiership (1),64,65,65,64,1,5,800000,Balanced,5,5,Balanced,5,4,3,3
+574,WSG Tirol,Austrian Football Bundesliga (1),64,65,63,64,1,1,2900000,Balanced,4,4,Long Ball,5,3,3,3
+575,Örebro SK,Swedish Allsvenskan (1),64,64,64,64,1,5,2000000,Drop Back,3,3,Balanced,5,3,3,3
+576,St. Johnstone FC,Scottish Premiership (1),64,65,65,63,1,5,700000,Drop Back,4,5,Long Ball,5,3,3,3
+577,SV Waldhof Mannheim,German 3. Bundesliga (3),64,64,65,65,1,3,500000,Pressure On Heavy Touch,5,6,Balanced,5,3,3,3
+578,SKN St. Pölten,Austrian Football Bundesliga (1),64,64,65,64,1,3,2700000,Balanced,5,5,Long Ball,5,4,3,3
+579,FC Admira Wacker Mödling,Austrian Football Bundesliga (1),64,62,64,63,1,2,2900000,Balanced,5,5,Balanced,5,3,3,3
+580,Sol de América,Paraguayan Primera División (1),64,66,65,63,1,3,2000000,Balanced,6,6,Long Ball,5,5,3,3
+581,Seongnam FC,Korean K League 1 (1),64,65,64,63,2,2,2800000,Drop Back,4,4,Long Ball,6,3,3,3
+582,Türkgücü München,German 3. Bundesliga (3),64,63,63,63,1,1,1000000,Pressure On Heavy Touch,6,5,Long Ball,5,3,3,3
+583,Politehnica Iaşi,Romanian Liga I (1),64,64,65,62,2,5,1300000,Balanced,6,6,Balanced,5,4,3,3
+584,HJK Helsinki,Finnish Veikkausliiga (1),64,64,66,65,1,10,2000000,Balanced,6,5,Balanced,6,3,3,3
+585,Independiente Medellín,Colombian Liga Postobón (1),64,65,63,64,6,8,5100000,Balanced,5,5,Balanced,6,6,3,3
+586,FC Chambly Oise,French Ligue 2 (2),64,63,63,64,1,1,1900000,Drop Back,6,3,Fast Build Up,6,3,3,3
+587,1. FC Magdeburg,German 3. Bundesliga (3),64,63,63,63,1,8,800000,Balanced,7,5,Balanced,7,6,3,3
+588,FSV Zwickau,German 3. Bundesliga (3),63,63,63,62,1,2,500000,Drop Back,5,5,Fast Build Up,6,4,3,3
+589,Gillingham,English League One (3),63,63,61,63,1,5,1000000,Balanced,4,6,Long Ball,4,3,3,3
+590,1. FC Saarbrücken,German 3. Bundesliga (3),63,65,63,63,1,3,1200000,Pressure On Heavy Touch,5,6,Balanced,7,8,3,3
+591,Östersunds FK,Swedish Allsvenskan (1),63,62,63,62,2,6,1700000,Pressure On Heavy Touch,6,6,Balanced,5,6,3,3
+592,Nacional Potosí,Liga de Fútbol Profesional Boliviano (1),63,61,65,63,1,1,1500000,Balanced,5,5,Long Ball,7,5,3,3
+593,Mjøndalen IF,Norwegian Eliteserien (1),63,62,63,62,1,1,1500000,Balanced,6,5,Long Ball,6,3,3,3
+594,VfB Lübeck,German 3. Bundesliga (3),63,63,63,62,1,1,1000000,Pressure On Heavy Touch,4,5,Long Ball,6,3,3,3
+595,Chongqing Dangdai Lifan FC SWM Team,Chinese Super League (1),63,65,59,59,1,2,5200000,Balanced,3,6,Long Ball,7,3,3,3
+596,Western Sydney Wanderers,Australian Hyundai A-League (1),63,63,66,60,5,7,2000000,Balanced,4,5,Balanced,6,3,3,3
+597,Shamrock Rovers,Rep. Ireland Airtricity League (1),63,66,63,63,2,9,700000,Balanced,6,7,Balanced,7,5,3,3
+598,Qingdao Huanghai F.C.,Chinese Super League (1),63,55,62,62,6,5,7600000,Balanced,5,4,Balanced,5,3,3,3
+599,Al Hazem,Saudi Abdul L. Jameel League (1),63,65,62,61,1,2,1600000,Balanced,5,5,Long Ball,5,3,3,3
+600,Stal Mielec,Polish T-Mobile Ekstraklasa (1),63,63,64,63,1,2,875000,Balanced,5,6,Long Ball,5,3,3,3
+601,Bayern München II,German 3. Bundesliga (3),63,65,64,60,1,7,4000000,Balanced,5,5,Balanced,5,4,3,3
+602,Western United FC,Australian Hyundai A-League (1),63,67,64,61,1,1,2000000,Balanced,5,5,Balanced,5,3,3,3
+603,Crewe Alexandra,English League One (3),63,64,63,64,1,5,500000,Pressure On Heavy Touch,6,6,Balanced,6,3,3,3
+604,Oriente Petrolero,Liga de Fútbol Profesional Boliviano (1),63,65,63,61,3,5,2000000,Balanced,5,5,Balanced,5,6,3,3
+605,AFC Wimbledon,English League One (3),63,61,63,62,1,2,500000,Drop Back,3,3,Long Ball,6,3,3,3
+606,Port Vale,English League Two (4),63,62,63,62,1,4,750000,Balanced,4,4,Long Ball,6,4,3,3
+607,Plymouth Argyle,English League One (3),63,63,61,64,1,9,1300000,Balanced,6,5,Balanced,6,4,3,3
+608,Northampton Town,English League One (3),63,62,63,63,1,7,1000000,Pressure On Heavy Touch,4,5,Long Ball,6,3,3,3
+609,Caracas FC,Venezuelan Primera División (1),63,63,63,63,5,6,500000,Balanced,4,4,Balanced,5,4,3,3
+610,Swindon Town,English League One (3),63,63,63,64,1,7,750000,Balanced,6,5,Long Ball,6,3,3,3
+611,Colchester United,English League Two (4),63,63,63,64,1,6,500000,Balanced,5,5,Balanced,6,3,3,3
+612,AC Mineros de Guayana,Venezuelan Primera División (1),63,63,63,61,1,10,1300000,Balanced,4,4,Balanced,6,3,3,3
+613,Mansfield Town,English League Two (4),63,64,63,63,1,8,1500000,Pressure On Heavy Touch,5,5,Long Ball,7,5,3,3
+614,Lincoln City,English League One (3),63,63,63,61,1,7,1300000,Pressure On Heavy Touch,4,5,Possession,5,4,3,3
+615,Wellington Phoenix,Australian Hyundai A-League (1),63,59,64,62,1,3,2000000,Press After Possession Loss,6,7,Possession,5,3,3,3
+616,FC Argeș,Romanian Liga I (1),63,57,63,62,1,2,804000,Balanced,6,4,Balanced,6,4,3,3
+617,Lyngby BK,Danish Superliga (1),63,63,63,64,1,1,1600000,Drop Back,3,3,Balanced,5,3,3,3
+618,UTA Arad,Romanian Liga I (1),63,64,59,63,1,2,937000,Balanced,5,6,Balanced,5,4,3,3
+620,Al Fayha,Saudi Abdul L. Jameel League (1),63,65,63,62,2,3,2500000,Balanced,4,4,Long Ball,5,4,3,3
+621,FK Haugesund,Norwegian Eliteserien (1),63,63,64,64,1,5,1400000,Press After Possession Loss,5,6,Long Ball,6,6,3,3
+622,Busan IPark,Korean K League 1 (1),63,64,63,63,2,3,3000000,Drop Back,5,3,Balanced,6,4,3,3
+623,St. Mirren,Scottish Premiership (1),63,64,62,64,1,2,750000,Drop Back,5,4,Fast Build Up,6,3,3,3
+624,Tranmere Rovers,English League Two (4),63,63,63,63,1,2,750000,Balanced,4,4,Long Ball,6,3,3,3
+625,Sandefjord Fotball,Norwegian Eliteserien (1),63,62,62,63,1,1,1100000,Balanced,5,4,Balanced,5,3,3,3
+626,Estudiantes de Mérida,Venezuelan Primera División (1),63,63,64,61,2,2,1700000,Balanced,7,5,Balanced,7,3,3,3
+627,Chindia Târgovişte,Romanian Liga I (1),63,63,62,63,1,2,808000,Balanced,5,4,Balanced,6,3,3,3
+628,Podbeskidzie Bielsko-Biała,Polish T-Mobile Ekstraklasa (1),63,63,62,59,1,2,1200000,Balanced,6,4,Balanced,6,4,3,3
+629,Academica Clinceni,Romanian Liga I (1),63,65,64,62,1,1,507000,Drop Back,4,4,Long Ball,6,5,3,3
+630,IK Start,Norwegian Eliteserien (1),63,62,64,63,1,3,1200000,Balanced,5,5,Long Ball,6,4,3,3
+631,Bolton Wanderers,English League Two (4),62,64,63,61,1,8,500000,Balanced,5,4,Possession,6,5,3,3
+632,Walsall,English League Two (4),62,63,62,62,1,7,750000,Balanced,4,5,Balanced,7,3,3,3
+633,Bradford City,English League Two (4),62,62,61,63,1,9,1300000,Balanced,5,5,Balanced,6,3,3,3
+634,Aragua FC,Venezuelan Primera División (1),62,60,62,62,1,1,1400000,Balanced,5,4,Balanced,6,3,3,3
+635,FC Vaduz,Swiss Super League (1),62,63,63,62,2,2,1800000,Balanced,6,5,Long Ball,7,3,3,3
+636,Melbourne Victory,Australian Hyundai A-League (1),62,56,62,63,5,9,2000000,Balanced,4,5,Balanced,6,3,3,3
+637,Newcastle Jets,Australian Hyundai A-League (1),62,64,63,62,1,3,2000000,Drop Back,4,3,Fast Build Up,4,3,3,3
+638,Falkenbergs FF,Swedish Allsvenskan (1),62,62,62,62,1,2,550000,Balanced,5,5,Long Ball,5,3,3,3
+639,Crawley Town,English League Two (4),62,56,61,62,1,3,500000,Balanced,6,5,Long Ball,7,3,3,3
+640,Forest Green Rovers,English League Two (4),62,60,62,62,1,7,1000000,Balanced,5,4,Balanced,6,3,3,3
+641,Varbergs BoIS,Swedish Allsvenskan (1),62,65,62,61,1,1,650000,Balanced,5,5,Long Ball,5,3,3,3
+642,Shijiazhuang Ever Bright F.C.,Chinese Super League (1),62,58,65,59,1,2,2100000,Balanced,5,5,Balanced,5,3,3,3
+643,Ross County FC,Scottish Premiership (1),62,64,62,62,1,2,600000,Drop Back,4,4,Long Ball,6,4,3,3
+644,Newport County,English League Two (4),62,60,62,62,1,5,750000,Pressure On Heavy Touch,5,6,Balanced,7,3,3,3
+645,Warta Poznań,Polish T-Mobile Ekstraklasa (1),62,61,63,61,1,2,808000,Balanced,6,5,Balanced,6,4,3,3
+646,Oldham Athletic,English League Two (4),62,62,61,63,1,4,750000,Drop Back,4,3,Long Ball,3,3,3,3
+647,Exeter City,English League Two (4),62,62,62,62,1,6,750000,Pressure On Heavy Touch,5,5,Balanced,6,6,3,3
+648,Cheltenham Town,English League Two (4),62,60,63,64,1,5,500000,Balanced,7,5,Long Ball,6,4,3,3
+649,Rochdale,English League One (3),62,60,63,62,1,2,500000,Pressure On Heavy Touch,5,7,Possession,6,6,3,3
+650,SC Verl,German 3. Bundesliga (3),62,64,61,62,1,1,1000000,Balanced,5,5,Balanced,5,3,3,3
+651,Club Atlético Grau,Peruvian Primera División (1),62,64,60,61,1,1,1700000,Balanced,5,5,Balanced,5,3,3,3
+652,Macarthur FC,Australian Hyundai A-League (1),62,58,63,64,1,1,2000000,Balanced,4,5,Balanced,5,5,3,3
+653,Hamilton Academical FC,Scottish Premiership (1),62,61,61,62,1,1,500000,Drop Back,4,4,Fast Build Up,4,3,3,3
+654,Mjällby AIF,Swedish Allsvenskan (1),62,63,62,62,1,1,850000,Balanced,4,5,Balanced,5,3,3,3
+655,Aalesunds FK,Norwegian Eliteserien (1),62,61,63,61,1,2,1900000,Balanced,7,5,Long Ball,5,3,3,3
+656,Accrington Stanley,English League One (3),62,61,63,62,1,1,500000,Balanced,6,5,Long Ball,6,3,3,3
+657,Adelaide United,Australian Hyundai A-League (1),61,61,62,63,3,4,2000000,Balanced,6,6,Long Ball,7,8,3,3
+658,Brisbane Roar,Australian Hyundai A-League (1),61,62,59,61,4,6,2000000,Pressure On Heavy Touch,5,5,Balanced,7,4,3,3
+659,Grimsby Town,English League Two (4),61,60,59,61,1,2,500000,Balanced,5,7,Balanced,6,4,3,3
+660,Morecambe,English League Two (4),61,60,62,61,1,1,500000,Drop Back,4,4,Long Ball,4,3,3,3
+661,Stevenage,English League Two (4),61,61,57,62,1,3,750000,Balanced,5,4,Long Ball,6,3,3,3
+662,Cambridge United,English League Two (4),61,61,62,60,1,3,500000,Balanced,4,4,Long Ball,3,3,3,3
+663,Scunthorpe United,English League Two (4),61,61,59,59,1,8,1000000,Balanced,5,5,Long Ball,6,3,3,3
+664,Sportivo Luqueño,Paraguayan Primera División (1),61,59,62,58,1,2,1700000,Balanced,5,5,Long Ball,6,4,3,3
+665,Southend United,English League Two (4),61,56,61,61,1,4,750000,Balanced,6,4,Long Ball,5,3,3,3
+666,Leyton Orient,English League Two (4),61,59,62,60,1,4,750000,Balanced,4,5,Balanced,4,3,3,3
+667,Al Adalah,Saudi Abdul L. Jameel League (1),61,62,62,61,1,1,1200000,Balanced,5,5,Long Ball,5,4,3,3
+668,Carlisle United,English League Two (4),61,59,62,62,1,6,500000,Balanced,7,5,Balanced,4,5,3,3
+669,Zamora FC,Venezuelan Primera División (1),60,60,60,60,1,3,1400000,Balanced,6,5,Balanced,6,4,3,3
+670,Central Coast Mariners,Australian Hyundai A-League (1),60,58,61,59,3,1,2000000,Drop Back,6,5,Fast Build Up,5,4,3,3
+671,Bohemian FC,Rep. Ireland Airtricity League (1),60,61,59,59,1,7,530000,Balanced,4,5,Balanced,6,3,3,3
+672,Barrow,English League Two (4),60,59,61,60,1,1,500000,Pressure On Heavy Touch,5,6,Possession,5,5,3,3
+673,Harrogate Town,English League Two (4),59,58,59,59,1,1,500000,Balanced,5,5,Long Ball,5,4,3,3
+674,St. Patrick's Athletic,Rep. Ireland Airtricity League (1),59,58,60,59,1,6,525000,Balanced,5,4,Balanced,6,5,3,3
+675,Derry City,Rep. Ireland Airtricity League (1),59,48,59,59,1,7,510000,Balanced,6,5,Balanced,6,3,3,3
+676,Llaneros de Guanare,Venezuelan Primera División (1),59,54,59,59,1,1,730000,Balanced,6,6,Balanced,5,4,3,3
+677,Sligo Rovers,Rep. Ireland Airtricity League (1),58,59,57,58,1,5,515000,Balanced,4,5,Balanced,4,5,3,3
+678,Shelbourne FC,Rep. Ireland Airtricity League (1),57,57,57,56,1,4,520000,Balanced,4,4,Long Ball,5,3,3,3
+679,Finn Harps,Rep. Ireland Airtricity League (1),56,55,56,57,1,2,500000,Balanced,4,4,Long Ball,7,4,3,3
+680,Cork City,Rep. Ireland Airtricity League (1),56,55,58,54,2,7,600000,Balanced,7,5,Balanced,7,4,3,3
+681,Waterford FC,Rep. Ireland Airtricity League (1),56,58,54,55,1,4,520000,Balanced,5,5,Balanced,5,4,3,3
