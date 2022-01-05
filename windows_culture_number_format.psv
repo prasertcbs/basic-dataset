@@ -1,814 +1,813 @@
-culture|decimal_separator|group_separator|lcid|display_name|is_neutral_culture
-aa|.|,|4096|Afar|True
-aa-DJ|.|,|4096|Afar (Djibouti)|False
-aa-ER|.|,|4096|Afar (Eritrea)|False
-aa-ET|.|,|4096|Afar (Ethiopia)|False
-af|,| |54|Afrikaans|True
-af-NA|,| |4096|Afrikaans (Namibia)|False
-af-ZA|,| |1078|Afrikaans (South Africa)|False
-agq|,| |4096|Aghem|True
-agq-CM|,| |4096|Aghem (Cameroon)|False
-ak|.|,|4096|Akan|True
-ak-GH|.|,|4096|Akan (Ghana)|False
-am|.|,|94|Amharic|True
-am-ET|.|,|1118|Amharic (Ethiopia)|False
-ar|٫|٬|1|Arabic|True
-ar-001|٫|٬|4096|Arabic (World)|False
-ar-AE|٫|٬|14337|Arabic (United Arab Emirates)|False
-ar-BH|٫|٬|15361|Arabic (Bahrain)|False
-ar-DJ|٫|٬|4096|Arabic (Djibouti)|False
-ar-DZ|,|.|5121|Arabic (Algeria)|False
-ar-EG|٫|٬|3073|Arabic (Egypt)|False
-ar-ER|٫|٬|4096|Arabic (Eritrea)|False
-ar-IL|٫|٬|4096|Arabic (Israel)|False
-ar-IQ|٫|٬|2049|Arabic (Iraq)|False
-ar-JO|٫|٬|11265|Arabic (Jordan)|False
-ar-KM|٫|٬|4096|Arabic (Comoros)|False
-ar-KW|٫|٬|13313|Arabic (Kuwait)|False
-ar-LB|٫|٬|12289|Arabic (Lebanon)|False
-ar-LY|,|.|4097|Arabic (Libya)|False
-ar-MA|,|.|6145|Arabic (Morocco)|False
-ar-MR|٫|٬|4096|Arabic (Mauritania)|False
-ar-OM|٫|٬|8193|Arabic (Oman)|False
-ar-PS|٫|٬|4096|Arabic (Palestinian Authority)|False
-ar-QA|٫|٬|16385|Arabic (Qatar)|False
-ar-SA|٫|٬|1025|Arabic (Saudi Arabia)|False
-ar-SD|٫|٬|4096|Arabic (Sudan)|False
-ar-SO|٫|٬|4096|Arabic (Somalia)|False
-ar-SS|٫|٬|4096|Arabic (South Sudan)|False
-ar-SY|٫|٬|10241|Arabic (Syria)|False
-ar-TD|٫|٬|4096|Arabic (Chad)|False
-ar-TN|,|.|7169|Arabic (Tunisia)|False
-ar-YE|٫|٬|9217|Arabic (Yemen)|False
-arn|.|,|122|Mapuche|True
-arn-CL|.|,|1146|Mapuche (Chile)|False
-as|.|,|77|Assamese|True
-as-IN|.|,|1101|Assamese (India)|False
-asa|.|,|4096|Asu|True
-asa-TZ|.|,|4096|Asu (Tanzania)|False
-ast|,|.|4096|Asturian|True
-ast-ES|,|.|4096|Asturian (Spain)|False
-az|,|.|44|Azerbaijani|True
-az-Cyrl|,|.|29740|Azerbaijani (Cyrillic)|True
-az-Cyrl-AZ|,|.|2092|Azerbaijani (Cyrillic, Azerbaijan)|False
-az-Latn|,|.|30764|Azerbaijani (Latin)|True
-az-Latn-AZ|,|.|1068|Azerbaijani (Latin, Azerbaijan)|False
-ba|.|,|109|Bashkir|True
-ba-RU|.|,|1133|Bashkir (Russia)|False
-bas|,| |4096|Basaa|True
-bas-CM|,| |4096|Basaa (Cameroon)|False
-be|,| |35|Belarusian|True
-be-BY|,| |1059|Belarusian (Belarus)|False
-bem|.|,|4096|Bemba|True
-bem-ZM|.|,|4096|Bemba (Zambia)|False
-bez|.|,|4096|Bena|True
-bez-TZ|.|,|4096|Bena (Tanzania)|False
-bg|,| |2|Bulgarian|True
-bg-BG|,| |1026|Bulgarian (Bulgaria)|False
-bm|.|,|4096|Bamanankan|True
-bm-ML|.|,|4096|Bamanankan (Mali)|False
-bn|.|,|69|Bangla|True
-bn-BD|.|,|2117|Bangla (Bangladesh)|False
-bn-IN|.|,|1093|Bangla (India)|False
-bo|.|,|81|Tibetan|True
-bo-CN|.|,|1105|Tibetan (China)|False
-bo-IN|.|,|4096|Tibetan (India)|False
-br|,| |126|Breton|True
-br-FR|,| |1150|Breton (France)|False
-brx|.|,|4096|Bodo|True
-brx-IN|.|,|4096|Bodo (India)|False
-bs|,|.|30746|Bosnian|True
-bs-Cyrl|,|.|25626|Bosnian (Cyrillic)|True
-bs-Cyrl-BA|,|.|8218|Bosnian (Cyrillic, Bosnia & Herzegovina)|False
-bs-Latn|,|.|26650|Bosnian (Latin)|True
-bs-Latn-BA|,|.|5146|Bosnian (Latin, Bosnia & Herzegovina)|False
-byn|.|,|4096|Blin|True
-byn-ER|.|,|4096|Blin (Eritrea)|False
-ca|,|.|3|Catalan|True
-ca-AD|,|.|4096|Catalan (Andorra)|False
-ca-ES|,|.|1027|Catalan (Spain)|False
-ca-ES-VALENCIA|,|.|2051|Catalan (Spain, Valencian)|False
-ca-FR|,|.|4096|Catalan (France)|False
-ca-IT|,|.|4096|Catalan (Italy)|False
-ccp|.|,|4096|Chakma|True
-ccp-BD|.|,|4096|Chakma (Bangladesh)|False
-ccp-IN|.|,|4096|Chakma (India)|False
-ce|.|,|4096|Chechen|True
-ce-RU|.|,|4096|Chechen (Russia)|False
-ceb|.|,|4096|Cebuano|True
-ceb-PH|.|,|4096|Cebuano (Philippines)|False
-cgg|.|,|4096|Chiga|True
-cgg-UG|.|,|4096|Chiga (Uganda)|False
-chr|.|,|92|Cherokee|True
-chr-US|.|,|4096|Cherokee (United States)|False
-ckb|٫|٬|4096|Central Kurdish|True
-ckb-IQ|٫|٬|4096|Central Kurdish (Iraq)|False
-ckb-IR|٫|٬|4096|Central Kurdish (Iran)|False
-co|.|,|131|Corsican|True
-co-FR|.|,|1155|Corsican (France)|False
-cs|,| |5|Czech|True
-cs-CZ|,| |1029|Czech (Czechia)|False
-cu|.|,|4096|Church Slavic|True
-cu-RU|.|,|4096|Church Slavic (Russia)|False
-cy|.|,|82|Welsh|True
-cy-GB|.|,|1106|Welsh (United Kingdom)|False
-da|,|.|6|Danish|True
-da-DK|,|.|1030|Danish (Denmark)|False
-da-GL|,|.|4096|Danish (Greenland)|False
-dav|.|,|4096|Taita|True
-dav-KE|.|,|4096|Taita (Kenya)|False
-de|,|.|7|German|True
-de-AT|,|.|3079|German (Austria)|False
-de-BE|,|.|4096|German (Belgium)|False
-de-CH|.|’|2055|German (Switzerland)|False
-de-DE|,|.|1031|German (Germany)|False
-de-IT|,|.|4096|German (Italy)|False
-de-LI|.|’|5127|German (Liechtenstein)|False
-de-LU|,|.|4103|German (Luxembourg)|False
-dje|.| |4096|Zarma|True
-dje-NE|.| |4096|Zarma (Niger)|False
-dsb|,|.|31790|Lower Sorbian|True
-dsb-DE|,|.|2094|Lower Sorbian (Germany)|False
-dua|,| |4096|Duala|True
-dua-CM|,| |4096|Duala (Cameroon)|False
-dv|.|,|101|Divehi|True
-dv-MV|.|,|1125|Divehi (Maldives)|False
-dyo|,| |4096|Jola-Fonyi|True
-dyo-SN|,| |4096|Jola-Fonyi (Senegal)|False
-dz|.|,|4096|Dzongkha|True
-dz-BT|.|,|3153|Dzongkha (Bhutan)|False
-ebu|.|,|4096|Embu|True
-ebu-KE|.|,|4096|Embu (Kenya)|False
-ee|.|,|4096|Ewe|True
-ee-GH|.|,|4096|Ewe (Ghana)|False
-ee-TG|.|,|4096|Ewe (Togo)|False
-el|,|.|8|Greek|True
-el-CY|,|.|4096|Greek (Cyprus)|False
-el-GR|,|.|1032|Greek (Greece)|False
-en|.|,|9|English|True
-en-001|.|,|4096|English (World)|False
-en-150|.|,|4096|English (Europe)|False
-en-AE|.|,|4096|English (United Arab Emirates)|False
-en-AG|.|,|4096|English (Antigua & Barbuda)|False
-en-AI|.|,|4096|English (Anguilla)|False
-en-AS|.|,|4096|English (American Samoa)|False
-en-AT|.|,|4096|English (Austria)|False
-en-AU|.|,|3081|English (Australia)|False
-en-BB|.|,|4096|English (Barbados)|False
-en-BE|.|,|4096|English (Belgium)|False
-en-BI|.|,|4096|English (Burundi)|False
-en-BM|.|,|4096|English (Bermuda)|False
-en-BS|.|,|4096|English (Bahamas)|False
-en-BW|.|,|4096|English (Botswana)|False
-en-BZ|.|,|10249|English (Belize)|False
-en-CA|.|,|4105|English (Canada)|False
-en-CC|.|,|4096|English (Cocos [Keeling] Islands)|False
-en-CH|.|’|4096|English (Switzerland)|False
-en-CK|.|,|4096|English (Cook Islands)|False
-en-CM|.|,|4096|English (Cameroon)|False
-en-CX|.|,|4096|English (Christmas Island)|False
-en-CY|.|,|4096|English (Cyprus)|False
-en-DE|.|,|4096|English (Germany)|False
-en-DK|,|.|4096|English (Denmark)|False
-en-DM|.|,|4096|English (Dominica)|False
-en-ER|.|,|4096|English (Eritrea)|False
-en-FI|.|,|4096|English (Finland)|False
-en-FJ|.|,|4096|English (Fiji)|False
-en-FK|.|,|4096|English (Falkland Islands)|False
-en-FM|.|,|4096|English (Micronesia)|False
-en-GB|.|,|2057|English (United Kingdom)|False
-en-GD|.|,|4096|English (Grenada)|False
-en-GG|.|,|4096|English (Guernsey)|False
-en-GH|.|,|4096|English (Ghana)|False
-en-GI|.|,|4096|English (Gibraltar)|False
-en-GM|.|,|4096|English (Gambia)|False
-en-GU|.|,|4096|English (Guam)|False
-en-GY|.|,|4096|English (Guyana)|False
-en-HK|.|,|15369|English (Hong Kong SAR)|False
-en-IE|.|,|6153|English (Ireland)|False
-en-IL|.|,|4096|English (Israel)|False
-en-IM|.|,|4096|English (Isle of Man)|False
-en-IN|.|,|16393|English (India)|False
-en-IO|.|,|4096|English (British Indian Ocean Territory)|False
-en-JE|.|,|4096|English (Jersey)|False
-en-JM|.|,|8201|English (Jamaica)|False
-en-KE|.|,|4096|English (Kenya)|False
-en-KI|.|,|4096|English (Kiribati)|False
-en-KN|.|,|4096|English (St. Kitts & Nevis)|False
-en-KY|.|,|4096|English (Cayman Islands)|False
-en-LC|.|,|4096|English (St. Lucia)|False
-en-LR|.|,|4096|English (Liberia)|False
-en-LS|.|,|4096|English (Lesotho)|False
-en-MG|.|,|4096|English (Madagascar)|False
-en-MH|.|,|4096|English (Marshall Islands)|False
-en-MO|.|,|4096|English (Macao SAR)|False
-en-MP|.|,|4096|English (Northern Mariana Islands)|False
-en-MS|.|,|4096|English (Montserrat)|False
-en-MT|.|,|4096|English (Malta)|False
-en-MU|.|,|4096|English (Mauritius)|False
-en-MW|.|,|4096|English (Malawi)|False
-en-MY|.|,|17417|English (Malaysia)|False
-en-NA|.|,|4096|English (Namibia)|False
-en-NF|.|,|4096|English (Norfolk Island)|False
-en-NG|.|,|4096|English (Nigeria)|False
-en-NL|.|,|4096|English (Netherlands)|False
-en-NR|.|,|4096|English (Nauru)|False
-en-NU|.|,|4096|English (Niue)|False
-en-NZ|.|,|5129|English (New Zealand)|False
-en-PG|.|,|4096|English (Papua New Guinea)|False
-en-PH|.|,|13321|English (Philippines)|False
-en-PK|.|,|4096|English (Pakistan)|False
-en-PN|.|,|4096|English (Pitcairn Islands)|False
-en-PR|.|,|4096|English (Puerto Rico)|False
-en-PW|.|,|4096|English (Palau)|False
-en-RW|.|,|4096|English (Rwanda)|False
-en-SB|.|,|4096|English (Solomon Islands)|False
-en-SC|.|,|4096|English (Seychelles)|False
-en-SD|.|,|4096|English (Sudan)|False
-en-SE|,| |4096|English (Sweden)|False
-en-SG|.|,|18441|English (Singapore)|False
-en-SH|.|,|4096|English (St Helena, Ascension, Tristan da Cunha)|False
-en-SI|.|,|4096|English (Slovenia)|False
-en-SL|.|,|4096|English (Sierra Leone)|False
-en-SS|.|,|4096|English (South Sudan)|False
-en-SX|.|,|4096|English (Sint Maarten)|False
-en-SZ|.|,|4096|English (Eswatini)|False
-en-TC|.|,|4096|English (Turks & Caicos Islands)|False
-en-TK|.|,|4096|English (Tokelau)|False
-en-TO|.|,|4096|English (Tonga)|False
-en-TT|.|,|11273|English (Trinidad & Tobago)|False
-en-TV|.|,|4096|English (Tuvalu)|False
-en-TZ|.|,|4096|English (Tanzania)|False
-en-UG|.|,|4096|English (Uganda)|False
-en-UM|.|,|4096|English (U.S. Outlying Islands)|False
-en-US|.|,|1033|English (United States)|False
-en-US-POSIX|.|,|4096|English (United States, Computer)|False
-en-VC|.|,|4096|English (St. Vincent & Grenadines)|False
-en-VG|.|,|4096|English (British Virgin Islands)|False
-en-VI|.|,|4096|English (U.S. Virgin Islands)|False
-en-VU|.|,|4096|English (Vanuatu)|False
-en-WS|.|,|4096|English (Samoa)|False
-en-ZA|,| |7177|English (South Africa)|False
-en-ZM|.|,|4096|English (Zambia)|False
-en-ZW|.|,|12297|English (Zimbabwe)|False
-eo|,| |4096|Esperanto|True
-eo-001|,| |4096|Esperanto (World)|False
-es|,|.|10|Spanish|True
-es-419|.|,|22538|Spanish (Latin America)|False
-es-AR|,|.|11274|Spanish (Argentina)|False
-es-BO|,|.|16394|Spanish (Bolivia)|False
-es-BR|.|,|4096|Spanish (Brazil)|False
-es-BZ|.|,|4096|Spanish (Belize)|False
-es-CL|,|.|13322|Spanish (Chile)|False
-es-CO|,|.|9226|Spanish (Colombia)|False
-es-CR|,| |5130|Spanish (Costa Rica)|False
-es-CU|.|,|23562|Spanish (Cuba)|False
-es-DO|.|,|7178|Spanish (Dominican Republic)|False
-es-EC|,|.|12298|Spanish (Ecuador)|False
-es-ES|,|.|3082|Spanish (Spain)|False
-es-GQ|,|.|4096|Spanish (Equatorial Guinea)|False
-es-GT|.|,|4106|Spanish (Guatemala)|False
-es-HN|.|,|18442|Spanish (Honduras)|False
-es-MX|.|,|2058|Spanish (Mexico)|False
-es-NI|.|,|19466|Spanish (Nicaragua)|False
-es-PA|.|,|6154|Spanish (Panama)|False
-es-PE|.|,|10250|Spanish (Peru)|False
-es-PH|,|.|4096|Spanish (Philippines)|False
-es-PR|.|,|20490|Spanish (Puerto Rico)|False
-es-PY|,|.|15370|Spanish (Paraguay)|False
-es-SV|.|,|17418|Spanish (El Salvador)|False
-es-US|.|,|21514|Spanish (United States)|False
-es-UY|,|.|14346|Spanish (Uruguay)|False
-es-VE|,|.|8202|Spanish (Venezuela)|False
-et|,| |37|Estonian|True
-et-EE|,| |1061|Estonian (Estonia)|False
-eu|,|.|45|Basque|True
-eu-ES|,|.|1069|Basque (Spain)|False
-ewo|,| |4096|Ewondo|True
-ewo-CM|,| |4096|Ewondo (Cameroon)|False
-fa|٫|٬|41|Persian|True
-fa-AF|٫|٬|4096|Persian (Afghanistan)|False
-fa-IR|٫|٬|1065|Persian (Iran)|False
-ff|,| |103|Fulah|True
-ff-Latn|,| |31847|Fulah (Latin)|True
-ff-Latn-BF|,| |4096|Fulah (Latin, Burkina Faso)|False
-ff-Latn-CM|,| |4096|Fulah (Latin, Cameroon)|False
-ff-Latn-GH|,| |4096|Fulah (Latin, Ghana)|False
-ff-Latn-GM|,| |4096|Fulah (Latin, Gambia)|False
-ff-Latn-GN|,| |4096|Fulah (Latin, Guinea)|False
-ff-Latn-GW|,| |4096|Fulah (Latin, Guinea-Bissau)|False
-ff-Latn-LR|,| |4096|Fulah (Latin, Liberia)|False
-ff-Latn-MR|,| |4096|Fulah (Latin, Mauritania)|False
-ff-Latn-NE|,| |4096|Fulah (Latin, Niger)|False
-ff-Latn-NG|,| |4096|Fulah (Latin, Nigeria)|False
-ff-Latn-SL|,| |4096|Fulah (Latin, Sierra Leone)|False
-ff-Latn-SN|,| |2151|Fulah (Latin, Senegal)|False
-fi|,| |11|Finnish|True
-fi-FI|,| |1035|Finnish (Finland)|False
-fil|.|,|100|Filipino|True
-fil-PH|.|,|1124|Filipino (Philippines)|False
-fo|,|.|56|Faroese|True
-fo-DK|,|.|4096|Faroese (Denmark)|False
-fo-FO|,|.|1080|Faroese (Faroe Islands)|False
-fr|,| |12|French|True
-fr-BE|,| |2060|French (Belgium)|False
-fr-BF|,| |4096|French (Burkina Faso)|False
-fr-BI|,| |4096|French (Burundi)|False
-fr-BJ|,| |4096|French (Benin)|False
-fr-BL|,| |4096|French (St. Barthélemy)|False
-fr-CA|,| |3084|French (Canada)|False
-fr-CD|,| |9228|French (Congo [DRC])|False
-fr-CF|,| |4096|French (Central African Republic)|False
-fr-CG|,| |4096|French (Congo)|False
-fr-CH|.| |4108|French (Switzerland)|False
-fr-CI|,| |12300|French (Côte d’Ivoire)|False
-fr-CM|,| |11276|French (Cameroon)|False
-fr-DJ|,| |4096|French (Djibouti)|False
-fr-DZ|,| |4096|French (Algeria)|False
-fr-FR|,| |1036|French (France)|False
-fr-GA|,| |4096|French (Gabon)|False
-fr-GF|,| |4096|French (French Guiana)|False
-fr-GN|,| |4096|French (Guinea)|False
-fr-GP|,| |4096|French (Guadeloupe)|False
-fr-GQ|,| |4096|French (Equatorial Guinea)|False
-fr-HT|,| |15372|French (Haiti)|False
-fr-KM|,| |4096|French (Comoros)|False
-fr-LU|,|.|5132|French (Luxembourg)|False
-fr-MA|,|.|14348|French (Morocco)|False
-fr-MC|,| |6156|French (Monaco)|False
-fr-MF|,| |4096|French (St. Martin)|False
-fr-MG|,| |4096|French (Madagascar)|False
-fr-ML|,| |13324|French (Mali)|False
-fr-MQ|,| |4096|French (Martinique)|False
-fr-MR|,| |4096|French (Mauritania)|False
-fr-MU|,| |4096|French (Mauritius)|False
-fr-NC|,| |4096|French (New Caledonia)|False
-fr-NE|,| |4096|French (Niger)|False
-fr-PF|,| |4096|French (French Polynesia)|False
-fr-PM|,| |4096|French (St. Pierre & Miquelon)|False
-fr-RE|,| |8204|French (Réunion)|False
-fr-RW|,| |4096|French (Rwanda)|False
-fr-SC|,| |4096|French (Seychelles)|False
-fr-SN|,| |10252|French (Senegal)|False
-fr-SY|,| |4096|French (Syria)|False
-fr-TD|,| |4096|French (Chad)|False
-fr-TG|,| |4096|French (Togo)|False
-fr-TN|,| |4096|French (Tunisia)|False
-fr-VU|,| |4096|French (Vanuatu)|False
-fr-WF|,| |4096|French (Wallis & Futuna)|False
-fr-YT|,| |4096|French (Mayotte)|False
-fur|,|.|4096|Friulian|True
-fur-IT|,|.|4096|Friulian (Italy)|False
-fy|,|.|98|Western Frisian|True
-fy-NL|,|.|1122|Western Frisian (Netherlands)|False
-ga|.|,|60|Irish|True
-ga-IE|.|,|2108|Irish (Ireland)|False
-gd|.|,|145|Scottish Gaelic|True
-gd-GB|.|,|1169|Scottish Gaelic (United Kingdom)|False
-gl|,|.|86|Galician|True
-gl-ES|,|.|1110|Galician (Spain)|False
-gn|.|,|116|Guarani|True
-gn-PY|.|,|1140|Guarani (Paraguay)|False
-gsw|.|’|132|Swiss German|True
-gsw-CH|.|’|4096|Swiss German (Switzerland)|False
-gsw-FR|.|’|1156|Swiss German (France)|False
-gsw-LI|.|’|4096|Swiss German (Liechtenstein)|False
-gu|.|,|71|Gujarati|True
-gu-IN|.|,|1095|Gujarati (India)|False
-guz|.|,|4096|Gusii|True
-guz-KE|.|,|4096|Gusii (Kenya)|False
-gv|.|,|4096|Manx|True
-gv-IM|.|,|4096|Manx (Isle of Man)|False
-ha|.|,|104|Hausa|True
-ha-GH|.|,|4096|Hausa (Ghana)|False
-ha-NE|.|,|4096|Hausa (Niger)|False
-ha-NG|.|,|4096|Hausa (Nigeria)|False
-haw|.|,|117|Hawaiian|True
-haw-US|.|,|1141|Hawaiian (United States)|False
-he|.|,|13|Hebrew|True
-he-IL|.|,|1037|Hebrew (Israel)|False
-hi|.|,|57|Hindi|True
-hi-IN|.|,|1081|Hindi (India)|False
-hr|,|.|26|Croatian|True
-hr-BA|,|.|4122|Croatian (Bosnia & Herzegovina)|False
-hr-HR|,|.|1050|Croatian (Croatia)|False
-hsb|,|.|46|Upper Sorbian|True
-hsb-DE|,|.|1070|Upper Sorbian (Germany)|False
-hu|,| |14|Hungarian|True
-hu-HU|,| |1038|Hungarian (Hungary)|False
-hy|,| |43|Armenian|True
-hy-AM|,| |1067|Armenian (Armenia)|False
-ia|,|.|4096|Interlingua|True
-ia-001|,|.|4096|Interlingua (World)|False
-id|,|.|33|Indonesian|True
-id-ID|,|.|1057|Indonesian (Indonesia)|False
-ig|.|,|112|Igbo|True
-ig-NG|.|,|1136|Igbo (Nigeria)|False
-ii|.|,|120|Yi|True
-ii-CN|.|,|1144|Yi (China)|False
-is|,|.|15|Icelandic|True
-is-IS|,|.|1039|Icelandic (Iceland)|False
-it|,|.|16|Italian|True
-it-CH|.|’|2064|Italian (Switzerland)|False
-it-IT|,|.|1040|Italian (Italy)|False
-it-SM|,|.|4096|Italian (San Marino)|False
-it-VA|,|.|4096|Italian (Vatican City)|False
-iu|.|,|93|Inuktitut|True
-iu-CA|.|,|4096|Inuktitut (Canada)|False
-iu-Latn|.|,|31837|Inuktitut (Latin)|True
-iu-Latn-CA|.|,|2141|Inuktitut (Latin, Canada)|False
-ja|.|,|17|Japanese|True
-ja-JP|.|,|1041|Japanese (Japan)|False
-jgo|,|.|4096|Ngomba|True
-jgo-CM|,|.|4096|Ngomba (Cameroon)|False
-jmc|.|,|4096|Machame|True
-jmc-TZ|.|,|4096|Machame (Tanzania)|False
-jv|,|.|4096|Javanese|True
-jv-ID|,|.|4096|Javanese (Indonesia)|False
-ka|,| |55|Georgian|True
-ka-GE|,| |1079|Georgian (Georgia)|False
-kab|,| |4096|Kabyle|True
-kab-DZ|,| |4096|Kabyle (Algeria)|False
-kam|.|,|4096|Kamba|True
-kam-KE|.|,|4096|Kamba (Kenya)|False
-kde|.|,|4096|Makonde|True
-kde-TZ|.|,|4096|Makonde (Tanzania)|False
-kea|,| |4096|Kabuverdianu|True
-kea-CV|$| |4096|Kabuverdianu (Cabo Verde)|False
-khq|.| |4096|Koyra Chiini|True
-khq-ML|.| |4096|Koyra Chiini (Mali)|False
-ki|.|,|4096|Kikuyu|True
-ki-KE|.|,|4096|Kikuyu (Kenya)|False
-kk|,| |63|Kazakh|True
-kk-KZ|,| |1087|Kazakh (Kazakhstan)|False
-kkj|,|.|4096|Kako|True
-kkj-CM|,|.|4096|Kako (Cameroon)|False
-kl|,|.|111|Kalaallisut|True
-kl-GL|,|.|1135|Kalaallisut (Greenland)|False
-kln|.|,|4096|Kalenjin|True
-kln-KE|.|,|4096|Kalenjin (Kenya)|False
-km|,|.|83|Khmer|True
-km-KH|,|.|1107|Khmer (Cambodia)|False
-kn|.|,|75|Kannada|True
-kn-IN|.|,|1099|Kannada (India)|False
-ko|.|,|18|Korean|True
-ko-KP|.|,|4096|Korean (North Korea)|False
-ko-KR|.|,|1042|Korean (Korea)|False
-kok|.|,|87|Konkani|True
-kok-IN|.|,|1111|Konkani (India)|False
-ks|٫|٬|96|Kashmiri|True
-ks-IN|٫|٬|4096|Kashmiri (India)|False
-ksb|.|,|4096|Shambala|True
-ksb-TZ|.|,|4096|Shambala (Tanzania)|False
-ksf|,| |4096|Bafia|True
-ksf-CM|,| |4096|Bafia (Cameroon)|False
-ksh|,| |4096|Colognian|True
-ksh-DE|,| |4096|Colognian (Germany)|False
-kw|.|,|4096|Cornish|True
-kw-GB|.|,|4096|Cornish (United Kingdom)|False
-ky|,| |64|Kyrgyz|True
-ky-KG|,| |1088|Kyrgyz (Kyrgyzstan)|False
-lag|.|,|4096|Langi|True
-lag-TZ|.|,|4096|Langi (Tanzania)|False
-lb|,|.|110|Luxembourgish|True
-lb-LU|,|.|1134|Luxembourgish (Luxembourg)|False
-lg|.|,|4096|Ganda|True
-lg-UG|.|,|4096|Ganda (Uganda)|False
-lkt|.|,|4096|Lakota|True
-lkt-US|.|,|4096|Lakota (United States)|False
-ln|,|.|4096|Lingala|True
-ln-AO|,|.|4096|Lingala (Angola)|False
-ln-CD|,|.|4096|Lingala (Congo [DRC])|False
-ln-CF|,|.|4096|Lingala (Central African Republic)|False
-ln-CG|,|.|4096|Lingala (Congo)|False
-lo|,|.|84|Lao|True
-lo-LA|,|.|1108|Lao (Laos)|False
-lrc|٫|٬|4096|Northern Luri|True
-lrc-IQ|٫|٬|4096|Northern Luri (Iraq)|False
-lrc-IR|٫|٬|4096|Northern Luri (Iran)|False
-lt|,| |39|Lithuanian|True
-lt-LT|,| |1063|Lithuanian (Lithuania)|False
-lu|,|.|4096|Luba-Katanga|True
-lu-CD|,|.|4096|Luba-Katanga (Congo [DRC])|False
-luo|.|,|4096|Luo|True
-luo-KE|.|,|4096|Luo (Kenya)|False
-luy|.|,|4096|Luyia|True
-luy-KE|.|,|4096|Luyia (Kenya)|False
-lv|,| |38|Latvian|True
-lv-LV|,| |1062|Latvian (Latvia)|False
-mas|.|,|4096|Masai|True
-mas-KE|.|,|4096|Masai (Kenya)|False
-mas-TZ|.|,|4096|Masai (Tanzania)|False
-mer|.|,|4096|Meru|True
-mer-KE|.|,|4096|Meru (Kenya)|False
-mfe|.| |4096|Morisyen|True
-mfe-MU|.| |4096|Morisyen (Mauritius)|False
-mg|.|,|4096|Malagasy|True
-mg-MG|.|,|4096|Malagasy (Madagascar)|False
-mgh|,|.|4096|Makhuwa-Meetto|True
-mgh-MZ|,|.|4096|Makhuwa-Meetto (Mozambique)|False
-mgo|.|,|4096|Metaʼ|True
-mgo-CM|.|,|4096|Metaʼ (Cameroon)|False
-mi|.|,|129|Maori|True
-mi-NZ|.|,|1153|Maori (New Zealand)|False
-mk|,|.|47|Macedonian|True
-mk-MK|,|.|1071|Macedonian (North Macedonia)|False
-ml|.|,|76|Malayalam|True
-ml-IN|.|,|1100|Malayalam (India)|False
-mn|.|,|80|Mongolian|True
-mn-MN|.|,|1104|Mongolian (Mongolia)|False
-mn-Mong|.|,|31824|Mongolian (Mongolian)|True
-mn-Mong-CN|.|,|2128|Mongolian (Mongolian, China)|False
-mn-Mong-MN|,|,|3152|Mongolian (Mongolian, Mongolia)|False
-moh|.|,|124|Mohawk|True
-moh-CA|.|,|1148|Mohawk (Canada)|False
-mr|.|,|78|Marathi|True
-mr-IN|.|,|1102|Marathi (India)|False
-ms|.|,|62|Malay|True
-ms-BN|,|.|2110|Malay (Brunei)|False
-ms-MY|.|,|1086|Malay (Malaysia)|False
-ms-SG|.|,|4096|Malay (Singapore)|False
-mt|.|,|58|Maltese|True
-mt-MT|.|,|1082|Maltese (Malta)|False
-mua|,|.|4096|Mundang|True
-mua-CM|,|.|4096|Mundang (Cameroon)|False
-my|.|,|85|Burmese|True
-my-MM|.|,|1109|Burmese (Myanmar)|False
-mzn|٫|٬|4096|Mazanderani|True
-mzn-IR|٫|٬|4096|Mazanderani (Iran)|False
-naq|.|,|4096|Nama|True
-naq-NA|.|,|4096|Nama (Namibia)|False
-nb|,| |31764|Norwegian Bokmål|True
-nb-NO|,| |1044|Norwegian Bokmål (Norway)|False
-nb-SJ|,| |4096|Norwegian Bokmål (Svalbard & Jan Mayen)|False
-nd|.|,|4096|North Ndebele|True
-nd-ZW|.|,|4096|North Ndebele (Zimbabwe)|False
-nds|.|,|4096|Low German|True
-nds-DE|.|,|4096|Low German (Germany)|False
-nds-NL|.|,|4096|Low German (Netherlands)|False
-ne|.|,|97|Nepali|True
-ne-IN|.|,|2145|Nepali (India)|False
-ne-NP|.|,|1121|Nepali (Nepal)|False
-nl|,|.|19|Dutch|True
-nl-AW|,|.|4096|Dutch (Aruba)|False
-nl-BE|,|.|2067|Dutch (Belgium)|False
-nl-BQ|,|.|4096|Dutch (Bonaire, Sint Eustatius and Saba)|False
-nl-CW|,|.|4096|Dutch (Curaçao)|False
-nl-NL|,|.|1043|Dutch (Netherlands)|False
-nl-SR|,|.|4096|Dutch (Suriname)|False
-nl-SX|,|.|4096|Dutch (Sint Maarten)|False
-nmg|,| |4096|Kwasio|True
-nmg-CM|,| |4096|Kwasio (Cameroon)|False
-nn|,| |30740|Norwegian Nynorsk|True
-nn-NO|,| |2068|Norwegian Nynorsk (Norway)|False
-nnh|,|.|4096|Ngiemboon|True
-nnh-CM|,|.|4096|Ngiemboon (Cameroon)|False
-nqo|.|,|4096|N’Ko|True
-nqo-GN|.|,|4096|N’Ko (Guinea)|False
-nr|,| |4096|South Ndebele|True
-nr-ZA|,| |4096|South Ndebele (South Africa)|False
-nso|.| |108|Sesotho sa Leboa|True
-nso-ZA|.| |1132|Sesotho sa Leboa (South Africa)|False
-nus|.|,|4096|Nuer|True
-nus-SS|.|,|4096|Nuer (South Sudan)|False
-nyn|.|,|4096|Nyankole|True
-nyn-UG|.|,|4096|Nyankole (Uganda)|False
-oc|.|,|130|Occitan|True
-oc-FR|.|,|1154|Occitan (France)|False
-om|.|,|114|Oromo|True
-om-ET|.|,|1138|Oromo (Ethiopia)|False
-om-KE|.|,|4096|Oromo (Kenya)|False
-or|.|,|72|Odia|True
-or-IN|.|,|1096|Odia (India)|False
-os|,| |4096|Ossetic|True
-os-GE|,| |4096|Ossetic (Georgia)|False
-os-RU|,| |4096|Ossetic (Russia)|False
-pa|.|,|70|Punjabi|True
-pa-Arab|٫|٬|31814|Punjabi (Arabic)|True
-pa-Arab-PK|٫|٬|2118|Punjabi (Arabic, Pakistan)|False
-pa-Guru|.|,|4096|Punjabi (Gurmukhi)|True
-pa-Guru-IN|.|,|4096|Punjabi (Gurmukhi, India)|False
-pl|,| |21|Polish|True
-pl-PL|,| |1045|Polish (Poland)|False
-prg|.|,|4096|Prussian|True
-prg-001|.|,|4096|Prussian (World)|False
-ps|٫|٬|99|Pashto|True
-ps-AF|٫|٬|1123|Pashto (Afghanistan)|False
-ps-PK|٫|٬|4096|Pashto (Pakistan)|False
-pt|,|.|22|Portuguese|True
-pt-AO|,| |4096|Portuguese (Angola)|False
-pt-BR|,|.|1046|Portuguese (Brazil)|False
-pt-CH|,| |4096|Portuguese (Switzerland)|False
-pt-CV|$| |4096|Portuguese (Cabo Verde)|False
-pt-GQ|,| |4096|Portuguese (Equatorial Guinea)|False
-pt-GW|,| |4096|Portuguese (Guinea-Bissau)|False
-pt-LU|,| |4096|Portuguese (Luxembourg)|False
-pt-MO|,| |4096|Portuguese (Macao SAR)|False
-pt-MZ|,| |4096|Portuguese (Mozambique)|False
-pt-PT|,| |2070|Portuguese (Portugal)|False
-pt-ST|,| |4096|Portuguese (São Tomé & Príncipe)|False
-pt-TL|,| |4096|Portuguese (Timor-Leste)|False
-qu|.|,|4096|Quechua|True
-qu-BO|,|.|4096|Quechua (Bolivia)|False
-qu-EC|.|,|4096|Quechua (Ecuador)|False
-qu-PE|.|,|4096|Quechua (Peru)|False
-quc|.|,|134|Kʼicheʼ|True
-quc-GT|.|,|4096|Kʼicheʼ (Guatemala)|False
-rm|.|’|23|Romansh|True
-rm-CH|.|’|1047|Romansh (Switzerland)|False
-rn|,|.|4096|Rundi|True
-rn-BI|,|.|4096|Rundi (Burundi)|False
-ro|,|.|24|Romanian|True
-ro-MD|,|.|2072|Romanian (Moldova)|False
-ro-RO|,|.|1048|Romanian (Romania)|False
-rof|.|,|4096|Rombo|True
-rof-TZ|.|,|4096|Rombo (Tanzania)|False
-ru|,| |25|Russian|True
-ru-BY|,| |4096|Russian (Belarus)|False
-ru-KG|,| |4096|Russian (Kyrgyzstan)|False
-ru-KZ|,| |4096|Russian (Kazakhstan)|False
-ru-MD|,| |2073|Russian (Moldova)|False
-ru-RU|,| |1049|Russian (Russia)|False
-ru-UA|,| |4096|Russian (Ukraine)|False
-rw|,|.|135|Kinyarwanda|True
-rw-RW|,|.|1159|Kinyarwanda (Rwanda)|False
-rwk|.|,|4096|Rwa|True
-rwk-TZ|.|,|4096|Rwa (Tanzania)|False
-sa|.|,|79|Sanskrit|True
-sa-IN|.|,|1103|Sanskrit (India)|False
-sah|,| |133|Sakha|True
-sah-RU|,| |1157|Sakha (Russia)|False
-saq|.|,|4096|Samburu|True
-saq-KE|.|,|4096|Samburu (Kenya)|False
-sbp|.|,|4096|Sangu|True
-sbp-TZ|.|,|4096|Sangu (Tanzania)|False
-sd|٫|٬|89|Sindhi|True
-sd-PK|٫|٬|4096|Sindhi (Pakistan)|False
-se|,| |59|Northern Sami|True
-se-FI|,| |3131|Northern Sami (Finland)|False
-se-NO|,| |1083|Northern Sami (Norway)|False
-se-SE|,| |2107|Northern Sami (Sweden)|False
-seh|,|.|4096|Sena|True
-seh-MZ|,|.|4096|Sena (Mozambique)|False
-ses|.| |4096|Koyraboro Senni|True
-ses-ML|.| |4096|Koyraboro Senni (Mali)|False
-sg|,|.|4096|Sango|True
-sg-CF|,|.|4096|Sango (Central African Republic)|False
-shi|,| |4096|Tachelhit|True
-shi-Latn|,| |4096|Tachelhit (Latin)|True
-shi-Latn-MA|,| |4096|Tachelhit (Latin, Morocco)|False
-shi-Tfng|,| |4096|Tachelhit (Tifinagh)|True
-shi-Tfng-MA|,| |4096|Tachelhit (Tifinagh, Morocco)|False
-si|.|,|91|Sinhala|True
-si-LK|.|,|1115|Sinhala (Sri Lanka)|False
-sk|,| |27|Slovak|True
-sk-SK|,| |1051|Slovak (Slovakia)|False
-sl|,|.|36|Slovenian|True
-sl-SI|,|.|1060|Slovenian (Slovenia)|False
-sma|.|,|30779|Southern Sami|True
-sma-NO|.|,|6203|Southern Sami (Norway)|False
-sma-SE|.|,|7227|Southern Sami (Sweden)|False
-smj|.|,|31803|Lule Sami|True
-smj-NO|.|,|4155|Lule Sami (Norway)|False
-smj-SE|.|,|5179|Lule Sami (Sweden)|False
-smn|,| |28731|Inari Sami|True
-smn-FI|,| |9275|Inari Sami (Finland)|False
-sms|.|,|29755|Skolt Sami|True
-sms-FI|.|,|8251|Skolt Sami (Finland)|False
-sn|.|,|4096|Shona|True
-sn-ZW|.|,|4096|Shona (Zimbabwe)|False
-so|.|,|119|Somali|True
-so-DJ|.|,|4096|Somali (Djibouti)|False
-so-ET|.|,|4096|Somali (Ethiopia)|False
-so-KE|.|,|4096|Somali (Kenya)|False
-so-SO|.|,|1143|Somali (Somalia)|False
-sq|,| |28|Albanian|True
-sq-AL|,| |1052|Albanian (Albania)|False
-sq-MK|,| |4096|Albanian (North Macedonia)|False
-sq-XK|,| |4096|Albanian (Kosovo)|False
-sr|,|.|31770|Serbian|True
-sr-Cyrl|,|.|27674|Serbian (Cyrillic)|True
-sr-Cyrl-BA|,|.|7194|Serbian (Cyrillic, Bosnia & Herzegovina)|False
-sr-Cyrl-ME|,|.|12314|Serbian (Cyrillic, Montenegro)|False
-sr-Cyrl-RS|,|.|10266|Serbian (Cyrillic, Serbia)|False
-sr-Cyrl-XK|,|.|4096|Serbian (Cyrillic, Kosovo)|False
-sr-Latn|,|.|28698|Serbian (Latin)|True
-sr-Latn-BA|,|.|6170|Serbian (Latin, Bosnia & Herzegovina)|False
-sr-Latn-ME|,|.|11290|Serbian (Latin, Montenegro)|False
-sr-Latn-RS|,|.|9242|Serbian (Latin, Serbia)|False
-sr-Latn-XK|,|.|4096|Serbian (Latin, Kosovo)|False
-ss|,| |4096|siSwati|True
-ss-SZ|,| |4096|siSwati (Eswatini)|False
-ss-ZA|,| |4096|siSwati (South Africa)|False
-ssy|.|,|4096|Saho|True
-ssy-ER|.|,|4096|Saho (Eritrea)|False
-st|,| |48|Sesotho|True
-st-LS|,| |4096|Sesotho (Lesotho)|False
-st-ZA|,| |1072|Sesotho (South Africa)|False
-sv|,| |29|Swedish|True
-sv-AX|,| |4096|Swedish (Åland Islands)|False
-sv-FI|,| |2077|Swedish (Finland)|False
-sv-SE|,| |1053|Swedish (Sweden)|False
-sw|.|,|65|Kiswahili|True
-sw-CD|,|.|4096|Kiswahili (Congo [DRC])|False
-sw-KE|.|,|1089|Kiswahili (Kenya)|False
-sw-TZ|.|,|4096|Kiswahili (Tanzania)|False
-sw-UG|.|,|4096|Kiswahili (Uganda)|False
-syr|.|,|90|Syriac|True
-syr-SY|.|,|1114|Syriac (Syria)|False
-ta|.|,|73|Tamil|True
-ta-IN|.|,|1097|Tamil (India)|False
-ta-LK|.|,|2121|Tamil (Sri Lanka)|False
-ta-MY|.|,|4096|Tamil (Malaysia)|False
-ta-SG|.|,|4096|Tamil (Singapore)|False
-te|.|,|74|Telugu|True
-te-IN|.|,|1098|Telugu (India)|False
-teo|.|,|4096|Teso|True
-teo-KE|.|,|4096|Teso (Kenya)|False
-teo-UG|.|,|4096|Teso (Uganda)|False
-tg|,| |40|Tajik|True
-tg-TJ|,| |4096|Tajik (Tajikistan)|False
-th|.|,|30|Thai|True
-th-TH|.|,|1054|Thai (Thailand)|False
-ti|.|,|115|Tigrinya|True
-ti-ER|.|,|2163|Tigrinya (Eritrea)|False
-ti-ET|.|,|1139|Tigrinya (Ethiopia)|False
-tig|.|,|4096|Tigre|True
-tig-ER|.|,|4096|Tigre (Eritrea)|False
-tk|,| |66|Turkmen|True
-tk-TM|,| |1090|Turkmen (Turkmenistan)|False
-tn|.| |50|Setswana|True
-tn-BW|.| |2098|Setswana (Botswana)|False
-tn-ZA|.| |1074|Setswana (South Africa)|False
-to|.|,|4096|Tongan|True
-to-TO|.|,|4096|Tongan (Tonga)|False
-tr|,|.|31|Turkish|True
-tr-CY|,|.|4096|Turkish (Cyprus)|False
-tr-TR|,|.|1055|Turkish (Turkey)|False
-ts|,| |49|Xitsonga|True
-ts-ZA|,| |1073|Xitsonga (South Africa)|False
-tt|,| |68|Tatar|True
-tt-RU|,| |1092|Tatar (Russia)|False
-twq|.| |4096|Tasawaq|True
-twq-NE|.| |4096|Tasawaq (Niger)|False
-tzm|,| |95|Central Atlas Tamazight|True
-tzm-MA|,| |4096|Central Atlas Tamazight (Morocco)|False
-ug|.|,|128|Uyghur|True
-ug-CN|.|,|1152|Uyghur (China)|False
-uk|,| |34|Ukrainian|True
-uk-UA|,| |1058|Ukrainian (Ukraine)|False
-ur|.|,|32|Urdu|True
-ur-IN|٫|٬|2080|Urdu (India)|False
-ur-PK|.|,|1056|Urdu (Pakistan)|False
-uz|,| |67|Uzbek|True
-uz-Arab|٫|٬|4096|Uzbek (Arabic)|True
-uz-Arab-AF|٫|٬|4096|Uzbek (Arabic, Afghanistan)|False
-uz-Cyrl|,| |30787|Uzbek (Cyrillic)|True
-uz-Cyrl-UZ|,| |2115|Uzbek (Cyrillic, Uzbekistan)|False
-uz-Latn|,| |31811|Uzbek (Latin)|True
-uz-Latn-UZ|,| |1091|Uzbek (Latin, Uzbekistan)|False
-vai|.|,|4096|Vai|True
-vai-Latn|.|,|4096|Vai (Latin)|True
-vai-Latn-LR|.|,|4096|Vai (Latin, Liberia)|False
-vai-Vaii|.|,|4096|Vai (Vai)|True
-vai-Vaii-LR|.|,|4096|Vai (Vai, Liberia)|False
-ve|,| |51|Venda|True
-ve-ZA|,| |1075|Venda (South Africa)|False
-vi|,|.|42|Vietnamese|True
-vi-VN|,|.|1066|Vietnamese (Vietnam)|False
-vo|.|,|4096|Volapük|True
-vo-001|.|,|4096|Volapük (World)|False
-vun|.|,|4096|Vunjo|True
-vun-TZ|.|,|4096|Vunjo (Tanzania)|False
-wae|,|’|4096|Walser|True
-wae-CH|,|’|4096|Walser (Switzerland)|False
-wal|.|,|4096|Wolaytta|True
-wal-ET|.|,|4096|Wolaytta (Ethiopia)|False
-wo|,|.|136|Wolof|True
-wo-SN|,|.|1160|Wolof (Senegal)|False
-xh|.| |52|isiXhosa|True
-xh-ZA|.| |1076|isiXhosa (South Africa)|False
-xog|.|,|4096|Soga|True
-xog-UG|.|,|4096|Soga (Uganda)|False
-yav|,| |4096|Yangben|True
-yav-CM|,| |4096|Yangben (Cameroon)|False
-yi|.|,|61|Yiddish|True
-yi-001|.|,|1085|Yiddish (World)|False
-yo|.|,|106|Yoruba|True
-yo-BJ|.|,|4096|Yoruba (Benin)|False
-yo-NG|.|,|1130|Yoruba (Nigeria)|False
-zgh|,| |4096|Standard Moroccan Tamazight|True
-zgh-MA|,| |4096|Standard Moroccan Tamazight (Morocco)|False
-zh|.|,|30724|Chinese|True
-zh-Hans|.|,|4|Chinese (Simplified)|True
-zh-Hans-CN|.|,|4096|Chinese (Simplified, China)|False
-zh-Hans-HK|.|,|4096|Chinese (Simplified, Hong Kong SAR)|False
-zh-Hans-MO|.|,|4096|Chinese (Simplified, Macao SAR)|False
-zh-Hans-SG|.|,|4096|Chinese (Simplified, Singapore)|False
-zh-Hant|.|,|31748|Chinese (Traditional)|True
-zh-Hant-HK|.|,|4096|Chinese (Traditional, Hong Kong SAR)|False
-zh-Hant-MO|.|,|4096|Chinese (Traditional, Macao SAR)|False
-zh-Hant-TW|.|,|4096|Chinese (Traditional, Taiwan)|False
-zu|.|,|53|isiZulu|True
-zu-ZA|.|,|1077|isiZulu (South Africa)|False
-
+two_alpha_code|culture|decimal_separator|group_separator|lcid|display_name|is_neutral_culture
+AA|aa|.|,|4096|Afar|True
+DJ|aa-DJ|.|,|4096|Afar (Djibouti)|False
+ER|aa-ER|.|,|4096|Afar (Eritrea)|False
+ET|aa-ET|.|,|4096|Afar (Ethiopia)|False
+AF|af|,| |54|Afrikaans|True
+NA|af-NA|,| |4096|Afrikaans (Namibia)|False
+ZA|af-ZA|,| |1078|Afrikaans (South Africa)|False
+AGQ|agq|,| |4096|Aghem|True
+CM|agq-CM|,| |4096|Aghem (Cameroon)|False
+AK|ak|.|,|4096|Akan|True
+GH|ak-GH|.|,|4096|Akan (Ghana)|False
+AM|am|.|,|94|Amharic|True
+ET|am-ET|.|,|1118|Amharic (Ethiopia)|False
+AR|ar|٫|٬|1|Arabic|True
+|ar-001|٫|٬|4096|Arabic (World)|False
+AE|ar-AE|٫|٬|14337|Arabic (United Arab Emirates)|False
+BH|ar-BH|٫|٬|15361|Arabic (Bahrain)|False
+DJ|ar-DJ|٫|٬|4096|Arabic (Djibouti)|False
+DZ|ar-DZ|,|.|5121|Arabic (Algeria)|False
+EG|ar-EG|٫|٬|3073|Arabic (Egypt)|False
+ER|ar-ER|٫|٬|4096|Arabic (Eritrea)|False
+IL|ar-IL|٫|٬|4096|Arabic (Israel)|False
+IQ|ar-IQ|٫|٬|2049|Arabic (Iraq)|False
+JO|ar-JO|٫|٬|11265|Arabic (Jordan)|False
+KM|ar-KM|٫|٬|4096|Arabic (Comoros)|False
+KW|ar-KW|٫|٬|13313|Arabic (Kuwait)|False
+LB|ar-LB|٫|٬|12289|Arabic (Lebanon)|False
+LY|ar-LY|,|.|4097|Arabic (Libya)|False
+MA|ar-MA|,|.|6145|Arabic (Morocco)|False
+MR|ar-MR|٫|٬|4096|Arabic (Mauritania)|False
+OM|ar-OM|٫|٬|8193|Arabic (Oman)|False
+PS|ar-PS|٫|٬|4096|Arabic (Palestinian Authority)|False
+QA|ar-QA|٫|٬|16385|Arabic (Qatar)|False
+SA|ar-SA|٫|٬|1025|Arabic (Saudi Arabia)|False
+SD|ar-SD|٫|٬|4096|Arabic (Sudan)|False
+SO|ar-SO|٫|٬|4096|Arabic (Somalia)|False
+SS|ar-SS|٫|٬|4096|Arabic (South Sudan)|False
+SY|ar-SY|٫|٬|10241|Arabic (Syria)|False
+TD|ar-TD|٫|٬|4096|Arabic (Chad)|False
+TN|ar-TN|,|.|7169|Arabic (Tunisia)|False
+YE|ar-YE|٫|٬|9217|Arabic (Yemen)|False
+ARN|arn|.|,|122|Mapuche|True
+CL|arn-CL|.|,|1146|Mapuche (Chile)|False
+AS|as|.|,|77|Assamese|True
+IN|as-IN|.|,|1101|Assamese (India)|False
+ASA|asa|.|,|4096|Asu|True
+TZ|asa-TZ|.|,|4096|Asu (Tanzania)|False
+AST|ast|,|.|4096|Asturian|True
+ES|ast-ES|,|.|4096|Asturian (Spain)|False
+AZ|az|,|.|44|Azerbaijani|True
+AZ-CYRL|az-Cyrl|,|.|29740|Azerbaijani (Cyrillic)|True
+AZ|az-Cyrl-AZ|,|.|2092|Azerbaijani (Cyrillic, Azerbaijan)|False
+AZ-LATN|az-Latn|,|.|30764|Azerbaijani (Latin)|True
+AZ|az-Latn-AZ|,|.|1068|Azerbaijani (Latin, Azerbaijan)|False
+BA|ba|.|,|109|Bashkir|True
+RU|ba-RU|.|,|1133|Bashkir (Russia)|False
+BAS|bas|,| |4096|Basaa|True
+CM|bas-CM|,| |4096|Basaa (Cameroon)|False
+BE|be|,| |35|Belarusian|True
+BY|be-BY|,| |1059|Belarusian (Belarus)|False
+BEM|bem|.|,|4096|Bemba|True
+ZM|bem-ZM|.|,|4096|Bemba (Zambia)|False
+BEZ|bez|.|,|4096|Bena|True
+TZ|bez-TZ|.|,|4096|Bena (Tanzania)|False
+BG|bg|,| |2|Bulgarian|True
+BG|bg-BG|,| |1026|Bulgarian (Bulgaria)|False
+BM|bm|.|,|4096|Bamanankan|True
+ML|bm-ML|.|,|4096|Bamanankan (Mali)|False
+BN|bn|.|,|69|Bangla|True
+BD|bn-BD|.|,|2117|Bangla (Bangladesh)|False
+IN|bn-IN|.|,|1093|Bangla (India)|False
+BO|bo|.|,|81|Tibetan|True
+CN|bo-CN|.|,|1105|Tibetan (China)|False
+IN|bo-IN|.|,|4096|Tibetan (India)|False
+BR|br|,| |126|Breton|True
+FR|br-FR|,| |1150|Breton (France)|False
+BRX|brx|.|,|4096|Bodo|True
+IN|brx-IN|.|,|4096|Bodo (India)|False
+BS|bs|,|.|30746|Bosnian|True
+BS-CYRL|bs-Cyrl|,|.|25626|Bosnian (Cyrillic)|True
+BA|bs-Cyrl-BA|,|.|8218|Bosnian (Cyrillic, Bosnia & Herzegovina)|False
+BS-LATN|bs-Latn|,|.|26650|Bosnian (Latin)|True
+BA|bs-Latn-BA|,|.|5146|Bosnian (Latin, Bosnia & Herzegovina)|False
+BYN|byn|.|,|4096|Blin|True
+ER|byn-ER|.|,|4096|Blin (Eritrea)|False
+CA|ca|,|.|3|Catalan|True
+AD|ca-AD|,|.|4096|Catalan (Andorra)|False
+ES|ca-ES|,|.|1027|Catalan (Spain)|False
+ES|ca-ES-VALENCIA|,|.|2051|Catalan (Spain, Valencian)|False
+FR|ca-FR|,|.|4096|Catalan (France)|False
+IT|ca-IT|,|.|4096|Catalan (Italy)|False
+CCP|ccp|.|,|4096|Chakma|True
+BD|ccp-BD|.|,|4096|Chakma (Bangladesh)|False
+IN|ccp-IN|.|,|4096|Chakma (India)|False
+CE|ce|.|,|4096|Chechen|True
+RU|ce-RU|.|,|4096|Chechen (Russia)|False
+CEB|ceb|.|,|4096|Cebuano|True
+PH|ceb-PH|.|,|4096|Cebuano (Philippines)|False
+CGG|cgg|.|,|4096|Chiga|True
+UG|cgg-UG|.|,|4096|Chiga (Uganda)|False
+CHR|chr|.|,|92|Cherokee|True
+US|chr-US|.|,|4096|Cherokee (United States)|False
+CKB|ckb|٫|٬|4096|Central Kurdish|True
+IQ|ckb-IQ|٫|٬|4096|Central Kurdish (Iraq)|False
+IR|ckb-IR|٫|٬|4096|Central Kurdish (Iran)|False
+CO|co|.|,|131|Corsican|True
+FR|co-FR|.|,|1155|Corsican (France)|False
+CS|cs|,| |5|Czech|True
+CZ|cs-CZ|,| |1029|Czech (Czechia)|False
+CU|cu|.|,|4096|Church Slavic|True
+RU|cu-RU|.|,|4096|Church Slavic (Russia)|False
+CY|cy|.|,|82|Welsh|True
+GB|cy-GB|.|,|1106|Welsh (United Kingdom)|False
+DA|da|,|.|6|Danish|True
+DK|da-DK|,|.|1030|Danish (Denmark)|False
+GL|da-GL|,|.|4096|Danish (Greenland)|False
+DAV|dav|.|,|4096|Taita|True
+KE|dav-KE|.|,|4096|Taita (Kenya)|False
+DE|de|,|.|7|German|True
+AT|de-AT|,|.|3079|German (Austria)|False
+BE|de-BE|,|.|4096|German (Belgium)|False
+CH|de-CH|.|’|2055|German (Switzerland)|False
+DE|de-DE|,|.|1031|German (Germany)|False
+IT|de-IT|,|.|4096|German (Italy)|False
+LI|de-LI|.|’|5127|German (Liechtenstein)|False
+LU|de-LU|,|.|4103|German (Luxembourg)|False
+DJE|dje|.| |4096|Zarma|True
+NE|dje-NE|.| |4096|Zarma (Niger)|False
+DSB|dsb|,|.|31790|Lower Sorbian|True
+DE|dsb-DE|,|.|2094|Lower Sorbian (Germany)|False
+DUA|dua|,| |4096|Duala|True
+CM|dua-CM|,| |4096|Duala (Cameroon)|False
+DV|dv|.|,|101|Divehi|True
+MV|dv-MV|.|,|1125|Divehi (Maldives)|False
+DYO|dyo|,| |4096|Jola-Fonyi|True
+SN|dyo-SN|,| |4096|Jola-Fonyi (Senegal)|False
+DZ|dz|.|,|4096|Dzongkha|True
+BT|dz-BT|.|,|3153|Dzongkha (Bhutan)|False
+EBU|ebu|.|,|4096|Embu|True
+KE|ebu-KE|.|,|4096|Embu (Kenya)|False
+EE|ee|.|,|4096|Ewe|True
+GH|ee-GH|.|,|4096|Ewe (Ghana)|False
+TG|ee-TG|.|,|4096|Ewe (Togo)|False
+EL|el|,|.|8|Greek|True
+CY|el-CY|,|.|4096|Greek (Cyprus)|False
+GR|el-GR|,|.|1032|Greek (Greece)|False
+EN|en|.|,|9|English|True
+|en-001|.|,|4096|English (World)|False
+|en-150|.|,|4096|English (Europe)|False
+AE|en-AE|.|,|4096|English (United Arab Emirates)|False
+AG|en-AG|.|,|4096|English (Antigua & Barbuda)|False
+AI|en-AI|.|,|4096|English (Anguilla)|False
+AS|en-AS|.|,|4096|English (American Samoa)|False
+AT|en-AT|.|,|4096|English (Austria)|False
+AU|en-AU|.|,|3081|English (Australia)|False
+BB|en-BB|.|,|4096|English (Barbados)|False
+BE|en-BE|.|,|4096|English (Belgium)|False
+BI|en-BI|.|,|4096|English (Burundi)|False
+BM|en-BM|.|,|4096|English (Bermuda)|False
+BS|en-BS|.|,|4096|English (Bahamas)|False
+BW|en-BW|.|,|4096|English (Botswana)|False
+BZ|en-BZ|.|,|10249|English (Belize)|False
+CA|en-CA|.|,|4105|English (Canada)|False
+CC|en-CC|.|,|4096|English (Cocos [Keeling] Islands)|False
+CH|en-CH|.|’|4096|English (Switzerland)|False
+CK|en-CK|.|,|4096|English (Cook Islands)|False
+CM|en-CM|.|,|4096|English (Cameroon)|False
+CX|en-CX|.|,|4096|English (Christmas Island)|False
+CY|en-CY|.|,|4096|English (Cyprus)|False
+DE|en-DE|.|,|4096|English (Germany)|False
+DK|en-DK|,|.|4096|English (Denmark)|False
+DM|en-DM|.|,|4096|English (Dominica)|False
+ER|en-ER|.|,|4096|English (Eritrea)|False
+FI|en-FI|.|,|4096|English (Finland)|False
+FJ|en-FJ|.|,|4096|English (Fiji)|False
+FK|en-FK|.|,|4096|English (Falkland Islands)|False
+FM|en-FM|.|,|4096|English (Micronesia)|False
+GB|en-GB|.|,|2057|English (United Kingdom)|False
+GD|en-GD|.|,|4096|English (Grenada)|False
+GG|en-GG|.|,|4096|English (Guernsey)|False
+GH|en-GH|.|,|4096|English (Ghana)|False
+GI|en-GI|.|,|4096|English (Gibraltar)|False
+GM|en-GM|.|,|4096|English (Gambia)|False
+GU|en-GU|.|,|4096|English (Guam)|False
+GY|en-GY|.|,|4096|English (Guyana)|False
+HK|en-HK|.|,|15369|English (Hong Kong SAR)|False
+IE|en-IE|.|,|6153|English (Ireland)|False
+IL|en-IL|.|,|4096|English (Israel)|False
+IM|en-IM|.|,|4096|English (Isle of Man)|False
+IN|en-IN|.|,|16393|English (India)|False
+IO|en-IO|.|,|4096|English (British Indian Ocean Territory)|False
+JE|en-JE|.|,|4096|English (Jersey)|False
+JM|en-JM|.|,|8201|English (Jamaica)|False
+KE|en-KE|.|,|4096|English (Kenya)|False
+KI|en-KI|.|,|4096|English (Kiribati)|False
+KN|en-KN|.|,|4096|English (St. Kitts & Nevis)|False
+KY|en-KY|.|,|4096|English (Cayman Islands)|False
+LC|en-LC|.|,|4096|English (St. Lucia)|False
+LR|en-LR|.|,|4096|English (Liberia)|False
+LS|en-LS|.|,|4096|English (Lesotho)|False
+MG|en-MG|.|,|4096|English (Madagascar)|False
+MH|en-MH|.|,|4096|English (Marshall Islands)|False
+MO|en-MO|.|,|4096|English (Macao SAR)|False
+MP|en-MP|.|,|4096|English (Northern Mariana Islands)|False
+MS|en-MS|.|,|4096|English (Montserrat)|False
+MT|en-MT|.|,|4096|English (Malta)|False
+MU|en-MU|.|,|4096|English (Mauritius)|False
+MW|en-MW|.|,|4096|English (Malawi)|False
+MY|en-MY|.|,|17417|English (Malaysia)|False
+NA|en-NA|.|,|4096|English (Namibia)|False
+NF|en-NF|.|,|4096|English (Norfolk Island)|False
+NG|en-NG|.|,|4096|English (Nigeria)|False
+NL|en-NL|.|,|4096|English (Netherlands)|False
+NR|en-NR|.|,|4096|English (Nauru)|False
+NU|en-NU|.|,|4096|English (Niue)|False
+NZ|en-NZ|.|,|5129|English (New Zealand)|False
+PG|en-PG|.|,|4096|English (Papua New Guinea)|False
+PH|en-PH|.|,|13321|English (Philippines)|False
+PK|en-PK|.|,|4096|English (Pakistan)|False
+PN|en-PN|.|,|4096|English (Pitcairn Islands)|False
+PR|en-PR|.|,|4096|English (Puerto Rico)|False
+PW|en-PW|.|,|4096|English (Palau)|False
+RW|en-RW|.|,|4096|English (Rwanda)|False
+SB|en-SB|.|,|4096|English (Solomon Islands)|False
+SC|en-SC|.|,|4096|English (Seychelles)|False
+SD|en-SD|.|,|4096|English (Sudan)|False
+SE|en-SE|,| |4096|English (Sweden)|False
+SG|en-SG|.|,|18441|English (Singapore)|False
+SH|en-SH|.|,|4096|English (St Helena, Ascension, Tristan da Cunha)|False
+SI|en-SI|.|,|4096|English (Slovenia)|False
+SL|en-SL|.|,|4096|English (Sierra Leone)|False
+SS|en-SS|.|,|4096|English (South Sudan)|False
+SX|en-SX|.|,|4096|English (Sint Maarten)|False
+SZ|en-SZ|.|,|4096|English (Eswatini)|False
+TC|en-TC|.|,|4096|English (Turks & Caicos Islands)|False
+TK|en-TK|.|,|4096|English (Tokelau)|False
+TO|en-TO|.|,|4096|English (Tonga)|False
+TT|en-TT|.|,|11273|English (Trinidad & Tobago)|False
+TV|en-TV|.|,|4096|English (Tuvalu)|False
+TZ|en-TZ|.|,|4096|English (Tanzania)|False
+UG|en-UG|.|,|4096|English (Uganda)|False
+UM|en-UM|.|,|4096|English (U.S. Outlying Islands)|False
+US|en-US|.|,|1033|English (United States)|False
+US|en-US-POSIX|.|,|4096|English (United States, Computer)|False
+VC|en-VC|.|,|4096|English (St. Vincent & Grenadines)|False
+VG|en-VG|.|,|4096|English (British Virgin Islands)|False
+VI|en-VI|.|,|4096|English (U.S. Virgin Islands)|False
+VU|en-VU|.|,|4096|English (Vanuatu)|False
+WS|en-WS|.|,|4096|English (Samoa)|False
+ZA|en-ZA|,| |7177|English (South Africa)|False
+ZM|en-ZM|.|,|4096|English (Zambia)|False
+ZW|en-ZW|.|,|12297|English (Zimbabwe)|False
+EO|eo|,| |4096|Esperanto|True
+|eo-001|,| |4096|Esperanto (World)|False
+ES|es|,|.|10|Spanish|True
+|es-419|.|,|22538|Spanish (Latin America)|False
+AR|es-AR|,|.|11274|Spanish (Argentina)|False
+BO|es-BO|,|.|16394|Spanish (Bolivia)|False
+BR|es-BR|.|,|4096|Spanish (Brazil)|False
+BZ|es-BZ|.|,|4096|Spanish (Belize)|False
+CL|es-CL|,|.|13322|Spanish (Chile)|False
+CO|es-CO|,|.|9226|Spanish (Colombia)|False
+CR|es-CR|,| |5130|Spanish (Costa Rica)|False
+CU|es-CU|.|,|23562|Spanish (Cuba)|False
+DO|es-DO|.|,|7178|Spanish (Dominican Republic)|False
+EC|es-EC|,|.|12298|Spanish (Ecuador)|False
+ES|es-ES|,|.|3082|Spanish (Spain)|False
+GQ|es-GQ|,|.|4096|Spanish (Equatorial Guinea)|False
+GT|es-GT|.|,|4106|Spanish (Guatemala)|False
+HN|es-HN|.|,|18442|Spanish (Honduras)|False
+MX|es-MX|.|,|2058|Spanish (Mexico)|False
+NI|es-NI|.|,|19466|Spanish (Nicaragua)|False
+PA|es-PA|.|,|6154|Spanish (Panama)|False
+PE|es-PE|.|,|10250|Spanish (Peru)|False
+PH|es-PH|,|.|4096|Spanish (Philippines)|False
+PR|es-PR|.|,|20490|Spanish (Puerto Rico)|False
+PY|es-PY|,|.|15370|Spanish (Paraguay)|False
+SV|es-SV|.|,|17418|Spanish (El Salvador)|False
+US|es-US|.|,|21514|Spanish (United States)|False
+UY|es-UY|,|.|14346|Spanish (Uruguay)|False
+VE|es-VE|,|.|8202|Spanish (Venezuela)|False
+ET|et|,| |37|Estonian|True
+EE|et-EE|,| |1061|Estonian (Estonia)|False
+EU|eu|,|.|45|Basque|True
+ES|eu-ES|,|.|1069|Basque (Spain)|False
+EWO|ewo|,| |4096|Ewondo|True
+CM|ewo-CM|,| |4096|Ewondo (Cameroon)|False
+FA|fa|٫|٬|41|Persian|True
+AF|fa-AF|٫|٬|4096|Persian (Afghanistan)|False
+IR|fa-IR|٫|٬|1065|Persian (Iran)|False
+FF|ff|,| |103|Fulah|True
+FF-LATN|ff-Latn|,| |31847|Fulah (Latin)|True
+BF|ff-Latn-BF|,| |4096|Fulah (Latin, Burkina Faso)|False
+CM|ff-Latn-CM|,| |4096|Fulah (Latin, Cameroon)|False
+GH|ff-Latn-GH|,| |4096|Fulah (Latin, Ghana)|False
+GM|ff-Latn-GM|,| |4096|Fulah (Latin, Gambia)|False
+GN|ff-Latn-GN|,| |4096|Fulah (Latin, Guinea)|False
+GW|ff-Latn-GW|,| |4096|Fulah (Latin, Guinea-Bissau)|False
+LR|ff-Latn-LR|,| |4096|Fulah (Latin, Liberia)|False
+MR|ff-Latn-MR|,| |4096|Fulah (Latin, Mauritania)|False
+NE|ff-Latn-NE|,| |4096|Fulah (Latin, Niger)|False
+NG|ff-Latn-NG|,| |4096|Fulah (Latin, Nigeria)|False
+SL|ff-Latn-SL|,| |4096|Fulah (Latin, Sierra Leone)|False
+SN|ff-Latn-SN|,| |2151|Fulah (Latin, Senegal)|False
+FI|fi|,| |11|Finnish|True
+FI|fi-FI|,| |1035|Finnish (Finland)|False
+FIL|fil|.|,|100|Filipino|True
+PH|fil-PH|.|,|1124|Filipino (Philippines)|False
+FO|fo|,|.|56|Faroese|True
+DK|fo-DK|,|.|4096|Faroese (Denmark)|False
+FO|fo-FO|,|.|1080|Faroese (Faroe Islands)|False
+FR|fr|,| |12|French|True
+BE|fr-BE|,| |2060|French (Belgium)|False
+BF|fr-BF|,| |4096|French (Burkina Faso)|False
+BI|fr-BI|,| |4096|French (Burundi)|False
+BJ|fr-BJ|,| |4096|French (Benin)|False
+BL|fr-BL|,| |4096|French (St. Barthélemy)|False
+CA|fr-CA|,| |3084|French (Canada)|False
+CD|fr-CD|,| |9228|French (Congo [DRC])|False
+CF|fr-CF|,| |4096|French (Central African Republic)|False
+CG|fr-CG|,| |4096|French (Congo)|False
+CH|fr-CH|.| |4108|French (Switzerland)|False
+CI|fr-CI|,| |12300|French (Côte d’Ivoire)|False
+CM|fr-CM|,| |11276|French (Cameroon)|False
+DJ|fr-DJ|,| |4096|French (Djibouti)|False
+DZ|fr-DZ|,| |4096|French (Algeria)|False
+FR|fr-FR|,| |1036|French (France)|False
+GA|fr-GA|,| |4096|French (Gabon)|False
+GF|fr-GF|,| |4096|French (French Guiana)|False
+GN|fr-GN|,| |4096|French (Guinea)|False
+GP|fr-GP|,| |4096|French (Guadeloupe)|False
+GQ|fr-GQ|,| |4096|French (Equatorial Guinea)|False
+HT|fr-HT|,| |15372|French (Haiti)|False
+KM|fr-KM|,| |4096|French (Comoros)|False
+LU|fr-LU|,|.|5132|French (Luxembourg)|False
+MA|fr-MA|,|.|14348|French (Morocco)|False
+MC|fr-MC|,| |6156|French (Monaco)|False
+MF|fr-MF|,| |4096|French (St. Martin)|False
+MG|fr-MG|,| |4096|French (Madagascar)|False
+ML|fr-ML|,| |13324|French (Mali)|False
+MQ|fr-MQ|,| |4096|French (Martinique)|False
+MR|fr-MR|,| |4096|French (Mauritania)|False
+MU|fr-MU|,| |4096|French (Mauritius)|False
+NC|fr-NC|,| |4096|French (New Caledonia)|False
+NE|fr-NE|,| |4096|French (Niger)|False
+PF|fr-PF|,| |4096|French (French Polynesia)|False
+PM|fr-PM|,| |4096|French (St. Pierre & Miquelon)|False
+RE|fr-RE|,| |8204|French (Réunion)|False
+RW|fr-RW|,| |4096|French (Rwanda)|False
+SC|fr-SC|,| |4096|French (Seychelles)|False
+SN|fr-SN|,| |10252|French (Senegal)|False
+SY|fr-SY|,| |4096|French (Syria)|False
+TD|fr-TD|,| |4096|French (Chad)|False
+TG|fr-TG|,| |4096|French (Togo)|False
+TN|fr-TN|,| |4096|French (Tunisia)|False
+VU|fr-VU|,| |4096|French (Vanuatu)|False
+WF|fr-WF|,| |4096|French (Wallis & Futuna)|False
+YT|fr-YT|,| |4096|French (Mayotte)|False
+FUR|fur|,|.|4096|Friulian|True
+IT|fur-IT|,|.|4096|Friulian (Italy)|False
+FY|fy|,|.|98|Western Frisian|True
+NL|fy-NL|,|.|1122|Western Frisian (Netherlands)|False
+GA|ga|.|,|60|Irish|True
+IE|ga-IE|.|,|2108|Irish (Ireland)|False
+GD|gd|.|,|145|Scottish Gaelic|True
+GB|gd-GB|.|,|1169|Scottish Gaelic (United Kingdom)|False
+GL|gl|,|.|86|Galician|True
+ES|gl-ES|,|.|1110|Galician (Spain)|False
+GN|gn|.|,|116|Guarani|True
+PY|gn-PY|.|,|1140|Guarani (Paraguay)|False
+GSW|gsw|.|’|132|Swiss German|True
+CH|gsw-CH|.|’|4096|Swiss German (Switzerland)|False
+FR|gsw-FR|.|’|1156|Swiss German (France)|False
+LI|gsw-LI|.|’|4096|Swiss German (Liechtenstein)|False
+GU|gu|.|,|71|Gujarati|True
+IN|gu-IN|.|,|1095|Gujarati (India)|False
+GUZ|guz|.|,|4096|Gusii|True
+KE|guz-KE|.|,|4096|Gusii (Kenya)|False
+GV|gv|.|,|4096|Manx|True
+IM|gv-IM|.|,|4096|Manx (Isle of Man)|False
+HA|ha|.|,|104|Hausa|True
+GH|ha-GH|.|,|4096|Hausa (Ghana)|False
+NE|ha-NE|.|,|4096|Hausa (Niger)|False
+NG|ha-NG|.|,|4096|Hausa (Nigeria)|False
+HAW|haw|.|,|117|Hawaiian|True
+US|haw-US|.|,|1141|Hawaiian (United States)|False
+HE|he|.|,|13|Hebrew|True
+IL|he-IL|.|,|1037|Hebrew (Israel)|False
+HI|hi|.|,|57|Hindi|True
+IN|hi-IN|.|,|1081|Hindi (India)|False
+HR|hr|,|.|26|Croatian|True
+BA|hr-BA|,|.|4122|Croatian (Bosnia & Herzegovina)|False
+HR|hr-HR|,|.|1050|Croatian (Croatia)|False
+HSB|hsb|,|.|46|Upper Sorbian|True
+DE|hsb-DE|,|.|1070|Upper Sorbian (Germany)|False
+HU|hu|,| |14|Hungarian|True
+HU|hu-HU|,| |1038|Hungarian (Hungary)|False
+HY|hy|,| |43|Armenian|True
+AM|hy-AM|,| |1067|Armenian (Armenia)|False
+IA|ia|,|.|4096|Interlingua|True
+|ia-001|,|.|4096|Interlingua (World)|False
+ID|id|,|.|33|Indonesian|True
+ID|id-ID|,|.|1057|Indonesian (Indonesia)|False
+IG|ig|.|,|112|Igbo|True
+NG|ig-NG|.|,|1136|Igbo (Nigeria)|False
+II|ii|.|,|120|Yi|True
+CN|ii-CN|.|,|1144|Yi (China)|False
+IS|is|,|.|15|Icelandic|True
+IS|is-IS|,|.|1039|Icelandic (Iceland)|False
+IT|it|,|.|16|Italian|True
+CH|it-CH|.|’|2064|Italian (Switzerland)|False
+IT|it-IT|,|.|1040|Italian (Italy)|False
+SM|it-SM|,|.|4096|Italian (San Marino)|False
+VA|it-VA|,|.|4096|Italian (Vatican City)|False
+IU|iu|.|,|93|Inuktitut|True
+CA|iu-CA|.|,|4096|Inuktitut (Canada)|False
+IU-LATN|iu-Latn|.|,|31837|Inuktitut (Latin)|True
+CA|iu-Latn-CA|.|,|2141|Inuktitut (Latin, Canada)|False
+JA|ja|.|,|17|Japanese|True
+JP|ja-JP|.|,|1041|Japanese (Japan)|False
+JGO|jgo|,|.|4096|Ngomba|True
+CM|jgo-CM|,|.|4096|Ngomba (Cameroon)|False
+JMC|jmc|.|,|4096|Machame|True
+TZ|jmc-TZ|.|,|4096|Machame (Tanzania)|False
+JV|jv|,|.|4096|Javanese|True
+ID|jv-ID|,|.|4096|Javanese (Indonesia)|False
+KA|ka|,| |55|Georgian|True
+GE|ka-GE|,| |1079|Georgian (Georgia)|False
+KAB|kab|,| |4096|Kabyle|True
+DZ|kab-DZ|,| |4096|Kabyle (Algeria)|False
+KAM|kam|.|,|4096|Kamba|True
+KE|kam-KE|.|,|4096|Kamba (Kenya)|False
+KDE|kde|.|,|4096|Makonde|True
+TZ|kde-TZ|.|,|4096|Makonde (Tanzania)|False
+KEA|kea|,| |4096|Kabuverdianu|True
+CV|kea-CV|$| |4096|Kabuverdianu (Cabo Verde)|False
+KHQ|khq|.| |4096|Koyra Chiini|True
+ML|khq-ML|.| |4096|Koyra Chiini (Mali)|False
+KI|ki|.|,|4096|Kikuyu|True
+KE|ki-KE|.|,|4096|Kikuyu (Kenya)|False
+KK|kk|,| |63|Kazakh|True
+KZ|kk-KZ|,| |1087|Kazakh (Kazakhstan)|False
+KKJ|kkj|,|.|4096|Kako|True
+CM|kkj-CM|,|.|4096|Kako (Cameroon)|False
+KL|kl|,|.|111|Kalaallisut|True
+GL|kl-GL|,|.|1135|Kalaallisut (Greenland)|False
+KLN|kln|.|,|4096|Kalenjin|True
+KE|kln-KE|.|,|4096|Kalenjin (Kenya)|False
+KM|km|,|.|83|Khmer|True
+KH|km-KH|,|.|1107|Khmer (Cambodia)|False
+KN|kn|.|,|75|Kannada|True
+IN|kn-IN|.|,|1099|Kannada (India)|False
+KO|ko|.|,|18|Korean|True
+KP|ko-KP|.|,|4096|Korean (North Korea)|False
+KR|ko-KR|.|,|1042|Korean (Korea)|False
+KOK|kok|.|,|87|Konkani|True
+IN|kok-IN|.|,|1111|Konkani (India)|False
+KS|ks|٫|٬|96|Kashmiri|True
+IN|ks-IN|٫|٬|4096|Kashmiri (India)|False
+KSB|ksb|.|,|4096|Shambala|True
+TZ|ksb-TZ|.|,|4096|Shambala (Tanzania)|False
+KSF|ksf|,| |4096|Bafia|True
+CM|ksf-CM|,| |4096|Bafia (Cameroon)|False
+KSH|ksh|,| |4096|Colognian|True
+DE|ksh-DE|,| |4096|Colognian (Germany)|False
+KW|kw|.|,|4096|Cornish|True
+GB|kw-GB|.|,|4096|Cornish (United Kingdom)|False
+KY|ky|,| |64|Kyrgyz|True
+KG|ky-KG|,| |1088|Kyrgyz (Kyrgyzstan)|False
+LAG|lag|.|,|4096|Langi|True
+TZ|lag-TZ|.|,|4096|Langi (Tanzania)|False
+LB|lb|,|.|110|Luxembourgish|True
+LU|lb-LU|,|.|1134|Luxembourgish (Luxembourg)|False
+LG|lg|.|,|4096|Ganda|True
+UG|lg-UG|.|,|4096|Ganda (Uganda)|False
+LKT|lkt|.|,|4096|Lakota|True
+US|lkt-US|.|,|4096|Lakota (United States)|False
+LN|ln|,|.|4096|Lingala|True
+AO|ln-AO|,|.|4096|Lingala (Angola)|False
+CD|ln-CD|,|.|4096|Lingala (Congo [DRC])|False
+CF|ln-CF|,|.|4096|Lingala (Central African Republic)|False
+CG|ln-CG|,|.|4096|Lingala (Congo)|False
+LO|lo|,|.|84|Lao|True
+LA|lo-LA|,|.|1108|Lao (Laos)|False
+LRC|lrc|٫|٬|4096|Northern Luri|True
+IQ|lrc-IQ|٫|٬|4096|Northern Luri (Iraq)|False
+IR|lrc-IR|٫|٬|4096|Northern Luri (Iran)|False
+LT|lt|,| |39|Lithuanian|True
+LT|lt-LT|,| |1063|Lithuanian (Lithuania)|False
+LU|lu|,|.|4096|Luba-Katanga|True
+CD|lu-CD|,|.|4096|Luba-Katanga (Congo [DRC])|False
+LUO|luo|.|,|4096|Luo|True
+KE|luo-KE|.|,|4096|Luo (Kenya)|False
+LUY|luy|.|,|4096|Luyia|True
+KE|luy-KE|.|,|4096|Luyia (Kenya)|False
+LV|lv|,| |38|Latvian|True
+LV|lv-LV|,| |1062|Latvian (Latvia)|False
+MAS|mas|.|,|4096|Masai|True
+KE|mas-KE|.|,|4096|Masai (Kenya)|False
+TZ|mas-TZ|.|,|4096|Masai (Tanzania)|False
+MER|mer|.|,|4096|Meru|True
+KE|mer-KE|.|,|4096|Meru (Kenya)|False
+MFE|mfe|.| |4096|Morisyen|True
+MU|mfe-MU|.| |4096|Morisyen (Mauritius)|False
+MG|mg|.|,|4096|Malagasy|True
+MG|mg-MG|.|,|4096|Malagasy (Madagascar)|False
+MGH|mgh|,|.|4096|Makhuwa-Meetto|True
+MZ|mgh-MZ|,|.|4096|Makhuwa-Meetto (Mozambique)|False
+MGO|mgo|.|,|4096|Metaʼ|True
+CM|mgo-CM|.|,|4096|Metaʼ (Cameroon)|False
+MI|mi|.|,|129|Maori|True
+NZ|mi-NZ|.|,|1153|Maori (New Zealand)|False
+MK|mk|,|.|47|Macedonian|True
+MK|mk-MK|,|.|1071|Macedonian (North Macedonia)|False
+ML|ml|.|,|76|Malayalam|True
+IN|ml-IN|.|,|1100|Malayalam (India)|False
+MN|mn|.|,|80|Mongolian|True
+MN|mn-MN|.|,|1104|Mongolian (Mongolia)|False
+MN-MONG|mn-Mong|.|,|31824|Mongolian (Mongolian)|True
+CN|mn-Mong-CN|.|,|2128|Mongolian (Mongolian, China)|False
+MN|mn-Mong-MN|,|,|3152|Mongolian (Mongolian, Mongolia)|False
+MOH|moh|.|,|124|Mohawk|True
+CA|moh-CA|.|,|1148|Mohawk (Canada)|False
+MR|mr|.|,|78|Marathi|True
+IN|mr-IN|.|,|1102|Marathi (India)|False
+MS|ms|.|,|62|Malay|True
+BN|ms-BN|,|.|2110|Malay (Brunei)|False
+MY|ms-MY|.|,|1086|Malay (Malaysia)|False
+SG|ms-SG|.|,|4096|Malay (Singapore)|False
+MT|mt|.|,|58|Maltese|True
+MT|mt-MT|.|,|1082|Maltese (Malta)|False
+MUA|mua|,|.|4096|Mundang|True
+CM|mua-CM|,|.|4096|Mundang (Cameroon)|False
+MY|my|.|,|85|Burmese|True
+MM|my-MM|.|,|1109|Burmese (Myanmar)|False
+MZN|mzn|٫|٬|4096|Mazanderani|True
+IR|mzn-IR|٫|٬|4096|Mazanderani (Iran)|False
+NAQ|naq|.|,|4096|Nama|True
+NA|naq-NA|.|,|4096|Nama (Namibia)|False
+NB|nb|,| |31764|Norwegian Bokmål|True
+NO|nb-NO|,| |1044|Norwegian Bokmål (Norway)|False
+SJ|nb-SJ|,| |4096|Norwegian Bokmål (Svalbard & Jan Mayen)|False
+ND|nd|.|,|4096|North Ndebele|True
+ZW|nd-ZW|.|,|4096|North Ndebele (Zimbabwe)|False
+NDS|nds|.|,|4096|Low German|True
+DE|nds-DE|.|,|4096|Low German (Germany)|False
+NL|nds-NL|.|,|4096|Low German (Netherlands)|False
+NE|ne|.|,|97|Nepali|True
+IN|ne-IN|.|,|2145|Nepali (India)|False
+NP|ne-NP|.|,|1121|Nepali (Nepal)|False
+NL|nl|,|.|19|Dutch|True
+AW|nl-AW|,|.|4096|Dutch (Aruba)|False
+BE|nl-BE|,|.|2067|Dutch (Belgium)|False
+BQ|nl-BQ|,|.|4096|Dutch (Bonaire, Sint Eustatius and Saba)|False
+CW|nl-CW|,|.|4096|Dutch (Curaçao)|False
+NL|nl-NL|,|.|1043|Dutch (Netherlands)|False
+SR|nl-SR|,|.|4096|Dutch (Suriname)|False
+SX|nl-SX|,|.|4096|Dutch (Sint Maarten)|False
+NMG|nmg|,| |4096|Kwasio|True
+CM|nmg-CM|,| |4096|Kwasio (Cameroon)|False
+NN|nn|,| |30740|Norwegian Nynorsk|True
+NO|nn-NO|,| |2068|Norwegian Nynorsk (Norway)|False
+NNH|nnh|,|.|4096|Ngiemboon|True
+CM|nnh-CM|,|.|4096|Ngiemboon (Cameroon)|False
+NQO|nqo|.|,|4096|N’Ko|True
+GN|nqo-GN|.|,|4096|N’Ko (Guinea)|False
+NR|nr|,| |4096|South Ndebele|True
+ZA|nr-ZA|,| |4096|South Ndebele (South Africa)|False
+NSO|nso|.| |108|Sesotho sa Leboa|True
+ZA|nso-ZA|.| |1132|Sesotho sa Leboa (South Africa)|False
+NUS|nus|.|,|4096|Nuer|True
+SS|nus-SS|.|,|4096|Nuer (South Sudan)|False
+NYN|nyn|.|,|4096|Nyankole|True
+UG|nyn-UG|.|,|4096|Nyankole (Uganda)|False
+OC|oc|.|,|130|Occitan|True
+FR|oc-FR|.|,|1154|Occitan (France)|False
+OM|om|.|,|114|Oromo|True
+ET|om-ET|.|,|1138|Oromo (Ethiopia)|False
+KE|om-KE|.|,|4096|Oromo (Kenya)|False
+OR|or|.|,|72|Odia|True
+IN|or-IN|.|,|1096|Odia (India)|False
+OS|os|,| |4096|Ossetic|True
+GE|os-GE|,| |4096|Ossetic (Georgia)|False
+RU|os-RU|,| |4096|Ossetic (Russia)|False
+PA|pa|.|,|70|Punjabi|True
+PA-ARAB|pa-Arab|٫|٬|31814|Punjabi (Arabic)|True
+PK|pa-Arab-PK|٫|٬|2118|Punjabi (Arabic, Pakistan)|False
+PA-GURU|pa-Guru|.|,|4096|Punjabi (Gurmukhi)|True
+IN|pa-Guru-IN|.|,|4096|Punjabi (Gurmukhi, India)|False
+PL|pl|,| |21|Polish|True
+PL|pl-PL|,| |1045|Polish (Poland)|False
+PRG|prg|.|,|4096|Prussian|True
+|prg-001|.|,|4096|Prussian (World)|False
+PS|ps|٫|٬|99|Pashto|True
+AF|ps-AF|٫|٬|1123|Pashto (Afghanistan)|False
+PK|ps-PK|٫|٬|4096|Pashto (Pakistan)|False
+PT|pt|,|.|22|Portuguese|True
+AO|pt-AO|,| |4096|Portuguese (Angola)|False
+BR|pt-BR|,|.|1046|Portuguese (Brazil)|False
+CH|pt-CH|,| |4096|Portuguese (Switzerland)|False
+CV|pt-CV|$| |4096|Portuguese (Cabo Verde)|False
+GQ|pt-GQ|,| |4096|Portuguese (Equatorial Guinea)|False
+GW|pt-GW|,| |4096|Portuguese (Guinea-Bissau)|False
+LU|pt-LU|,| |4096|Portuguese (Luxembourg)|False
+MO|pt-MO|,| |4096|Portuguese (Macao SAR)|False
+MZ|pt-MZ|,| |4096|Portuguese (Mozambique)|False
+PT|pt-PT|,| |2070|Portuguese (Portugal)|False
+ST|pt-ST|,| |4096|Portuguese (São Tomé & Príncipe)|False
+TL|pt-TL|,| |4096|Portuguese (Timor-Leste)|False
+QU|qu|.|,|4096|Quechua|True
+BO|qu-BO|,|.|4096|Quechua (Bolivia)|False
+EC|qu-EC|.|,|4096|Quechua (Ecuador)|False
+PE|qu-PE|.|,|4096|Quechua (Peru)|False
+QUC|quc|.|,|134|Kʼicheʼ|True
+GT|quc-GT|.|,|4096|Kʼicheʼ (Guatemala)|False
+RM|rm|.|’|23|Romansh|True
+CH|rm-CH|.|’|1047|Romansh (Switzerland)|False
+RN|rn|,|.|4096|Rundi|True
+BI|rn-BI|,|.|4096|Rundi (Burundi)|False
+RO|ro|,|.|24|Romanian|True
+MD|ro-MD|,|.|2072|Romanian (Moldova)|False
+RO|ro-RO|,|.|1048|Romanian (Romania)|False
+ROF|rof|.|,|4096|Rombo|True
+TZ|rof-TZ|.|,|4096|Rombo (Tanzania)|False
+RU|ru|,| |25|Russian|True
+BY|ru-BY|,| |4096|Russian (Belarus)|False
+KG|ru-KG|,| |4096|Russian (Kyrgyzstan)|False
+KZ|ru-KZ|,| |4096|Russian (Kazakhstan)|False
+MD|ru-MD|,| |2073|Russian (Moldova)|False
+RU|ru-RU|,| |1049|Russian (Russia)|False
+UA|ru-UA|,| |4096|Russian (Ukraine)|False
+RW|rw|,|.|135|Kinyarwanda|True
+RW|rw-RW|,|.|1159|Kinyarwanda (Rwanda)|False
+RWK|rwk|.|,|4096|Rwa|True
+TZ|rwk-TZ|.|,|4096|Rwa (Tanzania)|False
+SA|sa|.|,|79|Sanskrit|True
+IN|sa-IN|.|,|1103|Sanskrit (India)|False
+SAH|sah|,| |133|Sakha|True
+RU|sah-RU|,| |1157|Sakha (Russia)|False
+SAQ|saq|.|,|4096|Samburu|True
+KE|saq-KE|.|,|4096|Samburu (Kenya)|False
+SBP|sbp|.|,|4096|Sangu|True
+TZ|sbp-TZ|.|,|4096|Sangu (Tanzania)|False
+SD|sd|٫|٬|89|Sindhi|True
+PK|sd-PK|٫|٬|4096|Sindhi (Pakistan)|False
+SE|se|,| |59|Northern Sami|True
+FI|se-FI|,| |3131|Northern Sami (Finland)|False
+NO|se-NO|,| |1083|Northern Sami (Norway)|False
+SE|se-SE|,| |2107|Northern Sami (Sweden)|False
+SEH|seh|,|.|4096|Sena|True
+MZ|seh-MZ|,|.|4096|Sena (Mozambique)|False
+SES|ses|.| |4096|Koyraboro Senni|True
+ML|ses-ML|.| |4096|Koyraboro Senni (Mali)|False
+SG|sg|,|.|4096|Sango|True
+CF|sg-CF|,|.|4096|Sango (Central African Republic)|False
+SHI|shi|,| |4096|Tachelhit|True
+SHI-LATN|shi-Latn|,| |4096|Tachelhit (Latin)|True
+MA|shi-Latn-MA|,| |4096|Tachelhit (Latin, Morocco)|False
+SHI-TFNG|shi-Tfng|,| |4096|Tachelhit (Tifinagh)|True
+MA|shi-Tfng-MA|,| |4096|Tachelhit (Tifinagh, Morocco)|False
+SI|si|.|,|91|Sinhala|True
+LK|si-LK|.|,|1115|Sinhala (Sri Lanka)|False
+SK|sk|,| |27|Slovak|True
+SK|sk-SK|,| |1051|Slovak (Slovakia)|False
+SL|sl|,|.|36|Slovenian|True
+SI|sl-SI|,|.|1060|Slovenian (Slovenia)|False
+SMA|sma|.|,|30779|Southern Sami|True
+NO|sma-NO|.|,|6203|Southern Sami (Norway)|False
+SE|sma-SE|.|,|7227|Southern Sami (Sweden)|False
+SMJ|smj|.|,|31803|Lule Sami|True
+NO|smj-NO|.|,|4155|Lule Sami (Norway)|False
+SE|smj-SE|.|,|5179|Lule Sami (Sweden)|False
+SMN|smn|,| |28731|Inari Sami|True
+FI|smn-FI|,| |9275|Inari Sami (Finland)|False
+SMS|sms|.|,|29755|Skolt Sami|True
+FI|sms-FI|.|,|8251|Skolt Sami (Finland)|False
+SN|sn|.|,|4096|Shona|True
+ZW|sn-ZW|.|,|4096|Shona (Zimbabwe)|False
+SO|so|.|,|119|Somali|True
+DJ|so-DJ|.|,|4096|Somali (Djibouti)|False
+ET|so-ET|.|,|4096|Somali (Ethiopia)|False
+KE|so-KE|.|,|4096|Somali (Kenya)|False
+SO|so-SO|.|,|1143|Somali (Somalia)|False
+SQ|sq|,| |28|Albanian|True
+AL|sq-AL|,| |1052|Albanian (Albania)|False
+MK|sq-MK|,| |4096|Albanian (North Macedonia)|False
+XK|sq-XK|,| |4096|Albanian (Kosovo)|False
+SR|sr|,|.|31770|Serbian|True
+SR-CYRL|sr-Cyrl|,|.|27674|Serbian (Cyrillic)|True
+BA|sr-Cyrl-BA|,|.|7194|Serbian (Cyrillic, Bosnia & Herzegovina)|False
+ME|sr-Cyrl-ME|,|.|12314|Serbian (Cyrillic, Montenegro)|False
+RS|sr-Cyrl-RS|,|.|10266|Serbian (Cyrillic, Serbia)|False
+XK|sr-Cyrl-XK|,|.|4096|Serbian (Cyrillic, Kosovo)|False
+SR-LATN|sr-Latn|,|.|28698|Serbian (Latin)|True
+BA|sr-Latn-BA|,|.|6170|Serbian (Latin, Bosnia & Herzegovina)|False
+ME|sr-Latn-ME|,|.|11290|Serbian (Latin, Montenegro)|False
+RS|sr-Latn-RS|,|.|9242|Serbian (Latin, Serbia)|False
+XK|sr-Latn-XK|,|.|4096|Serbian (Latin, Kosovo)|False
+SS|ss|,| |4096|siSwati|True
+SZ|ss-SZ|,| |4096|siSwati (Eswatini)|False
+ZA|ss-ZA|,| |4096|siSwati (South Africa)|False
+SSY|ssy|.|,|4096|Saho|True
+ER|ssy-ER|.|,|4096|Saho (Eritrea)|False
+ST|st|,| |48|Sesotho|True
+LS|st-LS|,| |4096|Sesotho (Lesotho)|False
+ZA|st-ZA|,| |1072|Sesotho (South Africa)|False
+SV|sv|,| |29|Swedish|True
+AX|sv-AX|,| |4096|Swedish (Åland Islands)|False
+FI|sv-FI|,| |2077|Swedish (Finland)|False
+SE|sv-SE|,| |1053|Swedish (Sweden)|False
+SW|sw|.|,|65|Kiswahili|True
+CD|sw-CD|,|.|4096|Kiswahili (Congo [DRC])|False
+KE|sw-KE|.|,|1089|Kiswahili (Kenya)|False
+TZ|sw-TZ|.|,|4096|Kiswahili (Tanzania)|False
+UG|sw-UG|.|,|4096|Kiswahili (Uganda)|False
+SYR|syr|.|,|90|Syriac|True
+SY|syr-SY|.|,|1114|Syriac (Syria)|False
+TA|ta|.|,|73|Tamil|True
+IN|ta-IN|.|,|1097|Tamil (India)|False
+LK|ta-LK|.|,|2121|Tamil (Sri Lanka)|False
+MY|ta-MY|.|,|4096|Tamil (Malaysia)|False
+SG|ta-SG|.|,|4096|Tamil (Singapore)|False
+TE|te|.|,|74|Telugu|True
+IN|te-IN|.|,|1098|Telugu (India)|False
+TEO|teo|.|,|4096|Teso|True
+KE|teo-KE|.|,|4096|Teso (Kenya)|False
+UG|teo-UG|.|,|4096|Teso (Uganda)|False
+TG|tg|,| |40|Tajik|True
+TJ|tg-TJ|,| |4096|Tajik (Tajikistan)|False
+TH|th|.|,|30|Thai|True
+TH|th-TH|.|,|1054|Thai (Thailand)|False
+TI|ti|.|,|115|Tigrinya|True
+ER|ti-ER|.|,|2163|Tigrinya (Eritrea)|False
+ET|ti-ET|.|,|1139|Tigrinya (Ethiopia)|False
+TIG|tig|.|,|4096|Tigre|True
+ER|tig-ER|.|,|4096|Tigre (Eritrea)|False
+TK|tk|,| |66|Turkmen|True
+TM|tk-TM|,| |1090|Turkmen (Turkmenistan)|False
+TN|tn|.| |50|Setswana|True
+BW|tn-BW|.| |2098|Setswana (Botswana)|False
+ZA|tn-ZA|.| |1074|Setswana (South Africa)|False
+TO|to|.|,|4096|Tongan|True
+TO|to-TO|.|,|4096|Tongan (Tonga)|False
+TR|tr|,|.|31|Turkish|True
+CY|tr-CY|,|.|4096|Turkish (Cyprus)|False
+TR|tr-TR|,|.|1055|Turkish (Turkey)|False
+TS|ts|,| |49|Xitsonga|True
+ZA|ts-ZA|,| |1073|Xitsonga (South Africa)|False
+TT|tt|,| |68|Tatar|True
+RU|tt-RU|,| |1092|Tatar (Russia)|False
+TWQ|twq|.| |4096|Tasawaq|True
+NE|twq-NE|.| |4096|Tasawaq (Niger)|False
+TZM|tzm|,| |95|Central Atlas Tamazight|True
+MA|tzm-MA|,| |4096|Central Atlas Tamazight (Morocco)|False
+UG|ug|.|,|128|Uyghur|True
+CN|ug-CN|.|,|1152|Uyghur (China)|False
+UK|uk|,| |34|Ukrainian|True
+UA|uk-UA|,| |1058|Ukrainian (Ukraine)|False
+UR|ur|.|,|32|Urdu|True
+IN|ur-IN|٫|٬|2080|Urdu (India)|False
+PK|ur-PK|.|,|1056|Urdu (Pakistan)|False
+UZ|uz|,| |67|Uzbek|True
+UZ-ARAB|uz-Arab|٫|٬|4096|Uzbek (Arabic)|True
+AF|uz-Arab-AF|٫|٬|4096|Uzbek (Arabic, Afghanistan)|False
+UZ-CYRL|uz-Cyrl|,| |30787|Uzbek (Cyrillic)|True
+UZ|uz-Cyrl-UZ|,| |2115|Uzbek (Cyrillic, Uzbekistan)|False
+UZ-LATN|uz-Latn|,| |31811|Uzbek (Latin)|True
+UZ|uz-Latn-UZ|,| |1091|Uzbek (Latin, Uzbekistan)|False
+VAI|vai|.|,|4096|Vai|True
+VAI-LATN|vai-Latn|.|,|4096|Vai (Latin)|True
+LR|vai-Latn-LR|.|,|4096|Vai (Latin, Liberia)|False
+VAI-VAII|vai-Vaii|.|,|4096|Vai (Vai)|True
+LR|vai-Vaii-LR|.|,|4096|Vai (Vai, Liberia)|False
+VE|ve|,| |51|Venda|True
+ZA|ve-ZA|,| |1075|Venda (South Africa)|False
+VI|vi|,|.|42|Vietnamese|True
+VN|vi-VN|,|.|1066|Vietnamese (Vietnam)|False
+VO|vo|.|,|4096|Volapük|True
+|vo-001|.|,|4096|Volapük (World)|False
+VUN|vun|.|,|4096|Vunjo|True
+TZ|vun-TZ|.|,|4096|Vunjo (Tanzania)|False
+WAE|wae|,|’|4096|Walser|True
+CH|wae-CH|,|’|4096|Walser (Switzerland)|False
+WAL|wal|.|,|4096|Wolaytta|True
+ET|wal-ET|.|,|4096|Wolaytta (Ethiopia)|False
+WO|wo|,|.|136|Wolof|True
+SN|wo-SN|,|.|1160|Wolof (Senegal)|False
+XH|xh|.| |52|isiXhosa|True
+ZA|xh-ZA|.| |1076|isiXhosa (South Africa)|False
+XOG|xog|.|,|4096|Soga|True
+UG|xog-UG|.|,|4096|Soga (Uganda)|False
+YAV|yav|,| |4096|Yangben|True
+CM|yav-CM|,| |4096|Yangben (Cameroon)|False
+YI|yi|.|,|61|Yiddish|True
+|yi-001|.|,|1085|Yiddish (World)|False
+YO|yo|.|,|106|Yoruba|True
+BJ|yo-BJ|.|,|4096|Yoruba (Benin)|False
+NG|yo-NG|.|,|1130|Yoruba (Nigeria)|False
+ZGH|zgh|,| |4096|Standard Moroccan Tamazight|True
+MA|zgh-MA|,| |4096|Standard Moroccan Tamazight (Morocco)|False
+ZH|zh|.|,|30724|Chinese|True
+ZH-HANS|zh-Hans|.|,|4|Chinese (Simplified)|True
+CN|zh-Hans-CN|.|,|4096|Chinese (Simplified, China)|False
+HK|zh-Hans-HK|.|,|4096|Chinese (Simplified, Hong Kong SAR)|False
+MO|zh-Hans-MO|.|,|4096|Chinese (Simplified, Macao SAR)|False
+SG|zh-Hans-SG|.|,|4096|Chinese (Simplified, Singapore)|False
+ZH-HANT|zh-Hant|.|,|31748|Chinese (Traditional)|True
+HK|zh-Hant-HK|.|,|4096|Chinese (Traditional, Hong Kong SAR)|False
+MO|zh-Hant-MO|.|,|4096|Chinese (Traditional, Macao SAR)|False
+TW|zh-Hant-TW|.|,|4096|Chinese (Traditional, Taiwan)|False
+ZU|zu|.|,|53|isiZulu|True
+ZA|zu-ZA|.|,|1077|isiZulu (South Africa)|False
