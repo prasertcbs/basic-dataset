@@ -1,0 +1,813 @@
+two_alpha_code,culture,locale,decimal_separator,group_separator,lcid,display_name,is_neutral_culture
+AA,aa,aa,.,",",4096,Afar,True
+DJ,aa-DJ,aa_DJ,.,",",4096,Afar (Djibouti),False
+ER,aa-ER,aa_ER,.,",",4096,Afar (Eritrea),False
+ET,aa-ET,aa_ET,.,",",4096,Afar (Ethiopia),False
+AF,af,af,",", ,54,Afrikaans,True
+NA,af-NA,af_NA,",", ,4096,Afrikaans (Namibia),False
+ZA,af-ZA,af_ZA,",", ,1078,Afrikaans (South Africa),False
+AGQ,agq,agq,",", ,4096,Aghem,True
+CM,agq-CM,agq_CM,",", ,4096,Aghem (Cameroon),False
+AK,ak,ak,.,",",4096,Akan,True
+GH,ak-GH,ak_GH,.,",",4096,Akan (Ghana),False
+AM,am,am,.,",",94,Amharic,True
+ET,am-ET,am_ET,.,",",1118,Amharic (Ethiopia),False
+AR,ar,ar,٫,٬,1,Arabic,True
+,ar-001,ar_001,٫,٬,4096,Arabic (World),False
+AE,ar-AE,ar_AE,٫,٬,14337,Arabic (United Arab Emirates),False
+BH,ar-BH,ar_BH,٫,٬,15361,Arabic (Bahrain),False
+DJ,ar-DJ,ar_DJ,٫,٬,4096,Arabic (Djibouti),False
+DZ,ar-DZ,ar_DZ,",",.,5121,Arabic (Algeria),False
+EG,ar-EG,ar_EG,٫,٬,3073,Arabic (Egypt),False
+ER,ar-ER,ar_ER,٫,٬,4096,Arabic (Eritrea),False
+IL,ar-IL,ar_IL,٫,٬,4096,Arabic (Israel),False
+IQ,ar-IQ,ar_IQ,٫,٬,2049,Arabic (Iraq),False
+JO,ar-JO,ar_JO,٫,٬,11265,Arabic (Jordan),False
+KM,ar-KM,ar_KM,٫,٬,4096,Arabic (Comoros),False
+KW,ar-KW,ar_KW,٫,٬,13313,Arabic (Kuwait),False
+LB,ar-LB,ar_LB,٫,٬,12289,Arabic (Lebanon),False
+LY,ar-LY,ar_LY,",",.,4097,Arabic (Libya),False
+MA,ar-MA,ar_MA,",",.,6145,Arabic (Morocco),False
+MR,ar-MR,ar_MR,٫,٬,4096,Arabic (Mauritania),False
+OM,ar-OM,ar_OM,٫,٬,8193,Arabic (Oman),False
+PS,ar-PS,ar_PS,٫,٬,4096,Arabic (Palestinian Authority),False
+QA,ar-QA,ar_QA,٫,٬,16385,Arabic (Qatar),False
+SA,ar-SA,ar_SA,٫,٬,1025,Arabic (Saudi Arabia),False
+SD,ar-SD,ar_SD,٫,٬,4096,Arabic (Sudan),False
+SO,ar-SO,ar_SO,٫,٬,4096,Arabic (Somalia),False
+SS,ar-SS,ar_SS,٫,٬,4096,Arabic (South Sudan),False
+SY,ar-SY,ar_SY,٫,٬,10241,Arabic (Syria),False
+TD,ar-TD,ar_TD,٫,٬,4096,Arabic (Chad),False
+TN,ar-TN,ar_TN,",",.,7169,Arabic (Tunisia),False
+YE,ar-YE,ar_YE,٫,٬,9217,Arabic (Yemen),False
+ARN,arn,arn,.,",",122,Mapuche,True
+CL,arn-CL,arn_CL,.,",",1146,Mapuche (Chile),False
+AS,as,as,.,",",77,Assamese,True
+IN,as-IN,as_IN,.,",",1101,Assamese (India),False
+ASA,asa,asa,.,",",4096,Asu,True
+TZ,asa-TZ,asa_TZ,.,",",4096,Asu (Tanzania),False
+AST,ast,ast,",",.,4096,Asturian,True
+ES,ast-ES,ast_ES,",",.,4096,Asturian (Spain),False
+AZ,az,az,",",.,44,Azerbaijani,True
+AZ-CYRL,az-Cyrl,az_Cyrl,",",.,29740,Azerbaijani (Cyrillic),True
+AZ,az-Cyrl-AZ,az_Cyrl_AZ,",",.,2092,"Azerbaijani (Cyrillic, Azerbaijan)",False
+AZ-LATN,az-Latn,az_Latn,",",.,30764,Azerbaijani (Latin),True
+AZ,az-Latn-AZ,az_Latn_AZ,",",.,1068,"Azerbaijani (Latin, Azerbaijan)",False
+BA,ba,ba,.,",",109,Bashkir,True
+RU,ba-RU,ba_RU,.,",",1133,Bashkir (Russia),False
+BAS,bas,bas,",", ,4096,Basaa,True
+CM,bas-CM,bas_CM,",", ,4096,Basaa (Cameroon),False
+BE,be,be,",", ,35,Belarusian,True
+BY,be-BY,be_BY,",", ,1059,Belarusian (Belarus),False
+BEM,bem,bem,.,",",4096,Bemba,True
+ZM,bem-ZM,bem_ZM,.,",",4096,Bemba (Zambia),False
+BEZ,bez,bez,.,",",4096,Bena,True
+TZ,bez-TZ,bez_TZ,.,",",4096,Bena (Tanzania),False
+BG,bg,bg,",", ,2,Bulgarian,True
+BG,bg-BG,bg_BG,",", ,1026,Bulgarian (Bulgaria),False
+BM,bm,bm,.,",",4096,Bamanankan,True
+ML,bm-ML,bm_ML,.,",",4096,Bamanankan (Mali),False
+BN,bn,bn,.,",",69,Bangla,True
+BD,bn-BD,bn_BD,.,",",2117,Bangla (Bangladesh),False
+IN,bn-IN,bn_IN,.,",",1093,Bangla (India),False
+BO,bo,bo,.,",",81,Tibetan,True
+CN,bo-CN,bo_CN,.,",",1105,Tibetan (China),False
+IN,bo-IN,bo_IN,.,",",4096,Tibetan (India),False
+BR,br,br,",", ,126,Breton,True
+FR,br-FR,br_FR,",", ,1150,Breton (France),False
+BRX,brx,brx,.,",",4096,Bodo,True
+IN,brx-IN,brx_IN,.,",",4096,Bodo (India),False
+BS,bs,bs,",",.,30746,Bosnian,True
+BS-CYRL,bs-Cyrl,bs_Cyrl,",",.,25626,Bosnian (Cyrillic),True
+BA,bs-Cyrl-BA,bs_Cyrl_BA,",",.,8218,"Bosnian (Cyrillic, Bosnia & Herzegovina)",False
+BS-LATN,bs-Latn,bs_Latn,",",.,26650,Bosnian (Latin),True
+BA,bs-Latn-BA,bs_Latn_BA,",",.,5146,"Bosnian (Latin, Bosnia & Herzegovina)",False
+BYN,byn,byn,.,",",4096,Blin,True
+ER,byn-ER,byn_ER,.,",",4096,Blin (Eritrea),False
+CA,ca,ca,",",.,3,Catalan,True
+AD,ca-AD,ca_AD,",",.,4096,Catalan (Andorra),False
+ES,ca-ES,ca_ES,",",.,1027,Catalan (Spain),False
+ES,ca-ES-VALENCIA,ca_ES_VALENCIA,",",.,2051,"Catalan (Spain, Valencian)",False
+FR,ca-FR,ca_FR,",",.,4096,Catalan (France),False
+IT,ca-IT,ca_IT,",",.,4096,Catalan (Italy),False
+CCP,ccp,ccp,.,",",4096,Chakma,True
+BD,ccp-BD,ccp_BD,.,",",4096,Chakma (Bangladesh),False
+IN,ccp-IN,ccp_IN,.,",",4096,Chakma (India),False
+CE,ce,ce,.,",",4096,Chechen,True
+RU,ce-RU,ce_RU,.,",",4096,Chechen (Russia),False
+CEB,ceb,ceb,.,",",4096,Cebuano,True
+PH,ceb-PH,ceb_PH,.,",",4096,Cebuano (Philippines),False
+CGG,cgg,cgg,.,",",4096,Chiga,True
+UG,cgg-UG,cgg_UG,.,",",4096,Chiga (Uganda),False
+CHR,chr,chr,.,",",92,Cherokee,True
+US,chr-US,chr_US,.,",",4096,Cherokee (United States),False
+CKB,ckb,ckb,٫,٬,4096,Central Kurdish,True
+IQ,ckb-IQ,ckb_IQ,٫,٬,4096,Central Kurdish (Iraq),False
+IR,ckb-IR,ckb_IR,٫,٬,4096,Central Kurdish (Iran),False
+CO,co,co,.,",",131,Corsican,True
+FR,co-FR,co_FR,.,",",1155,Corsican (France),False
+CS,cs,cs,",", ,5,Czech,True
+CZ,cs-CZ,cs_CZ,",", ,1029,Czech (Czechia),False
+CU,cu,cu,.,",",4096,Church Slavic,True
+RU,cu-RU,cu_RU,.,",",4096,Church Slavic (Russia),False
+CY,cy,cy,.,",",82,Welsh,True
+GB,cy-GB,cy_GB,.,",",1106,Welsh (United Kingdom),False
+DA,da,da,",",.,6,Danish,True
+DK,da-DK,da_DK,",",.,1030,Danish (Denmark),False
+GL,da-GL,da_GL,",",.,4096,Danish (Greenland),False
+DAV,dav,dav,.,",",4096,Taita,True
+KE,dav-KE,dav_KE,.,",",4096,Taita (Kenya),False
+DE,de,de,",",.,7,German,True
+AT,de-AT,de_AT,",",.,3079,German (Austria),False
+BE,de-BE,de_BE,",",.,4096,German (Belgium),False
+CH,de-CH,de_CH,.,’,2055,German (Switzerland),False
+DE,de-DE,de_DE,",",.,1031,German (Germany),False
+IT,de-IT,de_IT,",",.,4096,German (Italy),False
+LI,de-LI,de_LI,.,’,5127,German (Liechtenstein),False
+LU,de-LU,de_LU,",",.,4103,German (Luxembourg),False
+DJE,dje,dje,., ,4096,Zarma,True
+NE,dje-NE,dje_NE,., ,4096,Zarma (Niger),False
+DSB,dsb,dsb,",",.,31790,Lower Sorbian,True
+DE,dsb-DE,dsb_DE,",",.,2094,Lower Sorbian (Germany),False
+DUA,dua,dua,",", ,4096,Duala,True
+CM,dua-CM,dua_CM,",", ,4096,Duala (Cameroon),False
+DV,dv,dv,.,",",101,Divehi,True
+MV,dv-MV,dv_MV,.,",",1125,Divehi (Maldives),False
+DYO,dyo,dyo,",", ,4096,Jola-Fonyi,True
+SN,dyo-SN,dyo_SN,",", ,4096,Jola-Fonyi (Senegal),False
+DZ,dz,dz,.,",",4096,Dzongkha,True
+BT,dz-BT,dz_BT,.,",",3153,Dzongkha (Bhutan),False
+EBU,ebu,ebu,.,",",4096,Embu,True
+KE,ebu-KE,ebu_KE,.,",",4096,Embu (Kenya),False
+EE,ee,ee,.,",",4096,Ewe,True
+GH,ee-GH,ee_GH,.,",",4096,Ewe (Ghana),False
+TG,ee-TG,ee_TG,.,",",4096,Ewe (Togo),False
+EL,el,el,",",.,8,Greek,True
+CY,el-CY,el_CY,",",.,4096,Greek (Cyprus),False
+GR,el-GR,el_GR,",",.,1032,Greek (Greece),False
+EN,en,en,.,",",9,English,True
+,en-001,en_001,.,",",4096,English (World),False
+,en-150,en_150,.,",",4096,English (Europe),False
+AE,en-AE,en_AE,.,",",4096,English (United Arab Emirates),False
+AG,en-AG,en_AG,.,",",4096,English (Antigua & Barbuda),False
+AI,en-AI,en_AI,.,",",4096,English (Anguilla),False
+AS,en-AS,en_AS,.,",",4096,English (American Samoa),False
+AT,en-AT,en_AT,.,",",4096,English (Austria),False
+AU,en-AU,en_AU,.,",",3081,English (Australia),False
+BB,en-BB,en_BB,.,",",4096,English (Barbados),False
+BE,en-BE,en_BE,.,",",4096,English (Belgium),False
+BI,en-BI,en_BI,.,",",4096,English (Burundi),False
+BM,en-BM,en_BM,.,",",4096,English (Bermuda),False
+BS,en-BS,en_BS,.,",",4096,English (Bahamas),False
+BW,en-BW,en_BW,.,",",4096,English (Botswana),False
+BZ,en-BZ,en_BZ,.,",",10249,English (Belize),False
+CA,en-CA,en_CA,.,",",4105,English (Canada),False
+CC,en-CC,en_CC,.,",",4096,English (Cocos [Keeling] Islands),False
+CH,en-CH,en_CH,.,’,4096,English (Switzerland),False
+CK,en-CK,en_CK,.,",",4096,English (Cook Islands),False
+CM,en-CM,en_CM,.,",",4096,English (Cameroon),False
+CX,en-CX,en_CX,.,",",4096,English (Christmas Island),False
+CY,en-CY,en_CY,.,",",4096,English (Cyprus),False
+DE,en-DE,en_DE,.,",",4096,English (Germany),False
+DK,en-DK,en_DK,",",.,4096,English (Denmark),False
+DM,en-DM,en_DM,.,",",4096,English (Dominica),False
+ER,en-ER,en_ER,.,",",4096,English (Eritrea),False
+FI,en-FI,en_FI,.,",",4096,English (Finland),False
+FJ,en-FJ,en_FJ,.,",",4096,English (Fiji),False
+FK,en-FK,en_FK,.,",",4096,English (Falkland Islands),False
+FM,en-FM,en_FM,.,",",4096,English (Micronesia),False
+GB,en-GB,en_GB,.,",",2057,English (United Kingdom),False
+GD,en-GD,en_GD,.,",",4096,English (Grenada),False
+GG,en-GG,en_GG,.,",",4096,English (Guernsey),False
+GH,en-GH,en_GH,.,",",4096,English (Ghana),False
+GI,en-GI,en_GI,.,",",4096,English (Gibraltar),False
+GM,en-GM,en_GM,.,",",4096,English (Gambia),False
+GU,en-GU,en_GU,.,",",4096,English (Guam),False
+GY,en-GY,en_GY,.,",",4096,English (Guyana),False
+HK,en-HK,en_HK,.,",",15369,English (Hong Kong SAR),False
+IE,en-IE,en_IE,.,",",6153,English (Ireland),False
+IL,en-IL,en_IL,.,",",4096,English (Israel),False
+IM,en-IM,en_IM,.,",",4096,English (Isle of Man),False
+IN,en-IN,en_IN,.,",",16393,English (India),False
+IO,en-IO,en_IO,.,",",4096,English (British Indian Ocean Territory),False
+JE,en-JE,en_JE,.,",",4096,English (Jersey),False
+JM,en-JM,en_JM,.,",",8201,English (Jamaica),False
+KE,en-KE,en_KE,.,",",4096,English (Kenya),False
+KI,en-KI,en_KI,.,",",4096,English (Kiribati),False
+KN,en-KN,en_KN,.,",",4096,English (St. Kitts & Nevis),False
+KY,en-KY,en_KY,.,",",4096,English (Cayman Islands),False
+LC,en-LC,en_LC,.,",",4096,English (St. Lucia),False
+LR,en-LR,en_LR,.,",",4096,English (Liberia),False
+LS,en-LS,en_LS,.,",",4096,English (Lesotho),False
+MG,en-MG,en_MG,.,",",4096,English (Madagascar),False
+MH,en-MH,en_MH,.,",",4096,English (Marshall Islands),False
+MO,en-MO,en_MO,.,",",4096,English (Macao SAR),False
+MP,en-MP,en_MP,.,",",4096,English (Northern Mariana Islands),False
+MS,en-MS,en_MS,.,",",4096,English (Montserrat),False
+MT,en-MT,en_MT,.,",",4096,English (Malta),False
+MU,en-MU,en_MU,.,",",4096,English (Mauritius),False
+MW,en-MW,en_MW,.,",",4096,English (Malawi),False
+MY,en-MY,en_MY,.,",",17417,English (Malaysia),False
+NA,en-NA,en_NA,.,",",4096,English (Namibia),False
+NF,en-NF,en_NF,.,",",4096,English (Norfolk Island),False
+NG,en-NG,en_NG,.,",",4096,English (Nigeria),False
+NL,en-NL,en_NL,.,",",4096,English (Netherlands),False
+NR,en-NR,en_NR,.,",",4096,English (Nauru),False
+NU,en-NU,en_NU,.,",",4096,English (Niue),False
+NZ,en-NZ,en_NZ,.,",",5129,English (New Zealand),False
+PG,en-PG,en_PG,.,",",4096,English (Papua New Guinea),False
+PH,en-PH,en_PH,.,",",13321,English (Philippines),False
+PK,en-PK,en_PK,.,",",4096,English (Pakistan),False
+PN,en-PN,en_PN,.,",",4096,English (Pitcairn Islands),False
+PR,en-PR,en_PR,.,",",4096,English (Puerto Rico),False
+PW,en-PW,en_PW,.,",",4096,English (Palau),False
+RW,en-RW,en_RW,.,",",4096,English (Rwanda),False
+SB,en-SB,en_SB,.,",",4096,English (Solomon Islands),False
+SC,en-SC,en_SC,.,",",4096,English (Seychelles),False
+SD,en-SD,en_SD,.,",",4096,English (Sudan),False
+SE,en-SE,en_SE,",", ,4096,English (Sweden),False
+SG,en-SG,en_SG,.,",",18441,English (Singapore),False
+SH,en-SH,en_SH,.,",",4096,"English (St Helena, Ascension, Tristan da Cunha)",False
+SI,en-SI,en_SI,.,",",4096,English (Slovenia),False
+SL,en-SL,en_SL,.,",",4096,English (Sierra Leone),False
+SS,en-SS,en_SS,.,",",4096,English (South Sudan),False
+SX,en-SX,en_SX,.,",",4096,English (Sint Maarten),False
+SZ,en-SZ,en_SZ,.,",",4096,English (Eswatini),False
+TC,en-TC,en_TC,.,",",4096,English (Turks & Caicos Islands),False
+TK,en-TK,en_TK,.,",",4096,English (Tokelau),False
+TO,en-TO,en_TO,.,",",4096,English (Tonga),False
+TT,en-TT,en_TT,.,",",11273,English (Trinidad & Tobago),False
+TV,en-TV,en_TV,.,",",4096,English (Tuvalu),False
+TZ,en-TZ,en_TZ,.,",",4096,English (Tanzania),False
+UG,en-UG,en_UG,.,",",4096,English (Uganda),False
+UM,en-UM,en_UM,.,",",4096,English (U.S. Outlying Islands),False
+US,en-US,en_US,.,",",1033,English (United States),False
+US,en-US-POSIX,en_US_POSIX,.,",",4096,"English (United States, Computer)",False
+VC,en-VC,en_VC,.,",",4096,English (St. Vincent & Grenadines),False
+VG,en-VG,en_VG,.,",",4096,English (British Virgin Islands),False
+VI,en-VI,en_VI,.,",",4096,English (U.S. Virgin Islands),False
+VU,en-VU,en_VU,.,",",4096,English (Vanuatu),False
+WS,en-WS,en_WS,.,",",4096,English (Samoa),False
+ZA,en-ZA,en_ZA,",", ,7177,English (South Africa),False
+ZM,en-ZM,en_ZM,.,",",4096,English (Zambia),False
+ZW,en-ZW,en_ZW,.,",",12297,English (Zimbabwe),False
+EO,eo,eo,",", ,4096,Esperanto,True
+,eo-001,eo_001,",", ,4096,Esperanto (World),False
+ES,es,es,",",.,10,Spanish,True
+,es-419,es_419,.,",",22538,Spanish (Latin America),False
+AR,es-AR,es_AR,",",.,11274,Spanish (Argentina),False
+BO,es-BO,es_BO,",",.,16394,Spanish (Bolivia),False
+BR,es-BR,es_BR,.,",",4096,Spanish (Brazil),False
+BZ,es-BZ,es_BZ,.,",",4096,Spanish (Belize),False
+CL,es-CL,es_CL,",",.,13322,Spanish (Chile),False
+CO,es-CO,es_CO,",",.,9226,Spanish (Colombia),False
+CR,es-CR,es_CR,",", ,5130,Spanish (Costa Rica),False
+CU,es-CU,es_CU,.,",",23562,Spanish (Cuba),False
+DO,es-DO,es_DO,.,",",7178,Spanish (Dominican Republic),False
+EC,es-EC,es_EC,",",.,12298,Spanish (Ecuador),False
+ES,es-ES,es_ES,",",.,3082,Spanish (Spain),False
+GQ,es-GQ,es_GQ,",",.,4096,Spanish (Equatorial Guinea),False
+GT,es-GT,es_GT,.,",",4106,Spanish (Guatemala),False
+HN,es-HN,es_HN,.,",",18442,Spanish (Honduras),False
+MX,es-MX,es_MX,.,",",2058,Spanish (Mexico),False
+NI,es-NI,es_NI,.,",",19466,Spanish (Nicaragua),False
+PA,es-PA,es_PA,.,",",6154,Spanish (Panama),False
+PE,es-PE,es_PE,.,",",10250,Spanish (Peru),False
+PH,es-PH,es_PH,",",.,4096,Spanish (Philippines),False
+PR,es-PR,es_PR,.,",",20490,Spanish (Puerto Rico),False
+PY,es-PY,es_PY,",",.,15370,Spanish (Paraguay),False
+SV,es-SV,es_SV,.,",",17418,Spanish (El Salvador),False
+US,es-US,es_US,.,",",21514,Spanish (United States),False
+UY,es-UY,es_UY,",",.,14346,Spanish (Uruguay),False
+VE,es-VE,es_VE,",",.,8202,Spanish (Venezuela),False
+ET,et,et,",", ,37,Estonian,True
+EE,et-EE,et_EE,",", ,1061,Estonian (Estonia),False
+EU,eu,eu,",",.,45,Basque,True
+ES,eu-ES,eu_ES,",",.,1069,Basque (Spain),False
+EWO,ewo,ewo,",", ,4096,Ewondo,True
+CM,ewo-CM,ewo_CM,",", ,4096,Ewondo (Cameroon),False
+FA,fa,fa,٫,٬,41,Persian,True
+AF,fa-AF,fa_AF,٫,٬,4096,Persian (Afghanistan),False
+IR,fa-IR,fa_IR,٫,٬,1065,Persian (Iran),False
+FF,ff,ff,",", ,103,Fulah,True
+FF-LATN,ff-Latn,ff_Latn,",", ,31847,Fulah (Latin),True
+BF,ff-Latn-BF,ff_Latn_BF,",", ,4096,"Fulah (Latin, Burkina Faso)",False
+CM,ff-Latn-CM,ff_Latn_CM,",", ,4096,"Fulah (Latin, Cameroon)",False
+GH,ff-Latn-GH,ff_Latn_GH,",", ,4096,"Fulah (Latin, Ghana)",False
+GM,ff-Latn-GM,ff_Latn_GM,",", ,4096,"Fulah (Latin, Gambia)",False
+GN,ff-Latn-GN,ff_Latn_GN,",", ,4096,"Fulah (Latin, Guinea)",False
+GW,ff-Latn-GW,ff_Latn_GW,",", ,4096,"Fulah (Latin, Guinea-Bissau)",False
+LR,ff-Latn-LR,ff_Latn_LR,",", ,4096,"Fulah (Latin, Liberia)",False
+MR,ff-Latn-MR,ff_Latn_MR,",", ,4096,"Fulah (Latin, Mauritania)",False
+NE,ff-Latn-NE,ff_Latn_NE,",", ,4096,"Fulah (Latin, Niger)",False
+NG,ff-Latn-NG,ff_Latn_NG,",", ,4096,"Fulah (Latin, Nigeria)",False
+SL,ff-Latn-SL,ff_Latn_SL,",", ,4096,"Fulah (Latin, Sierra Leone)",False
+SN,ff-Latn-SN,ff_Latn_SN,",", ,2151,"Fulah (Latin, Senegal)",False
+FI,fi,fi,",", ,11,Finnish,True
+FI,fi-FI,fi_FI,",", ,1035,Finnish (Finland),False
+FIL,fil,fil,.,",",100,Filipino,True
+PH,fil-PH,fil_PH,.,",",1124,Filipino (Philippines),False
+FO,fo,fo,",",.,56,Faroese,True
+DK,fo-DK,fo_DK,",",.,4096,Faroese (Denmark),False
+FO,fo-FO,fo_FO,",",.,1080,Faroese (Faroe Islands),False
+FR,fr,fr,",", ,12,French,True
+BE,fr-BE,fr_BE,",", ,2060,French (Belgium),False
+BF,fr-BF,fr_BF,",", ,4096,French (Burkina Faso),False
+BI,fr-BI,fr_BI,",", ,4096,French (Burundi),False
+BJ,fr-BJ,fr_BJ,",", ,4096,French (Benin),False
+BL,fr-BL,fr_BL,",", ,4096,French (St. Barthélemy),False
+CA,fr-CA,fr_CA,",", ,3084,French (Canada),False
+CD,fr-CD,fr_CD,",", ,9228,French (Congo [DRC]),False
+CF,fr-CF,fr_CF,",", ,4096,French (Central African Republic),False
+CG,fr-CG,fr_CG,",", ,4096,French (Congo),False
+CH,fr-CH,fr_CH,., ,4108,French (Switzerland),False
+CI,fr-CI,fr_CI,",", ,12300,French (Côte d’Ivoire),False
+CM,fr-CM,fr_CM,",", ,11276,French (Cameroon),False
+DJ,fr-DJ,fr_DJ,",", ,4096,French (Djibouti),False
+DZ,fr-DZ,fr_DZ,",", ,4096,French (Algeria),False
+FR,fr-FR,fr_FR,",", ,1036,French (France),False
+GA,fr-GA,fr_GA,",", ,4096,French (Gabon),False
+GF,fr-GF,fr_GF,",", ,4096,French (French Guiana),False
+GN,fr-GN,fr_GN,",", ,4096,French (Guinea),False
+GP,fr-GP,fr_GP,",", ,4096,French (Guadeloupe),False
+GQ,fr-GQ,fr_GQ,",", ,4096,French (Equatorial Guinea),False
+HT,fr-HT,fr_HT,",", ,15372,French (Haiti),False
+KM,fr-KM,fr_KM,",", ,4096,French (Comoros),False
+LU,fr-LU,fr_LU,",",.,5132,French (Luxembourg),False
+MA,fr-MA,fr_MA,",",.,14348,French (Morocco),False
+MC,fr-MC,fr_MC,",", ,6156,French (Monaco),False
+MF,fr-MF,fr_MF,",", ,4096,French (St. Martin),False
+MG,fr-MG,fr_MG,",", ,4096,French (Madagascar),False
+ML,fr-ML,fr_ML,",", ,13324,French (Mali),False
+MQ,fr-MQ,fr_MQ,",", ,4096,French (Martinique),False
+MR,fr-MR,fr_MR,",", ,4096,French (Mauritania),False
+MU,fr-MU,fr_MU,",", ,4096,French (Mauritius),False
+NC,fr-NC,fr_NC,",", ,4096,French (New Caledonia),False
+NE,fr-NE,fr_NE,",", ,4096,French (Niger),False
+PF,fr-PF,fr_PF,",", ,4096,French (French Polynesia),False
+PM,fr-PM,fr_PM,",", ,4096,French (St. Pierre & Miquelon),False
+RE,fr-RE,fr_RE,",", ,8204,French (Réunion),False
+RW,fr-RW,fr_RW,",", ,4096,French (Rwanda),False
+SC,fr-SC,fr_SC,",", ,4096,French (Seychelles),False
+SN,fr-SN,fr_SN,",", ,10252,French (Senegal),False
+SY,fr-SY,fr_SY,",", ,4096,French (Syria),False
+TD,fr-TD,fr_TD,",", ,4096,French (Chad),False
+TG,fr-TG,fr_TG,",", ,4096,French (Togo),False
+TN,fr-TN,fr_TN,",", ,4096,French (Tunisia),False
+VU,fr-VU,fr_VU,",", ,4096,French (Vanuatu),False
+WF,fr-WF,fr_WF,",", ,4096,French (Wallis & Futuna),False
+YT,fr-YT,fr_YT,",", ,4096,French (Mayotte),False
+FUR,fur,fur,",",.,4096,Friulian,True
+IT,fur-IT,fur_IT,",",.,4096,Friulian (Italy),False
+FY,fy,fy,",",.,98,Western Frisian,True
+NL,fy-NL,fy_NL,",",.,1122,Western Frisian (Netherlands),False
+GA,ga,ga,.,",",60,Irish,True
+IE,ga-IE,ga_IE,.,",",2108,Irish (Ireland),False
+GD,gd,gd,.,",",145,Scottish Gaelic,True
+GB,gd-GB,gd_GB,.,",",1169,Scottish Gaelic (United Kingdom),False
+GL,gl,gl,",",.,86,Galician,True
+ES,gl-ES,gl_ES,",",.,1110,Galician (Spain),False
+GN,gn,gn,.,",",116,Guarani,True
+PY,gn-PY,gn_PY,.,",",1140,Guarani (Paraguay),False
+GSW,gsw,gsw,.,’,132,Swiss German,True
+CH,gsw-CH,gsw_CH,.,’,4096,Swiss German (Switzerland),False
+FR,gsw-FR,gsw_FR,.,’,1156,Swiss German (France),False
+LI,gsw-LI,gsw_LI,.,’,4096,Swiss German (Liechtenstein),False
+GU,gu,gu,.,",",71,Gujarati,True
+IN,gu-IN,gu_IN,.,",",1095,Gujarati (India),False
+GUZ,guz,guz,.,",",4096,Gusii,True
+KE,guz-KE,guz_KE,.,",",4096,Gusii (Kenya),False
+GV,gv,gv,.,",",4096,Manx,True
+IM,gv-IM,gv_IM,.,",",4096,Manx (Isle of Man),False
+HA,ha,ha,.,",",104,Hausa,True
+GH,ha-GH,ha_GH,.,",",4096,Hausa (Ghana),False
+NE,ha-NE,ha_NE,.,",",4096,Hausa (Niger),False
+NG,ha-NG,ha_NG,.,",",4096,Hausa (Nigeria),False
+HAW,haw,haw,.,",",117,Hawaiian,True
+US,haw-US,haw_US,.,",",1141,Hawaiian (United States),False
+HE,he,he,.,",",13,Hebrew,True
+IL,he-IL,he_IL,.,",",1037,Hebrew (Israel),False
+HI,hi,hi,.,",",57,Hindi,True
+IN,hi-IN,hi_IN,.,",",1081,Hindi (India),False
+HR,hr,hr,",",.,26,Croatian,True
+BA,hr-BA,hr_BA,",",.,4122,Croatian (Bosnia & Herzegovina),False
+HR,hr-HR,hr_HR,",",.,1050,Croatian (Croatia),False
+HSB,hsb,hsb,",",.,46,Upper Sorbian,True
+DE,hsb-DE,hsb_DE,",",.,1070,Upper Sorbian (Germany),False
+HU,hu,hu,",", ,14,Hungarian,True
+HU,hu-HU,hu_HU,",", ,1038,Hungarian (Hungary),False
+HY,hy,hy,",", ,43,Armenian,True
+AM,hy-AM,hy_AM,",", ,1067,Armenian (Armenia),False
+IA,ia,ia,",",.,4096,Interlingua,True
+,ia-001,ia_001,",",.,4096,Interlingua (World),False
+ID,id,id,",",.,33,Indonesian,True
+ID,id-ID,id_ID,",",.,1057,Indonesian (Indonesia),False
+IG,ig,ig,.,",",112,Igbo,True
+NG,ig-NG,ig_NG,.,",",1136,Igbo (Nigeria),False
+II,ii,ii,.,",",120,Yi,True
+CN,ii-CN,ii_CN,.,",",1144,Yi (China),False
+IS,is,is,",",.,15,Icelandic,True
+IS,is-IS,is_IS,",",.,1039,Icelandic (Iceland),False
+IT,it,it,",",.,16,Italian,True
+CH,it-CH,it_CH,.,’,2064,Italian (Switzerland),False
+IT,it-IT,it_IT,",",.,1040,Italian (Italy),False
+SM,it-SM,it_SM,",",.,4096,Italian (San Marino),False
+VA,it-VA,it_VA,",",.,4096,Italian (Vatican City),False
+IU,iu,iu,.,",",93,Inuktitut,True
+CA,iu-CA,iu_CA,.,",",4096,Inuktitut (Canada),False
+IU-LATN,iu-Latn,iu_Latn,.,",",31837,Inuktitut (Latin),True
+CA,iu-Latn-CA,iu_Latn_CA,.,",",2141,"Inuktitut (Latin, Canada)",False
+JA,ja,ja,.,",",17,Japanese,True
+JP,ja-JP,ja_JP,.,",",1041,Japanese (Japan),False
+JGO,jgo,jgo,",",.,4096,Ngomba,True
+CM,jgo-CM,jgo_CM,",",.,4096,Ngomba (Cameroon),False
+JMC,jmc,jmc,.,",",4096,Machame,True
+TZ,jmc-TZ,jmc_TZ,.,",",4096,Machame (Tanzania),False
+JV,jv,jv,",",.,4096,Javanese,True
+ID,jv-ID,jv_ID,",",.,4096,Javanese (Indonesia),False
+KA,ka,ka,",", ,55,Georgian,True
+GE,ka-GE,ka_GE,",", ,1079,Georgian (Georgia),False
+KAB,kab,kab,",", ,4096,Kabyle,True
+DZ,kab-DZ,kab_DZ,",", ,4096,Kabyle (Algeria),False
+KAM,kam,kam,.,",",4096,Kamba,True
+KE,kam-KE,kam_KE,.,",",4096,Kamba (Kenya),False
+KDE,kde,kde,.,",",4096,Makonde,True
+TZ,kde-TZ,kde_TZ,.,",",4096,Makonde (Tanzania),False
+KEA,kea,kea,",", ,4096,Kabuverdianu,True
+CV,kea-CV,kea_CV,$, ,4096,Kabuverdianu (Cabo Verde),False
+KHQ,khq,khq,., ,4096,Koyra Chiini,True
+ML,khq-ML,khq_ML,., ,4096,Koyra Chiini (Mali),False
+KI,ki,ki,.,",",4096,Kikuyu,True
+KE,ki-KE,ki_KE,.,",",4096,Kikuyu (Kenya),False
+KK,kk,kk,",", ,63,Kazakh,True
+KZ,kk-KZ,kk_KZ,",", ,1087,Kazakh (Kazakhstan),False
+KKJ,kkj,kkj,",",.,4096,Kako,True
+CM,kkj-CM,kkj_CM,",",.,4096,Kako (Cameroon),False
+KL,kl,kl,",",.,111,Kalaallisut,True
+GL,kl-GL,kl_GL,",",.,1135,Kalaallisut (Greenland),False
+KLN,kln,kln,.,",",4096,Kalenjin,True
+KE,kln-KE,kln_KE,.,",",4096,Kalenjin (Kenya),False
+KM,km,km,",",.,83,Khmer,True
+KH,km-KH,km_KH,",",.,1107,Khmer (Cambodia),False
+KN,kn,kn,.,",",75,Kannada,True
+IN,kn-IN,kn_IN,.,",",1099,Kannada (India),False
+KO,ko,ko,.,",",18,Korean,True
+KP,ko-KP,ko_KP,.,",",4096,Korean (North Korea),False
+KR,ko-KR,ko_KR,.,",",1042,Korean (Korea),False
+KOK,kok,kok,.,",",87,Konkani,True
+IN,kok-IN,kok_IN,.,",",1111,Konkani (India),False
+KS,ks,ks,٫,٬,96,Kashmiri,True
+IN,ks-IN,ks_IN,٫,٬,4096,Kashmiri (India),False
+KSB,ksb,ksb,.,",",4096,Shambala,True
+TZ,ksb-TZ,ksb_TZ,.,",",4096,Shambala (Tanzania),False
+KSF,ksf,ksf,",", ,4096,Bafia,True
+CM,ksf-CM,ksf_CM,",", ,4096,Bafia (Cameroon),False
+KSH,ksh,ksh,",", ,4096,Colognian,True
+DE,ksh-DE,ksh_DE,",", ,4096,Colognian (Germany),False
+KW,kw,kw,.,",",4096,Cornish,True
+GB,kw-GB,kw_GB,.,",",4096,Cornish (United Kingdom),False
+KY,ky,ky,",", ,64,Kyrgyz,True
+KG,ky-KG,ky_KG,",", ,1088,Kyrgyz (Kyrgyzstan),False
+LAG,lag,lag,.,",",4096,Langi,True
+TZ,lag-TZ,lag_TZ,.,",",4096,Langi (Tanzania),False
+LB,lb,lb,",",.,110,Luxembourgish,True
+LU,lb-LU,lb_LU,",",.,1134,Luxembourgish (Luxembourg),False
+LG,lg,lg,.,",",4096,Ganda,True
+UG,lg-UG,lg_UG,.,",",4096,Ganda (Uganda),False
+LKT,lkt,lkt,.,",",4096,Lakota,True
+US,lkt-US,lkt_US,.,",",4096,Lakota (United States),False
+LN,ln,ln,",",.,4096,Lingala,True
+AO,ln-AO,ln_AO,",",.,4096,Lingala (Angola),False
+CD,ln-CD,ln_CD,",",.,4096,Lingala (Congo [DRC]),False
+CF,ln-CF,ln_CF,",",.,4096,Lingala (Central African Republic),False
+CG,ln-CG,ln_CG,",",.,4096,Lingala (Congo),False
+LO,lo,lo,",",.,84,Lao,True
+LA,lo-LA,lo_LA,",",.,1108,Lao (Laos),False
+LRC,lrc,lrc,٫,٬,4096,Northern Luri,True
+IQ,lrc-IQ,lrc_IQ,٫,٬,4096,Northern Luri (Iraq),False
+IR,lrc-IR,lrc_IR,٫,٬,4096,Northern Luri (Iran),False
+LT,lt,lt,",", ,39,Lithuanian,True
+LT,lt-LT,lt_LT,",", ,1063,Lithuanian (Lithuania),False
+LU,lu,lu,",",.,4096,Luba-Katanga,True
+CD,lu-CD,lu_CD,",",.,4096,Luba-Katanga (Congo [DRC]),False
+LUO,luo,luo,.,",",4096,Luo,True
+KE,luo-KE,luo_KE,.,",",4096,Luo (Kenya),False
+LUY,luy,luy,.,",",4096,Luyia,True
+KE,luy-KE,luy_KE,.,",",4096,Luyia (Kenya),False
+LV,lv,lv,",", ,38,Latvian,True
+LV,lv-LV,lv_LV,",", ,1062,Latvian (Latvia),False
+MAS,mas,mas,.,",",4096,Masai,True
+KE,mas-KE,mas_KE,.,",",4096,Masai (Kenya),False
+TZ,mas-TZ,mas_TZ,.,",",4096,Masai (Tanzania),False
+MER,mer,mer,.,",",4096,Meru,True
+KE,mer-KE,mer_KE,.,",",4096,Meru (Kenya),False
+MFE,mfe,mfe,., ,4096,Morisyen,True
+MU,mfe-MU,mfe_MU,., ,4096,Morisyen (Mauritius),False
+MG,mg,mg,.,",",4096,Malagasy,True
+MG,mg-MG,mg_MG,.,",",4096,Malagasy (Madagascar),False
+MGH,mgh,mgh,",",.,4096,Makhuwa-Meetto,True
+MZ,mgh-MZ,mgh_MZ,",",.,4096,Makhuwa-Meetto (Mozambique),False
+MGO,mgo,mgo,.,",",4096,Metaʼ,True
+CM,mgo-CM,mgo_CM,.,",",4096,Metaʼ (Cameroon),False
+MI,mi,mi,.,",",129,Maori,True
+NZ,mi-NZ,mi_NZ,.,",",1153,Maori (New Zealand),False
+MK,mk,mk,",",.,47,Macedonian,True
+MK,mk-MK,mk_MK,",",.,1071,Macedonian (North Macedonia),False
+ML,ml,ml,.,",",76,Malayalam,True
+IN,ml-IN,ml_IN,.,",",1100,Malayalam (India),False
+MN,mn,mn,.,",",80,Mongolian,True
+MN,mn-MN,mn_MN,.,",",1104,Mongolian (Mongolia),False
+MN-MONG,mn-Mong,mn_Mong,.,",",31824,Mongolian (Mongolian),True
+CN,mn-Mong-CN,mn_Mong_CN,.,",",2128,"Mongolian (Mongolian, China)",False
+MN,mn-Mong-MN,mn_Mong_MN,",",",",3152,"Mongolian (Mongolian, Mongolia)",False
+MOH,moh,moh,.,",",124,Mohawk,True
+CA,moh-CA,moh_CA,.,",",1148,Mohawk (Canada),False
+MR,mr,mr,.,",",78,Marathi,True
+IN,mr-IN,mr_IN,.,",",1102,Marathi (India),False
+MS,ms,ms,.,",",62,Malay,True
+BN,ms-BN,ms_BN,",",.,2110,Malay (Brunei),False
+MY,ms-MY,ms_MY,.,",",1086,Malay (Malaysia),False
+SG,ms-SG,ms_SG,.,",",4096,Malay (Singapore),False
+MT,mt,mt,.,",",58,Maltese,True
+MT,mt-MT,mt_MT,.,",",1082,Maltese (Malta),False
+MUA,mua,mua,",",.,4096,Mundang,True
+CM,mua-CM,mua_CM,",",.,4096,Mundang (Cameroon),False
+MY,my,my,.,",",85,Burmese,True
+MM,my-MM,my_MM,.,",",1109,Burmese (Myanmar),False
+MZN,mzn,mzn,٫,٬,4096,Mazanderani,True
+IR,mzn-IR,mzn_IR,٫,٬,4096,Mazanderani (Iran),False
+NAQ,naq,naq,.,",",4096,Nama,True
+NA,naq-NA,naq_NA,.,",",4096,Nama (Namibia),False
+NB,nb,nb,",", ,31764,Norwegian Bokmål,True
+NO,nb-NO,nb_NO,",", ,1044,Norwegian Bokmål (Norway),False
+SJ,nb-SJ,nb_SJ,",", ,4096,Norwegian Bokmål (Svalbard & Jan Mayen),False
+ND,nd,nd,.,",",4096,North Ndebele,True
+ZW,nd-ZW,nd_ZW,.,",",4096,North Ndebele (Zimbabwe),False
+NDS,nds,nds,.,",",4096,Low German,True
+DE,nds-DE,nds_DE,.,",",4096,Low German (Germany),False
+NL,nds-NL,nds_NL,.,",",4096,Low German (Netherlands),False
+NE,ne,ne,.,",",97,Nepali,True
+IN,ne-IN,ne_IN,.,",",2145,Nepali (India),False
+NP,ne-NP,ne_NP,.,",",1121,Nepali (Nepal),False
+NL,nl,nl,",",.,19,Dutch,True
+AW,nl-AW,nl_AW,",",.,4096,Dutch (Aruba),False
+BE,nl-BE,nl_BE,",",.,2067,Dutch (Belgium),False
+BQ,nl-BQ,nl_BQ,",",.,4096,"Dutch (Bonaire, Sint Eustatius and Saba)",False
+CW,nl-CW,nl_CW,",",.,4096,Dutch (Curaçao),False
+NL,nl-NL,nl_NL,",",.,1043,Dutch (Netherlands),False
+SR,nl-SR,nl_SR,",",.,4096,Dutch (Suriname),False
+SX,nl-SX,nl_SX,",",.,4096,Dutch (Sint Maarten),False
+NMG,nmg,nmg,",", ,4096,Kwasio,True
+CM,nmg-CM,nmg_CM,",", ,4096,Kwasio (Cameroon),False
+NN,nn,nn,",", ,30740,Norwegian Nynorsk,True
+NO,nn-NO,nn_NO,",", ,2068,Norwegian Nynorsk (Norway),False
+NNH,nnh,nnh,",",.,4096,Ngiemboon,True
+CM,nnh-CM,nnh_CM,",",.,4096,Ngiemboon (Cameroon),False
+NQO,nqo,nqo,.,",",4096,N’Ko,True
+GN,nqo-GN,nqo_GN,.,",",4096,N’Ko (Guinea),False
+NR,nr,nr,",", ,4096,South Ndebele,True
+ZA,nr-ZA,nr_ZA,",", ,4096,South Ndebele (South Africa),False
+NSO,nso,nso,., ,108,Sesotho sa Leboa,True
+ZA,nso-ZA,nso_ZA,., ,1132,Sesotho sa Leboa (South Africa),False
+NUS,nus,nus,.,",",4096,Nuer,True
+SS,nus-SS,nus_SS,.,",",4096,Nuer (South Sudan),False
+NYN,nyn,nyn,.,",",4096,Nyankole,True
+UG,nyn-UG,nyn_UG,.,",",4096,Nyankole (Uganda),False
+OC,oc,oc,.,",",130,Occitan,True
+FR,oc-FR,oc_FR,.,",",1154,Occitan (France),False
+OM,om,om,.,",",114,Oromo,True
+ET,om-ET,om_ET,.,",",1138,Oromo (Ethiopia),False
+KE,om-KE,om_KE,.,",",4096,Oromo (Kenya),False
+OR,or,or,.,",",72,Odia,True
+IN,or-IN,or_IN,.,",",1096,Odia (India),False
+OS,os,os,",", ,4096,Ossetic,True
+GE,os-GE,os_GE,",", ,4096,Ossetic (Georgia),False
+RU,os-RU,os_RU,",", ,4096,Ossetic (Russia),False
+PA,pa,pa,.,",",70,Punjabi,True
+PA-ARAB,pa-Arab,pa_Arab,٫,٬,31814,Punjabi (Arabic),True
+PK,pa-Arab-PK,pa_Arab_PK,٫,٬,2118,"Punjabi (Arabic, Pakistan)",False
+PA-GURU,pa-Guru,pa_Guru,.,",",4096,Punjabi (Gurmukhi),True
+IN,pa-Guru-IN,pa_Guru_IN,.,",",4096,"Punjabi (Gurmukhi, India)",False
+PL,pl,pl,",", ,21,Polish,True
+PL,pl-PL,pl_PL,",", ,1045,Polish (Poland),False
+PRG,prg,prg,.,",",4096,Prussian,True
+,prg-001,prg_001,.,",",4096,Prussian (World),False
+PS,ps,ps,٫,٬,99,Pashto,True
+AF,ps-AF,ps_AF,٫,٬,1123,Pashto (Afghanistan),False
+PK,ps-PK,ps_PK,٫,٬,4096,Pashto (Pakistan),False
+PT,pt,pt,",",.,22,Portuguese,True
+AO,pt-AO,pt_AO,",", ,4096,Portuguese (Angola),False
+BR,pt-BR,pt_BR,",",.,1046,Portuguese (Brazil),False
+CH,pt-CH,pt_CH,",", ,4096,Portuguese (Switzerland),False
+CV,pt-CV,pt_CV,$, ,4096,Portuguese (Cabo Verde),False
+GQ,pt-GQ,pt_GQ,",", ,4096,Portuguese (Equatorial Guinea),False
+GW,pt-GW,pt_GW,",", ,4096,Portuguese (Guinea-Bissau),False
+LU,pt-LU,pt_LU,",", ,4096,Portuguese (Luxembourg),False
+MO,pt-MO,pt_MO,",", ,4096,Portuguese (Macao SAR),False
+MZ,pt-MZ,pt_MZ,",", ,4096,Portuguese (Mozambique),False
+PT,pt-PT,pt_PT,",", ,2070,Portuguese (Portugal),False
+ST,pt-ST,pt_ST,",", ,4096,Portuguese (São Tomé & Príncipe),False
+TL,pt-TL,pt_TL,",", ,4096,Portuguese (Timor-Leste),False
+QU,qu,qu,.,",",4096,Quechua,True
+BO,qu-BO,qu_BO,",",.,4096,Quechua (Bolivia),False
+EC,qu-EC,qu_EC,.,",",4096,Quechua (Ecuador),False
+PE,qu-PE,qu_PE,.,",",4096,Quechua (Peru),False
+QUC,quc,quc,.,",",134,Kʼicheʼ,True
+GT,quc-GT,quc_GT,.,",",4096,Kʼicheʼ (Guatemala),False
+RM,rm,rm,.,’,23,Romansh,True
+CH,rm-CH,rm_CH,.,’,1047,Romansh (Switzerland),False
+RN,rn,rn,",",.,4096,Rundi,True
+BI,rn-BI,rn_BI,",",.,4096,Rundi (Burundi),False
+RO,ro,ro,",",.,24,Romanian,True
+MD,ro-MD,ro_MD,",",.,2072,Romanian (Moldova),False
+RO,ro-RO,ro_RO,",",.,1048,Romanian (Romania),False
+ROF,rof,rof,.,",",4096,Rombo,True
+TZ,rof-TZ,rof_TZ,.,",",4096,Rombo (Tanzania),False
+RU,ru,ru,",", ,25,Russian,True
+BY,ru-BY,ru_BY,",", ,4096,Russian (Belarus),False
+KG,ru-KG,ru_KG,",", ,4096,Russian (Kyrgyzstan),False
+KZ,ru-KZ,ru_KZ,",", ,4096,Russian (Kazakhstan),False
+MD,ru-MD,ru_MD,",", ,2073,Russian (Moldova),False
+RU,ru-RU,ru_RU,",", ,1049,Russian (Russia),False
+UA,ru-UA,ru_UA,",", ,4096,Russian (Ukraine),False
+RW,rw,rw,",",.,135,Kinyarwanda,True
+RW,rw-RW,rw_RW,",",.,1159,Kinyarwanda (Rwanda),False
+RWK,rwk,rwk,.,",",4096,Rwa,True
+TZ,rwk-TZ,rwk_TZ,.,",",4096,Rwa (Tanzania),False
+SA,sa,sa,.,",",79,Sanskrit,True
+IN,sa-IN,sa_IN,.,",",1103,Sanskrit (India),False
+SAH,sah,sah,",", ,133,Sakha,True
+RU,sah-RU,sah_RU,",", ,1157,Sakha (Russia),False
+SAQ,saq,saq,.,",",4096,Samburu,True
+KE,saq-KE,saq_KE,.,",",4096,Samburu (Kenya),False
+SBP,sbp,sbp,.,",",4096,Sangu,True
+TZ,sbp-TZ,sbp_TZ,.,",",4096,Sangu (Tanzania),False
+SD,sd,sd,٫,٬,89,Sindhi,True
+PK,sd-PK,sd_PK,٫,٬,4096,Sindhi (Pakistan),False
+SE,se,se,",", ,59,Northern Sami,True
+FI,se-FI,se_FI,",", ,3131,Northern Sami (Finland),False
+NO,se-NO,se_NO,",", ,1083,Northern Sami (Norway),False
+SE,se-SE,se_SE,",", ,2107,Northern Sami (Sweden),False
+SEH,seh,seh,",",.,4096,Sena,True
+MZ,seh-MZ,seh_MZ,",",.,4096,Sena (Mozambique),False
+SES,ses,ses,., ,4096,Koyraboro Senni,True
+ML,ses-ML,ses_ML,., ,4096,Koyraboro Senni (Mali),False
+SG,sg,sg,",",.,4096,Sango,True
+CF,sg-CF,sg_CF,",",.,4096,Sango (Central African Republic),False
+SHI,shi,shi,",", ,4096,Tachelhit,True
+SHI-LATN,shi-Latn,shi_Latn,",", ,4096,Tachelhit (Latin),True
+MA,shi-Latn-MA,shi_Latn_MA,",", ,4096,"Tachelhit (Latin, Morocco)",False
+SHI-TFNG,shi-Tfng,shi_Tfng,",", ,4096,Tachelhit (Tifinagh),True
+MA,shi-Tfng-MA,shi_Tfng_MA,",", ,4096,"Tachelhit (Tifinagh, Morocco)",False
+SI,si,si,.,",",91,Sinhala,True
+LK,si-LK,si_LK,.,",",1115,Sinhala (Sri Lanka),False
+SK,sk,sk,",", ,27,Slovak,True
+SK,sk-SK,sk_SK,",", ,1051,Slovak (Slovakia),False
+SL,sl,sl,",",.,36,Slovenian,True
+SI,sl-SI,sl_SI,",",.,1060,Slovenian (Slovenia),False
+SMA,sma,sma,.,",",30779,Southern Sami,True
+NO,sma-NO,sma_NO,.,",",6203,Southern Sami (Norway),False
+SE,sma-SE,sma_SE,.,",",7227,Southern Sami (Sweden),False
+SMJ,smj,smj,.,",",31803,Lule Sami,True
+NO,smj-NO,smj_NO,.,",",4155,Lule Sami (Norway),False
+SE,smj-SE,smj_SE,.,",",5179,Lule Sami (Sweden),False
+SMN,smn,smn,",", ,28731,Inari Sami,True
+FI,smn-FI,smn_FI,",", ,9275,Inari Sami (Finland),False
+SMS,sms,sms,.,",",29755,Skolt Sami,True
+FI,sms-FI,sms_FI,.,",",8251,Skolt Sami (Finland),False
+SN,sn,sn,.,",",4096,Shona,True
+ZW,sn-ZW,sn_ZW,.,",",4096,Shona (Zimbabwe),False
+SO,so,so,.,",",119,Somali,True
+DJ,so-DJ,so_DJ,.,",",4096,Somali (Djibouti),False
+ET,so-ET,so_ET,.,",",4096,Somali (Ethiopia),False
+KE,so-KE,so_KE,.,",",4096,Somali (Kenya),False
+SO,so-SO,so_SO,.,",",1143,Somali (Somalia),False
+SQ,sq,sq,",", ,28,Albanian,True
+AL,sq-AL,sq_AL,",", ,1052,Albanian (Albania),False
+MK,sq-MK,sq_MK,",", ,4096,Albanian (North Macedonia),False
+XK,sq-XK,sq_XK,",", ,4096,Albanian (Kosovo),False
+SR,sr,sr,",",.,31770,Serbian,True
+SR-CYRL,sr-Cyrl,sr_Cyrl,",",.,27674,Serbian (Cyrillic),True
+BA,sr-Cyrl-BA,sr_Cyrl_BA,",",.,7194,"Serbian (Cyrillic, Bosnia & Herzegovina)",False
+ME,sr-Cyrl-ME,sr_Cyrl_ME,",",.,12314,"Serbian (Cyrillic, Montenegro)",False
+RS,sr-Cyrl-RS,sr_Cyrl_RS,",",.,10266,"Serbian (Cyrillic, Serbia)",False
+XK,sr-Cyrl-XK,sr_Cyrl_XK,",",.,4096,"Serbian (Cyrillic, Kosovo)",False
+SR-LATN,sr-Latn,sr_Latn,",",.,28698,Serbian (Latin),True
+BA,sr-Latn-BA,sr_Latn_BA,",",.,6170,"Serbian (Latin, Bosnia & Herzegovina)",False
+ME,sr-Latn-ME,sr_Latn_ME,",",.,11290,"Serbian (Latin, Montenegro)",False
+RS,sr-Latn-RS,sr_Latn_RS,",",.,9242,"Serbian (Latin, Serbia)",False
+XK,sr-Latn-XK,sr_Latn_XK,",",.,4096,"Serbian (Latin, Kosovo)",False
+SS,ss,ss,",", ,4096,siSwati,True
+SZ,ss-SZ,ss_SZ,",", ,4096,siSwati (Eswatini),False
+ZA,ss-ZA,ss_ZA,",", ,4096,siSwati (South Africa),False
+SSY,ssy,ssy,.,",",4096,Saho,True
+ER,ssy-ER,ssy_ER,.,",",4096,Saho (Eritrea),False
+ST,st,st,",", ,48,Sesotho,True
+LS,st-LS,st_LS,",", ,4096,Sesotho (Lesotho),False
+ZA,st-ZA,st_ZA,",", ,1072,Sesotho (South Africa),False
+SV,sv,sv,",", ,29,Swedish,True
+AX,sv-AX,sv_AX,",", ,4096,Swedish (Åland Islands),False
+FI,sv-FI,sv_FI,",", ,2077,Swedish (Finland),False
+SE,sv-SE,sv_SE,",", ,1053,Swedish (Sweden),False
+SW,sw,sw,.,",",65,Kiswahili,True
+CD,sw-CD,sw_CD,",",.,4096,Kiswahili (Congo [DRC]),False
+KE,sw-KE,sw_KE,.,",",1089,Kiswahili (Kenya),False
+TZ,sw-TZ,sw_TZ,.,",",4096,Kiswahili (Tanzania),False
+UG,sw-UG,sw_UG,.,",",4096,Kiswahili (Uganda),False
+SYR,syr,syr,.,",",90,Syriac,True
+SY,syr-SY,syr_SY,.,",",1114,Syriac (Syria),False
+TA,ta,ta,.,",",73,Tamil,True
+IN,ta-IN,ta_IN,.,",",1097,Tamil (India),False
+LK,ta-LK,ta_LK,.,",",2121,Tamil (Sri Lanka),False
+MY,ta-MY,ta_MY,.,",",4096,Tamil (Malaysia),False
+SG,ta-SG,ta_SG,.,",",4096,Tamil (Singapore),False
+TE,te,te,.,",",74,Telugu,True
+IN,te-IN,te_IN,.,",",1098,Telugu (India),False
+TEO,teo,teo,.,",",4096,Teso,True
+KE,teo-KE,teo_KE,.,",",4096,Teso (Kenya),False
+UG,teo-UG,teo_UG,.,",",4096,Teso (Uganda),False
+TG,tg,tg,",", ,40,Tajik,True
+TJ,tg-TJ,tg_TJ,",", ,4096,Tajik (Tajikistan),False
+TH,th,th,.,",",30,Thai,True
+TH,th-TH,th_TH,.,",",1054,Thai (Thailand),False
+TI,ti,ti,.,",",115,Tigrinya,True
+ER,ti-ER,ti_ER,.,",",2163,Tigrinya (Eritrea),False
+ET,ti-ET,ti_ET,.,",",1139,Tigrinya (Ethiopia),False
+TIG,tig,tig,.,",",4096,Tigre,True
+ER,tig-ER,tig_ER,.,",",4096,Tigre (Eritrea),False
+TK,tk,tk,",", ,66,Turkmen,True
+TM,tk-TM,tk_TM,",", ,1090,Turkmen (Turkmenistan),False
+TN,tn,tn,., ,50,Setswana,True
+BW,tn-BW,tn_BW,., ,2098,Setswana (Botswana),False
+ZA,tn-ZA,tn_ZA,., ,1074,Setswana (South Africa),False
+TO,to,to,.,",",4096,Tongan,True
+TO,to-TO,to_TO,.,",",4096,Tongan (Tonga),False
+TR,tr,tr,",",.,31,Turkish,True
+CY,tr-CY,tr_CY,",",.,4096,Turkish (Cyprus),False
+TR,tr-TR,tr_TR,",",.,1055,Turkish (Turkey),False
+TS,ts,ts,",", ,49,Xitsonga,True
+ZA,ts-ZA,ts_ZA,",", ,1073,Xitsonga (South Africa),False
+TT,tt,tt,",", ,68,Tatar,True
+RU,tt-RU,tt_RU,",", ,1092,Tatar (Russia),False
+TWQ,twq,twq,., ,4096,Tasawaq,True
+NE,twq-NE,twq_NE,., ,4096,Tasawaq (Niger),False
+TZM,tzm,tzm,",", ,95,Central Atlas Tamazight,True
+MA,tzm-MA,tzm_MA,",", ,4096,Central Atlas Tamazight (Morocco),False
+UG,ug,ug,.,",",128,Uyghur,True
+CN,ug-CN,ug_CN,.,",",1152,Uyghur (China),False
+UK,uk,uk,",", ,34,Ukrainian,True
+UA,uk-UA,uk_UA,",", ,1058,Ukrainian (Ukraine),False
+UR,ur,ur,.,",",32,Urdu,True
+IN,ur-IN,ur_IN,٫,٬,2080,Urdu (India),False
+PK,ur-PK,ur_PK,.,",",1056,Urdu (Pakistan),False
+UZ,uz,uz,",", ,67,Uzbek,True
+UZ-ARAB,uz-Arab,uz_Arab,٫,٬,4096,Uzbek (Arabic),True
+AF,uz-Arab-AF,uz_Arab_AF,٫,٬,4096,"Uzbek (Arabic, Afghanistan)",False
+UZ-CYRL,uz-Cyrl,uz_Cyrl,",", ,30787,Uzbek (Cyrillic),True
+UZ,uz-Cyrl-UZ,uz_Cyrl_UZ,",", ,2115,"Uzbek (Cyrillic, Uzbekistan)",False
+UZ-LATN,uz-Latn,uz_Latn,",", ,31811,Uzbek (Latin),True
+UZ,uz-Latn-UZ,uz_Latn_UZ,",", ,1091,"Uzbek (Latin, Uzbekistan)",False
+VAI,vai,vai,.,",",4096,Vai,True
+VAI-LATN,vai-Latn,vai_Latn,.,",",4096,Vai (Latin),True
+LR,vai-Latn-LR,vai_Latn_LR,.,",",4096,"Vai (Latin, Liberia)",False
+VAI-VAII,vai-Vaii,vai_Vaii,.,",",4096,Vai (Vai),True
+LR,vai-Vaii-LR,vai_Vaii_LR,.,",",4096,"Vai (Vai, Liberia)",False
+VE,ve,ve,",", ,51,Venda,True
+ZA,ve-ZA,ve_ZA,",", ,1075,Venda (South Africa),False
+VI,vi,vi,",",.,42,Vietnamese,True
+VN,vi-VN,vi_VN,",",.,1066,Vietnamese (Vietnam),False
+VO,vo,vo,.,",",4096,Volapük,True
+,vo-001,vo_001,.,",",4096,Volapük (World),False
+VUN,vun,vun,.,",",4096,Vunjo,True
+TZ,vun-TZ,vun_TZ,.,",",4096,Vunjo (Tanzania),False
+WAE,wae,wae,",",’,4096,Walser,True
+CH,wae-CH,wae_CH,",",’,4096,Walser (Switzerland),False
+WAL,wal,wal,.,",",4096,Wolaytta,True
+ET,wal-ET,wal_ET,.,",",4096,Wolaytta (Ethiopia),False
+WO,wo,wo,",",.,136,Wolof,True
+SN,wo-SN,wo_SN,",",.,1160,Wolof (Senegal),False
+XH,xh,xh,., ,52,isiXhosa,True
+ZA,xh-ZA,xh_ZA,., ,1076,isiXhosa (South Africa),False
+XOG,xog,xog,.,",",4096,Soga,True
+UG,xog-UG,xog_UG,.,",",4096,Soga (Uganda),False
+YAV,yav,yav,",", ,4096,Yangben,True
+CM,yav-CM,yav_CM,",", ,4096,Yangben (Cameroon),False
+YI,yi,yi,.,",",61,Yiddish,True
+,yi-001,yi_001,.,",",1085,Yiddish (World),False
+YO,yo,yo,.,",",106,Yoruba,True
+BJ,yo-BJ,yo_BJ,.,",",4096,Yoruba (Benin),False
+NG,yo-NG,yo_NG,.,",",1130,Yoruba (Nigeria),False
+ZGH,zgh,zgh,",", ,4096,Standard Moroccan Tamazight,True
+MA,zgh-MA,zgh_MA,",", ,4096,Standard Moroccan Tamazight (Morocco),False
+ZH,zh,zh,.,",",30724,Chinese,True
+ZH-HANS,zh-Hans,zh_Hans,.,",",4,Chinese (Simplified),True
+CN,zh-Hans-CN,zh_Hans_CN,.,",",4096,"Chinese (Simplified, China)",False
+HK,zh-Hans-HK,zh_Hans_HK,.,",",4096,"Chinese (Simplified, Hong Kong SAR)",False
+MO,zh-Hans-MO,zh_Hans_MO,.,",",4096,"Chinese (Simplified, Macao SAR)",False
+SG,zh-Hans-SG,zh_Hans_SG,.,",",4096,"Chinese (Simplified, Singapore)",False
+ZH-HANT,zh-Hant,zh_Hant,.,",",31748,Chinese (Traditional),True
+HK,zh-Hant-HK,zh_Hant_HK,.,",",4096,"Chinese (Traditional, Hong Kong SAR)",False
+MO,zh-Hant-MO,zh_Hant_MO,.,",",4096,"Chinese (Traditional, Macao SAR)",False
+TW,zh-Hant-TW,zh_Hant_TW,.,",",4096,"Chinese (Traditional, Taiwan)",False
+ZU,zu,zu,.,",",53,isiZulu,True
+ZA,zu-ZA,zu_ZA,.,",",1077,isiZulu (South Africa),False
