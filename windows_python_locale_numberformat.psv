@@ -1,0 +1,209 @@
+lcid|locale|decimal_point|thousands_sep|two_alpha_code
+1078|af_ZA|,| |ZA
+1052|sq_AL|,| |AL
+1156|gsw_FR|,| |FR
+1118|am_ET|.|,|ET
+1025|ar_SA|.|,|SA
+2049|ar_IQ|.|,|IQ
+3073|ar_EG|.|,|EG
+4097|ar_LY|.|,|LY
+5121|ar_DZ|.|,|DZ
+6145|ar_MA|.|,|MA
+7169|ar_TN|.|,|TN
+8193|ar_OM|.|,|OM
+9217|ar_YE|.|,|YE
+10241|ar_SY|.|,|SY
+11265|ar_JO|.|,|JO
+12289|ar_LB|.|,|LB
+13313|ar_KW|.|,|KW
+14337|ar_AE|.|,|AE
+15361|ar_BH|.|,|BH
+16385|ar_QA|.|,|QA
+1067|hy_AM|.|,|AM
+1101|as_IN|.|,|IN
+1068|az_AZ|,|.|AZ
+2092|az_AZ|,|.|AZ
+1133|ba_RU|,| |RU
+1069|eu_ES|,|.|ES
+1059|be_BY|,| |BY
+1093|bn_IN|.|,|IN
+8218|bs_BA|,|.|BA
+5146|bs_BA|,|.|BA
+1150|br_FR|,| |FR
+1026|bg_BG|,| |BG
+1027|ca_ES|,|.|ES
+4|zh_CHS|||CH
+1028|zh_TW|.|,|TW
+2052|zh_CN|.|,|CN
+3076|zh_HK|.|,|HK
+4100|zh_SG|.|,|SG
+5124|zh_MO|.|,|MO
+31748|zh_CHT|||CH
+1155|co_FR|,| |FR
+1050|hr_HR|,|.|HR
+4122|hr_BA|,|.|BA
+1029|cs_CZ|,| |CZ
+1030|da_DK|,|.|DK
+1164|gbz_AF|.|,|AF
+1125|div_MV|.|,|MV
+1043|nl_NL|,|.|NL
+2067|nl_BE|,|.|BE
+1033|en_US|.|,|US
+2057|en_GB|.|,|GB
+3081|en_AU|.|,|AU
+4105|en_CA|.|,|CA
+5129|en_NZ|.|,|NZ
+6153|en_IE|.|,|IE
+7177|en_ZA|,| |ZA
+8201|en_JA|.|,|JA
+9225|en_CB|.|,|CB
+10249|en_BZ|.|,|BZ
+11273|en_TT|.|,|TT
+12297|en_ZW|.|,|ZW
+13321|en_PH|.|,|PH
+16393|en_IN|.|,|IN
+17417|en_MY|.|,|MY
+18441|en_IN|.|,|IN
+1061|et_EE|,| |EE
+1080|fo_FO|,|.|FO
+1124|fil_PH|.|,|PH
+1035|fi_FI|,| |FI
+1036|fr_FR|,| |FR
+2060|fr_BE|,|.|BE
+3084|fr_CA|,| |CA
+4108|fr_CH|,| |CH
+5132|fr_LU|,|.|LU
+6156|fr_MC|,| |MC
+1122|fy_NL|,|.|NL
+1110|gl_ES|,|.|ES
+1079|ka_GE|,| |GE
+1031|de_DE|,|.|DE
+2055|de_CH|.|’|CH
+3079|de_AT|,| |AT
+4103|de_LU|,|.|LU
+5127|de_LI|.|’|LI
+1032|el_GR|,|.|GR
+1135|kl_GL|,|.|GL
+1095|gu_IN|.|,|IN
+1128|ha_NG|.|,|NG
+1037|he_IL|.|,|IL
+1081|hi_IN|.|,|IN
+1038|hu_HU|,| |HU
+1039|is_IS|,|.|IS
+1057|id_ID|,|.|ID
+1117|iu_CA|.|,|CA
+2141|iu_CA|.|,|CA
+2108|ga_IE|.|,|IE
+1040|it_IT|,|.|IT
+2064|it_CH|.|’|CH
+1041|ja_JP|.|,|JP
+1099|kn_IN|.|,|IN
+1087|kk_KZ|,| |KZ
+1107|kh_KH|.|,|KH
+1158|qut_GT|.|,|GT
+1159|rw_RW|,|.|RW
+1111|kok_IN|.|,|IN
+1042|ko_KR|.|,|KR
+1088|ky_KG|,| |KG
+1108|lo_LA|,|.|LA
+1062|lv_LV|,| |LV
+1063|lt_LT|,| |LT
+2094|dsb_DE|,|.|DE
+1134|lb_LU|,| |LU
+1071|mk_MK|,|.|MK
+1086|ms_MY|.|,|MY
+2110|ms_BN|,|.|BN
+1100|ml_IN|.|,|IN
+1082|mt_MT|.|,|MT
+1153|mi_NZ|.|,|NZ
+1146|arn_CL|,|.|CL
+1102|mr_IN|.|,|IN
+1148|moh_CA|.|,|CA
+1104|mn_MN|.|,|MN
+2128|mn_CN|.|,|CN
+1121|ne_NP|.|,|NP
+1044|nb_NO|,| |NO
+2068|nn_NO|,| |NO
+1154|oc_FR|,| |FR
+1096|or_IN|.|,|IN
+1123|ps_AF|,|.|AF
+1065|fa_IR|/|,|IR
+1045|pl_PL|,| |PL
+1046|pt_BR|,|.|BR
+2070|pt_PT|,| |PT
+1094|pa_IN|.|,|IN
+1131|quz_BO|,|.|BO
+2155|quz_EC|,|.|EC
+3179|quz_PE|.|,|PE
+1048|ro_RO|,|.|RO
+1047|rm_CH|.|’|CH
+1049|ru_RU|,| |RU
+9275|smn_FI|,| |FI
+4155|smj_NO|,| |NO
+5179|smj_SE|,| |SE
+1083|se_NO|,| |NO
+2107|se_SE|,| |SE
+3131|se_FI|,| |FI
+8251|sms_FI|,| |FI
+6203|sma_NO|,| |NO
+7227|sma_SE|,| |SE
+1103|sa_IN|.|,|IN
+3098|sr_SP|,|.|SP
+7194|sr_BA|,|.|BA
+2074|sr_SP|,|.|SP
+6170|sr_BA|,|.|BA
+1115|si_LK|.|,|LK
+1132|ns_ZA|.|,|ZA
+1074|tn_ZA|.| |ZA
+1051|sk_SK|,| |SK
+1060|sl_SI|,|.|SI
+1034|es_ES|,|.|ES
+2058|es_MX|.|,|MX
+3082|es_ES|,|.|ES
+4106|es_GT|.|,|GT
+5130|es_CR|,| |CR
+6154|es_PA|.|,|PA
+7178|es_DO|.|,|DO
+8202|es_VE|,|.|VE
+9226|es_CO|,|.|CO
+10250|es_PE|.|,|PE
+11274|es_AR|,|.|AR
+12298|es_EC|,|.|EC
+13322|es_CL|,|.|CL
+14346|es_UR|,|.|UR
+15370|es_PY|,|.|PY
+16394|es_BO|,|.|BO
+17418|es_SV|.|,|SV
+18442|es_HN|.|,|HN
+19466|es_NI|.|,|NI
+20490|es_PR|.|,|PR
+21514|es_US|.|,|US
+1089|sw_KE|.|,|KE
+1053|sv_SE|,| |SE
+2077|sv_FI|,| |FI
+1114|syr_SY|.|,|SY
+1064|tg_TJ|,| |TJ
+2143|tmz_DZ|.|,|DZ
+1097|ta_IN|.|,|IN
+1092|tt_RU|,| |RU
+1098|te_IN|.|,|IN
+1054|th_TH|.|,|TH
+2129|bo_BT|.|,|BT
+1105|bo_CN|.|,|CN
+1055|tr_TR|,|.|TR
+1090|tk_TM|,| |TM
+1152|ug_CN|.|,|CN
+1058|uk_UA|,| |UA
+1070|wen_DE|.|,|DE
+1056|ur_PK|.|,|PK
+2080|ur_IN|.|,|IN
+1091|uz_UZ|,| |UZ
+2115|uz_UZ|,| |UZ
+1066|vi_VN|,|.|VN
+1106|cy_GB|.|,|GB
+1160|wo_SN|,| |SN
+1076|xh_ZA|.| |ZA
+1157|sah_RU|,| |RU
+1144|ii_CN|.|,|CN
+1130|yo_NG|.|,|NG
+1077|zu_ZA|.|,|ZA
