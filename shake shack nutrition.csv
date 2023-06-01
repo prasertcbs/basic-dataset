@@ -1,0 +1,155 @@
+Category,Menu,Calories,Total Fat,Sat Fat,Trans Fat,Cholesterol,Sodium,Total Carb,Fiber,Sugars,Protein
+Burgers,Single ShackBurger®,500,30,12,1.0,105,1250,26,0,6,29
+Burgers,Double ShackBurger®,760,48,20,2.0,185,2280,27,0,6,51
+Burgers,Single Hamburger,370,18,8,1.0,75,850,24,0,5,25
+Burgers,Double Hamburger,560,30,12,1.5,140,1540,24,0,5,44
+Burgers,Single Cheeseburger,440,24,11,1.0,95,1200,25,0,5,29
+Burgers,Double Cheeseburger,700,42,20,2.0,175,2220,25,0,5,51
+Burgers,‘Shroom Burger,510,27,10,0.5,45,670,49,0,7,18
+Burgers,Shack Stack®,770,45,18,1.5,125,1700,50,0,7,40
+Burgers,Single SmokeShack™,570,35,13,1.0,120,2010,28,0,7,36
+Burgers,Double SmokeShack™,830,53,22,2.0,200,3030,28,0,7,58
+Burgers,Roadside Double Burger,770,46,20,2.0,175,2300,32,0,7,53
+Burgers,Lockhart Link Burger,780,56,21,1.0,155,2050,27,0,5,39
+Burgers,"Lockhart Link Burger, Double",1040,74,29,2.0,235,3080,28,0,5,61
+Burgers,"Lockhart Link Burger, Triple",1300,92,38,2.5,320,4110,29,0,6,83
+Burgers,Link Burger,680,46,18,1.0,140,2010,27,0,6,39
+Burgers,"Link Burger, Double",930,64,26,2.0,220,3040,28,0,6,61
+Burgers,"Link Burger, Triple",1190,82,34,2.5,305,4070,28,0,7,83
+Burgers,"Green Chile CheddarShack, Single",470,26,12,1.0,100,1380,28,1,6,30
+Burgers,"Green Chile CheddarShack, Double",750,46,22,1.5,185,2190,28,1,6,53
+Burgers,Mound City Double,780,48,20,1.5,185,2380,26,0,6,56
+Burgers,"Brat Burger, Single",860,61,20,1.0,140,1850,34,0,6,44
+Burgers,"Brat Burger, Double",1050,73,25,2.0,205,2530,34,0,6,62
+Burgers,Montlake Single Cut,670,45,19,1.0,150,1560,36,0,5,29
+Burgers,Montlake Double Cut,980,68,31,2.0,240,2470,36,0,5,54
+Burgers,Golden State Single,560,37,13,1.0,100,1310,26,0,5,31
+Burgers,Golden State Double,840,56,22,2.0,190,2130,27,0,5,54
+Burgers,"Slap Shot Burger, Single",490,27,10,1.0,80,1150,33,0,6,28
+Burgers,"Slap Shot Burger, Double",680,40,15,1.5,145,1840,33,0,6,47
+Burgers,"Bacon Cheeseburger, single",500,29,13,1.0,110,1480,25,0,5,35
+Burgers,"Bacon Cheeseburger, double",760,47,21,2.0,190,2510,25,0,6,58
+Burgers,Veggie Shack,530,27,7,0.0,20,1250,56,6,10,16
+Burgers,"Veggie Shack, vegan, lettuce wrap",310,18,1.5,0.0,0,900,31,4,6,4
+Burgers,"Veggie Shack, vegan",390,22,1.5,0.0,0,1130,50,6,8,6
+Burgers,"Hot Ones Burger, Single",590,38,14,1.0,120,1400,25,0,5,37
+Burgers,"Hot Ones Burger, Double",860,56,23,1.5,205,2210,25,0,5,61
+Burgers,Grilled Cheese,320,18,10,0.5,45,850,25,0,5,14
+Burgers,Martin's Potato Roll,180,6,3,0.0,10,170,24,0,5,7
+Burgers,Gluten Free Bun,160,3.0,0,0.0,0,350,31,2,5,3
+Burgers,Lettuce Wrap,5,0,0,0.0,0,15,1,1,0,1
+Burgers,Burger Patty,190,12,4.5,0.5,65,690,0,0,0,19
+Burgers,American Cheese,70,6,3.5,0.0,15,340,1,0,0,4
+Burgers,ShackSauce,60,6,1,0.0,10,60,0,0,0,0
+Burgers,Lettuce,1,0,0,0.0,0,0,0,0,0,0
+Burgers,Tomato,5,0,0,0.0,0,0,1,0,0,0
+Burgers,Pickle,1,0,0,0.0,0,140,0,0,0,0
+Burgers,Onion,5,0,0,0.0,0,0,1,0,0,0
+Burgers,Bacon (2 Slices),70,4.5,1.5,0.0,15,290,0,0,0,6
+Burgers,Cherry Peppers,10,0,0,0.0,0,470,2,0,2,0
+Burgers,Crispy Shallots,110,8,1.5,0.0,0,95,7,0,0,1
+Chicken,Chicken Shack™,550,31,7,0.0,110,1170,34,0,6,33
+Chicken,Chicken Bites (6 piece),300,19,3.5,0.0,50,780,15,0,1,17
+Chicken,Chicken Bites (10 piece),510,32,6,0.0,85,1300,26,0,2,29
+Chicken,Hot Ones Chicken,680,41,13,0.0,145,1360,34,0,6,44
+Chicken,Herb Mayonnaise,90,10,0.5,0.0,10,140,0,0,0,0
+Chicken,BBQ Sauce,70,0,0,0.0,0,380,16,0,14,1
+Chicken,Honey Mustard,180,19,2.5,0.0,15,230,4,0,4,1
+Breakfast,Bacon Breakfast Sandwich,400,23,10,0.0,230,890,25,0,5,23
+Breakfast,Bacon Breakfast Sandwich (Double Egg),490,30,12,0.0,410,990,26,0,6,29
+Breakfast,Sausage Breakfast Sandwich,340,19,9,0.0,215,610,25,0,5,17
+Breakfast,Sausage Breakfast Sandwich (Double Egg),430,25,11,0.0,400,700,25,0,5,23
+Breakfast,Egg and Cheese Breakfast Sandwich,530,32,14,0.0,260,1220,28,0,8,30
+Breakfast,Egg and Cheese Breakfast Sandwich (Double Egg),620,39,16,0.0,445,1310,28,0,8,36
+Flat -Top Dogs,Hot Dog,350,22,10,0.0,50,800,25,0,6,16
+Flat -Top Dogs,Sausage Link,240,20,7,0.0,40,682,2,0,0,9
+Flat -Top Dogs,Shackmeister Cheddar Brat,690,51,21,0.5,95,1210,33,0,6,27
+Flat -Top Dogs,Garden Dog,180,3,0,0.0,10,1060,27,1,7,8
+Flat -Top Dogs,Add Cheese Sauce,80,7,5,0.0,30,95,1,0,0,2
+Fries,Regular Fries,470,22,4.5,0.0,15,740,63,7,1,6
+Fries,Cheese Fries,710,44,19,0.0,95,1020,64,7,1,12
+Fries,Bacon Cheese Fries,840,52,21,0.0,125,1570,65,7,1,24
+Fries,Double Down Fries,1910,117,49,1.0,270,4020,164,16,5,41
+Fries,Hot Ones Cheese Fries,890,62,20,0.0,120,1270,70,2,2,13
+Fries,Hot Ones Bacon Cheese Fries,1020,71,23,0.0,145,1830,70,2,2,25
+Shakes,Vanilla Shake,680,36,22,0.0,235,430,72,0,71,18
+Shakes,Chocolate Shake,750,45,27,1.5,255,310,76,0,69,16
+Shakes,Salted Caramel Shake,840,42,26,0.0,260,950,99,0,96,17
+Shakes,Black & White Shake,770,42,26,0.0,245,460,80,0,76,19
+Shakes,Strawberry Shake,690,35,21,0.0,230,430,77,0,75,17
+Shakes,Cookies & Cream Shake,850,44,24,0.0,235,580,98,0,86,19
+Shakes,Bourbon Salted Honey Shake,890,44,27,0.0,260,700,89,0,87,18
+Shakes,Loaded Chocolate Cookies & Cream Shake,1160,56,32,1.5,265,450,126,0,108,17
+Shakes,Apple Cider Donut Shake,970,45,25,0.0,250,580,123,1,99,21
+Shakes,Pumpkin Patch Shake,820,44,26,0.0,250,970,87,3,81,21
+Shakes,Choco Salted Toffee Shake,920,47,28,1.5,260,770,111,4,97,21
+Shakes,Whipped Cream,70,5,3.5,0.0,20,20,5,0,4,1
+Shakes,Malt,90,1,0.5,0.0,5,70,19,0,16,2
+Floats,Root Beer Float,430,15,9,0.0,100,220,70,0,69,7
+Floats,Purple Cow Float,460,15,9,0.0,100,210,79,0,78,7
+Floats,Creamsicle® Float,440,15,9,0.0,100,240,75,0,74,7
+Cups,Single Chocolate Cup,310,19,11,0.5,110,120,32,0,29,6
+Cups,Double Chocolate Cup,490,30,18,1.0,175,190,51,0,47,9
+Cups,Single Vanilla Cup,280,15,9,0.0,100,180,30,0,30,7
+Cups,Double Vanilla Cup,450,24,14,0.0,165,280,49,0,48,11
+Cups,Single Vanilla & Chocolate Cup,290,17,10,0.0,105,150,31,0,29,6
+Cups,Double Vanilla & Chocolate Cup,470,27,16,0.0,170,230,50,0,47,10
+Drinks,Shack-made Lemonade Small,160,0,0,0.0,0,10,43,0,40,0
+Drinks,Shack-made Lemonade Large,270,0,0,0.0,0,15,70,0,66,0
+Drinks,Featured Lemonade Small,150 - 230,0 - 4,0 - 4,0.0,0,5 - 15,39 - 50,0,36 - 47,0 - 1
+Drinks,Featured Lemonade Large,250 - 380,0 - 7,0 - 7,0.0,0,10 - 25,64 - 81,0,59 - 79,0 - 1
+Drinks,Fresh Brewed Iced Tea Small,5,0,0,0.0,0,10,1,0,0,0
+Drinks,Fresh Brewed Iced Tea Large,5,0,0,0.0,0,15,2,0,0,0
+Drinks,Fresh Brewed Sweetened Iced Tea Small,110,0,0,0.0,0,10,28,0,27,0
+Drinks,Fresh Brewed Sweetened Iced Tea Large,170,0,0,0.0,0,15,45,0,44,0
+Drinks,Fifty-Fifty Small,80,0,0,0.0,0,10,22,0,20,0
+Drinks,Fifty-Fifty Large,140,0,0,0.0,0,15,36,0,33,0
+Drinks,Coke Small,140,0,0,0.0,0,45,39,0,39,0
+Drinks,Coke Large,210,0,0,0.0,0,65,58,0,58,0
+Drinks,Diet Coke Small,0,0,0,0.0,0,40,0,0,0,0
+Drinks,Diet Coke Large,0,0,0,0.0,0,60,0,0,0,0
+Drinks,Coke Zero Small,0,0,0,0.0,0,40,0,0,0,0
+Drinks,Coke Zero Large,0,0,0,0.0,0,60,0,0,0,0
+Drinks,Sprite Small,140,0,0,0.0,0,30,36,0,32,0
+Drinks,Sprite Large,240,0,0,0.0,0,55,60,0,53,0
+Drinks,Fanta Orange Small,160,0,0,0.0,0,60,45,0,44,0
+Drinks,Fanta Orange Large,240,0,0,0.0,0,90,67,0,66,0
+Drinks,Fanta Grape Small,180,0,0,0.0,0,35,49,0,49,0
+Drinks,Fanta Grape Large,270,0,0,0.0,0,55,73,0,73,0
+Drinks,Dr. Pepper Small,150,0,0,0.0,0,60,40,0,38,0
+Drinks,Dr. Pepper Large,220,0,0,0.0,0,90,59,0,58,0
+Drinks,Diet Dr. Pepper Small,0,0,0,0.0,0,60,0,0,0,0
+Drinks,Diet Dr. Pepper Large,0,0,0,0.0,0,90,0,0,0,0
+Drinks,Crush Small,160,0,0,0.0,0,70,43,0,43,0
+Drinks,Crush Large,240,0,0,0.0,0,110,65,0,64,0
+Drinks,Diet Pepsi Small,0,0,0,0.0,0,35,0,0,0,0
+Drinks,Diet Pepsi Large,0,0,0,0.0,0,55,0,0,0,0
+Drinks,Mist TWST Small,140,0,0,0.0,0,35,39,0,39,0
+Drinks,Mist TWST Large,220,0,0,0.0,0,50,58,0,58,0
+Drinks,Mountain Dew Small,170,0,0,0.0,0,65,46,0,46,0
+Drinks,Mountain Dew Large,260,0,0,0.0,0,95,69,0,69,0
+Drinks,Diet Mountain Dew Small,5,0,0,0.0,0,50,1,0,1,0
+Drinks,Diet Mountain Dew Large,10,0,0,0.0,0,75,1,0,1,0
+Drinks,Pepsi Small,150,0,0,0.0,0,35,41,0,41,0
+Drinks,Pepsi Large,220,0,0,0.0,0,50,62,0,62,0
+Drinks,PepsiMAX Small,0,0,0,0.0,0,40,0,0,0,0
+Drinks,PepsiMAX Large,0,0,0,0.0,0,60,0,0,0,0
+Drinks,Abita Root Beer Bottle,180,0,0,0.0,0,16,44,0,38,0
+Drinks,Abita Root Beer Small,170,0,0,0.0,0,15,42,0,36,0
+Drinks,Abita Root Beer Large,280,0,0,0.0,0,25,69,0,59,0
+Drinks,Orange Juice,165,0,0,0.0,0,12,41,2,30,3
+Drinks,Honest Kids Apple Juice,40,0,0,0.0,0,0,10,0,9,0
+Drinks,SHACK2O,0,0,0,0.0,0,0,0,0,0,0
+Beer & Wines,Brooklyn Brewery ShackMeister Ale (16oz. Draft),210,0,0,0.0,0,0,17,0,0,2
+Beer & Wines,Brooklyn Brewery ShackMeister Ale (24oz. Draft),310,0,0,0.0,0,0,25,0,0,4
+Beer & Wines,Brooklyn Brewery ShackMeister Ale (32oz. Draft),420,0,0,0.0,0,0,33,0,0,5
+Beer & Wines,Brooklyn Brewery ShackMeister Ale (60oz. Draft),780,0,0,0.0,0,0,62,0,0,9
+Beer & Wines,Beer Float,490,15,9,0.0,100,190,52,0,30,8
+Beer & Wines,Shack White (6 oz),140,0,0,0.0,0,0,4,0,0,0
+Beer & Wines,Shack White Bottle (750 ml),600,0,0,0.0,0,0,15,0,0,1
+Beer & Wines,Shack Red (6 oz),150,0,0,0.0,0,0,5,0,0,0
+Beer & Wines,Shack Red Bottle (750 ml),620,0,0,0.0,0,0,19,0,0,1
+Beer & Wines,Shack Red Can (8.4 oz),210,0,0,0.0,0,10,6,0,0,0
+Beer & Wines,Shack White Can (8.4 oz),200,0,0,0.0,0,10,5,0,0,0
+Beer & Wines,Shack Rosé Can (8.4 oz),210,0,0,0.0,0,10,9,0,0,1
+Beer & Wines,Shack Sparkling Can (8.4 oz),200,0,0,0.0,0,15,6,0,0,0
